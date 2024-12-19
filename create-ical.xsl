@@ -25,6 +25,7 @@
     <xsl:variable name="days" select="doc('Index of liturgical days - missal.xml')/data"/>
     <xsl:variable name="i18n_of" select="doc('Catholic Liturgical Days - ordinary form - easterbrooks - all fxd.xml')/data"/>
     <xsl:variable name="i18n_eo" select="doc('Catholic Liturgical Days - extraordinary form - values.xml')/data"/>
+    <xsl:variable name="dtstamp" select="format-dateTime(current-dateTime(), '[Y0001][M01][D01]T[H01][m01][s01]Z')"/>
 
     <xsl:template match="calendar">
         <xsl:text>BEGIN:VCALENDAR&#xd;&#xa;</xsl:text>
@@ -63,6 +64,9 @@
             <xsl:if test="($weekdays='no' and not($weekday)) or ($weekdays='yes' and $weekday)">
                 <xsl:message>Add day to calendar</xsl:message>
                 <xsl:text>BEGIN:VEVENT&#xd;&#xa;</xsl:text>
+                <xsl:text>DTSTAMP:</xsl:text>
+                <xsl:value-of select="$dtstamp"/>
+                <xsl:text>&#xd;&#xa;</xsl:text>
                 <xsl:text>DTSTART;VALUE=DATE:</xsl:text>
                 <xsl:value-of select="replace(date,'-','')"/>
                 <xsl:text>&#xd;&#xa;</xsl:text>
