@@ -1,0 +1,4201 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+NAME:Liturgical Calendar for Sundays and feasts (novus ordo)
+X-WR-CALNAME:Liturgical Calendar for Sundays and feasts (novus ordo)
+REFRESH-INTERVAL;VALUE=DURATION:PT7D
+X-PUBLISHED-TTL:PT7D
+PRODID:-//www.missale.net//Liturgical Calendar for Sundays and feasts (novus ordo)//EN
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191201
+SUMMARY:First sunday of Advent
+DESCRIPTION:First sunday of Advent\nhttps://www.missale.net/of/2019-12-01/en
+UID:https://www.missale.net/of/2019-12-01/en
+URL:https://www.missale.net/of/2019-12-01/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191208
+SUMMARY:Second Sunday of Advent
+DESCRIPTION:Second Sunday of Advent\nhttps://www.missale.net/of/2019-12-08/en
+UID:https://www.missale.net/of/2019-12-08/en
+URL:https://www.missale.net/of/2019-12-08/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191215
+SUMMARY:Third Sunday of Advent
+DESCRIPTION:Third Sunday of Advent\nhttps://www.missale.net/of/2019-12-15/en
+UID:https://www.missale.net/of/2019-12-15/en
+URL:https://www.missale.net/of/2019-12-15/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191222
+SUMMARY:Fourth Sunday of Advent
+DESCRIPTION:Fourth Sunday of Advent\nhttps://www.missale.net/of/2019-12-22/en
+UID:https://www.missale.net/of/2019-12-22/en
+URL:https://www.missale.net/of/2019-12-22/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191229
+SUMMARY:The Holy Family
+DESCRIPTION:The Holy Family\nhttps://www.missale.net/of/2019-12-29/en
+UID:https://www.missale.net/of/2019-12-29/en
+URL:https://www.missale.net/of/2019-12-29/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200112
+SUMMARY:Baptism of the Lord
+DESCRIPTION:Baptism of the Lord\nhttps://www.missale.net/of/2020-01-12/en
+UID:https://www.missale.net/of/2020-01-12/en
+URL:https://www.missale.net/of/2020-01-12/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200119
+SUMMARY:Second Sunday in Ordinary Time
+DESCRIPTION:Second Sunday in Ordinary Time\nhttps://www.missale.net/of/2020-01-19/en
+UID:https://www.missale.net/of/2020-01-19/en
+URL:https://www.missale.net/of/2020-01-19/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200126
+SUMMARY:Third Sunday in Ordinary Time
+DESCRIPTION:Third Sunday in Ordinary Time\nhttps://www.missale.net/of/2020-01-26/en
+UID:https://www.missale.net/of/2020-01-26/en
+URL:https://www.missale.net/of/2020-01-26/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200202
+SUMMARY:Fourth Sunday in Ordinary Time
+DESCRIPTION:Fourth Sunday in Ordinary Time\nhttps://www.missale.net/of/2020-02-02/en
+UID:https://www.missale.net/of/2020-02-02/en
+URL:https://www.missale.net/of/2020-02-02/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200209
+SUMMARY:Fifth Sunday in Ordinary Time
+DESCRIPTION:Fifth Sunday in Ordinary Time\nhttps://www.missale.net/of/2020-02-09/en
+UID:https://www.missale.net/of/2020-02-09/en
+URL:https://www.missale.net/of/2020-02-09/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200216
+SUMMARY:Sixth Sunday in Ordinary Time
+DESCRIPTION:Sixth Sunday in Ordinary Time\nhttps://www.missale.net/of/2020-02-16/en
+UID:https://www.missale.net/of/2020-02-16/en
+URL:https://www.missale.net/of/2020-02-16/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200223
+SUMMARY:Seventh Sunday in Ordinary Time
+DESCRIPTION:Seventh Sunday in Ordinary Time\nhttps://www.missale.net/of/2020-02-23/en
+UID:https://www.missale.net/of/2020-02-23/en
+URL:https://www.missale.net/of/2020-02-23/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200301
+SUMMARY:First Sunday of Lent
+DESCRIPTION:First Sunday of Lent\nhttps://www.missale.net/of/2020-03-01/en
+UID:https://www.missale.net/of/2020-03-01/en
+URL:https://www.missale.net/of/2020-03-01/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200308
+SUMMARY:Second Sunday of Lent
+DESCRIPTION:Second Sunday of Lent\nhttps://www.missale.net/of/2020-03-08/en
+UID:https://www.missale.net/of/2020-03-08/en
+URL:https://www.missale.net/of/2020-03-08/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200315
+SUMMARY:Third Sunday of Lent
+DESCRIPTION:Third Sunday of Lent\nhttps://www.missale.net/of/2020-03-15/en
+UID:https://www.missale.net/of/2020-03-15/en
+URL:https://www.missale.net/of/2020-03-15/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200322
+SUMMARY:Fourth Sunday of Lent
+DESCRIPTION:Fourth Sunday of Lent\nhttps://www.missale.net/of/2020-03-22/en
+UID:https://www.missale.net/of/2020-03-22/en
+URL:https://www.missale.net/of/2020-03-22/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200329
+SUMMARY:Fifth Sunday of Lent
+DESCRIPTION:Fifth Sunday of Lent\nhttps://www.missale.net/of/2020-03-29/en
+UID:https://www.missale.net/of/2020-03-29/en
+URL:https://www.missale.net/of/2020-03-29/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200405
+SUMMARY:Palm Sunday
+DESCRIPTION:Palm Sunday\nhttps://www.missale.net/of/2020-04-05/en
+UID:https://www.missale.net/of/2020-04-05/en
+URL:https://www.missale.net/of/2020-04-05/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200411
+SUMMARY:Easter Vigil
+DESCRIPTION:Easter Vigil\nhttps://www.missale.net/of/2020-04-11/en
+UID:https://www.missale.net/of/2020-04-11/en
+URL:https://www.missale.net/of/2020-04-11/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200412
+SUMMARY:Easter Sunday
+DESCRIPTION:Easter Sunday\nhttps://www.missale.net/of/2020-04-12/en
+UID:https://www.missale.net/of/2020-04-12/en
+URL:https://www.missale.net/of/2020-04-12/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200419
+SUMMARY:Second Sunday of Easter
+DESCRIPTION:Second Sunday of Easter\nhttps://www.missale.net/of/2020-04-19/en
+UID:https://www.missale.net/of/2020-04-19/en
+URL:https://www.missale.net/of/2020-04-19/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200426
+SUMMARY:Third Sunday of Easter
+DESCRIPTION:Third Sunday of Easter\nhttps://www.missale.net/of/2020-04-26/en
+UID:https://www.missale.net/of/2020-04-26/en
+URL:https://www.missale.net/of/2020-04-26/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200503
+SUMMARY:Fourth Sunday of Easter
+DESCRIPTION:Fourth Sunday of Easter\nhttps://www.missale.net/of/2020-05-03/en
+UID:https://www.missale.net/of/2020-05-03/en
+URL:https://www.missale.net/of/2020-05-03/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200510
+SUMMARY:Fifth Sunday of Easter
+DESCRIPTION:Fifth Sunday of Easter\nhttps://www.missale.net/of/2020-05-10/en
+UID:https://www.missale.net/of/2020-05-10/en
+URL:https://www.missale.net/of/2020-05-10/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200517
+SUMMARY:Sixth Sunday of Easter
+DESCRIPTION:Sixth Sunday of Easter\nhttps://www.missale.net/of/2020-05-17/en
+UID:https://www.missale.net/of/2020-05-17/en
+URL:https://www.missale.net/of/2020-05-17/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200521
+SUMMARY:Ascension of the Lord
+DESCRIPTION:Ascension of the Lord\nhttps://www.missale.net/of/2020-05-21/en
+UID:https://www.missale.net/of/2020-05-21/en
+URL:https://www.missale.net/of/2020-05-21/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200524
+SUMMARY:Seventh Sunday of Easter
+DESCRIPTION:Seventh Sunday of Easter\nhttps://www.missale.net/of/2020-05-24/en
+UID:https://www.missale.net/of/2020-05-24/en
+URL:https://www.missale.net/of/2020-05-24/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200607
+SUMMARY:The Holy Trinity
+DESCRIPTION:The Holy Trinity\nhttps://www.missale.net/of/2020-06-07/en
+UID:https://www.missale.net/of/2020-06-07/en
+URL:https://www.missale.net/of/2020-06-07/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200611
+SUMMARY:Corpus Christi
+DESCRIPTION:Corpus Christi\nhttps://www.missale.net/of/2020-06-11/en
+UID:https://www.missale.net/of/2020-06-11/en
+URL:https://www.missale.net/of/2020-06-11/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200614
+SUMMARY:Eleventh Sunday in Ordinary Time
+DESCRIPTION:Eleventh Sunday in Ordinary Time\nhttps://www.missale.net/of/2020-06-14/en
+UID:https://www.missale.net/of/2020-06-14/en
+URL:https://www.missale.net/of/2020-06-14/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200619
+SUMMARY:Sacred Heart of Jesus
+DESCRIPTION:Sacred Heart of Jesus\nhttps://www.missale.net/of/2020-06-19/en
+UID:https://www.missale.net/of/2020-06-19/en
+URL:https://www.missale.net/of/2020-06-19/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200621
+SUMMARY:Twelfth Sunday in Ordinary Time
+DESCRIPTION:Twelfth Sunday in Ordinary Time\nhttps://www.missale.net/of/2020-06-21/en
+UID:https://www.missale.net/of/2020-06-21/en
+URL:https://www.missale.net/of/2020-06-21/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200628
+SUMMARY:Thirteenth Sunday in Ordinary Time
+DESCRIPTION:Thirteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2020-06-28/en
+UID:https://www.missale.net/of/2020-06-28/en
+URL:https://www.missale.net/of/2020-06-28/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200705
+SUMMARY:Fourteenth Sunday in Ordinary Time
+DESCRIPTION:Fourteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2020-07-05/en
+UID:https://www.missale.net/of/2020-07-05/en
+URL:https://www.missale.net/of/2020-07-05/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200712
+SUMMARY:Fifteenth Sunday in Ordinary Time
+DESCRIPTION:Fifteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2020-07-12/en
+UID:https://www.missale.net/of/2020-07-12/en
+URL:https://www.missale.net/of/2020-07-12/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200719
+SUMMARY:Sixteenth Sunday in Ordinary Time
+DESCRIPTION:Sixteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2020-07-19/en
+UID:https://www.missale.net/of/2020-07-19/en
+URL:https://www.missale.net/of/2020-07-19/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200726
+SUMMARY:Seventeenth Sunday in Ordinary Time
+DESCRIPTION:Seventeenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2020-07-26/en
+UID:https://www.missale.net/of/2020-07-26/en
+URL:https://www.missale.net/of/2020-07-26/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200802
+SUMMARY:Eighteenth Sunday in Ordinary Time
+DESCRIPTION:Eighteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2020-08-02/en
+UID:https://www.missale.net/of/2020-08-02/en
+URL:https://www.missale.net/of/2020-08-02/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200806
+SUMMARY:Transfiguration of the Lord
+DESCRIPTION:Transfiguration of the Lord\nhttps://www.missale.net/of/2020-08-06/en
+UID:https://www.missale.net/of/2020-08-06/en
+URL:https://www.missale.net/of/2020-08-06/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200809
+SUMMARY:Nineteenth Sunday in Ordinary Time
+DESCRIPTION:Nineteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2020-08-09/en
+UID:https://www.missale.net/of/2020-08-09/en
+URL:https://www.missale.net/of/2020-08-09/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200816
+SUMMARY:Twentieth Sunday in Ordinary Time
+DESCRIPTION:Twentieth Sunday in Ordinary Time\nhttps://www.missale.net/of/2020-08-16/en
+UID:https://www.missale.net/of/2020-08-16/en
+URL:https://www.missale.net/of/2020-08-16/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200823
+SUMMARY:Twenty-first Sunday in Ordinary Time
+DESCRIPTION:Twenty-first Sunday in Ordinary Time\nhttps://www.missale.net/of/2020-08-23/en
+UID:https://www.missale.net/of/2020-08-23/en
+URL:https://www.missale.net/of/2020-08-23/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200830
+SUMMARY:Twenty-second Sunday in Ordinary Time
+DESCRIPTION:Twenty-second Sunday in Ordinary Time\nhttps://www.missale.net/of/2020-08-30/en
+UID:https://www.missale.net/of/2020-08-30/en
+URL:https://www.missale.net/of/2020-08-30/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200906
+SUMMARY:Twenty-third Sunday in Ordinary Time
+DESCRIPTION:Twenty-third Sunday in Ordinary Time\nhttps://www.missale.net/of/2020-09-06/en
+UID:https://www.missale.net/of/2020-09-06/en
+URL:https://www.missale.net/of/2020-09-06/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200913
+SUMMARY:Twenty-fourth Sunday in Ordinary Time
+DESCRIPTION:Twenty-fourth Sunday in Ordinary Time\nhttps://www.missale.net/of/2020-09-13/en
+UID:https://www.missale.net/of/2020-09-13/en
+URL:https://www.missale.net/of/2020-09-13/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200920
+SUMMARY:Twenty-fifth Sunday in Ordinary Time
+DESCRIPTION:Twenty-fifth Sunday in Ordinary Time\nhttps://www.missale.net/of/2020-09-20/en
+UID:https://www.missale.net/of/2020-09-20/en
+URL:https://www.missale.net/of/2020-09-20/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200927
+SUMMARY:Twenty-sixth Sunday in Ordinary Time
+DESCRIPTION:Twenty-sixth Sunday in Ordinary Time\nhttps://www.missale.net/of/2020-09-27/en
+UID:https://www.missale.net/of/2020-09-27/en
+URL:https://www.missale.net/of/2020-09-27/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201004
+SUMMARY:Twenty-seventh Sunday in Ordinary Time
+DESCRIPTION:Twenty-seventh Sunday in Ordinary Time\nhttps://www.missale.net/of/2020-10-04/en
+UID:https://www.missale.net/of/2020-10-04/en
+URL:https://www.missale.net/of/2020-10-04/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201011
+SUMMARY:Twenty-eighth Sunday in Ordinary Time
+DESCRIPTION:Twenty-eighth Sunday in Ordinary Time\nhttps://www.missale.net/of/2020-10-11/en
+UID:https://www.missale.net/of/2020-10-11/en
+URL:https://www.missale.net/of/2020-10-11/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201018
+SUMMARY:Twenty-ninth Sunday in Ordinary Time
+DESCRIPTION:Twenty-ninth Sunday in Ordinary Time\nhttps://www.missale.net/of/2020-10-18/en
+UID:https://www.missale.net/of/2020-10-18/en
+URL:https://www.missale.net/of/2020-10-18/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201025
+SUMMARY:Thirtieth Sunday in Ordinary Time
+DESCRIPTION:Thirtieth Sunday in Ordinary Time\nhttps://www.missale.net/of/2020-10-25/en
+UID:https://www.missale.net/of/2020-10-25/en
+URL:https://www.missale.net/of/2020-10-25/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201108
+SUMMARY:Thirty-second Sunday in Ordinary Time
+DESCRIPTION:Thirty-second Sunday in Ordinary Time\nhttps://www.missale.net/of/2020-11-08/en
+UID:https://www.missale.net/of/2020-11-08/en
+URL:https://www.missale.net/of/2020-11-08/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201115
+SUMMARY:Thirty-third Sunday in Ordinary Time
+DESCRIPTION:Thirty-third Sunday in Ordinary Time\nhttps://www.missale.net/of/2020-11-15/en
+UID:https://www.missale.net/of/2020-11-15/en
+URL:https://www.missale.net/of/2020-11-15/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201122
+SUMMARY:Christ the King
+DESCRIPTION:Christ the King\nhttps://www.missale.net/of/2020-11-22/en
+UID:https://www.missale.net/of/2020-11-22/en
+URL:https://www.missale.net/of/2020-11-22/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201129
+SUMMARY:First sunday of Advent
+DESCRIPTION:First sunday of Advent\nhttps://www.missale.net/of/2020-11-29/en
+UID:https://www.missale.net/of/2020-11-29/en
+URL:https://www.missale.net/of/2020-11-29/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201206
+SUMMARY:Second Sunday of Advent
+DESCRIPTION:Second Sunday of Advent\nhttps://www.missale.net/of/2020-12-06/en
+UID:https://www.missale.net/of/2020-12-06/en
+URL:https://www.missale.net/of/2020-12-06/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201213
+SUMMARY:Third Sunday of Advent
+DESCRIPTION:Third Sunday of Advent\nhttps://www.missale.net/of/2020-12-13/en
+UID:https://www.missale.net/of/2020-12-13/en
+URL:https://www.missale.net/of/2020-12-13/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201220
+SUMMARY:Fourth Sunday of Advent
+DESCRIPTION:Fourth Sunday of Advent\nhttps://www.missale.net/of/2020-12-20/en
+UID:https://www.missale.net/of/2020-12-20/en
+URL:https://www.missale.net/of/2020-12-20/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201227
+SUMMARY:The Holy Family
+DESCRIPTION:The Holy Family\nhttps://www.missale.net/of/2020-12-27/en
+UID:https://www.missale.net/of/2020-12-27/en
+URL:https://www.missale.net/of/2020-12-27/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210110
+SUMMARY:Baptism of the Lord
+DESCRIPTION:Baptism of the Lord\nhttps://www.missale.net/of/2021-01-10/en
+UID:https://www.missale.net/of/2021-01-10/en
+URL:https://www.missale.net/of/2021-01-10/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210117
+SUMMARY:Second Sunday in Ordinary Time
+DESCRIPTION:Second Sunday in Ordinary Time\nhttps://www.missale.net/of/2021-01-17/en
+UID:https://www.missale.net/of/2021-01-17/en
+URL:https://www.missale.net/of/2021-01-17/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210124
+SUMMARY:Third Sunday in Ordinary Time
+DESCRIPTION:Third Sunday in Ordinary Time\nhttps://www.missale.net/of/2021-01-24/en
+UID:https://www.missale.net/of/2021-01-24/en
+URL:https://www.missale.net/of/2021-01-24/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210131
+SUMMARY:Fourth Sunday in Ordinary Time
+DESCRIPTION:Fourth Sunday in Ordinary Time\nhttps://www.missale.net/of/2021-01-31/en
+UID:https://www.missale.net/of/2021-01-31/en
+URL:https://www.missale.net/of/2021-01-31/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210207
+SUMMARY:Fifth Sunday in Ordinary Time
+DESCRIPTION:Fifth Sunday in Ordinary Time\nhttps://www.missale.net/of/2021-02-07/en
+UID:https://www.missale.net/of/2021-02-07/en
+URL:https://www.missale.net/of/2021-02-07/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210214
+SUMMARY:Sixth Sunday in Ordinary Time
+DESCRIPTION:Sixth Sunday in Ordinary Time\nhttps://www.missale.net/of/2021-02-14/en
+UID:https://www.missale.net/of/2021-02-14/en
+URL:https://www.missale.net/of/2021-02-14/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210221
+SUMMARY:First Sunday of Lent
+DESCRIPTION:First Sunday of Lent\nhttps://www.missale.net/of/2021-02-21/en
+UID:https://www.missale.net/of/2021-02-21/en
+URL:https://www.missale.net/of/2021-02-21/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210228
+SUMMARY:Second Sunday of Lent
+DESCRIPTION:Second Sunday of Lent\nhttps://www.missale.net/of/2021-02-28/en
+UID:https://www.missale.net/of/2021-02-28/en
+URL:https://www.missale.net/of/2021-02-28/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210307
+SUMMARY:Third Sunday of Lent
+DESCRIPTION:Third Sunday of Lent\nhttps://www.missale.net/of/2021-03-07/en
+UID:https://www.missale.net/of/2021-03-07/en
+URL:https://www.missale.net/of/2021-03-07/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210314
+SUMMARY:Fourth Sunday of Lent
+DESCRIPTION:Fourth Sunday of Lent\nhttps://www.missale.net/of/2021-03-14/en
+UID:https://www.missale.net/of/2021-03-14/en
+URL:https://www.missale.net/of/2021-03-14/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210321
+SUMMARY:Fifth Sunday of Lent
+DESCRIPTION:Fifth Sunday of Lent\nhttps://www.missale.net/of/2021-03-21/en
+UID:https://www.missale.net/of/2021-03-21/en
+URL:https://www.missale.net/of/2021-03-21/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210328
+SUMMARY:Palm Sunday
+DESCRIPTION:Palm Sunday\nhttps://www.missale.net/of/2021-03-28/en
+UID:https://www.missale.net/of/2021-03-28/en
+URL:https://www.missale.net/of/2021-03-28/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210403
+SUMMARY:Easter Vigil
+DESCRIPTION:Easter Vigil\nhttps://www.missale.net/of/2021-04-03/en
+UID:https://www.missale.net/of/2021-04-03/en
+URL:https://www.missale.net/of/2021-04-03/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210404
+SUMMARY:Easter Sunday
+DESCRIPTION:Easter Sunday\nhttps://www.missale.net/of/2021-04-04/en
+UID:https://www.missale.net/of/2021-04-04/en
+URL:https://www.missale.net/of/2021-04-04/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210411
+SUMMARY:Second Sunday of Easter
+DESCRIPTION:Second Sunday of Easter\nhttps://www.missale.net/of/2021-04-11/en
+UID:https://www.missale.net/of/2021-04-11/en
+URL:https://www.missale.net/of/2021-04-11/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210418
+SUMMARY:Third Sunday of Easter
+DESCRIPTION:Third Sunday of Easter\nhttps://www.missale.net/of/2021-04-18/en
+UID:https://www.missale.net/of/2021-04-18/en
+URL:https://www.missale.net/of/2021-04-18/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210425
+SUMMARY:Fourth Sunday of Easter
+DESCRIPTION:Fourth Sunday of Easter\nhttps://www.missale.net/of/2021-04-25/en
+UID:https://www.missale.net/of/2021-04-25/en
+URL:https://www.missale.net/of/2021-04-25/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210502
+SUMMARY:Fifth Sunday of Easter
+DESCRIPTION:Fifth Sunday of Easter\nhttps://www.missale.net/of/2021-05-02/en
+UID:https://www.missale.net/of/2021-05-02/en
+URL:https://www.missale.net/of/2021-05-02/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210509
+SUMMARY:Sixth Sunday of Easter
+DESCRIPTION:Sixth Sunday of Easter\nhttps://www.missale.net/of/2021-05-09/en
+UID:https://www.missale.net/of/2021-05-09/en
+URL:https://www.missale.net/of/2021-05-09/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210513
+SUMMARY:Ascension of the Lord
+DESCRIPTION:Ascension of the Lord\nhttps://www.missale.net/of/2021-05-13/en
+UID:https://www.missale.net/of/2021-05-13/en
+URL:https://www.missale.net/of/2021-05-13/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210516
+SUMMARY:Seventh Sunday of Easter
+DESCRIPTION:Seventh Sunday of Easter\nhttps://www.missale.net/of/2021-05-16/en
+UID:https://www.missale.net/of/2021-05-16/en
+URL:https://www.missale.net/of/2021-05-16/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210530
+SUMMARY:The Holy Trinity
+DESCRIPTION:The Holy Trinity\nhttps://www.missale.net/of/2021-05-30/en
+UID:https://www.missale.net/of/2021-05-30/en
+URL:https://www.missale.net/of/2021-05-30/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210603
+SUMMARY:Corpus Christi
+DESCRIPTION:Corpus Christi\nhttps://www.missale.net/of/2021-06-03/en
+UID:https://www.missale.net/of/2021-06-03/en
+URL:https://www.missale.net/of/2021-06-03/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210606
+SUMMARY:Tenth Sunday in Ordinary Time
+DESCRIPTION:Tenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2021-06-06/en
+UID:https://www.missale.net/of/2021-06-06/en
+URL:https://www.missale.net/of/2021-06-06/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210611
+SUMMARY:Sacred Heart of Jesus
+DESCRIPTION:Sacred Heart of Jesus\nhttps://www.missale.net/of/2021-06-11/en
+UID:https://www.missale.net/of/2021-06-11/en
+URL:https://www.missale.net/of/2021-06-11/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210613
+SUMMARY:Eleventh Sunday in Ordinary Time
+DESCRIPTION:Eleventh Sunday in Ordinary Time\nhttps://www.missale.net/of/2021-06-13/en
+UID:https://www.missale.net/of/2021-06-13/en
+URL:https://www.missale.net/of/2021-06-13/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210620
+SUMMARY:Twelfth Sunday in Ordinary Time
+DESCRIPTION:Twelfth Sunday in Ordinary Time\nhttps://www.missale.net/of/2021-06-20/en
+UID:https://www.missale.net/of/2021-06-20/en
+URL:https://www.missale.net/of/2021-06-20/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210627
+SUMMARY:Thirteenth Sunday in Ordinary Time
+DESCRIPTION:Thirteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2021-06-27/en
+UID:https://www.missale.net/of/2021-06-27/en
+URL:https://www.missale.net/of/2021-06-27/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210704
+SUMMARY:Fourteenth Sunday in Ordinary Time
+DESCRIPTION:Fourteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2021-07-04/en
+UID:https://www.missale.net/of/2021-07-04/en
+URL:https://www.missale.net/of/2021-07-04/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210711
+SUMMARY:Fifteenth Sunday in Ordinary Time
+DESCRIPTION:Fifteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2021-07-11/en
+UID:https://www.missale.net/of/2021-07-11/en
+URL:https://www.missale.net/of/2021-07-11/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210718
+SUMMARY:Sixteenth Sunday in Ordinary Time
+DESCRIPTION:Sixteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2021-07-18/en
+UID:https://www.missale.net/of/2021-07-18/en
+URL:https://www.missale.net/of/2021-07-18/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210725
+SUMMARY:Seventeenth Sunday in Ordinary Time
+DESCRIPTION:Seventeenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2021-07-25/en
+UID:https://www.missale.net/of/2021-07-25/en
+URL:https://www.missale.net/of/2021-07-25/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210801
+SUMMARY:Eighteenth Sunday in Ordinary Time
+DESCRIPTION:Eighteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2021-08-01/en
+UID:https://www.missale.net/of/2021-08-01/en
+URL:https://www.missale.net/of/2021-08-01/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210806
+SUMMARY:Transfiguration of the Lord
+DESCRIPTION:Transfiguration of the Lord\nhttps://www.missale.net/of/2021-08-06/en
+UID:https://www.missale.net/of/2021-08-06/en
+URL:https://www.missale.net/of/2021-08-06/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210808
+SUMMARY:Nineteenth Sunday in Ordinary Time
+DESCRIPTION:Nineteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2021-08-08/en
+UID:https://www.missale.net/of/2021-08-08/en
+URL:https://www.missale.net/of/2021-08-08/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210822
+SUMMARY:Twenty-first Sunday in Ordinary Time
+DESCRIPTION:Twenty-first Sunday in Ordinary Time\nhttps://www.missale.net/of/2021-08-22/en
+UID:https://www.missale.net/of/2021-08-22/en
+URL:https://www.missale.net/of/2021-08-22/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210829
+SUMMARY:Twenty-second Sunday in Ordinary Time
+DESCRIPTION:Twenty-second Sunday in Ordinary Time\nhttps://www.missale.net/of/2021-08-29/en
+UID:https://www.missale.net/of/2021-08-29/en
+URL:https://www.missale.net/of/2021-08-29/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210905
+SUMMARY:Twenty-third Sunday in Ordinary Time
+DESCRIPTION:Twenty-third Sunday in Ordinary Time\nhttps://www.missale.net/of/2021-09-05/en
+UID:https://www.missale.net/of/2021-09-05/en
+URL:https://www.missale.net/of/2021-09-05/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210912
+SUMMARY:Twenty-fourth Sunday in Ordinary Time
+DESCRIPTION:Twenty-fourth Sunday in Ordinary Time\nhttps://www.missale.net/of/2021-09-12/en
+UID:https://www.missale.net/of/2021-09-12/en
+URL:https://www.missale.net/of/2021-09-12/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210919
+SUMMARY:Twenty-fifth Sunday in Ordinary Time
+DESCRIPTION:Twenty-fifth Sunday in Ordinary Time\nhttps://www.missale.net/of/2021-09-19/en
+UID:https://www.missale.net/of/2021-09-19/en
+URL:https://www.missale.net/of/2021-09-19/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210926
+SUMMARY:Twenty-sixth Sunday in Ordinary Time
+DESCRIPTION:Twenty-sixth Sunday in Ordinary Time\nhttps://www.missale.net/of/2021-09-26/en
+UID:https://www.missale.net/of/2021-09-26/en
+URL:https://www.missale.net/of/2021-09-26/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211003
+SUMMARY:Twenty-seventh Sunday in Ordinary Time
+DESCRIPTION:Twenty-seventh Sunday in Ordinary Time\nhttps://www.missale.net/of/2021-10-03/en
+UID:https://www.missale.net/of/2021-10-03/en
+URL:https://www.missale.net/of/2021-10-03/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211010
+SUMMARY:Twenty-eighth Sunday in Ordinary Time
+DESCRIPTION:Twenty-eighth Sunday in Ordinary Time\nhttps://www.missale.net/of/2021-10-10/en
+UID:https://www.missale.net/of/2021-10-10/en
+URL:https://www.missale.net/of/2021-10-10/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211017
+SUMMARY:Twenty-ninth Sunday in Ordinary Time
+DESCRIPTION:Twenty-ninth Sunday in Ordinary Time\nhttps://www.missale.net/of/2021-10-17/en
+UID:https://www.missale.net/of/2021-10-17/en
+URL:https://www.missale.net/of/2021-10-17/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211024
+SUMMARY:Thirtieth Sunday in Ordinary Time
+DESCRIPTION:Thirtieth Sunday in Ordinary Time\nhttps://www.missale.net/of/2021-10-24/en
+UID:https://www.missale.net/of/2021-10-24/en
+URL:https://www.missale.net/of/2021-10-24/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211031
+SUMMARY:Thirty-first Sunday in Ordinary Time
+DESCRIPTION:Thirty-first Sunday in Ordinary Time\nhttps://www.missale.net/of/2021-10-31/en
+UID:https://www.missale.net/of/2021-10-31/en
+URL:https://www.missale.net/of/2021-10-31/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211107
+SUMMARY:Thirty-second Sunday in Ordinary Time
+DESCRIPTION:Thirty-second Sunday in Ordinary Time\nhttps://www.missale.net/of/2021-11-07/en
+UID:https://www.missale.net/of/2021-11-07/en
+URL:https://www.missale.net/of/2021-11-07/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211114
+SUMMARY:Thirty-third Sunday in Ordinary Time
+DESCRIPTION:Thirty-third Sunday in Ordinary Time\nhttps://www.missale.net/of/2021-11-14/en
+UID:https://www.missale.net/of/2021-11-14/en
+URL:https://www.missale.net/of/2021-11-14/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211121
+SUMMARY:Christ the King
+DESCRIPTION:Christ the King\nhttps://www.missale.net/of/2021-11-21/en
+UID:https://www.missale.net/of/2021-11-21/en
+URL:https://www.missale.net/of/2021-11-21/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211128
+SUMMARY:First sunday of Advent
+DESCRIPTION:First sunday of Advent\nhttps://www.missale.net/of/2021-11-28/en
+UID:https://www.missale.net/of/2021-11-28/en
+URL:https://www.missale.net/of/2021-11-28/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211205
+SUMMARY:Second Sunday of Advent
+DESCRIPTION:Second Sunday of Advent\nhttps://www.missale.net/of/2021-12-05/en
+UID:https://www.missale.net/of/2021-12-05/en
+URL:https://www.missale.net/of/2021-12-05/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211212
+SUMMARY:Third Sunday of Advent
+DESCRIPTION:Third Sunday of Advent\nhttps://www.missale.net/of/2021-12-12/en
+UID:https://www.missale.net/of/2021-12-12/en
+URL:https://www.missale.net/of/2021-12-12/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211219
+SUMMARY:Fourth Sunday of Advent
+DESCRIPTION:Fourth Sunday of Advent\nhttps://www.missale.net/of/2021-12-19/en
+UID:https://www.missale.net/of/2021-12-19/en
+URL:https://www.missale.net/of/2021-12-19/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211226
+SUMMARY:The Holy Family
+DESCRIPTION:The Holy Family\nhttps://www.missale.net/of/2021-12-26/en
+UID:https://www.missale.net/of/2021-12-26/en
+URL:https://www.missale.net/of/2021-12-26/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220110
+SUMMARY:Baptism of the Lord
+DESCRIPTION:Baptism of the Lord\nhttps://www.missale.net/of/2022-01-10/en
+UID:https://www.missale.net/of/2022-01-10/en
+URL:https://www.missale.net/of/2022-01-10/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220116
+SUMMARY:Second Sunday in Ordinary Time
+DESCRIPTION:Second Sunday in Ordinary Time\nhttps://www.missale.net/of/2022-01-16/en
+UID:https://www.missale.net/of/2022-01-16/en
+URL:https://www.missale.net/of/2022-01-16/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220123
+SUMMARY:Third Sunday in Ordinary Time
+DESCRIPTION:Third Sunday in Ordinary Time\nhttps://www.missale.net/of/2022-01-23/en
+UID:https://www.missale.net/of/2022-01-23/en
+URL:https://www.missale.net/of/2022-01-23/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220130
+SUMMARY:Fourth Sunday in Ordinary Time
+DESCRIPTION:Fourth Sunday in Ordinary Time\nhttps://www.missale.net/of/2022-01-30/en
+UID:https://www.missale.net/of/2022-01-30/en
+URL:https://www.missale.net/of/2022-01-30/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220206
+SUMMARY:Fifth Sunday in Ordinary Time
+DESCRIPTION:Fifth Sunday in Ordinary Time\nhttps://www.missale.net/of/2022-02-06/en
+UID:https://www.missale.net/of/2022-02-06/en
+URL:https://www.missale.net/of/2022-02-06/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220213
+SUMMARY:Sixth Sunday in Ordinary Time
+DESCRIPTION:Sixth Sunday in Ordinary Time\nhttps://www.missale.net/of/2022-02-13/en
+UID:https://www.missale.net/of/2022-02-13/en
+URL:https://www.missale.net/of/2022-02-13/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220220
+SUMMARY:Seventh Sunday in Ordinary Time
+DESCRIPTION:Seventh Sunday in Ordinary Time\nhttps://www.missale.net/of/2022-02-20/en
+UID:https://www.missale.net/of/2022-02-20/en
+URL:https://www.missale.net/of/2022-02-20/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220227
+SUMMARY:Eighth Sunday in Ordinary Time
+DESCRIPTION:Eighth Sunday in Ordinary Time\nhttps://www.missale.net/of/2022-02-27/en
+UID:https://www.missale.net/of/2022-02-27/en
+URL:https://www.missale.net/of/2022-02-27/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220306
+SUMMARY:First Sunday of Lent
+DESCRIPTION:First Sunday of Lent\nhttps://www.missale.net/of/2022-03-06/en
+UID:https://www.missale.net/of/2022-03-06/en
+URL:https://www.missale.net/of/2022-03-06/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220313
+SUMMARY:Second Sunday of Lent
+DESCRIPTION:Second Sunday of Lent\nhttps://www.missale.net/of/2022-03-13/en
+UID:https://www.missale.net/of/2022-03-13/en
+URL:https://www.missale.net/of/2022-03-13/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220320
+SUMMARY:Third Sunday of Lent
+DESCRIPTION:Third Sunday of Lent\nhttps://www.missale.net/of/2022-03-20/en
+UID:https://www.missale.net/of/2022-03-20/en
+URL:https://www.missale.net/of/2022-03-20/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220327
+SUMMARY:Fourth Sunday of Lent
+DESCRIPTION:Fourth Sunday of Lent\nhttps://www.missale.net/of/2022-03-27/en
+UID:https://www.missale.net/of/2022-03-27/en
+URL:https://www.missale.net/of/2022-03-27/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220403
+SUMMARY:Fifth Sunday of Lent
+DESCRIPTION:Fifth Sunday of Lent\nhttps://www.missale.net/of/2022-04-03/en
+UID:https://www.missale.net/of/2022-04-03/en
+URL:https://www.missale.net/of/2022-04-03/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220410
+SUMMARY:Palm Sunday
+DESCRIPTION:Palm Sunday\nhttps://www.missale.net/of/2022-04-10/en
+UID:https://www.missale.net/of/2022-04-10/en
+URL:https://www.missale.net/of/2022-04-10/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220416
+SUMMARY:Easter Vigil
+DESCRIPTION:Easter Vigil\nhttps://www.missale.net/of/2022-04-16/en
+UID:https://www.missale.net/of/2022-04-16/en
+URL:https://www.missale.net/of/2022-04-16/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220417
+SUMMARY:Easter Sunday
+DESCRIPTION:Easter Sunday\nhttps://www.missale.net/of/2022-04-17/en
+UID:https://www.missale.net/of/2022-04-17/en
+URL:https://www.missale.net/of/2022-04-17/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220424
+SUMMARY:Second Sunday of Easter
+DESCRIPTION:Second Sunday of Easter\nhttps://www.missale.net/of/2022-04-24/en
+UID:https://www.missale.net/of/2022-04-24/en
+URL:https://www.missale.net/of/2022-04-24/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220501
+SUMMARY:Third Sunday of Easter
+DESCRIPTION:Third Sunday of Easter\nhttps://www.missale.net/of/2022-05-01/en
+UID:https://www.missale.net/of/2022-05-01/en
+URL:https://www.missale.net/of/2022-05-01/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220508
+SUMMARY:Fourth Sunday of Easter
+DESCRIPTION:Fourth Sunday of Easter\nhttps://www.missale.net/of/2022-05-08/en
+UID:https://www.missale.net/of/2022-05-08/en
+URL:https://www.missale.net/of/2022-05-08/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220515
+SUMMARY:Fifth Sunday of Easter
+DESCRIPTION:Fifth Sunday of Easter\nhttps://www.missale.net/of/2022-05-15/en
+UID:https://www.missale.net/of/2022-05-15/en
+URL:https://www.missale.net/of/2022-05-15/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220522
+SUMMARY:Sixth Sunday of Easter
+DESCRIPTION:Sixth Sunday of Easter\nhttps://www.missale.net/of/2022-05-22/en
+UID:https://www.missale.net/of/2022-05-22/en
+URL:https://www.missale.net/of/2022-05-22/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220526
+SUMMARY:Ascension of the Lord
+DESCRIPTION:Ascension of the Lord\nhttps://www.missale.net/of/2022-05-26/en
+UID:https://www.missale.net/of/2022-05-26/en
+URL:https://www.missale.net/of/2022-05-26/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220529
+SUMMARY:Seventh Sunday of Easter
+DESCRIPTION:Seventh Sunday of Easter\nhttps://www.missale.net/of/2022-05-29/en
+UID:https://www.missale.net/of/2022-05-29/en
+URL:https://www.missale.net/of/2022-05-29/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220612
+SUMMARY:The Holy Trinity
+DESCRIPTION:The Holy Trinity\nhttps://www.missale.net/of/2022-06-12/en
+UID:https://www.missale.net/of/2022-06-12/en
+URL:https://www.missale.net/of/2022-06-12/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220616
+SUMMARY:Corpus Christi
+DESCRIPTION:Corpus Christi\nhttps://www.missale.net/of/2022-06-16/en
+UID:https://www.missale.net/of/2022-06-16/en
+URL:https://www.missale.net/of/2022-06-16/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220619
+SUMMARY:Twelfth Sunday in Ordinary Time
+DESCRIPTION:Twelfth Sunday in Ordinary Time\nhttps://www.missale.net/of/2022-06-19/en
+UID:https://www.missale.net/of/2022-06-19/en
+URL:https://www.missale.net/of/2022-06-19/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220626
+SUMMARY:Thirteenth Sunday in Ordinary Time
+DESCRIPTION:Thirteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2022-06-26/en
+UID:https://www.missale.net/of/2022-06-26/en
+URL:https://www.missale.net/of/2022-06-26/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220703
+SUMMARY:Fourteenth Sunday in Ordinary Time
+DESCRIPTION:Fourteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2022-07-03/en
+UID:https://www.missale.net/of/2022-07-03/en
+URL:https://www.missale.net/of/2022-07-03/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220710
+SUMMARY:Fifteenth Sunday in Ordinary Time
+DESCRIPTION:Fifteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2022-07-10/en
+UID:https://www.missale.net/of/2022-07-10/en
+URL:https://www.missale.net/of/2022-07-10/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220717
+SUMMARY:Sixteenth Sunday in Ordinary Time
+DESCRIPTION:Sixteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2022-07-17/en
+UID:https://www.missale.net/of/2022-07-17/en
+URL:https://www.missale.net/of/2022-07-17/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220724
+SUMMARY:Seventeenth Sunday in Ordinary Time
+DESCRIPTION:Seventeenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2022-07-24/en
+UID:https://www.missale.net/of/2022-07-24/en
+URL:https://www.missale.net/of/2022-07-24/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220731
+SUMMARY:Eighteenth Sunday in Ordinary Time
+DESCRIPTION:Eighteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2022-07-31/en
+UID:https://www.missale.net/of/2022-07-31/en
+URL:https://www.missale.net/of/2022-07-31/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220806
+SUMMARY:Transfiguration of the Lord
+DESCRIPTION:Transfiguration of the Lord\nhttps://www.missale.net/of/2022-08-06/en
+UID:https://www.missale.net/of/2022-08-06/en
+URL:https://www.missale.net/of/2022-08-06/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220807
+SUMMARY:Nineteenth Sunday in Ordinary Time
+DESCRIPTION:Nineteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2022-08-07/en
+UID:https://www.missale.net/of/2022-08-07/en
+URL:https://www.missale.net/of/2022-08-07/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220814
+SUMMARY:Twentieth Sunday in Ordinary Time
+DESCRIPTION:Twentieth Sunday in Ordinary Time\nhttps://www.missale.net/of/2022-08-14/en
+UID:https://www.missale.net/of/2022-08-14/en
+URL:https://www.missale.net/of/2022-08-14/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220821
+SUMMARY:Twenty-first Sunday in Ordinary Time
+DESCRIPTION:Twenty-first Sunday in Ordinary Time\nhttps://www.missale.net/of/2022-08-21/en
+UID:https://www.missale.net/of/2022-08-21/en
+URL:https://www.missale.net/of/2022-08-21/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220828
+SUMMARY:Twenty-second Sunday in Ordinary Time
+DESCRIPTION:Twenty-second Sunday in Ordinary Time\nhttps://www.missale.net/of/2022-08-28/en
+UID:https://www.missale.net/of/2022-08-28/en
+URL:https://www.missale.net/of/2022-08-28/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220904
+SUMMARY:Twenty-third Sunday in Ordinary Time
+DESCRIPTION:Twenty-third Sunday in Ordinary Time\nhttps://www.missale.net/of/2022-09-04/en
+UID:https://www.missale.net/of/2022-09-04/en
+URL:https://www.missale.net/of/2022-09-04/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220911
+SUMMARY:Twenty-fourth Sunday in Ordinary Time
+DESCRIPTION:Twenty-fourth Sunday in Ordinary Time\nhttps://www.missale.net/of/2022-09-11/en
+UID:https://www.missale.net/of/2022-09-11/en
+URL:https://www.missale.net/of/2022-09-11/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220918
+SUMMARY:Twenty-fifth Sunday in Ordinary Time
+DESCRIPTION:Twenty-fifth Sunday in Ordinary Time\nhttps://www.missale.net/of/2022-09-18/en
+UID:https://www.missale.net/of/2022-09-18/en
+URL:https://www.missale.net/of/2022-09-18/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220925
+SUMMARY:Twenty-sixth Sunday in Ordinary Time
+DESCRIPTION:Twenty-sixth Sunday in Ordinary Time\nhttps://www.missale.net/of/2022-09-25/en
+UID:https://www.missale.net/of/2022-09-25/en
+URL:https://www.missale.net/of/2022-09-25/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221002
+SUMMARY:Twenty-seventh Sunday in Ordinary Time
+DESCRIPTION:Twenty-seventh Sunday in Ordinary Time\nhttps://www.missale.net/of/2022-10-02/en
+UID:https://www.missale.net/of/2022-10-02/en
+URL:https://www.missale.net/of/2022-10-02/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221009
+SUMMARY:Twenty-eighth Sunday in Ordinary Time
+DESCRIPTION:Twenty-eighth Sunday in Ordinary Time\nhttps://www.missale.net/of/2022-10-09/en
+UID:https://www.missale.net/of/2022-10-09/en
+URL:https://www.missale.net/of/2022-10-09/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221016
+SUMMARY:Twenty-ninth Sunday in Ordinary Time
+DESCRIPTION:Twenty-ninth Sunday in Ordinary Time\nhttps://www.missale.net/of/2022-10-16/en
+UID:https://www.missale.net/of/2022-10-16/en
+URL:https://www.missale.net/of/2022-10-16/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221023
+SUMMARY:Thirtieth Sunday in Ordinary Time
+DESCRIPTION:Thirtieth Sunday in Ordinary Time\nhttps://www.missale.net/of/2022-10-23/en
+UID:https://www.missale.net/of/2022-10-23/en
+URL:https://www.missale.net/of/2022-10-23/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221030
+SUMMARY:Thirty-first Sunday in Ordinary Time
+DESCRIPTION:Thirty-first Sunday in Ordinary Time\nhttps://www.missale.net/of/2022-10-30/en
+UID:https://www.missale.net/of/2022-10-30/en
+URL:https://www.missale.net/of/2022-10-30/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221106
+SUMMARY:Thirty-second Sunday in Ordinary Time
+DESCRIPTION:Thirty-second Sunday in Ordinary Time\nhttps://www.missale.net/of/2022-11-06/en
+UID:https://www.missale.net/of/2022-11-06/en
+URL:https://www.missale.net/of/2022-11-06/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221113
+SUMMARY:Thirty-third Sunday in Ordinary Time
+DESCRIPTION:Thirty-third Sunday in Ordinary Time\nhttps://www.missale.net/of/2022-11-13/en
+UID:https://www.missale.net/of/2022-11-13/en
+URL:https://www.missale.net/of/2022-11-13/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221120
+SUMMARY:Christ the King
+DESCRIPTION:Christ the King\nhttps://www.missale.net/of/2022-11-20/en
+UID:https://www.missale.net/of/2022-11-20/en
+URL:https://www.missale.net/of/2022-11-20/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221127
+SUMMARY:First sunday of Advent
+DESCRIPTION:First sunday of Advent\nhttps://www.missale.net/of/2022-11-27/en
+UID:https://www.missale.net/of/2022-11-27/en
+URL:https://www.missale.net/of/2022-11-27/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221204
+SUMMARY:Second Sunday of Advent
+DESCRIPTION:Second Sunday of Advent\nhttps://www.missale.net/of/2022-12-04/en
+UID:https://www.missale.net/of/2022-12-04/en
+URL:https://www.missale.net/of/2022-12-04/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221211
+SUMMARY:Third Sunday of Advent
+DESCRIPTION:Third Sunday of Advent\nhttps://www.missale.net/of/2022-12-11/en
+UID:https://www.missale.net/of/2022-12-11/en
+URL:https://www.missale.net/of/2022-12-11/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221218
+SUMMARY:Fourth Sunday of Advent
+DESCRIPTION:Fourth Sunday of Advent\nhttps://www.missale.net/of/2022-12-18/en
+UID:https://www.missale.net/of/2022-12-18/en
+URL:https://www.missale.net/of/2022-12-18/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221230
+SUMMARY:The Holy Family
+DESCRIPTION:The Holy Family\nhttps://www.missale.net/of/2022-12-30/en
+UID:https://www.missale.net/of/2022-12-30/en
+URL:https://www.missale.net/of/2022-12-30/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230109
+SUMMARY:Baptism of the Lord
+DESCRIPTION:Baptism of the Lord\nhttps://www.missale.net/of/2023-01-09/en
+UID:https://www.missale.net/of/2023-01-09/en
+URL:https://www.missale.net/of/2023-01-09/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230115
+SUMMARY:Second Sunday in Ordinary Time
+DESCRIPTION:Second Sunday in Ordinary Time\nhttps://www.missale.net/of/2023-01-15/en
+UID:https://www.missale.net/of/2023-01-15/en
+URL:https://www.missale.net/of/2023-01-15/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230122
+SUMMARY:Third Sunday in Ordinary Time
+DESCRIPTION:Third Sunday in Ordinary Time\nhttps://www.missale.net/of/2023-01-22/en
+UID:https://www.missale.net/of/2023-01-22/en
+URL:https://www.missale.net/of/2023-01-22/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230129
+SUMMARY:Fourth Sunday in Ordinary Time
+DESCRIPTION:Fourth Sunday in Ordinary Time\nhttps://www.missale.net/of/2023-01-29/en
+UID:https://www.missale.net/of/2023-01-29/en
+URL:https://www.missale.net/of/2023-01-29/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230205
+SUMMARY:Fifth Sunday in Ordinary Time
+DESCRIPTION:Fifth Sunday in Ordinary Time\nhttps://www.missale.net/of/2023-02-05/en
+UID:https://www.missale.net/of/2023-02-05/en
+URL:https://www.missale.net/of/2023-02-05/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230212
+SUMMARY:Sixth Sunday in Ordinary Time
+DESCRIPTION:Sixth Sunday in Ordinary Time\nhttps://www.missale.net/of/2023-02-12/en
+UID:https://www.missale.net/of/2023-02-12/en
+URL:https://www.missale.net/of/2023-02-12/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230219
+SUMMARY:Seventh Sunday in Ordinary Time
+DESCRIPTION:Seventh Sunday in Ordinary Time\nhttps://www.missale.net/of/2023-02-19/en
+UID:https://www.missale.net/of/2023-02-19/en
+URL:https://www.missale.net/of/2023-02-19/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230226
+SUMMARY:First Sunday of Lent
+DESCRIPTION:First Sunday of Lent\nhttps://www.missale.net/of/2023-02-26/en
+UID:https://www.missale.net/of/2023-02-26/en
+URL:https://www.missale.net/of/2023-02-26/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230305
+SUMMARY:Second Sunday of Lent
+DESCRIPTION:Second Sunday of Lent\nhttps://www.missale.net/of/2023-03-05/en
+UID:https://www.missale.net/of/2023-03-05/en
+URL:https://www.missale.net/of/2023-03-05/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230312
+SUMMARY:Third Sunday of Lent
+DESCRIPTION:Third Sunday of Lent\nhttps://www.missale.net/of/2023-03-12/en
+UID:https://www.missale.net/of/2023-03-12/en
+URL:https://www.missale.net/of/2023-03-12/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230319
+SUMMARY:Fourth Sunday of Lent
+DESCRIPTION:Fourth Sunday of Lent\nhttps://www.missale.net/of/2023-03-19/en
+UID:https://www.missale.net/of/2023-03-19/en
+URL:https://www.missale.net/of/2023-03-19/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230326
+SUMMARY:Fifth Sunday of Lent
+DESCRIPTION:Fifth Sunday of Lent\nhttps://www.missale.net/of/2023-03-26/en
+UID:https://www.missale.net/of/2023-03-26/en
+URL:https://www.missale.net/of/2023-03-26/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230402
+SUMMARY:Palm Sunday
+DESCRIPTION:Palm Sunday\nhttps://www.missale.net/of/2023-04-02/en
+UID:https://www.missale.net/of/2023-04-02/en
+URL:https://www.missale.net/of/2023-04-02/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230408
+SUMMARY:Easter Vigil
+DESCRIPTION:Easter Vigil\nhttps://www.missale.net/of/2023-04-08/en
+UID:https://www.missale.net/of/2023-04-08/en
+URL:https://www.missale.net/of/2023-04-08/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230409
+SUMMARY:Easter Sunday
+DESCRIPTION:Easter Sunday\nhttps://www.missale.net/of/2023-04-09/en
+UID:https://www.missale.net/of/2023-04-09/en
+URL:https://www.missale.net/of/2023-04-09/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230416
+SUMMARY:Second Sunday of Easter
+DESCRIPTION:Second Sunday of Easter\nhttps://www.missale.net/of/2023-04-16/en
+UID:https://www.missale.net/of/2023-04-16/en
+URL:https://www.missale.net/of/2023-04-16/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230423
+SUMMARY:Third Sunday of Easter
+DESCRIPTION:Third Sunday of Easter\nhttps://www.missale.net/of/2023-04-23/en
+UID:https://www.missale.net/of/2023-04-23/en
+URL:https://www.missale.net/of/2023-04-23/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230430
+SUMMARY:Fourth Sunday of Easter
+DESCRIPTION:Fourth Sunday of Easter\nhttps://www.missale.net/of/2023-04-30/en
+UID:https://www.missale.net/of/2023-04-30/en
+URL:https://www.missale.net/of/2023-04-30/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230507
+SUMMARY:Fifth Sunday of Easter
+DESCRIPTION:Fifth Sunday of Easter\nhttps://www.missale.net/of/2023-05-07/en
+UID:https://www.missale.net/of/2023-05-07/en
+URL:https://www.missale.net/of/2023-05-07/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230514
+SUMMARY:Sixth Sunday of Easter
+DESCRIPTION:Sixth Sunday of Easter\nhttps://www.missale.net/of/2023-05-14/en
+UID:https://www.missale.net/of/2023-05-14/en
+URL:https://www.missale.net/of/2023-05-14/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230518
+SUMMARY:Ascension of the Lord
+DESCRIPTION:Ascension of the Lord\nhttps://www.missale.net/of/2023-05-18/en
+UID:https://www.missale.net/of/2023-05-18/en
+URL:https://www.missale.net/of/2023-05-18/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230521
+SUMMARY:Seventh Sunday of Easter
+DESCRIPTION:Seventh Sunday of Easter\nhttps://www.missale.net/of/2023-05-21/en
+UID:https://www.missale.net/of/2023-05-21/en
+URL:https://www.missale.net/of/2023-05-21/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230604
+SUMMARY:The Holy Trinity
+DESCRIPTION:The Holy Trinity\nhttps://www.missale.net/of/2023-06-04/en
+UID:https://www.missale.net/of/2023-06-04/en
+URL:https://www.missale.net/of/2023-06-04/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230608
+SUMMARY:Corpus Christi
+DESCRIPTION:Corpus Christi\nhttps://www.missale.net/of/2023-06-08/en
+UID:https://www.missale.net/of/2023-06-08/en
+URL:https://www.missale.net/of/2023-06-08/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230611
+SUMMARY:Tenth Sunday in Ordinary Time
+DESCRIPTION:Tenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2023-06-11/en
+UID:https://www.missale.net/of/2023-06-11/en
+URL:https://www.missale.net/of/2023-06-11/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230616
+SUMMARY:Sacred Heart of Jesus
+DESCRIPTION:Sacred Heart of Jesus\nhttps://www.missale.net/of/2023-06-16/en
+UID:https://www.missale.net/of/2023-06-16/en
+URL:https://www.missale.net/of/2023-06-16/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230618
+SUMMARY:Eleventh Sunday in Ordinary Time
+DESCRIPTION:Eleventh Sunday in Ordinary Time\nhttps://www.missale.net/of/2023-06-18/en
+UID:https://www.missale.net/of/2023-06-18/en
+URL:https://www.missale.net/of/2023-06-18/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230625
+SUMMARY:Twelfth Sunday in Ordinary Time
+DESCRIPTION:Twelfth Sunday in Ordinary Time\nhttps://www.missale.net/of/2023-06-25/en
+UID:https://www.missale.net/of/2023-06-25/en
+URL:https://www.missale.net/of/2023-06-25/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230702
+SUMMARY:Thirteenth Sunday in Ordinary Time
+DESCRIPTION:Thirteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2023-07-02/en
+UID:https://www.missale.net/of/2023-07-02/en
+URL:https://www.missale.net/of/2023-07-02/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230709
+SUMMARY:Fourteenth Sunday in Ordinary Time
+DESCRIPTION:Fourteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2023-07-09/en
+UID:https://www.missale.net/of/2023-07-09/en
+URL:https://www.missale.net/of/2023-07-09/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230716
+SUMMARY:Fifteenth Sunday in Ordinary Time
+DESCRIPTION:Fifteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2023-07-16/en
+UID:https://www.missale.net/of/2023-07-16/en
+URL:https://www.missale.net/of/2023-07-16/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230723
+SUMMARY:Sixteenth Sunday in Ordinary Time
+DESCRIPTION:Sixteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2023-07-23/en
+UID:https://www.missale.net/of/2023-07-23/en
+URL:https://www.missale.net/of/2023-07-23/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230730
+SUMMARY:Seventeenth Sunday in Ordinary Time
+DESCRIPTION:Seventeenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2023-07-30/en
+UID:https://www.missale.net/of/2023-07-30/en
+URL:https://www.missale.net/of/2023-07-30/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230806
+SUMMARY:Eighteenth Sunday in Ordinary Time
+DESCRIPTION:Eighteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2023-08-06/en
+UID:https://www.missale.net/of/2023-08-06/en
+URL:https://www.missale.net/of/2023-08-06/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230813
+SUMMARY:Nineteenth Sunday in Ordinary Time
+DESCRIPTION:Nineteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2023-08-13/en
+UID:https://www.missale.net/of/2023-08-13/en
+URL:https://www.missale.net/of/2023-08-13/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230820
+SUMMARY:Twentieth Sunday in Ordinary Time
+DESCRIPTION:Twentieth Sunday in Ordinary Time\nhttps://www.missale.net/of/2023-08-20/en
+UID:https://www.missale.net/of/2023-08-20/en
+URL:https://www.missale.net/of/2023-08-20/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230827
+SUMMARY:Twenty-first Sunday in Ordinary Time
+DESCRIPTION:Twenty-first Sunday in Ordinary Time\nhttps://www.missale.net/of/2023-08-27/en
+UID:https://www.missale.net/of/2023-08-27/en
+URL:https://www.missale.net/of/2023-08-27/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230903
+SUMMARY:Twenty-second Sunday in Ordinary Time
+DESCRIPTION:Twenty-second Sunday in Ordinary Time\nhttps://www.missale.net/of/2023-09-03/en
+UID:https://www.missale.net/of/2023-09-03/en
+URL:https://www.missale.net/of/2023-09-03/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230910
+SUMMARY:Twenty-third Sunday in Ordinary Time
+DESCRIPTION:Twenty-third Sunday in Ordinary Time\nhttps://www.missale.net/of/2023-09-10/en
+UID:https://www.missale.net/of/2023-09-10/en
+URL:https://www.missale.net/of/2023-09-10/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230917
+SUMMARY:Twenty-fourth Sunday in Ordinary Time
+DESCRIPTION:Twenty-fourth Sunday in Ordinary Time\nhttps://www.missale.net/of/2023-09-17/en
+UID:https://www.missale.net/of/2023-09-17/en
+URL:https://www.missale.net/of/2023-09-17/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230924
+SUMMARY:Twenty-fifth Sunday in Ordinary Time
+DESCRIPTION:Twenty-fifth Sunday in Ordinary Time\nhttps://www.missale.net/of/2023-09-24/en
+UID:https://www.missale.net/of/2023-09-24/en
+URL:https://www.missale.net/of/2023-09-24/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231001
+SUMMARY:Twenty-sixth Sunday in Ordinary Time
+DESCRIPTION:Twenty-sixth Sunday in Ordinary Time\nhttps://www.missale.net/of/2023-10-01/en
+UID:https://www.missale.net/of/2023-10-01/en
+URL:https://www.missale.net/of/2023-10-01/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231008
+SUMMARY:Twenty-seventh Sunday in Ordinary Time
+DESCRIPTION:Twenty-seventh Sunday in Ordinary Time\nhttps://www.missale.net/of/2023-10-08/en
+UID:https://www.missale.net/of/2023-10-08/en
+URL:https://www.missale.net/of/2023-10-08/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231015
+SUMMARY:Twenty-eighth Sunday in Ordinary Time
+DESCRIPTION:Twenty-eighth Sunday in Ordinary Time\nhttps://www.missale.net/of/2023-10-15/en
+UID:https://www.missale.net/of/2023-10-15/en
+URL:https://www.missale.net/of/2023-10-15/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231022
+SUMMARY:Twenty-ninth Sunday in Ordinary Time
+DESCRIPTION:Twenty-ninth Sunday in Ordinary Time\nhttps://www.missale.net/of/2023-10-22/en
+UID:https://www.missale.net/of/2023-10-22/en
+URL:https://www.missale.net/of/2023-10-22/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231029
+SUMMARY:Thirtieth Sunday in Ordinary Time
+DESCRIPTION:Thirtieth Sunday in Ordinary Time\nhttps://www.missale.net/of/2023-10-29/en
+UID:https://www.missale.net/of/2023-10-29/en
+URL:https://www.missale.net/of/2023-10-29/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231105
+SUMMARY:Thirty-first Sunday in Ordinary Time
+DESCRIPTION:Thirty-first Sunday in Ordinary Time\nhttps://www.missale.net/of/2023-11-05/en
+UID:https://www.missale.net/of/2023-11-05/en
+URL:https://www.missale.net/of/2023-11-05/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231112
+SUMMARY:Thirty-second Sunday in Ordinary Time
+DESCRIPTION:Thirty-second Sunday in Ordinary Time\nhttps://www.missale.net/of/2023-11-12/en
+UID:https://www.missale.net/of/2023-11-12/en
+URL:https://www.missale.net/of/2023-11-12/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231119
+SUMMARY:Thirty-third Sunday in Ordinary Time
+DESCRIPTION:Thirty-third Sunday in Ordinary Time\nhttps://www.missale.net/of/2023-11-19/en
+UID:https://www.missale.net/of/2023-11-19/en
+URL:https://www.missale.net/of/2023-11-19/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231126
+SUMMARY:Christ the King
+DESCRIPTION:Christ the King\nhttps://www.missale.net/of/2023-11-26/en
+UID:https://www.missale.net/of/2023-11-26/en
+URL:https://www.missale.net/of/2023-11-26/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231203
+SUMMARY:First sunday of Advent
+DESCRIPTION:First sunday of Advent\nhttps://www.missale.net/of/2023-12-03/en
+UID:https://www.missale.net/of/2023-12-03/en
+URL:https://www.missale.net/of/2023-12-03/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231210
+SUMMARY:Second Sunday of Advent
+DESCRIPTION:Second Sunday of Advent\nhttps://www.missale.net/of/2023-12-10/en
+UID:https://www.missale.net/of/2023-12-10/en
+URL:https://www.missale.net/of/2023-12-10/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231217
+SUMMARY:Third Sunday of Advent
+DESCRIPTION:Third Sunday of Advent\nhttps://www.missale.net/of/2023-12-17/en
+UID:https://www.missale.net/of/2023-12-17/en
+URL:https://www.missale.net/of/2023-12-17/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231224
+SUMMARY:Fourth Sunday of Advent
+DESCRIPTION:Fourth Sunday of Advent\nhttps://www.missale.net/of/2023-12-24/en
+UID:https://www.missale.net/of/2023-12-24/en
+URL:https://www.missale.net/of/2023-12-24/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231231
+SUMMARY:The Holy Family
+DESCRIPTION:The Holy Family\nhttps://www.missale.net/of/2023-12-31/en
+UID:https://www.missale.net/of/2023-12-31/en
+URL:https://www.missale.net/of/2023-12-31/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240108
+SUMMARY:Baptism of the Lord
+DESCRIPTION:Baptism of the Lord\nhttps://www.missale.net/of/2024-01-08/en
+UID:https://www.missale.net/of/2024-01-08/en
+URL:https://www.missale.net/of/2024-01-08/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240114
+SUMMARY:Second Sunday in Ordinary Time
+DESCRIPTION:Second Sunday in Ordinary Time\nhttps://www.missale.net/of/2024-01-14/en
+UID:https://www.missale.net/of/2024-01-14/en
+URL:https://www.missale.net/of/2024-01-14/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240121
+SUMMARY:Third Sunday in Ordinary Time
+DESCRIPTION:Third Sunday in Ordinary Time\nhttps://www.missale.net/of/2024-01-21/en
+UID:https://www.missale.net/of/2024-01-21/en
+URL:https://www.missale.net/of/2024-01-21/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240128
+SUMMARY:Fourth Sunday in Ordinary Time
+DESCRIPTION:Fourth Sunday in Ordinary Time\nhttps://www.missale.net/of/2024-01-28/en
+UID:https://www.missale.net/of/2024-01-28/en
+URL:https://www.missale.net/of/2024-01-28/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240204
+SUMMARY:Fifth Sunday in Ordinary Time
+DESCRIPTION:Fifth Sunday in Ordinary Time\nhttps://www.missale.net/of/2024-02-04/en
+UID:https://www.missale.net/of/2024-02-04/en
+URL:https://www.missale.net/of/2024-02-04/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240211
+SUMMARY:Sixth Sunday in Ordinary Time
+DESCRIPTION:Sixth Sunday in Ordinary Time\nhttps://www.missale.net/of/2024-02-11/en
+UID:https://www.missale.net/of/2024-02-11/en
+URL:https://www.missale.net/of/2024-02-11/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240218
+SUMMARY:First Sunday of Lent
+DESCRIPTION:First Sunday of Lent\nhttps://www.missale.net/of/2024-02-18/en
+UID:https://www.missale.net/of/2024-02-18/en
+URL:https://www.missale.net/of/2024-02-18/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240225
+SUMMARY:Second Sunday of Lent
+DESCRIPTION:Second Sunday of Lent\nhttps://www.missale.net/of/2024-02-25/en
+UID:https://www.missale.net/of/2024-02-25/en
+URL:https://www.missale.net/of/2024-02-25/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240303
+SUMMARY:Third Sunday of Lent
+DESCRIPTION:Third Sunday of Lent\nhttps://www.missale.net/of/2024-03-03/en
+UID:https://www.missale.net/of/2024-03-03/en
+URL:https://www.missale.net/of/2024-03-03/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240310
+SUMMARY:Fourth Sunday of Lent
+DESCRIPTION:Fourth Sunday of Lent\nhttps://www.missale.net/of/2024-03-10/en
+UID:https://www.missale.net/of/2024-03-10/en
+URL:https://www.missale.net/of/2024-03-10/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240317
+SUMMARY:Fifth Sunday of Lent
+DESCRIPTION:Fifth Sunday of Lent\nhttps://www.missale.net/of/2024-03-17/en
+UID:https://www.missale.net/of/2024-03-17/en
+URL:https://www.missale.net/of/2024-03-17/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240324
+SUMMARY:Palm Sunday
+DESCRIPTION:Palm Sunday\nhttps://www.missale.net/of/2024-03-24/en
+UID:https://www.missale.net/of/2024-03-24/en
+URL:https://www.missale.net/of/2024-03-24/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240330
+SUMMARY:Easter Vigil
+DESCRIPTION:Easter Vigil\nhttps://www.missale.net/of/2024-03-30/en
+UID:https://www.missale.net/of/2024-03-30/en
+URL:https://www.missale.net/of/2024-03-30/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240331
+SUMMARY:Easter Sunday
+DESCRIPTION:Easter Sunday\nhttps://www.missale.net/of/2024-03-31/en
+UID:https://www.missale.net/of/2024-03-31/en
+URL:https://www.missale.net/of/2024-03-31/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240407
+SUMMARY:Second Sunday of Easter
+DESCRIPTION:Second Sunday of Easter\nhttps://www.missale.net/of/2024-04-07/en
+UID:https://www.missale.net/of/2024-04-07/en
+URL:https://www.missale.net/of/2024-04-07/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240414
+SUMMARY:Third Sunday of Easter
+DESCRIPTION:Third Sunday of Easter\nhttps://www.missale.net/of/2024-04-14/en
+UID:https://www.missale.net/of/2024-04-14/en
+URL:https://www.missale.net/of/2024-04-14/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240421
+SUMMARY:Fourth Sunday of Easter
+DESCRIPTION:Fourth Sunday of Easter\nhttps://www.missale.net/of/2024-04-21/en
+UID:https://www.missale.net/of/2024-04-21/en
+URL:https://www.missale.net/of/2024-04-21/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240428
+SUMMARY:Fifth Sunday of Easter
+DESCRIPTION:Fifth Sunday of Easter\nhttps://www.missale.net/of/2024-04-28/en
+UID:https://www.missale.net/of/2024-04-28/en
+URL:https://www.missale.net/of/2024-04-28/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240505
+SUMMARY:Sixth Sunday of Easter
+DESCRIPTION:Sixth Sunday of Easter\nhttps://www.missale.net/of/2024-05-05/en
+UID:https://www.missale.net/of/2024-05-05/en
+URL:https://www.missale.net/of/2024-05-05/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240509
+SUMMARY:Ascension of the Lord
+DESCRIPTION:Ascension of the Lord\nhttps://www.missale.net/of/2024-05-09/en
+UID:https://www.missale.net/of/2024-05-09/en
+URL:https://www.missale.net/of/2024-05-09/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240512
+SUMMARY:Seventh Sunday of Easter
+DESCRIPTION:Seventh Sunday of Easter\nhttps://www.missale.net/of/2024-05-12/en
+UID:https://www.missale.net/of/2024-05-12/en
+URL:https://www.missale.net/of/2024-05-12/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240526
+SUMMARY:The Holy Trinity
+DESCRIPTION:The Holy Trinity\nhttps://www.missale.net/of/2024-05-26/en
+UID:https://www.missale.net/of/2024-05-26/en
+URL:https://www.missale.net/of/2024-05-26/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240530
+SUMMARY:Corpus Christi
+DESCRIPTION:Corpus Christi\nhttps://www.missale.net/of/2024-05-30/en
+UID:https://www.missale.net/of/2024-05-30/en
+URL:https://www.missale.net/of/2024-05-30/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240602
+SUMMARY:Ninth Sunday in Ordinary Time
+DESCRIPTION:Ninth Sunday in Ordinary Time\nhttps://www.missale.net/of/2024-06-02/en
+UID:https://www.missale.net/of/2024-06-02/en
+URL:https://www.missale.net/of/2024-06-02/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240607
+SUMMARY:Sacred Heart of Jesus
+DESCRIPTION:Sacred Heart of Jesus\nhttps://www.missale.net/of/2024-06-07/en
+UID:https://www.missale.net/of/2024-06-07/en
+URL:https://www.missale.net/of/2024-06-07/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240609
+SUMMARY:Tenth Sunday in Ordinary Time
+DESCRIPTION:Tenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2024-06-09/en
+UID:https://www.missale.net/of/2024-06-09/en
+URL:https://www.missale.net/of/2024-06-09/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240616
+SUMMARY:Eleventh Sunday in Ordinary Time
+DESCRIPTION:Eleventh Sunday in Ordinary Time\nhttps://www.missale.net/of/2024-06-16/en
+UID:https://www.missale.net/of/2024-06-16/en
+URL:https://www.missale.net/of/2024-06-16/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240623
+SUMMARY:Twelfth Sunday in Ordinary Time
+DESCRIPTION:Twelfth Sunday in Ordinary Time\nhttps://www.missale.net/of/2024-06-23/en
+UID:https://www.missale.net/of/2024-06-23/en
+URL:https://www.missale.net/of/2024-06-23/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240630
+SUMMARY:Thirteenth Sunday in Ordinary Time
+DESCRIPTION:Thirteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2024-06-30/en
+UID:https://www.missale.net/of/2024-06-30/en
+URL:https://www.missale.net/of/2024-06-30/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240707
+SUMMARY:Fourteenth Sunday in Ordinary Time
+DESCRIPTION:Fourteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2024-07-07/en
+UID:https://www.missale.net/of/2024-07-07/en
+URL:https://www.missale.net/of/2024-07-07/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240714
+SUMMARY:Fifteenth Sunday in Ordinary Time
+DESCRIPTION:Fifteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2024-07-14/en
+UID:https://www.missale.net/of/2024-07-14/en
+URL:https://www.missale.net/of/2024-07-14/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240721
+SUMMARY:Sixteenth Sunday in Ordinary Time
+DESCRIPTION:Sixteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2024-07-21/en
+UID:https://www.missale.net/of/2024-07-21/en
+URL:https://www.missale.net/of/2024-07-21/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240728
+SUMMARY:Seventeenth Sunday in Ordinary Time
+DESCRIPTION:Seventeenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2024-07-28/en
+UID:https://www.missale.net/of/2024-07-28/en
+URL:https://www.missale.net/of/2024-07-28/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240804
+SUMMARY:Eighteenth Sunday in Ordinary Time
+DESCRIPTION:Eighteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2024-08-04/en
+UID:https://www.missale.net/of/2024-08-04/en
+URL:https://www.missale.net/of/2024-08-04/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240806
+SUMMARY:Transfiguration of the Lord
+DESCRIPTION:Transfiguration of the Lord\nhttps://www.missale.net/of/2024-08-06/en
+UID:https://www.missale.net/of/2024-08-06/en
+URL:https://www.missale.net/of/2024-08-06/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240811
+SUMMARY:Nineteenth Sunday in Ordinary Time
+DESCRIPTION:Nineteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2024-08-11/en
+UID:https://www.missale.net/of/2024-08-11/en
+URL:https://www.missale.net/of/2024-08-11/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240818
+SUMMARY:Twentieth Sunday in Ordinary Time
+DESCRIPTION:Twentieth Sunday in Ordinary Time\nhttps://www.missale.net/of/2024-08-18/en
+UID:https://www.missale.net/of/2024-08-18/en
+URL:https://www.missale.net/of/2024-08-18/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240825
+SUMMARY:Twenty-first Sunday in Ordinary Time
+DESCRIPTION:Twenty-first Sunday in Ordinary Time\nhttps://www.missale.net/of/2024-08-25/en
+UID:https://www.missale.net/of/2024-08-25/en
+URL:https://www.missale.net/of/2024-08-25/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240901
+SUMMARY:Twenty-second Sunday in Ordinary Time
+DESCRIPTION:Twenty-second Sunday in Ordinary Time\nhttps://www.missale.net/of/2024-09-01/en
+UID:https://www.missale.net/of/2024-09-01/en
+URL:https://www.missale.net/of/2024-09-01/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240908
+SUMMARY:Twenty-third Sunday in Ordinary Time
+DESCRIPTION:Twenty-third Sunday in Ordinary Time\nhttps://www.missale.net/of/2024-09-08/en
+UID:https://www.missale.net/of/2024-09-08/en
+URL:https://www.missale.net/of/2024-09-08/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240915
+SUMMARY:Twenty-fourth Sunday in Ordinary Time
+DESCRIPTION:Twenty-fourth Sunday in Ordinary Time\nhttps://www.missale.net/of/2024-09-15/en
+UID:https://www.missale.net/of/2024-09-15/en
+URL:https://www.missale.net/of/2024-09-15/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240922
+SUMMARY:Twenty-fifth Sunday in Ordinary Time
+DESCRIPTION:Twenty-fifth Sunday in Ordinary Time\nhttps://www.missale.net/of/2024-09-22/en
+UID:https://www.missale.net/of/2024-09-22/en
+URL:https://www.missale.net/of/2024-09-22/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240929
+SUMMARY:Twenty-sixth Sunday in Ordinary Time
+DESCRIPTION:Twenty-sixth Sunday in Ordinary Time\nhttps://www.missale.net/of/2024-09-29/en
+UID:https://www.missale.net/of/2024-09-29/en
+URL:https://www.missale.net/of/2024-09-29/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241006
+SUMMARY:Twenty-seventh Sunday in Ordinary Time
+DESCRIPTION:Twenty-seventh Sunday in Ordinary Time\nhttps://www.missale.net/of/2024-10-06/en
+UID:https://www.missale.net/of/2024-10-06/en
+URL:https://www.missale.net/of/2024-10-06/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241013
+SUMMARY:Twenty-eighth Sunday in Ordinary Time
+DESCRIPTION:Twenty-eighth Sunday in Ordinary Time\nhttps://www.missale.net/of/2024-10-13/en
+UID:https://www.missale.net/of/2024-10-13/en
+URL:https://www.missale.net/of/2024-10-13/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241020
+SUMMARY:Twenty-ninth Sunday in Ordinary Time
+DESCRIPTION:Twenty-ninth Sunday in Ordinary Time\nhttps://www.missale.net/of/2024-10-20/en
+UID:https://www.missale.net/of/2024-10-20/en
+URL:https://www.missale.net/of/2024-10-20/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241027
+SUMMARY:Thirtieth Sunday in Ordinary Time
+DESCRIPTION:Thirtieth Sunday in Ordinary Time\nhttps://www.missale.net/of/2024-10-27/en
+UID:https://www.missale.net/of/2024-10-27/en
+URL:https://www.missale.net/of/2024-10-27/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241103
+SUMMARY:Thirty-first Sunday in Ordinary Time
+DESCRIPTION:Thirty-first Sunday in Ordinary Time\nhttps://www.missale.net/of/2024-11-03/en
+UID:https://www.missale.net/of/2024-11-03/en
+URL:https://www.missale.net/of/2024-11-03/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241110
+SUMMARY:Thirty-second Sunday in Ordinary Time
+DESCRIPTION:Thirty-second Sunday in Ordinary Time\nhttps://www.missale.net/of/2024-11-10/en
+UID:https://www.missale.net/of/2024-11-10/en
+URL:https://www.missale.net/of/2024-11-10/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241117
+SUMMARY:Thirty-third Sunday in Ordinary Time
+DESCRIPTION:Thirty-third Sunday in Ordinary Time\nhttps://www.missale.net/of/2024-11-17/en
+UID:https://www.missale.net/of/2024-11-17/en
+URL:https://www.missale.net/of/2024-11-17/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241124
+SUMMARY:Christ the King
+DESCRIPTION:Christ the King\nhttps://www.missale.net/of/2024-11-24/en
+UID:https://www.missale.net/of/2024-11-24/en
+URL:https://www.missale.net/of/2024-11-24/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241201
+SUMMARY:First sunday of Advent
+DESCRIPTION:First sunday of Advent\nhttps://www.missale.net/of/2024-12-01/en
+UID:https://www.missale.net/of/2024-12-01/en
+URL:https://www.missale.net/of/2024-12-01/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241208
+SUMMARY:Second Sunday of Advent
+DESCRIPTION:Second Sunday of Advent\nhttps://www.missale.net/of/2024-12-08/en
+UID:https://www.missale.net/of/2024-12-08/en
+URL:https://www.missale.net/of/2024-12-08/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241215
+SUMMARY:Third Sunday of Advent
+DESCRIPTION:Third Sunday of Advent\nhttps://www.missale.net/of/2024-12-15/en
+UID:https://www.missale.net/of/2024-12-15/en
+URL:https://www.missale.net/of/2024-12-15/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241222
+SUMMARY:Fourth Sunday of Advent
+DESCRIPTION:Fourth Sunday of Advent\nhttps://www.missale.net/of/2024-12-22/en
+UID:https://www.missale.net/of/2024-12-22/en
+URL:https://www.missale.net/of/2024-12-22/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241229
+SUMMARY:The Holy Family
+DESCRIPTION:The Holy Family\nhttps://www.missale.net/of/2024-12-29/en
+UID:https://www.missale.net/of/2024-12-29/en
+URL:https://www.missale.net/of/2024-12-29/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250112
+SUMMARY:Baptism of the Lord
+DESCRIPTION:Baptism of the Lord\nhttps://www.missale.net/of/2025-01-12/en
+UID:https://www.missale.net/of/2025-01-12/en
+URL:https://www.missale.net/of/2025-01-12/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250119
+SUMMARY:Second Sunday in Ordinary Time
+DESCRIPTION:Second Sunday in Ordinary Time\nhttps://www.missale.net/of/2025-01-19/en
+UID:https://www.missale.net/of/2025-01-19/en
+URL:https://www.missale.net/of/2025-01-19/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250126
+SUMMARY:Third Sunday in Ordinary Time
+DESCRIPTION:Third Sunday in Ordinary Time\nhttps://www.missale.net/of/2025-01-26/en
+UID:https://www.missale.net/of/2025-01-26/en
+URL:https://www.missale.net/of/2025-01-26/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250202
+SUMMARY:Fourth Sunday in Ordinary Time
+DESCRIPTION:Fourth Sunday in Ordinary Time\nhttps://www.missale.net/of/2025-02-02/en
+UID:https://www.missale.net/of/2025-02-02/en
+URL:https://www.missale.net/of/2025-02-02/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250209
+SUMMARY:Fifth Sunday in Ordinary Time
+DESCRIPTION:Fifth Sunday in Ordinary Time\nhttps://www.missale.net/of/2025-02-09/en
+UID:https://www.missale.net/of/2025-02-09/en
+URL:https://www.missale.net/of/2025-02-09/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250216
+SUMMARY:Sixth Sunday in Ordinary Time
+DESCRIPTION:Sixth Sunday in Ordinary Time\nhttps://www.missale.net/of/2025-02-16/en
+UID:https://www.missale.net/of/2025-02-16/en
+URL:https://www.missale.net/of/2025-02-16/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250223
+SUMMARY:Seventh Sunday in Ordinary Time
+DESCRIPTION:Seventh Sunday in Ordinary Time\nhttps://www.missale.net/of/2025-02-23/en
+UID:https://www.missale.net/of/2025-02-23/en
+URL:https://www.missale.net/of/2025-02-23/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250302
+SUMMARY:Eighth Sunday in Ordinary Time
+DESCRIPTION:Eighth Sunday in Ordinary Time\nhttps://www.missale.net/of/2025-03-02/en
+UID:https://www.missale.net/of/2025-03-02/en
+URL:https://www.missale.net/of/2025-03-02/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250309
+SUMMARY:First Sunday of Lent
+DESCRIPTION:First Sunday of Lent\nhttps://www.missale.net/of/2025-03-09/en
+UID:https://www.missale.net/of/2025-03-09/en
+URL:https://www.missale.net/of/2025-03-09/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250316
+SUMMARY:Second Sunday of Lent
+DESCRIPTION:Second Sunday of Lent\nhttps://www.missale.net/of/2025-03-16/en
+UID:https://www.missale.net/of/2025-03-16/en
+URL:https://www.missale.net/of/2025-03-16/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250323
+SUMMARY:Third Sunday of Lent
+DESCRIPTION:Third Sunday of Lent\nhttps://www.missale.net/of/2025-03-23/en
+UID:https://www.missale.net/of/2025-03-23/en
+URL:https://www.missale.net/of/2025-03-23/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250330
+SUMMARY:Fourth Sunday of Lent
+DESCRIPTION:Fourth Sunday of Lent\nhttps://www.missale.net/of/2025-03-30/en
+UID:https://www.missale.net/of/2025-03-30/en
+URL:https://www.missale.net/of/2025-03-30/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250406
+SUMMARY:Fifth Sunday of Lent
+DESCRIPTION:Fifth Sunday of Lent\nhttps://www.missale.net/of/2025-04-06/en
+UID:https://www.missale.net/of/2025-04-06/en
+URL:https://www.missale.net/of/2025-04-06/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250413
+SUMMARY:Palm Sunday
+DESCRIPTION:Palm Sunday\nhttps://www.missale.net/of/2025-04-13/en
+UID:https://www.missale.net/of/2025-04-13/en
+URL:https://www.missale.net/of/2025-04-13/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250419
+SUMMARY:Easter Vigil
+DESCRIPTION:Easter Vigil\nhttps://www.missale.net/of/2025-04-19/en
+UID:https://www.missale.net/of/2025-04-19/en
+URL:https://www.missale.net/of/2025-04-19/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250420
+SUMMARY:Easter Sunday
+DESCRIPTION:Easter Sunday\nhttps://www.missale.net/of/2025-04-20/en
+UID:https://www.missale.net/of/2025-04-20/en
+URL:https://www.missale.net/of/2025-04-20/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250427
+SUMMARY:Second Sunday of Easter
+DESCRIPTION:Second Sunday of Easter\nhttps://www.missale.net/of/2025-04-27/en
+UID:https://www.missale.net/of/2025-04-27/en
+URL:https://www.missale.net/of/2025-04-27/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250504
+SUMMARY:Third Sunday of Easter
+DESCRIPTION:Third Sunday of Easter\nhttps://www.missale.net/of/2025-05-04/en
+UID:https://www.missale.net/of/2025-05-04/en
+URL:https://www.missale.net/of/2025-05-04/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250511
+SUMMARY:Fourth Sunday of Easter
+DESCRIPTION:Fourth Sunday of Easter\nhttps://www.missale.net/of/2025-05-11/en
+UID:https://www.missale.net/of/2025-05-11/en
+URL:https://www.missale.net/of/2025-05-11/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250518
+SUMMARY:Fifth Sunday of Easter
+DESCRIPTION:Fifth Sunday of Easter\nhttps://www.missale.net/of/2025-05-18/en
+UID:https://www.missale.net/of/2025-05-18/en
+URL:https://www.missale.net/of/2025-05-18/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250525
+SUMMARY:Sixth Sunday of Easter
+DESCRIPTION:Sixth Sunday of Easter\nhttps://www.missale.net/of/2025-05-25/en
+UID:https://www.missale.net/of/2025-05-25/en
+URL:https://www.missale.net/of/2025-05-25/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250529
+SUMMARY:Ascension of the Lord
+DESCRIPTION:Ascension of the Lord\nhttps://www.missale.net/of/2025-05-29/en
+UID:https://www.missale.net/of/2025-05-29/en
+URL:https://www.missale.net/of/2025-05-29/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250601
+SUMMARY:Seventh Sunday of Easter
+DESCRIPTION:Seventh Sunday of Easter\nhttps://www.missale.net/of/2025-06-01/en
+UID:https://www.missale.net/of/2025-06-01/en
+URL:https://www.missale.net/of/2025-06-01/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250615
+SUMMARY:The Holy Trinity
+DESCRIPTION:The Holy Trinity\nhttps://www.missale.net/of/2025-06-15/en
+UID:https://www.missale.net/of/2025-06-15/en
+URL:https://www.missale.net/of/2025-06-15/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250619
+SUMMARY:Corpus Christi
+DESCRIPTION:Corpus Christi\nhttps://www.missale.net/of/2025-06-19/en
+UID:https://www.missale.net/of/2025-06-19/en
+URL:https://www.missale.net/of/2025-06-19/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250622
+SUMMARY:Twelfth Sunday in Ordinary Time
+DESCRIPTION:Twelfth Sunday in Ordinary Time\nhttps://www.missale.net/of/2025-06-22/en
+UID:https://www.missale.net/of/2025-06-22/en
+URL:https://www.missale.net/of/2025-06-22/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250627
+SUMMARY:Sacred Heart of Jesus
+DESCRIPTION:Sacred Heart of Jesus\nhttps://www.missale.net/of/2025-06-27/en
+UID:https://www.missale.net/of/2025-06-27/en
+URL:https://www.missale.net/of/2025-06-27/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250706
+SUMMARY:Fourteenth Sunday in Ordinary Time
+DESCRIPTION:Fourteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2025-07-06/en
+UID:https://www.missale.net/of/2025-07-06/en
+URL:https://www.missale.net/of/2025-07-06/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250713
+SUMMARY:Fifteenth Sunday in Ordinary Time
+DESCRIPTION:Fifteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2025-07-13/en
+UID:https://www.missale.net/of/2025-07-13/en
+URL:https://www.missale.net/of/2025-07-13/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250720
+SUMMARY:Sixteenth Sunday in Ordinary Time
+DESCRIPTION:Sixteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2025-07-20/en
+UID:https://www.missale.net/of/2025-07-20/en
+URL:https://www.missale.net/of/2025-07-20/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250727
+SUMMARY:Seventeenth Sunday in Ordinary Time
+DESCRIPTION:Seventeenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2025-07-27/en
+UID:https://www.missale.net/of/2025-07-27/en
+URL:https://www.missale.net/of/2025-07-27/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250803
+SUMMARY:Eighteenth Sunday in Ordinary Time
+DESCRIPTION:Eighteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2025-08-03/en
+UID:https://www.missale.net/of/2025-08-03/en
+URL:https://www.missale.net/of/2025-08-03/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250806
+SUMMARY:Transfiguration of the Lord
+DESCRIPTION:Transfiguration of the Lord\nhttps://www.missale.net/of/2025-08-06/en
+UID:https://www.missale.net/of/2025-08-06/en
+URL:https://www.missale.net/of/2025-08-06/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250810
+SUMMARY:Nineteenth Sunday in Ordinary Time
+DESCRIPTION:Nineteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2025-08-10/en
+UID:https://www.missale.net/of/2025-08-10/en
+URL:https://www.missale.net/of/2025-08-10/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250817
+SUMMARY:Twentieth Sunday in Ordinary Time
+DESCRIPTION:Twentieth Sunday in Ordinary Time\nhttps://www.missale.net/of/2025-08-17/en
+UID:https://www.missale.net/of/2025-08-17/en
+URL:https://www.missale.net/of/2025-08-17/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250824
+SUMMARY:Twenty-first Sunday in Ordinary Time
+DESCRIPTION:Twenty-first Sunday in Ordinary Time\nhttps://www.missale.net/of/2025-08-24/en
+UID:https://www.missale.net/of/2025-08-24/en
+URL:https://www.missale.net/of/2025-08-24/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250831
+SUMMARY:Twenty-second Sunday in Ordinary Time
+DESCRIPTION:Twenty-second Sunday in Ordinary Time\nhttps://www.missale.net/of/2025-08-31/en
+UID:https://www.missale.net/of/2025-08-31/en
+URL:https://www.missale.net/of/2025-08-31/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250907
+SUMMARY:Twenty-third Sunday in Ordinary Time
+DESCRIPTION:Twenty-third Sunday in Ordinary Time\nhttps://www.missale.net/of/2025-09-07/en
+UID:https://www.missale.net/of/2025-09-07/en
+URL:https://www.missale.net/of/2025-09-07/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250914
+SUMMARY:Twenty-fourth Sunday in Ordinary Time
+DESCRIPTION:Twenty-fourth Sunday in Ordinary Time\nhttps://www.missale.net/of/2025-09-14/en
+UID:https://www.missale.net/of/2025-09-14/en
+URL:https://www.missale.net/of/2025-09-14/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250921
+SUMMARY:Twenty-fifth Sunday in Ordinary Time
+DESCRIPTION:Twenty-fifth Sunday in Ordinary Time\nhttps://www.missale.net/of/2025-09-21/en
+UID:https://www.missale.net/of/2025-09-21/en
+URL:https://www.missale.net/of/2025-09-21/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250928
+SUMMARY:Twenty-sixth Sunday in Ordinary Time
+DESCRIPTION:Twenty-sixth Sunday in Ordinary Time\nhttps://www.missale.net/of/2025-09-28/en
+UID:https://www.missale.net/of/2025-09-28/en
+URL:https://www.missale.net/of/2025-09-28/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251005
+SUMMARY:Twenty-seventh Sunday in Ordinary Time
+DESCRIPTION:Twenty-seventh Sunday in Ordinary Time\nhttps://www.missale.net/of/2025-10-05/en
+UID:https://www.missale.net/of/2025-10-05/en
+URL:https://www.missale.net/of/2025-10-05/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251012
+SUMMARY:Twenty-eighth Sunday in Ordinary Time
+DESCRIPTION:Twenty-eighth Sunday in Ordinary Time\nhttps://www.missale.net/of/2025-10-12/en
+UID:https://www.missale.net/of/2025-10-12/en
+URL:https://www.missale.net/of/2025-10-12/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251019
+SUMMARY:Twenty-ninth Sunday in Ordinary Time
+DESCRIPTION:Twenty-ninth Sunday in Ordinary Time\nhttps://www.missale.net/of/2025-10-19/en
+UID:https://www.missale.net/of/2025-10-19/en
+URL:https://www.missale.net/of/2025-10-19/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251026
+SUMMARY:Thirtieth Sunday in Ordinary Time
+DESCRIPTION:Thirtieth Sunday in Ordinary Time\nhttps://www.missale.net/of/2025-10-26/en
+UID:https://www.missale.net/of/2025-10-26/en
+URL:https://www.missale.net/of/2025-10-26/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251109
+SUMMARY:Thirty-second Sunday in Ordinary Time
+DESCRIPTION:Thirty-second Sunday in Ordinary Time\nhttps://www.missale.net/of/2025-11-09/en
+UID:https://www.missale.net/of/2025-11-09/en
+URL:https://www.missale.net/of/2025-11-09/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251116
+SUMMARY:Thirty-third Sunday in Ordinary Time
+DESCRIPTION:Thirty-third Sunday in Ordinary Time\nhttps://www.missale.net/of/2025-11-16/en
+UID:https://www.missale.net/of/2025-11-16/en
+URL:https://www.missale.net/of/2025-11-16/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251123
+SUMMARY:Christ the King
+DESCRIPTION:Christ the King\nhttps://www.missale.net/of/2025-11-23/en
+UID:https://www.missale.net/of/2025-11-23/en
+URL:https://www.missale.net/of/2025-11-23/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251130
+SUMMARY:First sunday of Advent
+DESCRIPTION:First sunday of Advent\nhttps://www.missale.net/of/2025-11-30/en
+UID:https://www.missale.net/of/2025-11-30/en
+URL:https://www.missale.net/of/2025-11-30/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251207
+SUMMARY:Second Sunday of Advent
+DESCRIPTION:Second Sunday of Advent\nhttps://www.missale.net/of/2025-12-07/en
+UID:https://www.missale.net/of/2025-12-07/en
+URL:https://www.missale.net/of/2025-12-07/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251214
+SUMMARY:Third Sunday of Advent
+DESCRIPTION:Third Sunday of Advent\nhttps://www.missale.net/of/2025-12-14/en
+UID:https://www.missale.net/of/2025-12-14/en
+URL:https://www.missale.net/of/2025-12-14/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251221
+SUMMARY:Fourth Sunday of Advent
+DESCRIPTION:Fourth Sunday of Advent\nhttps://www.missale.net/of/2025-12-21/en
+UID:https://www.missale.net/of/2025-12-21/en
+URL:https://www.missale.net/of/2025-12-21/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251228
+SUMMARY:The Holy Family
+DESCRIPTION:The Holy Family\nhttps://www.missale.net/of/2025-12-28/en
+UID:https://www.missale.net/of/2025-12-28/en
+URL:https://www.missale.net/of/2025-12-28/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260111
+SUMMARY:Baptism of the Lord
+DESCRIPTION:Baptism of the Lord\nhttps://www.missale.net/of/2026-01-11/en
+UID:https://www.missale.net/of/2026-01-11/en
+URL:https://www.missale.net/of/2026-01-11/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260118
+SUMMARY:Second Sunday in Ordinary Time
+DESCRIPTION:Second Sunday in Ordinary Time\nhttps://www.missale.net/of/2026-01-18/en
+UID:https://www.missale.net/of/2026-01-18/en
+URL:https://www.missale.net/of/2026-01-18/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260125
+SUMMARY:Third Sunday in Ordinary Time
+DESCRIPTION:Third Sunday in Ordinary Time\nhttps://www.missale.net/of/2026-01-25/en
+UID:https://www.missale.net/of/2026-01-25/en
+URL:https://www.missale.net/of/2026-01-25/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260201
+SUMMARY:Fourth Sunday in Ordinary Time
+DESCRIPTION:Fourth Sunday in Ordinary Time\nhttps://www.missale.net/of/2026-02-01/en
+UID:https://www.missale.net/of/2026-02-01/en
+URL:https://www.missale.net/of/2026-02-01/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260208
+SUMMARY:Fifth Sunday in Ordinary Time
+DESCRIPTION:Fifth Sunday in Ordinary Time\nhttps://www.missale.net/of/2026-02-08/en
+UID:https://www.missale.net/of/2026-02-08/en
+URL:https://www.missale.net/of/2026-02-08/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260215
+SUMMARY:Sixth Sunday in Ordinary Time
+DESCRIPTION:Sixth Sunday in Ordinary Time\nhttps://www.missale.net/of/2026-02-15/en
+UID:https://www.missale.net/of/2026-02-15/en
+URL:https://www.missale.net/of/2026-02-15/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260222
+SUMMARY:First Sunday of Lent
+DESCRIPTION:First Sunday of Lent\nhttps://www.missale.net/of/2026-02-22/en
+UID:https://www.missale.net/of/2026-02-22/en
+URL:https://www.missale.net/of/2026-02-22/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260301
+SUMMARY:Second Sunday of Lent
+DESCRIPTION:Second Sunday of Lent\nhttps://www.missale.net/of/2026-03-01/en
+UID:https://www.missale.net/of/2026-03-01/en
+URL:https://www.missale.net/of/2026-03-01/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260308
+SUMMARY:Third Sunday of Lent
+DESCRIPTION:Third Sunday of Lent\nhttps://www.missale.net/of/2026-03-08/en
+UID:https://www.missale.net/of/2026-03-08/en
+URL:https://www.missale.net/of/2026-03-08/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260315
+SUMMARY:Fourth Sunday of Lent
+DESCRIPTION:Fourth Sunday of Lent\nhttps://www.missale.net/of/2026-03-15/en
+UID:https://www.missale.net/of/2026-03-15/en
+URL:https://www.missale.net/of/2026-03-15/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260322
+SUMMARY:Fifth Sunday of Lent
+DESCRIPTION:Fifth Sunday of Lent\nhttps://www.missale.net/of/2026-03-22/en
+UID:https://www.missale.net/of/2026-03-22/en
+URL:https://www.missale.net/of/2026-03-22/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+SUMMARY:Palm Sunday
+DESCRIPTION:Palm Sunday\nhttps://www.missale.net/of/2026-03-29/en
+UID:https://www.missale.net/of/2026-03-29/en
+URL:https://www.missale.net/of/2026-03-29/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260404
+SUMMARY:Easter Vigil
+DESCRIPTION:Easter Vigil\nhttps://www.missale.net/of/2026-04-04/en
+UID:https://www.missale.net/of/2026-04-04/en
+URL:https://www.missale.net/of/2026-04-04/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260405
+SUMMARY:Easter Sunday
+DESCRIPTION:Easter Sunday\nhttps://www.missale.net/of/2026-04-05/en
+UID:https://www.missale.net/of/2026-04-05/en
+URL:https://www.missale.net/of/2026-04-05/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260412
+SUMMARY:Second Sunday of Easter
+DESCRIPTION:Second Sunday of Easter\nhttps://www.missale.net/of/2026-04-12/en
+UID:https://www.missale.net/of/2026-04-12/en
+URL:https://www.missale.net/of/2026-04-12/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+SUMMARY:Third Sunday of Easter
+DESCRIPTION:Third Sunday of Easter\nhttps://www.missale.net/of/2026-04-19/en
+UID:https://www.missale.net/of/2026-04-19/en
+URL:https://www.missale.net/of/2026-04-19/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+SUMMARY:Fourth Sunday of Easter
+DESCRIPTION:Fourth Sunday of Easter\nhttps://www.missale.net/of/2026-04-26/en
+UID:https://www.missale.net/of/2026-04-26/en
+URL:https://www.missale.net/of/2026-04-26/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+SUMMARY:Fifth Sunday of Easter
+DESCRIPTION:Fifth Sunday of Easter\nhttps://www.missale.net/of/2026-05-03/en
+UID:https://www.missale.net/of/2026-05-03/en
+URL:https://www.missale.net/of/2026-05-03/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+SUMMARY:Sixth Sunday of Easter
+DESCRIPTION:Sixth Sunday of Easter\nhttps://www.missale.net/of/2026-05-10/en
+UID:https://www.missale.net/of/2026-05-10/en
+URL:https://www.missale.net/of/2026-05-10/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260514
+SUMMARY:Ascension of the Lord
+DESCRIPTION:Ascension of the Lord\nhttps://www.missale.net/of/2026-05-14/en
+UID:https://www.missale.net/of/2026-05-14/en
+URL:https://www.missale.net/of/2026-05-14/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260517
+SUMMARY:Seventh Sunday of Easter
+DESCRIPTION:Seventh Sunday of Easter\nhttps://www.missale.net/of/2026-05-17/en
+UID:https://www.missale.net/of/2026-05-17/en
+URL:https://www.missale.net/of/2026-05-17/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260531
+SUMMARY:The Holy Trinity
+DESCRIPTION:The Holy Trinity\nhttps://www.missale.net/of/2026-05-31/en
+UID:https://www.missale.net/of/2026-05-31/en
+URL:https://www.missale.net/of/2026-05-31/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260604
+SUMMARY:Corpus Christi
+DESCRIPTION:Corpus Christi\nhttps://www.missale.net/of/2026-06-04/en
+UID:https://www.missale.net/of/2026-06-04/en
+URL:https://www.missale.net/of/2026-06-04/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260607
+SUMMARY:Tenth Sunday in Ordinary Time
+DESCRIPTION:Tenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2026-06-07/en
+UID:https://www.missale.net/of/2026-06-07/en
+URL:https://www.missale.net/of/2026-06-07/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260612
+SUMMARY:Sacred Heart of Jesus
+DESCRIPTION:Sacred Heart of Jesus\nhttps://www.missale.net/of/2026-06-12/en
+UID:https://www.missale.net/of/2026-06-12/en
+URL:https://www.missale.net/of/2026-06-12/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260614
+SUMMARY:Eleventh Sunday in Ordinary Time
+DESCRIPTION:Eleventh Sunday in Ordinary Time\nhttps://www.missale.net/of/2026-06-14/en
+UID:https://www.missale.net/of/2026-06-14/en
+URL:https://www.missale.net/of/2026-06-14/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260621
+SUMMARY:Twelfth Sunday in Ordinary Time
+DESCRIPTION:Twelfth Sunday in Ordinary Time\nhttps://www.missale.net/of/2026-06-21/en
+UID:https://www.missale.net/of/2026-06-21/en
+URL:https://www.missale.net/of/2026-06-21/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260628
+SUMMARY:Thirteenth Sunday in Ordinary Time
+DESCRIPTION:Thirteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2026-06-28/en
+UID:https://www.missale.net/of/2026-06-28/en
+URL:https://www.missale.net/of/2026-06-28/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260705
+SUMMARY:Fourteenth Sunday in Ordinary Time
+DESCRIPTION:Fourteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2026-07-05/en
+UID:https://www.missale.net/of/2026-07-05/en
+URL:https://www.missale.net/of/2026-07-05/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260712
+SUMMARY:Fifteenth Sunday in Ordinary Time
+DESCRIPTION:Fifteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2026-07-12/en
+UID:https://www.missale.net/of/2026-07-12/en
+URL:https://www.missale.net/of/2026-07-12/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260719
+SUMMARY:Sixteenth Sunday in Ordinary Time
+DESCRIPTION:Sixteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2026-07-19/en
+UID:https://www.missale.net/of/2026-07-19/en
+URL:https://www.missale.net/of/2026-07-19/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260726
+SUMMARY:Seventeenth Sunday in Ordinary Time
+DESCRIPTION:Seventeenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2026-07-26/en
+UID:https://www.missale.net/of/2026-07-26/en
+URL:https://www.missale.net/of/2026-07-26/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260802
+SUMMARY:Eighteenth Sunday in Ordinary Time
+DESCRIPTION:Eighteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2026-08-02/en
+UID:https://www.missale.net/of/2026-08-02/en
+URL:https://www.missale.net/of/2026-08-02/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260806
+SUMMARY:Transfiguration of the Lord
+DESCRIPTION:Transfiguration of the Lord\nhttps://www.missale.net/of/2026-08-06/en
+UID:https://www.missale.net/of/2026-08-06/en
+URL:https://www.missale.net/of/2026-08-06/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260809
+SUMMARY:Nineteenth Sunday in Ordinary Time
+DESCRIPTION:Nineteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2026-08-09/en
+UID:https://www.missale.net/of/2026-08-09/en
+URL:https://www.missale.net/of/2026-08-09/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260816
+SUMMARY:Twentieth Sunday in Ordinary Time
+DESCRIPTION:Twentieth Sunday in Ordinary Time\nhttps://www.missale.net/of/2026-08-16/en
+UID:https://www.missale.net/of/2026-08-16/en
+URL:https://www.missale.net/of/2026-08-16/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260823
+SUMMARY:Twenty-first Sunday in Ordinary Time
+DESCRIPTION:Twenty-first Sunday in Ordinary Time\nhttps://www.missale.net/of/2026-08-23/en
+UID:https://www.missale.net/of/2026-08-23/en
+URL:https://www.missale.net/of/2026-08-23/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260830
+SUMMARY:Twenty-second Sunday in Ordinary Time
+DESCRIPTION:Twenty-second Sunday in Ordinary Time\nhttps://www.missale.net/of/2026-08-30/en
+UID:https://www.missale.net/of/2026-08-30/en
+URL:https://www.missale.net/of/2026-08-30/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260906
+SUMMARY:Twenty-third Sunday in Ordinary Time
+DESCRIPTION:Twenty-third Sunday in Ordinary Time\nhttps://www.missale.net/of/2026-09-06/en
+UID:https://www.missale.net/of/2026-09-06/en
+URL:https://www.missale.net/of/2026-09-06/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260913
+SUMMARY:Twenty-fourth Sunday in Ordinary Time
+DESCRIPTION:Twenty-fourth Sunday in Ordinary Time\nhttps://www.missale.net/of/2026-09-13/en
+UID:https://www.missale.net/of/2026-09-13/en
+URL:https://www.missale.net/of/2026-09-13/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260920
+SUMMARY:Twenty-fifth Sunday in Ordinary Time
+DESCRIPTION:Twenty-fifth Sunday in Ordinary Time\nhttps://www.missale.net/of/2026-09-20/en
+UID:https://www.missale.net/of/2026-09-20/en
+URL:https://www.missale.net/of/2026-09-20/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260927
+SUMMARY:Twenty-sixth Sunday in Ordinary Time
+DESCRIPTION:Twenty-sixth Sunday in Ordinary Time\nhttps://www.missale.net/of/2026-09-27/en
+UID:https://www.missale.net/of/2026-09-27/en
+URL:https://www.missale.net/of/2026-09-27/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261004
+SUMMARY:Twenty-seventh Sunday in Ordinary Time
+DESCRIPTION:Twenty-seventh Sunday in Ordinary Time\nhttps://www.missale.net/of/2026-10-04/en
+UID:https://www.missale.net/of/2026-10-04/en
+URL:https://www.missale.net/of/2026-10-04/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261011
+SUMMARY:Twenty-eighth Sunday in Ordinary Time
+DESCRIPTION:Twenty-eighth Sunday in Ordinary Time\nhttps://www.missale.net/of/2026-10-11/en
+UID:https://www.missale.net/of/2026-10-11/en
+URL:https://www.missale.net/of/2026-10-11/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261018
+SUMMARY:Twenty-ninth Sunday in Ordinary Time
+DESCRIPTION:Twenty-ninth Sunday in Ordinary Time\nhttps://www.missale.net/of/2026-10-18/en
+UID:https://www.missale.net/of/2026-10-18/en
+URL:https://www.missale.net/of/2026-10-18/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261025
+SUMMARY:Thirtieth Sunday in Ordinary Time
+DESCRIPTION:Thirtieth Sunday in Ordinary Time\nhttps://www.missale.net/of/2026-10-25/en
+UID:https://www.missale.net/of/2026-10-25/en
+URL:https://www.missale.net/of/2026-10-25/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Thirty-second Sunday in Ordinary Time
+DESCRIPTION:Thirty-second Sunday in Ordinary Time\nhttps://www.missale.net/of/2026-11-08/en
+UID:https://www.missale.net/of/2026-11-08/en
+URL:https://www.missale.net/of/2026-11-08/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261115
+SUMMARY:Thirty-third Sunday in Ordinary Time
+DESCRIPTION:Thirty-third Sunday in Ordinary Time\nhttps://www.missale.net/of/2026-11-15/en
+UID:https://www.missale.net/of/2026-11-15/en
+URL:https://www.missale.net/of/2026-11-15/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261122
+SUMMARY:Christ the King
+DESCRIPTION:Christ the King\nhttps://www.missale.net/of/2026-11-22/en
+UID:https://www.missale.net/of/2026-11-22/en
+URL:https://www.missale.net/of/2026-11-22/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261129
+SUMMARY:First sunday of Advent
+DESCRIPTION:First sunday of Advent\nhttps://www.missale.net/of/2026-11-29/en
+UID:https://www.missale.net/of/2026-11-29/en
+URL:https://www.missale.net/of/2026-11-29/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261206
+SUMMARY:Second Sunday of Advent
+DESCRIPTION:Second Sunday of Advent\nhttps://www.missale.net/of/2026-12-06/en
+UID:https://www.missale.net/of/2026-12-06/en
+URL:https://www.missale.net/of/2026-12-06/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261213
+SUMMARY:Third Sunday of Advent
+DESCRIPTION:Third Sunday of Advent\nhttps://www.missale.net/of/2026-12-13/en
+UID:https://www.missale.net/of/2026-12-13/en
+URL:https://www.missale.net/of/2026-12-13/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261220
+SUMMARY:Fourth Sunday of Advent
+DESCRIPTION:Fourth Sunday of Advent\nhttps://www.missale.net/of/2026-12-20/en
+UID:https://www.missale.net/of/2026-12-20/en
+URL:https://www.missale.net/of/2026-12-20/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261227
+SUMMARY:The Holy Family
+DESCRIPTION:The Holy Family\nhttps://www.missale.net/of/2026-12-27/en
+UID:https://www.missale.net/of/2026-12-27/en
+URL:https://www.missale.net/of/2026-12-27/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270110
+SUMMARY:Baptism of the Lord
+DESCRIPTION:Baptism of the Lord\nhttps://www.missale.net/of/2027-01-10/en
+UID:https://www.missale.net/of/2027-01-10/en
+URL:https://www.missale.net/of/2027-01-10/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270117
+SUMMARY:Second Sunday in Ordinary Time
+DESCRIPTION:Second Sunday in Ordinary Time\nhttps://www.missale.net/of/2027-01-17/en
+UID:https://www.missale.net/of/2027-01-17/en
+URL:https://www.missale.net/of/2027-01-17/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270124
+SUMMARY:Third Sunday in Ordinary Time
+DESCRIPTION:Third Sunday in Ordinary Time\nhttps://www.missale.net/of/2027-01-24/en
+UID:https://www.missale.net/of/2027-01-24/en
+URL:https://www.missale.net/of/2027-01-24/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270131
+SUMMARY:Fourth Sunday in Ordinary Time
+DESCRIPTION:Fourth Sunday in Ordinary Time\nhttps://www.missale.net/of/2027-01-31/en
+UID:https://www.missale.net/of/2027-01-31/en
+URL:https://www.missale.net/of/2027-01-31/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270207
+SUMMARY:Fifth Sunday in Ordinary Time
+DESCRIPTION:Fifth Sunday in Ordinary Time\nhttps://www.missale.net/of/2027-02-07/en
+UID:https://www.missale.net/of/2027-02-07/en
+URL:https://www.missale.net/of/2027-02-07/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270214
+SUMMARY:First Sunday of Lent
+DESCRIPTION:First Sunday of Lent\nhttps://www.missale.net/of/2027-02-14/en
+UID:https://www.missale.net/of/2027-02-14/en
+URL:https://www.missale.net/of/2027-02-14/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270221
+SUMMARY:Second Sunday of Lent
+DESCRIPTION:Second Sunday of Lent\nhttps://www.missale.net/of/2027-02-21/en
+UID:https://www.missale.net/of/2027-02-21/en
+URL:https://www.missale.net/of/2027-02-21/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270228
+SUMMARY:Third Sunday of Lent
+DESCRIPTION:Third Sunday of Lent\nhttps://www.missale.net/of/2027-02-28/en
+UID:https://www.missale.net/of/2027-02-28/en
+URL:https://www.missale.net/of/2027-02-28/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270307
+SUMMARY:Fourth Sunday of Lent
+DESCRIPTION:Fourth Sunday of Lent\nhttps://www.missale.net/of/2027-03-07/en
+UID:https://www.missale.net/of/2027-03-07/en
+URL:https://www.missale.net/of/2027-03-07/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270314
+SUMMARY:Fifth Sunday of Lent
+DESCRIPTION:Fifth Sunday of Lent\nhttps://www.missale.net/of/2027-03-14/en
+UID:https://www.missale.net/of/2027-03-14/en
+URL:https://www.missale.net/of/2027-03-14/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270321
+SUMMARY:Palm Sunday
+DESCRIPTION:Palm Sunday\nhttps://www.missale.net/of/2027-03-21/en
+UID:https://www.missale.net/of/2027-03-21/en
+URL:https://www.missale.net/of/2027-03-21/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270327
+SUMMARY:Easter Vigil
+DESCRIPTION:Easter Vigil\nhttps://www.missale.net/of/2027-03-27/en
+UID:https://www.missale.net/of/2027-03-27/en
+URL:https://www.missale.net/of/2027-03-27/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270328
+SUMMARY:Easter Sunday
+DESCRIPTION:Easter Sunday\nhttps://www.missale.net/of/2027-03-28/en
+UID:https://www.missale.net/of/2027-03-28/en
+URL:https://www.missale.net/of/2027-03-28/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270404
+SUMMARY:Second Sunday of Easter
+DESCRIPTION:Second Sunday of Easter\nhttps://www.missale.net/of/2027-04-04/en
+UID:https://www.missale.net/of/2027-04-04/en
+URL:https://www.missale.net/of/2027-04-04/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270411
+SUMMARY:Third Sunday of Easter
+DESCRIPTION:Third Sunday of Easter\nhttps://www.missale.net/of/2027-04-11/en
+UID:https://www.missale.net/of/2027-04-11/en
+URL:https://www.missale.net/of/2027-04-11/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270418
+SUMMARY:Fourth Sunday of Easter
+DESCRIPTION:Fourth Sunday of Easter\nhttps://www.missale.net/of/2027-04-18/en
+UID:https://www.missale.net/of/2027-04-18/en
+URL:https://www.missale.net/of/2027-04-18/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270425
+SUMMARY:Fifth Sunday of Easter
+DESCRIPTION:Fifth Sunday of Easter\nhttps://www.missale.net/of/2027-04-25/en
+UID:https://www.missale.net/of/2027-04-25/en
+URL:https://www.missale.net/of/2027-04-25/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270502
+SUMMARY:Sixth Sunday of Easter
+DESCRIPTION:Sixth Sunday of Easter\nhttps://www.missale.net/of/2027-05-02/en
+UID:https://www.missale.net/of/2027-05-02/en
+URL:https://www.missale.net/of/2027-05-02/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270506
+SUMMARY:Ascension of the Lord
+DESCRIPTION:Ascension of the Lord\nhttps://www.missale.net/of/2027-05-06/en
+UID:https://www.missale.net/of/2027-05-06/en
+URL:https://www.missale.net/of/2027-05-06/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270509
+SUMMARY:Seventh Sunday of Easter
+DESCRIPTION:Seventh Sunday of Easter\nhttps://www.missale.net/of/2027-05-09/en
+UID:https://www.missale.net/of/2027-05-09/en
+URL:https://www.missale.net/of/2027-05-09/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270523
+SUMMARY:The Holy Trinity
+DESCRIPTION:The Holy Trinity\nhttps://www.missale.net/of/2027-05-23/en
+UID:https://www.missale.net/of/2027-05-23/en
+URL:https://www.missale.net/of/2027-05-23/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270527
+SUMMARY:Corpus Christi
+DESCRIPTION:Corpus Christi\nhttps://www.missale.net/of/2027-05-27/en
+UID:https://www.missale.net/of/2027-05-27/en
+URL:https://www.missale.net/of/2027-05-27/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270530
+SUMMARY:Ninth Sunday in Ordinary Time
+DESCRIPTION:Ninth Sunday in Ordinary Time\nhttps://www.missale.net/of/2027-05-30/en
+UID:https://www.missale.net/of/2027-05-30/en
+URL:https://www.missale.net/of/2027-05-30/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270604
+SUMMARY:Sacred Heart of Jesus
+DESCRIPTION:Sacred Heart of Jesus\nhttps://www.missale.net/of/2027-06-04/en
+UID:https://www.missale.net/of/2027-06-04/en
+URL:https://www.missale.net/of/2027-06-04/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270606
+SUMMARY:Tenth Sunday in Ordinary Time
+DESCRIPTION:Tenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2027-06-06/en
+UID:https://www.missale.net/of/2027-06-06/en
+URL:https://www.missale.net/of/2027-06-06/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270613
+SUMMARY:Eleventh Sunday in Ordinary Time
+DESCRIPTION:Eleventh Sunday in Ordinary Time\nhttps://www.missale.net/of/2027-06-13/en
+UID:https://www.missale.net/of/2027-06-13/en
+URL:https://www.missale.net/of/2027-06-13/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270620
+SUMMARY:Twelfth Sunday in Ordinary Time
+DESCRIPTION:Twelfth Sunday in Ordinary Time\nhttps://www.missale.net/of/2027-06-20/en
+UID:https://www.missale.net/of/2027-06-20/en
+URL:https://www.missale.net/of/2027-06-20/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270627
+SUMMARY:Thirteenth Sunday in Ordinary Time
+DESCRIPTION:Thirteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2027-06-27/en
+UID:https://www.missale.net/of/2027-06-27/en
+URL:https://www.missale.net/of/2027-06-27/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270704
+SUMMARY:Fourteenth Sunday in Ordinary Time
+DESCRIPTION:Fourteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2027-07-04/en
+UID:https://www.missale.net/of/2027-07-04/en
+URL:https://www.missale.net/of/2027-07-04/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270711
+SUMMARY:Fifteenth Sunday in Ordinary Time
+DESCRIPTION:Fifteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2027-07-11/en
+UID:https://www.missale.net/of/2027-07-11/en
+URL:https://www.missale.net/of/2027-07-11/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270718
+SUMMARY:Sixteenth Sunday in Ordinary Time
+DESCRIPTION:Sixteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2027-07-18/en
+UID:https://www.missale.net/of/2027-07-18/en
+URL:https://www.missale.net/of/2027-07-18/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270725
+SUMMARY:Seventeenth Sunday in Ordinary Time
+DESCRIPTION:Seventeenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2027-07-25/en
+UID:https://www.missale.net/of/2027-07-25/en
+URL:https://www.missale.net/of/2027-07-25/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270801
+SUMMARY:Eighteenth Sunday in Ordinary Time
+DESCRIPTION:Eighteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2027-08-01/en
+UID:https://www.missale.net/of/2027-08-01/en
+URL:https://www.missale.net/of/2027-08-01/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270806
+SUMMARY:Transfiguration of the Lord
+DESCRIPTION:Transfiguration of the Lord\nhttps://www.missale.net/of/2027-08-06/en
+UID:https://www.missale.net/of/2027-08-06/en
+URL:https://www.missale.net/of/2027-08-06/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270808
+SUMMARY:Nineteenth Sunday in Ordinary Time
+DESCRIPTION:Nineteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2027-08-08/en
+UID:https://www.missale.net/of/2027-08-08/en
+URL:https://www.missale.net/of/2027-08-08/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270822
+SUMMARY:Twenty-first Sunday in Ordinary Time
+DESCRIPTION:Twenty-first Sunday in Ordinary Time\nhttps://www.missale.net/of/2027-08-22/en
+UID:https://www.missale.net/of/2027-08-22/en
+URL:https://www.missale.net/of/2027-08-22/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270829
+SUMMARY:Twenty-second Sunday in Ordinary Time
+DESCRIPTION:Twenty-second Sunday in Ordinary Time\nhttps://www.missale.net/of/2027-08-29/en
+UID:https://www.missale.net/of/2027-08-29/en
+URL:https://www.missale.net/of/2027-08-29/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270905
+SUMMARY:Twenty-third Sunday in Ordinary Time
+DESCRIPTION:Twenty-third Sunday in Ordinary Time\nhttps://www.missale.net/of/2027-09-05/en
+UID:https://www.missale.net/of/2027-09-05/en
+URL:https://www.missale.net/of/2027-09-05/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270912
+SUMMARY:Twenty-fourth Sunday in Ordinary Time
+DESCRIPTION:Twenty-fourth Sunday in Ordinary Time\nhttps://www.missale.net/of/2027-09-12/en
+UID:https://www.missale.net/of/2027-09-12/en
+URL:https://www.missale.net/of/2027-09-12/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270919
+SUMMARY:Twenty-fifth Sunday in Ordinary Time
+DESCRIPTION:Twenty-fifth Sunday in Ordinary Time\nhttps://www.missale.net/of/2027-09-19/en
+UID:https://www.missale.net/of/2027-09-19/en
+URL:https://www.missale.net/of/2027-09-19/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270926
+SUMMARY:Twenty-sixth Sunday in Ordinary Time
+DESCRIPTION:Twenty-sixth Sunday in Ordinary Time\nhttps://www.missale.net/of/2027-09-26/en
+UID:https://www.missale.net/of/2027-09-26/en
+URL:https://www.missale.net/of/2027-09-26/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271003
+SUMMARY:Twenty-seventh Sunday in Ordinary Time
+DESCRIPTION:Twenty-seventh Sunday in Ordinary Time\nhttps://www.missale.net/of/2027-10-03/en
+UID:https://www.missale.net/of/2027-10-03/en
+URL:https://www.missale.net/of/2027-10-03/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271010
+SUMMARY:Twenty-eighth Sunday in Ordinary Time
+DESCRIPTION:Twenty-eighth Sunday in Ordinary Time\nhttps://www.missale.net/of/2027-10-10/en
+UID:https://www.missale.net/of/2027-10-10/en
+URL:https://www.missale.net/of/2027-10-10/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271017
+SUMMARY:Twenty-ninth Sunday in Ordinary Time
+DESCRIPTION:Twenty-ninth Sunday in Ordinary Time\nhttps://www.missale.net/of/2027-10-17/en
+UID:https://www.missale.net/of/2027-10-17/en
+URL:https://www.missale.net/of/2027-10-17/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271024
+SUMMARY:Thirtieth Sunday in Ordinary Time
+DESCRIPTION:Thirtieth Sunday in Ordinary Time\nhttps://www.missale.net/of/2027-10-24/en
+UID:https://www.missale.net/of/2027-10-24/en
+URL:https://www.missale.net/of/2027-10-24/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271031
+SUMMARY:Thirty-first Sunday in Ordinary Time
+DESCRIPTION:Thirty-first Sunday in Ordinary Time\nhttps://www.missale.net/of/2027-10-31/en
+UID:https://www.missale.net/of/2027-10-31/en
+URL:https://www.missale.net/of/2027-10-31/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271107
+SUMMARY:Thirty-second Sunday in Ordinary Time
+DESCRIPTION:Thirty-second Sunday in Ordinary Time\nhttps://www.missale.net/of/2027-11-07/en
+UID:https://www.missale.net/of/2027-11-07/en
+URL:https://www.missale.net/of/2027-11-07/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271114
+SUMMARY:Thirty-third Sunday in Ordinary Time
+DESCRIPTION:Thirty-third Sunday in Ordinary Time\nhttps://www.missale.net/of/2027-11-14/en
+UID:https://www.missale.net/of/2027-11-14/en
+URL:https://www.missale.net/of/2027-11-14/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271121
+SUMMARY:Christ the King
+DESCRIPTION:Christ the King\nhttps://www.missale.net/of/2027-11-21/en
+UID:https://www.missale.net/of/2027-11-21/en
+URL:https://www.missale.net/of/2027-11-21/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271128
+SUMMARY:First sunday of Advent
+DESCRIPTION:First sunday of Advent\nhttps://www.missale.net/of/2027-11-28/en
+UID:https://www.missale.net/of/2027-11-28/en
+URL:https://www.missale.net/of/2027-11-28/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271205
+SUMMARY:Second Sunday of Advent
+DESCRIPTION:Second Sunday of Advent\nhttps://www.missale.net/of/2027-12-05/en
+UID:https://www.missale.net/of/2027-12-05/en
+URL:https://www.missale.net/of/2027-12-05/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271212
+SUMMARY:Third Sunday of Advent
+DESCRIPTION:Third Sunday of Advent\nhttps://www.missale.net/of/2027-12-12/en
+UID:https://www.missale.net/of/2027-12-12/en
+URL:https://www.missale.net/of/2027-12-12/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271219
+SUMMARY:Fourth Sunday of Advent
+DESCRIPTION:Fourth Sunday of Advent\nhttps://www.missale.net/of/2027-12-19/en
+UID:https://www.missale.net/of/2027-12-19/en
+URL:https://www.missale.net/of/2027-12-19/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271226
+SUMMARY:The Holy Family
+DESCRIPTION:The Holy Family\nhttps://www.missale.net/of/2027-12-26/en
+UID:https://www.missale.net/of/2027-12-26/en
+URL:https://www.missale.net/of/2027-12-26/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280110
+SUMMARY:Baptism of the Lord
+DESCRIPTION:Baptism of the Lord\nhttps://www.missale.net/of/2028-01-10/en
+UID:https://www.missale.net/of/2028-01-10/en
+URL:https://www.missale.net/of/2028-01-10/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280116
+SUMMARY:Second Sunday in Ordinary Time
+DESCRIPTION:Second Sunday in Ordinary Time\nhttps://www.missale.net/of/2028-01-16/en
+UID:https://www.missale.net/of/2028-01-16/en
+URL:https://www.missale.net/of/2028-01-16/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280123
+SUMMARY:Third Sunday in Ordinary Time
+DESCRIPTION:Third Sunday in Ordinary Time\nhttps://www.missale.net/of/2028-01-23/en
+UID:https://www.missale.net/of/2028-01-23/en
+URL:https://www.missale.net/of/2028-01-23/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280130
+SUMMARY:Fourth Sunday in Ordinary Time
+DESCRIPTION:Fourth Sunday in Ordinary Time\nhttps://www.missale.net/of/2028-01-30/en
+UID:https://www.missale.net/of/2028-01-30/en
+URL:https://www.missale.net/of/2028-01-30/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280206
+SUMMARY:Fifth Sunday in Ordinary Time
+DESCRIPTION:Fifth Sunday in Ordinary Time\nhttps://www.missale.net/of/2028-02-06/en
+UID:https://www.missale.net/of/2028-02-06/en
+URL:https://www.missale.net/of/2028-02-06/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280213
+SUMMARY:Sixth Sunday in Ordinary Time
+DESCRIPTION:Sixth Sunday in Ordinary Time\nhttps://www.missale.net/of/2028-02-13/en
+UID:https://www.missale.net/of/2028-02-13/en
+URL:https://www.missale.net/of/2028-02-13/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280220
+SUMMARY:Seventh Sunday in Ordinary Time
+DESCRIPTION:Seventh Sunday in Ordinary Time\nhttps://www.missale.net/of/2028-02-20/en
+UID:https://www.missale.net/of/2028-02-20/en
+URL:https://www.missale.net/of/2028-02-20/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280227
+SUMMARY:Eighth Sunday in Ordinary Time
+DESCRIPTION:Eighth Sunday in Ordinary Time\nhttps://www.missale.net/of/2028-02-27/en
+UID:https://www.missale.net/of/2028-02-27/en
+URL:https://www.missale.net/of/2028-02-27/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280305
+SUMMARY:First Sunday of Lent
+DESCRIPTION:First Sunday of Lent\nhttps://www.missale.net/of/2028-03-05/en
+UID:https://www.missale.net/of/2028-03-05/en
+URL:https://www.missale.net/of/2028-03-05/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280312
+SUMMARY:Second Sunday of Lent
+DESCRIPTION:Second Sunday of Lent\nhttps://www.missale.net/of/2028-03-12/en
+UID:https://www.missale.net/of/2028-03-12/en
+URL:https://www.missale.net/of/2028-03-12/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280319
+SUMMARY:Third Sunday of Lent
+DESCRIPTION:Third Sunday of Lent\nhttps://www.missale.net/of/2028-03-19/en
+UID:https://www.missale.net/of/2028-03-19/en
+URL:https://www.missale.net/of/2028-03-19/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280326
+SUMMARY:Fourth Sunday of Lent
+DESCRIPTION:Fourth Sunday of Lent\nhttps://www.missale.net/of/2028-03-26/en
+UID:https://www.missale.net/of/2028-03-26/en
+URL:https://www.missale.net/of/2028-03-26/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280402
+SUMMARY:Fifth Sunday of Lent
+DESCRIPTION:Fifth Sunday of Lent\nhttps://www.missale.net/of/2028-04-02/en
+UID:https://www.missale.net/of/2028-04-02/en
+URL:https://www.missale.net/of/2028-04-02/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280409
+SUMMARY:Palm Sunday
+DESCRIPTION:Palm Sunday\nhttps://www.missale.net/of/2028-04-09/en
+UID:https://www.missale.net/of/2028-04-09/en
+URL:https://www.missale.net/of/2028-04-09/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280415
+SUMMARY:Easter Vigil
+DESCRIPTION:Easter Vigil\nhttps://www.missale.net/of/2028-04-15/en
+UID:https://www.missale.net/of/2028-04-15/en
+URL:https://www.missale.net/of/2028-04-15/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280416
+SUMMARY:Easter Sunday
+DESCRIPTION:Easter Sunday\nhttps://www.missale.net/of/2028-04-16/en
+UID:https://www.missale.net/of/2028-04-16/en
+URL:https://www.missale.net/of/2028-04-16/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280423
+SUMMARY:Second Sunday of Easter
+DESCRIPTION:Second Sunday of Easter\nhttps://www.missale.net/of/2028-04-23/en
+UID:https://www.missale.net/of/2028-04-23/en
+URL:https://www.missale.net/of/2028-04-23/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280430
+SUMMARY:Third Sunday of Easter
+DESCRIPTION:Third Sunday of Easter\nhttps://www.missale.net/of/2028-04-30/en
+UID:https://www.missale.net/of/2028-04-30/en
+URL:https://www.missale.net/of/2028-04-30/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280507
+SUMMARY:Fourth Sunday of Easter
+DESCRIPTION:Fourth Sunday of Easter\nhttps://www.missale.net/of/2028-05-07/en
+UID:https://www.missale.net/of/2028-05-07/en
+URL:https://www.missale.net/of/2028-05-07/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280514
+SUMMARY:Fifth Sunday of Easter
+DESCRIPTION:Fifth Sunday of Easter\nhttps://www.missale.net/of/2028-05-14/en
+UID:https://www.missale.net/of/2028-05-14/en
+URL:https://www.missale.net/of/2028-05-14/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280521
+SUMMARY:Sixth Sunday of Easter
+DESCRIPTION:Sixth Sunday of Easter\nhttps://www.missale.net/of/2028-05-21/en
+UID:https://www.missale.net/of/2028-05-21/en
+URL:https://www.missale.net/of/2028-05-21/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280525
+SUMMARY:Ascension of the Lord
+DESCRIPTION:Ascension of the Lord\nhttps://www.missale.net/of/2028-05-25/en
+UID:https://www.missale.net/of/2028-05-25/en
+URL:https://www.missale.net/of/2028-05-25/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280528
+SUMMARY:Seventh Sunday of Easter
+DESCRIPTION:Seventh Sunday of Easter\nhttps://www.missale.net/of/2028-05-28/en
+UID:https://www.missale.net/of/2028-05-28/en
+URL:https://www.missale.net/of/2028-05-28/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280611
+SUMMARY:The Holy Trinity
+DESCRIPTION:The Holy Trinity\nhttps://www.missale.net/of/2028-06-11/en
+UID:https://www.missale.net/of/2028-06-11/en
+URL:https://www.missale.net/of/2028-06-11/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280615
+SUMMARY:Corpus Christi
+DESCRIPTION:Corpus Christi\nhttps://www.missale.net/of/2028-06-15/en
+UID:https://www.missale.net/of/2028-06-15/en
+URL:https://www.missale.net/of/2028-06-15/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280618
+SUMMARY:Eleventh Sunday in Ordinary Time
+DESCRIPTION:Eleventh Sunday in Ordinary Time\nhttps://www.missale.net/of/2028-06-18/en
+UID:https://www.missale.net/of/2028-06-18/en
+URL:https://www.missale.net/of/2028-06-18/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280623
+SUMMARY:Sacred Heart of Jesus
+DESCRIPTION:Sacred Heart of Jesus\nhttps://www.missale.net/of/2028-06-23/en
+UID:https://www.missale.net/of/2028-06-23/en
+URL:https://www.missale.net/of/2028-06-23/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280625
+SUMMARY:Twelfth Sunday in Ordinary Time
+DESCRIPTION:Twelfth Sunday in Ordinary Time\nhttps://www.missale.net/of/2028-06-25/en
+UID:https://www.missale.net/of/2028-06-25/en
+URL:https://www.missale.net/of/2028-06-25/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280702
+SUMMARY:Thirteenth Sunday in Ordinary Time
+DESCRIPTION:Thirteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2028-07-02/en
+UID:https://www.missale.net/of/2028-07-02/en
+URL:https://www.missale.net/of/2028-07-02/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280709
+SUMMARY:Fourteenth Sunday in Ordinary Time
+DESCRIPTION:Fourteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2028-07-09/en
+UID:https://www.missale.net/of/2028-07-09/en
+URL:https://www.missale.net/of/2028-07-09/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280716
+SUMMARY:Fifteenth Sunday in Ordinary Time
+DESCRIPTION:Fifteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2028-07-16/en
+UID:https://www.missale.net/of/2028-07-16/en
+URL:https://www.missale.net/of/2028-07-16/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280723
+SUMMARY:Sixteenth Sunday in Ordinary Time
+DESCRIPTION:Sixteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2028-07-23/en
+UID:https://www.missale.net/of/2028-07-23/en
+URL:https://www.missale.net/of/2028-07-23/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280730
+SUMMARY:Seventeenth Sunday in Ordinary Time
+DESCRIPTION:Seventeenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2028-07-30/en
+UID:https://www.missale.net/of/2028-07-30/en
+URL:https://www.missale.net/of/2028-07-30/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280806
+SUMMARY:Eighteenth Sunday in Ordinary Time
+DESCRIPTION:Eighteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2028-08-06/en
+UID:https://www.missale.net/of/2028-08-06/en
+URL:https://www.missale.net/of/2028-08-06/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280813
+SUMMARY:Nineteenth Sunday in Ordinary Time
+DESCRIPTION:Nineteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2028-08-13/en
+UID:https://www.missale.net/of/2028-08-13/en
+URL:https://www.missale.net/of/2028-08-13/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280820
+SUMMARY:Twentieth Sunday in Ordinary Time
+DESCRIPTION:Twentieth Sunday in Ordinary Time\nhttps://www.missale.net/of/2028-08-20/en
+UID:https://www.missale.net/of/2028-08-20/en
+URL:https://www.missale.net/of/2028-08-20/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280827
+SUMMARY:Twenty-first Sunday in Ordinary Time
+DESCRIPTION:Twenty-first Sunday in Ordinary Time\nhttps://www.missale.net/of/2028-08-27/en
+UID:https://www.missale.net/of/2028-08-27/en
+URL:https://www.missale.net/of/2028-08-27/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280903
+SUMMARY:Twenty-second Sunday in Ordinary Time
+DESCRIPTION:Twenty-second Sunday in Ordinary Time\nhttps://www.missale.net/of/2028-09-03/en
+UID:https://www.missale.net/of/2028-09-03/en
+URL:https://www.missale.net/of/2028-09-03/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280910
+SUMMARY:Twenty-third Sunday in Ordinary Time
+DESCRIPTION:Twenty-third Sunday in Ordinary Time\nhttps://www.missale.net/of/2028-09-10/en
+UID:https://www.missale.net/of/2028-09-10/en
+URL:https://www.missale.net/of/2028-09-10/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280917
+SUMMARY:Twenty-fourth Sunday in Ordinary Time
+DESCRIPTION:Twenty-fourth Sunday in Ordinary Time\nhttps://www.missale.net/of/2028-09-17/en
+UID:https://www.missale.net/of/2028-09-17/en
+URL:https://www.missale.net/of/2028-09-17/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280924
+SUMMARY:Twenty-fifth Sunday in Ordinary Time
+DESCRIPTION:Twenty-fifth Sunday in Ordinary Time\nhttps://www.missale.net/of/2028-09-24/en
+UID:https://www.missale.net/of/2028-09-24/en
+URL:https://www.missale.net/of/2028-09-24/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281001
+SUMMARY:Twenty-sixth Sunday in Ordinary Time
+DESCRIPTION:Twenty-sixth Sunday in Ordinary Time\nhttps://www.missale.net/of/2028-10-01/en
+UID:https://www.missale.net/of/2028-10-01/en
+URL:https://www.missale.net/of/2028-10-01/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281008
+SUMMARY:Twenty-seventh Sunday in Ordinary Time
+DESCRIPTION:Twenty-seventh Sunday in Ordinary Time\nhttps://www.missale.net/of/2028-10-08/en
+UID:https://www.missale.net/of/2028-10-08/en
+URL:https://www.missale.net/of/2028-10-08/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281015
+SUMMARY:Twenty-eighth Sunday in Ordinary Time
+DESCRIPTION:Twenty-eighth Sunday in Ordinary Time\nhttps://www.missale.net/of/2028-10-15/en
+UID:https://www.missale.net/of/2028-10-15/en
+URL:https://www.missale.net/of/2028-10-15/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281022
+SUMMARY:Twenty-ninth Sunday in Ordinary Time
+DESCRIPTION:Twenty-ninth Sunday in Ordinary Time\nhttps://www.missale.net/of/2028-10-22/en
+UID:https://www.missale.net/of/2028-10-22/en
+URL:https://www.missale.net/of/2028-10-22/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281029
+SUMMARY:Thirtieth Sunday in Ordinary Time
+DESCRIPTION:Thirtieth Sunday in Ordinary Time\nhttps://www.missale.net/of/2028-10-29/en
+UID:https://www.missale.net/of/2028-10-29/en
+URL:https://www.missale.net/of/2028-10-29/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281105
+SUMMARY:Thirty-first Sunday in Ordinary Time
+DESCRIPTION:Thirty-first Sunday in Ordinary Time\nhttps://www.missale.net/of/2028-11-05/en
+UID:https://www.missale.net/of/2028-11-05/en
+URL:https://www.missale.net/of/2028-11-05/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281112
+SUMMARY:Thirty-second Sunday in Ordinary Time
+DESCRIPTION:Thirty-second Sunday in Ordinary Time\nhttps://www.missale.net/of/2028-11-12/en
+UID:https://www.missale.net/of/2028-11-12/en
+URL:https://www.missale.net/of/2028-11-12/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281119
+SUMMARY:Thirty-third Sunday in Ordinary Time
+DESCRIPTION:Thirty-third Sunday in Ordinary Time\nhttps://www.missale.net/of/2028-11-19/en
+UID:https://www.missale.net/of/2028-11-19/en
+URL:https://www.missale.net/of/2028-11-19/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281126
+SUMMARY:Christ the King
+DESCRIPTION:Christ the King\nhttps://www.missale.net/of/2028-11-26/en
+UID:https://www.missale.net/of/2028-11-26/en
+URL:https://www.missale.net/of/2028-11-26/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281203
+SUMMARY:First sunday of Advent
+DESCRIPTION:First sunday of Advent\nhttps://www.missale.net/of/2028-12-03/en
+UID:https://www.missale.net/of/2028-12-03/en
+URL:https://www.missale.net/of/2028-12-03/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281210
+SUMMARY:Second Sunday of Advent
+DESCRIPTION:Second Sunday of Advent\nhttps://www.missale.net/of/2028-12-10/en
+UID:https://www.missale.net/of/2028-12-10/en
+URL:https://www.missale.net/of/2028-12-10/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281217
+SUMMARY:Third Sunday of Advent
+DESCRIPTION:Third Sunday of Advent\nhttps://www.missale.net/of/2028-12-17/en
+UID:https://www.missale.net/of/2028-12-17/en
+URL:https://www.missale.net/of/2028-12-17/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281224
+SUMMARY:Fourth Sunday of Advent
+DESCRIPTION:Fourth Sunday of Advent\nhttps://www.missale.net/of/2028-12-24/en
+UID:https://www.missale.net/of/2028-12-24/en
+URL:https://www.missale.net/of/2028-12-24/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281231
+SUMMARY:The Holy Family
+DESCRIPTION:The Holy Family\nhttps://www.missale.net/of/2028-12-31/en
+UID:https://www.missale.net/of/2028-12-31/en
+URL:https://www.missale.net/of/2028-12-31/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290108
+SUMMARY:Baptism of the Lord
+DESCRIPTION:Baptism of the Lord\nhttps://www.missale.net/of/2029-01-08/en
+UID:https://www.missale.net/of/2029-01-08/en
+URL:https://www.missale.net/of/2029-01-08/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290114
+SUMMARY:Second Sunday in Ordinary Time
+DESCRIPTION:Second Sunday in Ordinary Time\nhttps://www.missale.net/of/2029-01-14/en
+UID:https://www.missale.net/of/2029-01-14/en
+URL:https://www.missale.net/of/2029-01-14/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290121
+SUMMARY:Third Sunday in Ordinary Time
+DESCRIPTION:Third Sunday in Ordinary Time\nhttps://www.missale.net/of/2029-01-21/en
+UID:https://www.missale.net/of/2029-01-21/en
+URL:https://www.missale.net/of/2029-01-21/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290128
+SUMMARY:Fourth Sunday in Ordinary Time
+DESCRIPTION:Fourth Sunday in Ordinary Time\nhttps://www.missale.net/of/2029-01-28/en
+UID:https://www.missale.net/of/2029-01-28/en
+URL:https://www.missale.net/of/2029-01-28/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290204
+SUMMARY:Fifth Sunday in Ordinary Time
+DESCRIPTION:Fifth Sunday in Ordinary Time\nhttps://www.missale.net/of/2029-02-04/en
+UID:https://www.missale.net/of/2029-02-04/en
+URL:https://www.missale.net/of/2029-02-04/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290211
+SUMMARY:Sixth Sunday in Ordinary Time
+DESCRIPTION:Sixth Sunday in Ordinary Time\nhttps://www.missale.net/of/2029-02-11/en
+UID:https://www.missale.net/of/2029-02-11/en
+URL:https://www.missale.net/of/2029-02-11/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290218
+SUMMARY:First Sunday of Lent
+DESCRIPTION:First Sunday of Lent\nhttps://www.missale.net/of/2029-02-18/en
+UID:https://www.missale.net/of/2029-02-18/en
+URL:https://www.missale.net/of/2029-02-18/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290225
+SUMMARY:Second Sunday of Lent
+DESCRIPTION:Second Sunday of Lent\nhttps://www.missale.net/of/2029-02-25/en
+UID:https://www.missale.net/of/2029-02-25/en
+URL:https://www.missale.net/of/2029-02-25/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290304
+SUMMARY:Third Sunday of Lent
+DESCRIPTION:Third Sunday of Lent\nhttps://www.missale.net/of/2029-03-04/en
+UID:https://www.missale.net/of/2029-03-04/en
+URL:https://www.missale.net/of/2029-03-04/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290311
+SUMMARY:Fourth Sunday of Lent
+DESCRIPTION:Fourth Sunday of Lent\nhttps://www.missale.net/of/2029-03-11/en
+UID:https://www.missale.net/of/2029-03-11/en
+URL:https://www.missale.net/of/2029-03-11/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290318
+SUMMARY:Fifth Sunday of Lent
+DESCRIPTION:Fifth Sunday of Lent\nhttps://www.missale.net/of/2029-03-18/en
+UID:https://www.missale.net/of/2029-03-18/en
+URL:https://www.missale.net/of/2029-03-18/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290325
+SUMMARY:Palm Sunday
+DESCRIPTION:Palm Sunday\nhttps://www.missale.net/of/2029-03-25/en
+UID:https://www.missale.net/of/2029-03-25/en
+URL:https://www.missale.net/of/2029-03-25/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290331
+SUMMARY:Easter Vigil
+DESCRIPTION:Easter Vigil\nhttps://www.missale.net/of/2029-03-31/en
+UID:https://www.missale.net/of/2029-03-31/en
+URL:https://www.missale.net/of/2029-03-31/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290401
+SUMMARY:Easter Sunday
+DESCRIPTION:Easter Sunday\nhttps://www.missale.net/of/2029-04-01/en
+UID:https://www.missale.net/of/2029-04-01/en
+URL:https://www.missale.net/of/2029-04-01/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290408
+SUMMARY:Second Sunday of Easter
+DESCRIPTION:Second Sunday of Easter\nhttps://www.missale.net/of/2029-04-08/en
+UID:https://www.missale.net/of/2029-04-08/en
+URL:https://www.missale.net/of/2029-04-08/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290415
+SUMMARY:Third Sunday of Easter
+DESCRIPTION:Third Sunday of Easter\nhttps://www.missale.net/of/2029-04-15/en
+UID:https://www.missale.net/of/2029-04-15/en
+URL:https://www.missale.net/of/2029-04-15/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290422
+SUMMARY:Fourth Sunday of Easter
+DESCRIPTION:Fourth Sunday of Easter\nhttps://www.missale.net/of/2029-04-22/en
+UID:https://www.missale.net/of/2029-04-22/en
+URL:https://www.missale.net/of/2029-04-22/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290429
+SUMMARY:Fifth Sunday of Easter
+DESCRIPTION:Fifth Sunday of Easter\nhttps://www.missale.net/of/2029-04-29/en
+UID:https://www.missale.net/of/2029-04-29/en
+URL:https://www.missale.net/of/2029-04-29/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290506
+SUMMARY:Sixth Sunday of Easter
+DESCRIPTION:Sixth Sunday of Easter\nhttps://www.missale.net/of/2029-05-06/en
+UID:https://www.missale.net/of/2029-05-06/en
+URL:https://www.missale.net/of/2029-05-06/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290510
+SUMMARY:Ascension of the Lord
+DESCRIPTION:Ascension of the Lord\nhttps://www.missale.net/of/2029-05-10/en
+UID:https://www.missale.net/of/2029-05-10/en
+URL:https://www.missale.net/of/2029-05-10/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290513
+SUMMARY:Seventh Sunday of Easter
+DESCRIPTION:Seventh Sunday of Easter\nhttps://www.missale.net/of/2029-05-13/en
+UID:https://www.missale.net/of/2029-05-13/en
+URL:https://www.missale.net/of/2029-05-13/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290527
+SUMMARY:The Holy Trinity
+DESCRIPTION:The Holy Trinity\nhttps://www.missale.net/of/2029-05-27/en
+UID:https://www.missale.net/of/2029-05-27/en
+URL:https://www.missale.net/of/2029-05-27/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290531
+SUMMARY:Corpus Christi
+DESCRIPTION:Corpus Christi\nhttps://www.missale.net/of/2029-05-31/en
+UID:https://www.missale.net/of/2029-05-31/en
+URL:https://www.missale.net/of/2029-05-31/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290603
+SUMMARY:Ninth Sunday in Ordinary Time
+DESCRIPTION:Ninth Sunday in Ordinary Time\nhttps://www.missale.net/of/2029-06-03/en
+UID:https://www.missale.net/of/2029-06-03/en
+URL:https://www.missale.net/of/2029-06-03/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290608
+SUMMARY:Sacred Heart of Jesus
+DESCRIPTION:Sacred Heart of Jesus\nhttps://www.missale.net/of/2029-06-08/en
+UID:https://www.missale.net/of/2029-06-08/en
+URL:https://www.missale.net/of/2029-06-08/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290610
+SUMMARY:Tenth Sunday in Ordinary Time
+DESCRIPTION:Tenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2029-06-10/en
+UID:https://www.missale.net/of/2029-06-10/en
+URL:https://www.missale.net/of/2029-06-10/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290617
+SUMMARY:Eleventh Sunday in Ordinary Time
+DESCRIPTION:Eleventh Sunday in Ordinary Time\nhttps://www.missale.net/of/2029-06-17/en
+UID:https://www.missale.net/of/2029-06-17/en
+URL:https://www.missale.net/of/2029-06-17/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290701
+SUMMARY:Thirteenth Sunday in Ordinary Time
+DESCRIPTION:Thirteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2029-07-01/en
+UID:https://www.missale.net/of/2029-07-01/en
+URL:https://www.missale.net/of/2029-07-01/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290708
+SUMMARY:Fourteenth Sunday in Ordinary Time
+DESCRIPTION:Fourteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2029-07-08/en
+UID:https://www.missale.net/of/2029-07-08/en
+URL:https://www.missale.net/of/2029-07-08/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290715
+SUMMARY:Fifteenth Sunday in Ordinary Time
+DESCRIPTION:Fifteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2029-07-15/en
+UID:https://www.missale.net/of/2029-07-15/en
+URL:https://www.missale.net/of/2029-07-15/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290722
+SUMMARY:Sixteenth Sunday in Ordinary Time
+DESCRIPTION:Sixteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2029-07-22/en
+UID:https://www.missale.net/of/2029-07-22/en
+URL:https://www.missale.net/of/2029-07-22/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290729
+SUMMARY:Seventeenth Sunday in Ordinary Time
+DESCRIPTION:Seventeenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2029-07-29/en
+UID:https://www.missale.net/of/2029-07-29/en
+URL:https://www.missale.net/of/2029-07-29/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290805
+SUMMARY:Eighteenth Sunday in Ordinary Time
+DESCRIPTION:Eighteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2029-08-05/en
+UID:https://www.missale.net/of/2029-08-05/en
+URL:https://www.missale.net/of/2029-08-05/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290806
+SUMMARY:Transfiguration of the Lord
+DESCRIPTION:Transfiguration of the Lord\nhttps://www.missale.net/of/2029-08-06/en
+UID:https://www.missale.net/of/2029-08-06/en
+URL:https://www.missale.net/of/2029-08-06/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290812
+SUMMARY:Nineteenth Sunday in Ordinary Time
+DESCRIPTION:Nineteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2029-08-12/en
+UID:https://www.missale.net/of/2029-08-12/en
+URL:https://www.missale.net/of/2029-08-12/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290819
+SUMMARY:Twentieth Sunday in Ordinary Time
+DESCRIPTION:Twentieth Sunday in Ordinary Time\nhttps://www.missale.net/of/2029-08-19/en
+UID:https://www.missale.net/of/2029-08-19/en
+URL:https://www.missale.net/of/2029-08-19/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290826
+SUMMARY:Twenty-first Sunday in Ordinary Time
+DESCRIPTION:Twenty-first Sunday in Ordinary Time\nhttps://www.missale.net/of/2029-08-26/en
+UID:https://www.missale.net/of/2029-08-26/en
+URL:https://www.missale.net/of/2029-08-26/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290902
+SUMMARY:Twenty-second Sunday in Ordinary Time
+DESCRIPTION:Twenty-second Sunday in Ordinary Time\nhttps://www.missale.net/of/2029-09-02/en
+UID:https://www.missale.net/of/2029-09-02/en
+URL:https://www.missale.net/of/2029-09-02/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290909
+SUMMARY:Twenty-third Sunday in Ordinary Time
+DESCRIPTION:Twenty-third Sunday in Ordinary Time\nhttps://www.missale.net/of/2029-09-09/en
+UID:https://www.missale.net/of/2029-09-09/en
+URL:https://www.missale.net/of/2029-09-09/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290916
+SUMMARY:Twenty-fourth Sunday in Ordinary Time
+DESCRIPTION:Twenty-fourth Sunday in Ordinary Time\nhttps://www.missale.net/of/2029-09-16/en
+UID:https://www.missale.net/of/2029-09-16/en
+URL:https://www.missale.net/of/2029-09-16/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290923
+SUMMARY:Twenty-fifth Sunday in Ordinary Time
+DESCRIPTION:Twenty-fifth Sunday in Ordinary Time\nhttps://www.missale.net/of/2029-09-23/en
+UID:https://www.missale.net/of/2029-09-23/en
+URL:https://www.missale.net/of/2029-09-23/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290930
+SUMMARY:Twenty-sixth Sunday in Ordinary Time
+DESCRIPTION:Twenty-sixth Sunday in Ordinary Time\nhttps://www.missale.net/of/2029-09-30/en
+UID:https://www.missale.net/of/2029-09-30/en
+URL:https://www.missale.net/of/2029-09-30/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291007
+SUMMARY:Twenty-seventh Sunday in Ordinary Time
+DESCRIPTION:Twenty-seventh Sunday in Ordinary Time\nhttps://www.missale.net/of/2029-10-07/en
+UID:https://www.missale.net/of/2029-10-07/en
+URL:https://www.missale.net/of/2029-10-07/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291014
+SUMMARY:Twenty-eighth Sunday in Ordinary Time
+DESCRIPTION:Twenty-eighth Sunday in Ordinary Time\nhttps://www.missale.net/of/2029-10-14/en
+UID:https://www.missale.net/of/2029-10-14/en
+URL:https://www.missale.net/of/2029-10-14/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291021
+SUMMARY:Twenty-ninth Sunday in Ordinary Time
+DESCRIPTION:Twenty-ninth Sunday in Ordinary Time\nhttps://www.missale.net/of/2029-10-21/en
+UID:https://www.missale.net/of/2029-10-21/en
+URL:https://www.missale.net/of/2029-10-21/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291028
+SUMMARY:Thirtieth Sunday in Ordinary Time
+DESCRIPTION:Thirtieth Sunday in Ordinary Time\nhttps://www.missale.net/of/2029-10-28/en
+UID:https://www.missale.net/of/2029-10-28/en
+URL:https://www.missale.net/of/2029-10-28/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291104
+SUMMARY:Thirty-first Sunday in Ordinary Time
+DESCRIPTION:Thirty-first Sunday in Ordinary Time\nhttps://www.missale.net/of/2029-11-04/en
+UID:https://www.missale.net/of/2029-11-04/en
+URL:https://www.missale.net/of/2029-11-04/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291111
+SUMMARY:Thirty-second Sunday in Ordinary Time
+DESCRIPTION:Thirty-second Sunday in Ordinary Time\nhttps://www.missale.net/of/2029-11-11/en
+UID:https://www.missale.net/of/2029-11-11/en
+URL:https://www.missale.net/of/2029-11-11/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291118
+SUMMARY:Thirty-third Sunday in Ordinary Time
+DESCRIPTION:Thirty-third Sunday in Ordinary Time\nhttps://www.missale.net/of/2029-11-18/en
+UID:https://www.missale.net/of/2029-11-18/en
+URL:https://www.missale.net/of/2029-11-18/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291125
+SUMMARY:Christ the King
+DESCRIPTION:Christ the King\nhttps://www.missale.net/of/2029-11-25/en
+UID:https://www.missale.net/of/2029-11-25/en
+URL:https://www.missale.net/of/2029-11-25/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291202
+SUMMARY:First sunday of Advent
+DESCRIPTION:First sunday of Advent\nhttps://www.missale.net/of/2029-12-02/en
+UID:https://www.missale.net/of/2029-12-02/en
+URL:https://www.missale.net/of/2029-12-02/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291209
+SUMMARY:Second Sunday of Advent
+DESCRIPTION:Second Sunday of Advent\nhttps://www.missale.net/of/2029-12-09/en
+UID:https://www.missale.net/of/2029-12-09/en
+URL:https://www.missale.net/of/2029-12-09/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291216
+SUMMARY:Third Sunday of Advent
+DESCRIPTION:Third Sunday of Advent\nhttps://www.missale.net/of/2029-12-16/en
+UID:https://www.missale.net/of/2029-12-16/en
+URL:https://www.missale.net/of/2029-12-16/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291223
+SUMMARY:Fourth Sunday of Advent
+DESCRIPTION:Fourth Sunday of Advent\nhttps://www.missale.net/of/2029-12-23/en
+UID:https://www.missale.net/of/2029-12-23/en
+URL:https://www.missale.net/of/2029-12-23/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291230
+SUMMARY:The Holy Family
+DESCRIPTION:The Holy Family\nhttps://www.missale.net/of/2029-12-30/en
+UID:https://www.missale.net/of/2029-12-30/en
+URL:https://www.missale.net/of/2029-12-30/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300113
+SUMMARY:Baptism of the Lord
+DESCRIPTION:Baptism of the Lord\nhttps://www.missale.net/of/2030-01-13/en
+UID:https://www.missale.net/of/2030-01-13/en
+URL:https://www.missale.net/of/2030-01-13/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300120
+SUMMARY:Second Sunday in Ordinary Time
+DESCRIPTION:Second Sunday in Ordinary Time\nhttps://www.missale.net/of/2030-01-20/en
+UID:https://www.missale.net/of/2030-01-20/en
+URL:https://www.missale.net/of/2030-01-20/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300127
+SUMMARY:Third Sunday in Ordinary Time
+DESCRIPTION:Third Sunday in Ordinary Time\nhttps://www.missale.net/of/2030-01-27/en
+UID:https://www.missale.net/of/2030-01-27/en
+URL:https://www.missale.net/of/2030-01-27/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300203
+SUMMARY:Fourth Sunday in Ordinary Time
+DESCRIPTION:Fourth Sunday in Ordinary Time\nhttps://www.missale.net/of/2030-02-03/en
+UID:https://www.missale.net/of/2030-02-03/en
+URL:https://www.missale.net/of/2030-02-03/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300210
+SUMMARY:Fifth Sunday in Ordinary Time
+DESCRIPTION:Fifth Sunday in Ordinary Time\nhttps://www.missale.net/of/2030-02-10/en
+UID:https://www.missale.net/of/2030-02-10/en
+URL:https://www.missale.net/of/2030-02-10/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300217
+SUMMARY:Sixth Sunday in Ordinary Time
+DESCRIPTION:Sixth Sunday in Ordinary Time\nhttps://www.missale.net/of/2030-02-17/en
+UID:https://www.missale.net/of/2030-02-17/en
+URL:https://www.missale.net/of/2030-02-17/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300224
+SUMMARY:Seventh Sunday in Ordinary Time
+DESCRIPTION:Seventh Sunday in Ordinary Time\nhttps://www.missale.net/of/2030-02-24/en
+UID:https://www.missale.net/of/2030-02-24/en
+URL:https://www.missale.net/of/2030-02-24/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300303
+SUMMARY:Eighth Sunday in Ordinary Time
+DESCRIPTION:Eighth Sunday in Ordinary Time\nhttps://www.missale.net/of/2030-03-03/en
+UID:https://www.missale.net/of/2030-03-03/en
+URL:https://www.missale.net/of/2030-03-03/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300310
+SUMMARY:First Sunday of Lent
+DESCRIPTION:First Sunday of Lent\nhttps://www.missale.net/of/2030-03-10/en
+UID:https://www.missale.net/of/2030-03-10/en
+URL:https://www.missale.net/of/2030-03-10/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300317
+SUMMARY:Second Sunday of Lent
+DESCRIPTION:Second Sunday of Lent\nhttps://www.missale.net/of/2030-03-17/en
+UID:https://www.missale.net/of/2030-03-17/en
+URL:https://www.missale.net/of/2030-03-17/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300324
+SUMMARY:Third Sunday of Lent
+DESCRIPTION:Third Sunday of Lent\nhttps://www.missale.net/of/2030-03-24/en
+UID:https://www.missale.net/of/2030-03-24/en
+URL:https://www.missale.net/of/2030-03-24/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300331
+SUMMARY:Fourth Sunday of Lent
+DESCRIPTION:Fourth Sunday of Lent\nhttps://www.missale.net/of/2030-03-31/en
+UID:https://www.missale.net/of/2030-03-31/en
+URL:https://www.missale.net/of/2030-03-31/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300407
+SUMMARY:Fifth Sunday of Lent
+DESCRIPTION:Fifth Sunday of Lent\nhttps://www.missale.net/of/2030-04-07/en
+UID:https://www.missale.net/of/2030-04-07/en
+URL:https://www.missale.net/of/2030-04-07/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300414
+SUMMARY:Palm Sunday
+DESCRIPTION:Palm Sunday\nhttps://www.missale.net/of/2030-04-14/en
+UID:https://www.missale.net/of/2030-04-14/en
+URL:https://www.missale.net/of/2030-04-14/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300420
+SUMMARY:Easter Vigil
+DESCRIPTION:Easter Vigil\nhttps://www.missale.net/of/2030-04-20/en
+UID:https://www.missale.net/of/2030-04-20/en
+URL:https://www.missale.net/of/2030-04-20/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300421
+SUMMARY:Easter Sunday
+DESCRIPTION:Easter Sunday\nhttps://www.missale.net/of/2030-04-21/en
+UID:https://www.missale.net/of/2030-04-21/en
+URL:https://www.missale.net/of/2030-04-21/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300428
+SUMMARY:Second Sunday of Easter
+DESCRIPTION:Second Sunday of Easter\nhttps://www.missale.net/of/2030-04-28/en
+UID:https://www.missale.net/of/2030-04-28/en
+URL:https://www.missale.net/of/2030-04-28/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300505
+SUMMARY:Third Sunday of Easter
+DESCRIPTION:Third Sunday of Easter\nhttps://www.missale.net/of/2030-05-05/en
+UID:https://www.missale.net/of/2030-05-05/en
+URL:https://www.missale.net/of/2030-05-05/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300512
+SUMMARY:Fourth Sunday of Easter
+DESCRIPTION:Fourth Sunday of Easter\nhttps://www.missale.net/of/2030-05-12/en
+UID:https://www.missale.net/of/2030-05-12/en
+URL:https://www.missale.net/of/2030-05-12/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300519
+SUMMARY:Fifth Sunday of Easter
+DESCRIPTION:Fifth Sunday of Easter\nhttps://www.missale.net/of/2030-05-19/en
+UID:https://www.missale.net/of/2030-05-19/en
+URL:https://www.missale.net/of/2030-05-19/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300526
+SUMMARY:Sixth Sunday of Easter
+DESCRIPTION:Sixth Sunday of Easter\nhttps://www.missale.net/of/2030-05-26/en
+UID:https://www.missale.net/of/2030-05-26/en
+URL:https://www.missale.net/of/2030-05-26/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300530
+SUMMARY:Ascension of the Lord
+DESCRIPTION:Ascension of the Lord\nhttps://www.missale.net/of/2030-05-30/en
+UID:https://www.missale.net/of/2030-05-30/en
+URL:https://www.missale.net/of/2030-05-30/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300602
+SUMMARY:Seventh Sunday of Easter
+DESCRIPTION:Seventh Sunday of Easter\nhttps://www.missale.net/of/2030-06-02/en
+UID:https://www.missale.net/of/2030-06-02/en
+URL:https://www.missale.net/of/2030-06-02/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300616
+SUMMARY:The Holy Trinity
+DESCRIPTION:The Holy Trinity\nhttps://www.missale.net/of/2030-06-16/en
+UID:https://www.missale.net/of/2030-06-16/en
+URL:https://www.missale.net/of/2030-06-16/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300620
+SUMMARY:Corpus Christi
+DESCRIPTION:Corpus Christi\nhttps://www.missale.net/of/2030-06-20/en
+UID:https://www.missale.net/of/2030-06-20/en
+URL:https://www.missale.net/of/2030-06-20/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300623
+SUMMARY:Twelfth Sunday in Ordinary Time
+DESCRIPTION:Twelfth Sunday in Ordinary Time\nhttps://www.missale.net/of/2030-06-23/en
+UID:https://www.missale.net/of/2030-06-23/en
+URL:https://www.missale.net/of/2030-06-23/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300628
+SUMMARY:Sacred Heart of Jesus
+DESCRIPTION:Sacred Heart of Jesus\nhttps://www.missale.net/of/2030-06-28/en
+UID:https://www.missale.net/of/2030-06-28/en
+URL:https://www.missale.net/of/2030-06-28/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300630
+SUMMARY:Thirteenth Sunday in Ordinary Time
+DESCRIPTION:Thirteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2030-06-30/en
+UID:https://www.missale.net/of/2030-06-30/en
+URL:https://www.missale.net/of/2030-06-30/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300707
+SUMMARY:Fourteenth Sunday in Ordinary Time
+DESCRIPTION:Fourteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2030-07-07/en
+UID:https://www.missale.net/of/2030-07-07/en
+URL:https://www.missale.net/of/2030-07-07/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300714
+SUMMARY:Fifteenth Sunday in Ordinary Time
+DESCRIPTION:Fifteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2030-07-14/en
+UID:https://www.missale.net/of/2030-07-14/en
+URL:https://www.missale.net/of/2030-07-14/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300721
+SUMMARY:Sixteenth Sunday in Ordinary Time
+DESCRIPTION:Sixteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2030-07-21/en
+UID:https://www.missale.net/of/2030-07-21/en
+URL:https://www.missale.net/of/2030-07-21/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300728
+SUMMARY:Seventeenth Sunday in Ordinary Time
+DESCRIPTION:Seventeenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2030-07-28/en
+UID:https://www.missale.net/of/2030-07-28/en
+URL:https://www.missale.net/of/2030-07-28/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300804
+SUMMARY:Eighteenth Sunday in Ordinary Time
+DESCRIPTION:Eighteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2030-08-04/en
+UID:https://www.missale.net/of/2030-08-04/en
+URL:https://www.missale.net/of/2030-08-04/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300806
+SUMMARY:Transfiguration of the Lord
+DESCRIPTION:Transfiguration of the Lord\nhttps://www.missale.net/of/2030-08-06/en
+UID:https://www.missale.net/of/2030-08-06/en
+URL:https://www.missale.net/of/2030-08-06/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300811
+SUMMARY:Nineteenth Sunday in Ordinary Time
+DESCRIPTION:Nineteenth Sunday in Ordinary Time\nhttps://www.missale.net/of/2030-08-11/en
+UID:https://www.missale.net/of/2030-08-11/en
+URL:https://www.missale.net/of/2030-08-11/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300818
+SUMMARY:Twentieth Sunday in Ordinary Time
+DESCRIPTION:Twentieth Sunday in Ordinary Time\nhttps://www.missale.net/of/2030-08-18/en
+UID:https://www.missale.net/of/2030-08-18/en
+URL:https://www.missale.net/of/2030-08-18/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300825
+SUMMARY:Twenty-first Sunday in Ordinary Time
+DESCRIPTION:Twenty-first Sunday in Ordinary Time\nhttps://www.missale.net/of/2030-08-25/en
+UID:https://www.missale.net/of/2030-08-25/en
+URL:https://www.missale.net/of/2030-08-25/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300901
+SUMMARY:Twenty-second Sunday in Ordinary Time
+DESCRIPTION:Twenty-second Sunday in Ordinary Time\nhttps://www.missale.net/of/2030-09-01/en
+UID:https://www.missale.net/of/2030-09-01/en
+URL:https://www.missale.net/of/2030-09-01/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300908
+SUMMARY:Twenty-third Sunday in Ordinary Time
+DESCRIPTION:Twenty-third Sunday in Ordinary Time\nhttps://www.missale.net/of/2030-09-08/en
+UID:https://www.missale.net/of/2030-09-08/en
+URL:https://www.missale.net/of/2030-09-08/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300915
+SUMMARY:Twenty-fourth Sunday in Ordinary Time
+DESCRIPTION:Twenty-fourth Sunday in Ordinary Time\nhttps://www.missale.net/of/2030-09-15/en
+UID:https://www.missale.net/of/2030-09-15/en
+URL:https://www.missale.net/of/2030-09-15/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300922
+SUMMARY:Twenty-fifth Sunday in Ordinary Time
+DESCRIPTION:Twenty-fifth Sunday in Ordinary Time\nhttps://www.missale.net/of/2030-09-22/en
+UID:https://www.missale.net/of/2030-09-22/en
+URL:https://www.missale.net/of/2030-09-22/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300929
+SUMMARY:Twenty-sixth Sunday in Ordinary Time
+DESCRIPTION:Twenty-sixth Sunday in Ordinary Time\nhttps://www.missale.net/of/2030-09-29/en
+UID:https://www.missale.net/of/2030-09-29/en
+URL:https://www.missale.net/of/2030-09-29/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301006
+SUMMARY:Twenty-seventh Sunday in Ordinary Time
+DESCRIPTION:Twenty-seventh Sunday in Ordinary Time\nhttps://www.missale.net/of/2030-10-06/en
+UID:https://www.missale.net/of/2030-10-06/en
+URL:https://www.missale.net/of/2030-10-06/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301013
+SUMMARY:Twenty-eighth Sunday in Ordinary Time
+DESCRIPTION:Twenty-eighth Sunday in Ordinary Time\nhttps://www.missale.net/of/2030-10-13/en
+UID:https://www.missale.net/of/2030-10-13/en
+URL:https://www.missale.net/of/2030-10-13/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301020
+SUMMARY:Twenty-ninth Sunday in Ordinary Time
+DESCRIPTION:Twenty-ninth Sunday in Ordinary Time\nhttps://www.missale.net/of/2030-10-20/en
+UID:https://www.missale.net/of/2030-10-20/en
+URL:https://www.missale.net/of/2030-10-20/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301027
+SUMMARY:Thirtieth Sunday in Ordinary Time
+DESCRIPTION:Thirtieth Sunday in Ordinary Time\nhttps://www.missale.net/of/2030-10-27/en
+UID:https://www.missale.net/of/2030-10-27/en
+URL:https://www.missale.net/of/2030-10-27/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301103
+SUMMARY:Thirty-first Sunday in Ordinary Time
+DESCRIPTION:Thirty-first Sunday in Ordinary Time\nhttps://www.missale.net/of/2030-11-03/en
+UID:https://www.missale.net/of/2030-11-03/en
+URL:https://www.missale.net/of/2030-11-03/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301110
+SUMMARY:Thirty-second Sunday in Ordinary Time
+DESCRIPTION:Thirty-second Sunday in Ordinary Time\nhttps://www.missale.net/of/2030-11-10/en
+UID:https://www.missale.net/of/2030-11-10/en
+URL:https://www.missale.net/of/2030-11-10/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301117
+SUMMARY:Thirty-third Sunday in Ordinary Time
+DESCRIPTION:Thirty-third Sunday in Ordinary Time\nhttps://www.missale.net/of/2030-11-17/en
+UID:https://www.missale.net/of/2030-11-17/en
+URL:https://www.missale.net/of/2030-11-17/en
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301124
+SUMMARY:Christ the King
+DESCRIPTION:Christ the King\nhttps://www.missale.net/of/2030-11-24/en
+UID:https://www.missale.net/of/2030-11-24/en
+URL:https://www.missale.net/of/2030-11-24/en
+END:VEVENT
+END:VCALENDAR
