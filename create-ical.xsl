@@ -70,12 +70,12 @@
                 <xsl:value-of select="$title"/>
                 <xsl:text>&#xd;&#xa;</xsl:text>
                 <xsl:text>DESCRIPTION:</xsl:text>
-                <xsl:value-of select="$title"/><xsl:if test="$url"><xsl:text>\n</xsl:text></xsl:if><xsl:value-of select="$url"/>
+                <xsl:value-of select="$title"/><xsl:if test="not($url='')"><xsl:text>\n</xsl:text></xsl:if><xsl:value-of select="$url"/>
                 <xsl:text>&#xd;&#xa;</xsl:text>
                 <xsl:text>UID:</xsl:text>
                 <xsl:value-of select="$uid"/>
                 <xsl:text>&#xd;&#xa;</xsl:text>
-                <xsl:if test="$url">
+                <xsl:if test="not($url='')">
                     <xsl:text>URL:</xsl:text>
                     <xsl:value-of select="$url"/>
                     <xsl:text>&#xd;&#xa;</xsl:text>
