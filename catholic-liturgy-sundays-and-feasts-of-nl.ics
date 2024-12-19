@@ -20,6 +20,13 @@ UID:https://www.missale.net/of/2019-12-08/nl
 URL:https://www.missale.net/of/2019-12-08/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191209
+SUMMARY:Onbevlekte Ontvangenis van de Heilige Maagd Maria
+DESCRIPTION:Onbevlekte Ontvangenis van de Heilige Maagd Maria\nhttps://www.missale.net/of/2019-12-09/nl
+UID:https://www.missale.net/of/2019-12-09/nl
+URL:https://www.missale.net/of/2019-12-09/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20191215
 SUMMARY:Derde zondag van de Advent
 DESCRIPTION:Derde zondag van de Advent\nhttps://www.missale.net/of/2019-12-15/nl
@@ -34,11 +41,60 @@ UID:https://www.missale.net/of/2019-12-22/nl
 URL:https://www.missale.net/of/2019-12-22/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191224
+SUMMARY:Vigilie van Kerstmis
+DESCRIPTION:Vigilie van Kerstmis\nhttps://www.missale.net/of/2019-12-24/nl
+UID:https://www.missale.net/of/2019-12-24/nl
+URL:https://www.missale.net/of/2019-12-24/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191225
+SUMMARY:Kerstmis
+DESCRIPTION:Kerstmis\nhttps://www.missale.net/of/2019-12-25/nl
+UID:https://www.missale.net/of/2019-12-25/nl
+URL:https://www.missale.net/of/2019-12-25/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191226
+SUMMARY:H. Stephanus, eerste martelaar
+DESCRIPTION:H. Stephanus, eerste martelaar\nhttps://www.missale.net/of/2019-12-26/nl
+UID:https://www.missale.net/of/2019-12-26/nl
+URL:https://www.missale.net/of/2019-12-26/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191227
+SUMMARY:H. Johannes, apostel en evangelist
+DESCRIPTION:H. Johannes, apostel en evangelist\nhttps://www.missale.net/of/2019-12-27/nl
+UID:https://www.missale.net/of/2019-12-27/nl
+URL:https://www.missale.net/of/2019-12-27/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191228
+SUMMARY:HH. Onnozele Kinderen, martelaren
+DESCRIPTION:HH. Onnozele Kinderen, martelaren\nhttps://www.missale.net/of/2019-12-28/nl
+UID:https://www.missale.net/of/2019-12-28/nl
+URL:https://www.missale.net/of/2019-12-28/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20191229
 SUMMARY:Heilige Familie
 DESCRIPTION:Heilige Familie\nhttps://www.missale.net/of/2019-12-29/nl
 UID:https://www.missale.net/of/2019-12-29/nl
 URL:https://www.missale.net/of/2019-12-29/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200101
+SUMMARY:Maria, Moeder van God
+DESCRIPTION:Maria, Moeder van God\nhttps://www.missale.net/of/2020-01-01/nl
+UID:https://www.missale.net/of/2020-01-01/nl
+URL:https://www.missale.net/of/2020-01-01/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200105
+SUMMARY:Openbaring van de Heer
+DESCRIPTION:Openbaring van de Heer\nhttps://www.missale.net/of/2020-01-05/nl
+UID:https://www.missale.net/of/2020-01-05/nl
+URL:https://www.missale.net/of/2020-01-05/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200112
@@ -53,6 +109,13 @@ SUMMARY:Tweede zondag door het jaar
 DESCRIPTION:Tweede zondag door het jaar\nhttps://www.missale.net/of/2020-01-19/nl
 UID:https://www.missale.net/of/2020-01-19/nl
 URL:https://www.missale.net/of/2020-01-19/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200125
+SUMMARY:Bekering van Paulus, apostel
+DESCRIPTION:Bekering van Paulus, apostel\nhttps://www.missale.net/of/2020-01-25/nl
+UID:https://www.missale.net/of/2020-01-25/nl
+URL:https://www.missale.net/of/2020-01-25/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200126
@@ -83,11 +146,25 @@ UID:https://www.missale.net/of/2020-02-16/nl
 URL:https://www.missale.net/of/2020-02-16/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200222
+SUMMARY:Sint Petrus' Stoel
+DESCRIPTION:Sint Petrus' Stoel\nhttps://www.missale.net/of/2020-02-22/nl
+UID:https://www.missale.net/of/2020-02-22/nl
+URL:https://www.missale.net/of/2020-02-22/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200223
 SUMMARY:Zevende zondag door het jaar
 DESCRIPTION:Zevende zondag door het jaar\nhttps://www.missale.net/of/2020-02-23/nl
 UID:https://www.missale.net/of/2020-02-23/nl
 URL:https://www.missale.net/of/2020-02-23/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200226
+SUMMARY:Aswoensdag
+DESCRIPTION:Aswoensdag\nhttps://www.missale.net/of/2020-02-26/nl
+UID:https://www.missale.net/of/2020-02-26/nl
+URL:https://www.missale.net/of/2020-02-26/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200301
@@ -111,11 +188,25 @@ UID:https://www.missale.net/of/2020-03-15/nl
 URL:https://www.missale.net/of/2020-03-15/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200319
+SUMMARY:H. Jozef, bruidegom van de H. Maagd Maria
+DESCRIPTION:H. Jozef, bruidegom van de H. Maagd Maria\nhttps://www.missale.net/of/2020-03-19/nl
+UID:https://www.missale.net/of/2020-03-19/nl
+URL:https://www.missale.net/of/2020-03-19/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200322
 SUMMARY:Vierde Zondag van de Veertigdagentijd
 DESCRIPTION:Vierde Zondag van de Veertigdagentijd\nhttps://www.missale.net/of/2020-03-22/nl
 UID:https://www.missale.net/of/2020-03-22/nl
 URL:https://www.missale.net/of/2020-03-22/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200325
+SUMMARY:Aankondiging van de Heer
+DESCRIPTION:Aankondiging van de Heer\nhttps://www.missale.net/of/2020-03-25/nl
+UID:https://www.missale.net/of/2020-03-25/nl
+URL:https://www.missale.net/of/2020-03-25/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200329
@@ -130,6 +221,20 @@ SUMMARY:Palmzondag
 DESCRIPTION:Palmzondag\nhttps://www.missale.net/of/2020-04-05/nl
 UID:https://www.missale.net/of/2020-04-05/nl
 URL:https://www.missale.net/of/2020-04-05/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200409
+SUMMARY:Witte Donderdag
+DESCRIPTION:Witte Donderdag\nhttps://www.missale.net/of/2020-04-09/nl
+UID:https://www.missale.net/of/2020-04-09/nl
+URL:https://www.missale.net/of/2020-04-09/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200410
+SUMMARY:Goede Vrijdag
+DESCRIPTION:Goede Vrijdag\nhttps://www.missale.net/of/2020-04-10/nl
+UID:https://www.missale.net/of/2020-04-10/nl
+URL:https://www.missale.net/of/2020-04-10/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200411
@@ -153,6 +258,13 @@ UID:https://www.missale.net/of/2020-04-19/nl
 URL:https://www.missale.net/of/2020-04-19/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200425
+SUMMARY:H. Marcus, evangelist
+DESCRIPTION:H. Marcus, evangelist\nhttps://www.missale.net/of/2020-04-25/nl
+UID:https://www.missale.net/of/2020-04-25/nl
+URL:https://www.missale.net/of/2020-04-25/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200426
 SUMMARY:Derde zondag van Pasen
 DESCRIPTION:Derde zondag van Pasen\nhttps://www.missale.net/of/2020-04-26/nl
@@ -174,6 +286,13 @@ UID:https://www.missale.net/of/2020-05-10/nl
 URL:https://www.missale.net/of/2020-05-10/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200514
+SUMMARY:H. Matteüs, apostel
+DESCRIPTION:H. Matteüs, apostel\nhttps://www.missale.net/of/2020-05-14/nl
+UID:https://www.missale.net/of/2020-05-14/nl
+URL:https://www.missale.net/of/2020-05-14/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200517
 SUMMARY:Zesde zondag van Pasen
 DESCRIPTION:Zesde zondag van Pasen\nhttps://www.missale.net/of/2020-05-17/nl
@@ -193,6 +312,13 @@ SUMMARY:Zevende zondag van Pasen
 DESCRIPTION:Zevende zondag van Pasen\nhttps://www.missale.net/of/2020-05-24/nl
 UID:https://www.missale.net/of/2020-05-24/nl
 URL:https://www.missale.net/of/2020-05-24/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200531
+SUMMARY:Pinksteren
+DESCRIPTION:Pinksteren\nhttps://www.missale.net/of/2020-05-31/nl
+UID:https://www.missale.net/of/2020-05-31/nl
+URL:https://www.missale.net/of/2020-05-31/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200607
@@ -230,11 +356,32 @@ UID:https://www.missale.net/of/2020-06-21/nl
 URL:https://www.missale.net/of/2020-06-21/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200624
+SUMMARY:Geboorte van de H. Johannes de Doper
+DESCRIPTION:Geboorte van de H. Johannes de Doper\nhttps://www.missale.net/of/2020-06-24/nl
+UID:https://www.missale.net/of/2020-06-24/nl
+URL:https://www.missale.net/of/2020-06-24/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200628
 SUMMARY:Dertiende zondag door het jaar
 DESCRIPTION:Dertiende zondag door het jaar\nhttps://www.missale.net/of/2020-06-28/nl
 UID:https://www.missale.net/of/2020-06-28/nl
 URL:https://www.missale.net/of/2020-06-28/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200629
+SUMMARY:HH. Petrus en Paulus, apostelen
+DESCRIPTION:HH. Petrus en Paulus, apostelen\nhttps://www.missale.net/of/2020-06-29/nl
+UID:https://www.missale.net/of/2020-06-29/nl
+URL:https://www.missale.net/of/2020-06-29/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200703
+SUMMARY:H. Thomas, apostel
+DESCRIPTION:H. Thomas, apostel\nhttps://www.missale.net/of/2020-07-03/nl
+UID:https://www.missale.net/of/2020-07-03/nl
+URL:https://www.missale.net/of/2020-07-03/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200705
@@ -256,6 +403,13 @@ SUMMARY:Zestiende zondag door het jaar
 DESCRIPTION:Zestiende zondag door het jaar\nhttps://www.missale.net/of/2020-07-19/nl
 UID:https://www.missale.net/of/2020-07-19/nl
 URL:https://www.missale.net/of/2020-07-19/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200725
+SUMMARY:H. Jacobus, apostel
+DESCRIPTION:H. Jacobus, apostel\nhttps://www.missale.net/of/2020-07-25/nl
+UID:https://www.missale.net/of/2020-07-25/nl
+URL:https://www.missale.net/of/2020-07-25/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200726
@@ -286,6 +440,20 @@ UID:https://www.missale.net/of/2020-08-09/nl
 URL:https://www.missale.net/of/2020-08-09/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200810
+SUMMARY:H. Laurentius, diaken en martelaar
+DESCRIPTION:H. Laurentius, diaken en martelaar\nhttps://www.missale.net/of/2020-08-10/nl
+UID:https://www.missale.net/of/2020-08-10/nl
+URL:https://www.missale.net/of/2020-08-10/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200815
+SUMMARY:Tenhemelopneming van de H. Maagd Maria
+DESCRIPTION:Tenhemelopneming van de H. Maagd Maria\nhttps://www.missale.net/of/2020-08-15/nl
+UID:https://www.missale.net/of/2020-08-15/nl
+URL:https://www.missale.net/of/2020-08-15/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200816
 SUMMARY:Twintigste zondag door het jaar
 DESCRIPTION:Twintigste zondag door het jaar\nhttps://www.missale.net/of/2020-08-16/nl
@@ -298,6 +466,13 @@ SUMMARY:Eenentwintigste zondag door het jaar
 DESCRIPTION:Eenentwintigste zondag door het jaar\nhttps://www.missale.net/of/2020-08-23/nl
 UID:https://www.missale.net/of/2020-08-23/nl
 URL:https://www.missale.net/of/2020-08-23/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200824
+SUMMARY:H. Bartholomeus, apostel
+DESCRIPTION:H. Bartholomeus, apostel\nhttps://www.missale.net/of/2020-08-24/nl
+UID:https://www.missale.net/of/2020-08-24/nl
+URL:https://www.missale.net/of/2020-08-24/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200830
@@ -314,11 +489,25 @@ UID:https://www.missale.net/of/2020-09-06/nl
 URL:https://www.missale.net/of/2020-09-06/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200908
+SUMMARY:Geboorte van de Maagd Maria
+DESCRIPTION:Geboorte van de Maagd Maria\nhttps://www.missale.net/of/2020-09-08/nl
+UID:https://www.missale.net/of/2020-09-08/nl
+URL:https://www.missale.net/of/2020-09-08/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200913
 SUMMARY:Vierentwintigste zondag door het jaar
 DESCRIPTION:Vierentwintigste zondag door het jaar\nhttps://www.missale.net/of/2020-09-13/nl
 UID:https://www.missale.net/of/2020-09-13/nl
 URL:https://www.missale.net/of/2020-09-13/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200914
+SUMMARY:Kruisverheffing
+DESCRIPTION:Kruisverheffing\nhttps://www.missale.net/of/2020-09-14/nl
+UID:https://www.missale.net/of/2020-09-14/nl
+URL:https://www.missale.net/of/2020-09-14/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200920
@@ -328,11 +517,25 @@ UID:https://www.missale.net/of/2020-09-20/nl
 URL:https://www.missale.net/of/2020-09-20/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200921
+SUMMARY:H. Matteüs, apostel en evangelist
+DESCRIPTION:H. Matteüs, apostel en evangelist\nhttps://www.missale.net/of/2020-09-21/nl
+UID:https://www.missale.net/of/2020-09-21/nl
+URL:https://www.missale.net/of/2020-09-21/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200927
 SUMMARY:Zesentwintigste zondag door het jaar
 DESCRIPTION:Zesentwintigste zondag door het jaar\nhttps://www.missale.net/of/2020-09-27/nl
 UID:https://www.missale.net/of/2020-09-27/nl
 URL:https://www.missale.net/of/2020-09-27/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200929
+SUMMARY:Michaël, Gabriël en Rafaël, aartsengelen
+DESCRIPTION:Michaël, Gabriël en Rafaël, aartsengelen\nhttps://www.missale.net/of/2020-09-29/nl
+UID:https://www.missale.net/of/2020-09-29/nl
+URL:https://www.missale.net/of/2020-09-29/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201004
@@ -363,11 +566,39 @@ UID:https://www.missale.net/of/2020-10-25/nl
 URL:https://www.missale.net/of/2020-10-25/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201028
+SUMMARY:HH. Simon en Judas, apostelen
+DESCRIPTION:HH. Simon en Judas, apostelen\nhttps://www.missale.net/of/2020-10-28/nl
+UID:https://www.missale.net/of/2020-10-28/nl
+URL:https://www.missale.net/of/2020-10-28/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201101
+SUMMARY:Allerheiligen
+DESCRIPTION:Allerheiligen\nhttps://www.missale.net/of/2020-11-01/nl
+UID:https://www.missale.net/of/2020-11-01/nl
+URL:https://www.missale.net/of/2020-11-01/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201102
+SUMMARY:Allerzielen
+DESCRIPTION:Allerzielen\nhttps://www.missale.net/of/2020-11-02/nl
+UID:https://www.missale.net/of/2020-11-02/nl
+URL:https://www.missale.net/of/2020-11-02/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201108
 SUMMARY:Tweeëndertigste zondag door het jaar
 DESCRIPTION:Tweeëndertigste zondag door het jaar\nhttps://www.missale.net/of/2020-11-08/nl
 UID:https://www.missale.net/of/2020-11-08/nl
 URL:https://www.missale.net/of/2020-11-08/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201109
+SUMMARY:Wijding van de basiliek van Sint Jan van Lateranen in Rome
+DESCRIPTION:Wijding van de basiliek van Sint Jan van Lateranen in Rome\nhttps://www.missale.net/of/2020-11-09/nl
+UID:https://www.missale.net/of/2020-11-09/nl
+URL:https://www.missale.net/of/2020-11-09/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201115
@@ -391,11 +622,25 @@ UID:https://www.missale.net/of/2020-11-29/nl
 URL:https://www.missale.net/of/2020-11-29/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201130
+SUMMARY:H. Andreas, Apostel
+DESCRIPTION:H. Andreas, Apostel\nhttps://www.missale.net/of/2020-11-30/nl
+UID:https://www.missale.net/of/2020-11-30/nl
+URL:https://www.missale.net/of/2020-11-30/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201206
 SUMMARY:Tweede zondag van de Advent
 DESCRIPTION:Tweede zondag van de Advent\nhttps://www.missale.net/of/2020-12-06/nl
 UID:https://www.missale.net/of/2020-12-06/nl
 URL:https://www.missale.net/of/2020-12-06/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201208
+SUMMARY:Onbevlekte Ontvangenis van de Heilige Maagd Maria
+DESCRIPTION:Onbevlekte Ontvangenis van de Heilige Maagd Maria\nhttps://www.missale.net/of/2020-12-08/nl
+UID:https://www.missale.net/of/2020-12-08/nl
+URL:https://www.missale.net/of/2020-12-08/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201213
@@ -412,11 +657,53 @@ UID:https://www.missale.net/of/2020-12-20/nl
 URL:https://www.missale.net/of/2020-12-20/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201224
+SUMMARY:Vigilie van Kerstmis
+DESCRIPTION:Vigilie van Kerstmis\nhttps://www.missale.net/of/2020-12-24/nl
+UID:https://www.missale.net/of/2020-12-24/nl
+URL:https://www.missale.net/of/2020-12-24/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201225
+SUMMARY:Kerstmis
+DESCRIPTION:Kerstmis\nhttps://www.missale.net/of/2020-12-25/nl
+UID:https://www.missale.net/of/2020-12-25/nl
+URL:https://www.missale.net/of/2020-12-25/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201226
+SUMMARY:H. Stephanus, eerste martelaar
+DESCRIPTION:H. Stephanus, eerste martelaar\nhttps://www.missale.net/of/2020-12-26/nl
+UID:https://www.missale.net/of/2020-12-26/nl
+URL:https://www.missale.net/of/2020-12-26/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201227
 SUMMARY:Heilige Familie
 DESCRIPTION:Heilige Familie\nhttps://www.missale.net/of/2020-12-27/nl
 UID:https://www.missale.net/of/2020-12-27/nl
 URL:https://www.missale.net/of/2020-12-27/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201228
+SUMMARY:HH. Onnozele Kinderen, martelaren
+DESCRIPTION:HH. Onnozele Kinderen, martelaren\nhttps://www.missale.net/of/2020-12-28/nl
+UID:https://www.missale.net/of/2020-12-28/nl
+URL:https://www.missale.net/of/2020-12-28/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210101
+SUMMARY:Maria, Moeder van God
+DESCRIPTION:Maria, Moeder van God\nhttps://www.missale.net/of/2021-01-01/nl
+UID:https://www.missale.net/of/2021-01-01/nl
+URL:https://www.missale.net/of/2021-01-01/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210103
+SUMMARY:Openbaring van de Heer
+DESCRIPTION:Openbaring van de Heer\nhttps://www.missale.net/of/2021-01-03/nl
+UID:https://www.missale.net/of/2021-01-03/nl
+URL:https://www.missale.net/of/2021-01-03/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210110
@@ -440,11 +727,25 @@ UID:https://www.missale.net/of/2021-01-24/nl
 URL:https://www.missale.net/of/2021-01-24/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210125
+SUMMARY:Bekering van Paulus, apostel
+DESCRIPTION:Bekering van Paulus, apostel\nhttps://www.missale.net/of/2021-01-25/nl
+UID:https://www.missale.net/of/2021-01-25/nl
+URL:https://www.missale.net/of/2021-01-25/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210131
 SUMMARY:Vierde zondag door het jaar
 DESCRIPTION:Vierde zondag door het jaar\nhttps://www.missale.net/of/2021-01-31/nl
 UID:https://www.missale.net/of/2021-01-31/nl
 URL:https://www.missale.net/of/2021-01-31/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210202
+SUMMARY:Opdracht van de Heer in de tempel
+DESCRIPTION:Opdracht van de Heer in de tempel\nhttps://www.missale.net/of/2021-02-02/nl
+UID:https://www.missale.net/of/2021-02-02/nl
+URL:https://www.missale.net/of/2021-02-02/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210207
@@ -461,11 +762,25 @@ UID:https://www.missale.net/of/2021-02-14/nl
 URL:https://www.missale.net/of/2021-02-14/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210217
+SUMMARY:Aswoensdag
+DESCRIPTION:Aswoensdag\nhttps://www.missale.net/of/2021-02-17/nl
+UID:https://www.missale.net/of/2021-02-17/nl
+URL:https://www.missale.net/of/2021-02-17/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210221
 SUMMARY:Eerste zondag van de Veertigdagentijd
 DESCRIPTION:Eerste zondag van de Veertigdagentijd\nhttps://www.missale.net/of/2021-02-21/nl
 UID:https://www.missale.net/of/2021-02-21/nl
 URL:https://www.missale.net/of/2021-02-21/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210222
+SUMMARY:Sint Petrus' Stoel
+DESCRIPTION:Sint Petrus' Stoel\nhttps://www.missale.net/of/2021-02-22/nl
+UID:https://www.missale.net/of/2021-02-22/nl
+URL:https://www.missale.net/of/2021-02-22/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210228
@@ -489,6 +804,13 @@ UID:https://www.missale.net/of/2021-03-14/nl
 URL:https://www.missale.net/of/2021-03-14/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210319
+SUMMARY:H. Jozef, bruidegom van de H. Maagd Maria
+DESCRIPTION:H. Jozef, bruidegom van de H. Maagd Maria\nhttps://www.missale.net/of/2021-03-19/nl
+UID:https://www.missale.net/of/2021-03-19/nl
+URL:https://www.missale.net/of/2021-03-19/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210321
 SUMMARY:Vijfde zondag van de Veertigdagentijd
 DESCRIPTION:Vijfde zondag van de Veertigdagentijd\nhttps://www.missale.net/of/2021-03-21/nl
@@ -496,11 +818,32 @@ UID:https://www.missale.net/of/2021-03-21/nl
 URL:https://www.missale.net/of/2021-03-21/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210325
+SUMMARY:Aankondiging van de Heer
+DESCRIPTION:Aankondiging van de Heer\nhttps://www.missale.net/of/2021-03-25/nl
+UID:https://www.missale.net/of/2021-03-25/nl
+URL:https://www.missale.net/of/2021-03-25/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210328
 SUMMARY:Palmzondag
 DESCRIPTION:Palmzondag\nhttps://www.missale.net/of/2021-03-28/nl
 UID:https://www.missale.net/of/2021-03-28/nl
 URL:https://www.missale.net/of/2021-03-28/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210401
+SUMMARY:Witte Donderdag
+DESCRIPTION:Witte Donderdag\nhttps://www.missale.net/of/2021-04-01/nl
+UID:https://www.missale.net/of/2021-04-01/nl
+URL:https://www.missale.net/of/2021-04-01/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210402
+SUMMARY:Goede Vrijdag
+DESCRIPTION:Goede Vrijdag\nhttps://www.missale.net/of/2021-04-02/nl
+UID:https://www.missale.net/of/2021-04-02/nl
+URL:https://www.missale.net/of/2021-04-02/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210403
@@ -545,6 +888,13 @@ UID:https://www.missale.net/of/2021-05-02/nl
 URL:https://www.missale.net/of/2021-05-02/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210503
+SUMMARY:HH. Filippus en Jakobus, apostelen
+DESCRIPTION:HH. Filippus en Jakobus, apostelen\nhttps://www.missale.net/of/2021-05-03/nl
+UID:https://www.missale.net/of/2021-05-03/nl
+URL:https://www.missale.net/of/2021-05-03/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210509
 SUMMARY:Zesde zondag van Pasen
 DESCRIPTION:Zesde zondag van Pasen\nhttps://www.missale.net/of/2021-05-09/nl
@@ -559,6 +909,13 @@ UID:https://www.missale.net/of/2021-05-13/nl
 URL:https://www.missale.net/of/2021-05-13/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210514
+SUMMARY:H. Matteüs, apostel
+DESCRIPTION:H. Matteüs, apostel\nhttps://www.missale.net/of/2021-05-14/nl
+UID:https://www.missale.net/of/2021-05-14/nl
+URL:https://www.missale.net/of/2021-05-14/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210516
 SUMMARY:Zevende zondag van Pasen
 DESCRIPTION:Zevende zondag van Pasen\nhttps://www.missale.net/of/2021-05-16/nl
@@ -566,11 +923,25 @@ UID:https://www.missale.net/of/2021-05-16/nl
 URL:https://www.missale.net/of/2021-05-16/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210523
+SUMMARY:Pinksteren
+DESCRIPTION:Pinksteren\nhttps://www.missale.net/of/2021-05-23/nl
+UID:https://www.missale.net/of/2021-05-23/nl
+URL:https://www.missale.net/of/2021-05-23/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210530
 SUMMARY:Heilige Drievuldigheid
 DESCRIPTION:Heilige Drievuldigheid\nhttps://www.missale.net/of/2021-05-30/nl
 UID:https://www.missale.net/of/2021-05-30/nl
 URL:https://www.missale.net/of/2021-05-30/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210531
+SUMMARY:Visitatie van de H. Maagd Maria aan Elizabeth
+DESCRIPTION:Visitatie van de H. Maagd Maria aan Elizabeth\nhttps://www.missale.net/of/2021-05-31/nl
+UID:https://www.missale.net/of/2021-05-31/nl
+URL:https://www.missale.net/of/2021-05-31/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210603
@@ -608,11 +979,32 @@ UID:https://www.missale.net/of/2021-06-20/nl
 URL:https://www.missale.net/of/2021-06-20/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210624
+SUMMARY:Geboorte van de H. Johannes de Doper
+DESCRIPTION:Geboorte van de H. Johannes de Doper\nhttps://www.missale.net/of/2021-06-24/nl
+UID:https://www.missale.net/of/2021-06-24/nl
+URL:https://www.missale.net/of/2021-06-24/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210627
 SUMMARY:Dertiende zondag door het jaar
 DESCRIPTION:Dertiende zondag door het jaar\nhttps://www.missale.net/of/2021-06-27/nl
 UID:https://www.missale.net/of/2021-06-27/nl
 URL:https://www.missale.net/of/2021-06-27/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210629
+SUMMARY:HH. Petrus en Paulus, apostelen
+DESCRIPTION:HH. Petrus en Paulus, apostelen\nhttps://www.missale.net/of/2021-06-29/nl
+UID:https://www.missale.net/of/2021-06-29/nl
+URL:https://www.missale.net/of/2021-06-29/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210703
+SUMMARY:H. Thomas, apostel
+DESCRIPTION:H. Thomas, apostel\nhttps://www.missale.net/of/2021-07-03/nl
+UID:https://www.missale.net/of/2021-07-03/nl
+URL:https://www.missale.net/of/2021-07-03/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210704
@@ -664,11 +1056,32 @@ UID:https://www.missale.net/of/2021-08-08/nl
 URL:https://www.missale.net/of/2021-08-08/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210810
+SUMMARY:H. Laurentius, diaken en martelaar
+DESCRIPTION:H. Laurentius, diaken en martelaar\nhttps://www.missale.net/of/2021-08-10/nl
+UID:https://www.missale.net/of/2021-08-10/nl
+URL:https://www.missale.net/of/2021-08-10/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210815
+SUMMARY:Tenhemelopneming van de H. Maagd Maria
+DESCRIPTION:Tenhemelopneming van de H. Maagd Maria\nhttps://www.missale.net/of/2021-08-15/nl
+UID:https://www.missale.net/of/2021-08-15/nl
+URL:https://www.missale.net/of/2021-08-15/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210822
 SUMMARY:Eenentwintigste zondag door het jaar
 DESCRIPTION:Eenentwintigste zondag door het jaar\nhttps://www.missale.net/of/2021-08-22/nl
 UID:https://www.missale.net/of/2021-08-22/nl
 URL:https://www.missale.net/of/2021-08-22/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210824
+SUMMARY:H. Bartholomeus, apostel
+DESCRIPTION:H. Bartholomeus, apostel\nhttps://www.missale.net/of/2021-08-24/nl
+UID:https://www.missale.net/of/2021-08-24/nl
+URL:https://www.missale.net/of/2021-08-24/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210829
@@ -685,11 +1098,25 @@ UID:https://www.missale.net/of/2021-09-05/nl
 URL:https://www.missale.net/of/2021-09-05/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210908
+SUMMARY:Geboorte van de Maagd Maria
+DESCRIPTION:Geboorte van de Maagd Maria\nhttps://www.missale.net/of/2021-09-08/nl
+UID:https://www.missale.net/of/2021-09-08/nl
+URL:https://www.missale.net/of/2021-09-08/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210912
 SUMMARY:Vierentwintigste zondag door het jaar
 DESCRIPTION:Vierentwintigste zondag door het jaar\nhttps://www.missale.net/of/2021-09-12/nl
 UID:https://www.missale.net/of/2021-09-12/nl
 URL:https://www.missale.net/of/2021-09-12/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210914
+SUMMARY:Kruisverheffing
+DESCRIPTION:Kruisverheffing\nhttps://www.missale.net/of/2021-09-14/nl
+UID:https://www.missale.net/of/2021-09-14/nl
+URL:https://www.missale.net/of/2021-09-14/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210919
@@ -699,11 +1126,25 @@ UID:https://www.missale.net/of/2021-09-19/nl
 URL:https://www.missale.net/of/2021-09-19/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210921
+SUMMARY:H. Matteüs, apostel en evangelist
+DESCRIPTION:H. Matteüs, apostel en evangelist\nhttps://www.missale.net/of/2021-09-21/nl
+UID:https://www.missale.net/of/2021-09-21/nl
+URL:https://www.missale.net/of/2021-09-21/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210926
 SUMMARY:Zesentwintigste zondag door het jaar
 DESCRIPTION:Zesentwintigste zondag door het jaar\nhttps://www.missale.net/of/2021-09-26/nl
 UID:https://www.missale.net/of/2021-09-26/nl
 URL:https://www.missale.net/of/2021-09-26/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210929
+SUMMARY:Michaël, Gabriël en Rafaël, aartsengelen
+DESCRIPTION:Michaël, Gabriël en Rafaël, aartsengelen\nhttps://www.missale.net/of/2021-09-29/nl
+UID:https://www.missale.net/of/2021-09-29/nl
+URL:https://www.missale.net/of/2021-09-29/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20211003
@@ -727,11 +1168,25 @@ UID:https://www.missale.net/of/2021-10-17/nl
 URL:https://www.missale.net/of/2021-10-17/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211018
+SUMMARY:H. Lucas, evangelist
+DESCRIPTION:H. Lucas, evangelist\nhttps://www.missale.net/of/2021-10-18/nl
+UID:https://www.missale.net/of/2021-10-18/nl
+URL:https://www.missale.net/of/2021-10-18/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20211024
 SUMMARY:Dertigste zondag door het jaar
 DESCRIPTION:Dertigste zondag door het jaar\nhttps://www.missale.net/of/2021-10-24/nl
 UID:https://www.missale.net/of/2021-10-24/nl
 URL:https://www.missale.net/of/2021-10-24/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211028
+SUMMARY:HH. Simon en Judas, apostelen
+DESCRIPTION:HH. Simon en Judas, apostelen\nhttps://www.missale.net/of/2021-10-28/nl
+UID:https://www.missale.net/of/2021-10-28/nl
+URL:https://www.missale.net/of/2021-10-28/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20211031
@@ -741,11 +1196,32 @@ UID:https://www.missale.net/of/2021-10-31/nl
 URL:https://www.missale.net/of/2021-10-31/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211101
+SUMMARY:Allerheiligen
+DESCRIPTION:Allerheiligen\nhttps://www.missale.net/of/2021-11-01/nl
+UID:https://www.missale.net/of/2021-11-01/nl
+URL:https://www.missale.net/of/2021-11-01/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211102
+SUMMARY:Allerzielen
+DESCRIPTION:Allerzielen\nhttps://www.missale.net/of/2021-11-02/nl
+UID:https://www.missale.net/of/2021-11-02/nl
+URL:https://www.missale.net/of/2021-11-02/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20211107
 SUMMARY:Tweeëndertigste zondag door het jaar
 DESCRIPTION:Tweeëndertigste zondag door het jaar\nhttps://www.missale.net/of/2021-11-07/nl
 UID:https://www.missale.net/of/2021-11-07/nl
 URL:https://www.missale.net/of/2021-11-07/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211109
+SUMMARY:Wijding van de basiliek van Sint Jan van Lateranen in Rome
+DESCRIPTION:Wijding van de basiliek van Sint Jan van Lateranen in Rome\nhttps://www.missale.net/of/2021-11-09/nl
+UID:https://www.missale.net/of/2021-11-09/nl
+URL:https://www.missale.net/of/2021-11-09/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20211114
@@ -769,11 +1245,25 @@ UID:https://www.missale.net/of/2021-11-28/nl
 URL:https://www.missale.net/of/2021-11-28/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211130
+SUMMARY:H. Andreas, Apostel
+DESCRIPTION:H. Andreas, Apostel\nhttps://www.missale.net/of/2021-11-30/nl
+UID:https://www.missale.net/of/2021-11-30/nl
+URL:https://www.missale.net/of/2021-11-30/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20211205
 SUMMARY:Tweede zondag van de Advent
 DESCRIPTION:Tweede zondag van de Advent\nhttps://www.missale.net/of/2021-12-05/nl
 UID:https://www.missale.net/of/2021-12-05/nl
 URL:https://www.missale.net/of/2021-12-05/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211208
+SUMMARY:Onbevlekte Ontvangenis van de Heilige Maagd Maria
+DESCRIPTION:Onbevlekte Ontvangenis van de Heilige Maagd Maria\nhttps://www.missale.net/of/2021-12-08/nl
+UID:https://www.missale.net/of/2021-12-08/nl
+URL:https://www.missale.net/of/2021-12-08/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20211212
@@ -790,11 +1280,60 @@ UID:https://www.missale.net/of/2021-12-19/nl
 URL:https://www.missale.net/of/2021-12-19/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211224
+SUMMARY:Vigilie van Kerstmis
+DESCRIPTION:Vigilie van Kerstmis\nhttps://www.missale.net/of/2021-12-24/nl
+UID:https://www.missale.net/of/2021-12-24/nl
+URL:https://www.missale.net/of/2021-12-24/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211225
+SUMMARY:Kerstmis
+DESCRIPTION:Kerstmis\nhttps://www.missale.net/of/2021-12-25/nl
+UID:https://www.missale.net/of/2021-12-25/nl
+URL:https://www.missale.net/of/2021-12-25/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20211226
 SUMMARY:Heilige Familie
 DESCRIPTION:Heilige Familie\nhttps://www.missale.net/of/2021-12-26/nl
 UID:https://www.missale.net/of/2021-12-26/nl
 URL:https://www.missale.net/of/2021-12-26/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211227
+SUMMARY:H. Johannes, apostel en evangelist
+DESCRIPTION:H. Johannes, apostel en evangelist\nhttps://www.missale.net/of/2021-12-27/nl
+UID:https://www.missale.net/of/2021-12-27/nl
+URL:https://www.missale.net/of/2021-12-27/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211228
+SUMMARY:HH. Onnozele Kinderen, martelaren
+DESCRIPTION:HH. Onnozele Kinderen, martelaren\nhttps://www.missale.net/of/2021-12-28/nl
+UID:https://www.missale.net/of/2021-12-28/nl
+URL:https://www.missale.net/of/2021-12-28/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220101
+SUMMARY:Maria, Moeder van God
+DESCRIPTION:Maria, Moeder van God\nhttps://www.missale.net/of/2022-01-01/nl
+UID:https://www.missale.net/of/2022-01-01/nl
+URL:https://www.missale.net/of/2022-01-01/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220102
+SUMMARY:Tweede zondag van Kerstmis
+DESCRIPTION:Tweede zondag van Kerstmis\nhttps://www.missale.net/of/2022-01-02/nl
+UID:https://www.missale.net/of/2022-01-02/nl
+URL:https://www.missale.net/of/2022-01-02/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220109
+SUMMARY:Openbaring van de Heer
+DESCRIPTION:Openbaring van de Heer\nhttps://www.missale.net/of/2022-01-09/nl
+UID:https://www.missale.net/of/2022-01-09/nl
+URL:https://www.missale.net/of/2022-01-09/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220110
@@ -818,11 +1357,25 @@ UID:https://www.missale.net/of/2022-01-23/nl
 URL:https://www.missale.net/of/2022-01-23/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220125
+SUMMARY:Bekering van Paulus, apostel
+DESCRIPTION:Bekering van Paulus, apostel\nhttps://www.missale.net/of/2022-01-25/nl
+UID:https://www.missale.net/of/2022-01-25/nl
+URL:https://www.missale.net/of/2022-01-25/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220130
 SUMMARY:Vierde zondag door het jaar
 DESCRIPTION:Vierde zondag door het jaar\nhttps://www.missale.net/of/2022-01-30/nl
 UID:https://www.missale.net/of/2022-01-30/nl
 URL:https://www.missale.net/of/2022-01-30/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220202
+SUMMARY:Opdracht van de Heer in de tempel
+DESCRIPTION:Opdracht van de Heer in de tempel\nhttps://www.missale.net/of/2022-02-02/nl
+UID:https://www.missale.net/of/2022-02-02/nl
+URL:https://www.missale.net/of/2022-02-02/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220206
@@ -846,11 +1399,25 @@ UID:https://www.missale.net/of/2022-02-20/nl
 URL:https://www.missale.net/of/2022-02-20/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220222
+SUMMARY:Sint Petrus' Stoel
+DESCRIPTION:Sint Petrus' Stoel\nhttps://www.missale.net/of/2022-02-22/nl
+UID:https://www.missale.net/of/2022-02-22/nl
+URL:https://www.missale.net/of/2022-02-22/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220227
 SUMMARY:Achtste zondag door het jaar
 DESCRIPTION:Achtste zondag door het jaar\nhttps://www.missale.net/of/2022-02-27/nl
 UID:https://www.missale.net/of/2022-02-27/nl
 URL:https://www.missale.net/of/2022-02-27/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220302
+SUMMARY:Aswoensdag
+DESCRIPTION:Aswoensdag\nhttps://www.missale.net/of/2022-03-02/nl
+UID:https://www.missale.net/of/2022-03-02/nl
+URL:https://www.missale.net/of/2022-03-02/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220306
@@ -867,11 +1434,25 @@ UID:https://www.missale.net/of/2022-03-13/nl
 URL:https://www.missale.net/of/2022-03-13/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220319
+SUMMARY:H. Jozef, bruidegom van de H. Maagd Maria
+DESCRIPTION:H. Jozef, bruidegom van de H. Maagd Maria\nhttps://www.missale.net/of/2022-03-19/nl
+UID:https://www.missale.net/of/2022-03-19/nl
+URL:https://www.missale.net/of/2022-03-19/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220320
 SUMMARY:Derde zondag van de Veertigdagentijd
 DESCRIPTION:Derde zondag van de Veertigdagentijd\nhttps://www.missale.net/of/2022-03-20/nl
 UID:https://www.missale.net/of/2022-03-20/nl
 URL:https://www.missale.net/of/2022-03-20/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220325
+SUMMARY:Aankondiging van de Heer
+DESCRIPTION:Aankondiging van de Heer\nhttps://www.missale.net/of/2022-03-25/nl
+UID:https://www.missale.net/of/2022-03-25/nl
+URL:https://www.missale.net/of/2022-03-25/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220327
@@ -895,6 +1476,20 @@ UID:https://www.missale.net/of/2022-04-10/nl
 URL:https://www.missale.net/of/2022-04-10/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220414
+SUMMARY:Witte Donderdag
+DESCRIPTION:Witte Donderdag\nhttps://www.missale.net/of/2022-04-14/nl
+UID:https://www.missale.net/of/2022-04-14/nl
+URL:https://www.missale.net/of/2022-04-14/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220415
+SUMMARY:Goede Vrijdag
+DESCRIPTION:Goede Vrijdag\nhttps://www.missale.net/of/2022-04-15/nl
+UID:https://www.missale.net/of/2022-04-15/nl
+URL:https://www.missale.net/of/2022-04-15/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220416
 SUMMARY:Paaswake
 DESCRIPTION:Paaswake\nhttps://www.missale.net/of/2022-04-16/nl
@@ -916,6 +1511,13 @@ UID:https://www.missale.net/of/2022-04-24/nl
 URL:https://www.missale.net/of/2022-04-24/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220425
+SUMMARY:H. Marcus, evangelist
+DESCRIPTION:H. Marcus, evangelist\nhttps://www.missale.net/of/2022-04-25/nl
+UID:https://www.missale.net/of/2022-04-25/nl
+URL:https://www.missale.net/of/2022-04-25/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220501
 SUMMARY:Derde zondag van Pasen
 DESCRIPTION:Derde zondag van Pasen\nhttps://www.missale.net/of/2022-05-01/nl
@@ -923,11 +1525,25 @@ UID:https://www.missale.net/of/2022-05-01/nl
 URL:https://www.missale.net/of/2022-05-01/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220503
+SUMMARY:HH. Filippus en Jakobus, apostelen
+DESCRIPTION:HH. Filippus en Jakobus, apostelen\nhttps://www.missale.net/of/2022-05-03/nl
+UID:https://www.missale.net/of/2022-05-03/nl
+URL:https://www.missale.net/of/2022-05-03/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220508
 SUMMARY:Vierde zondag van Pasen
 DESCRIPTION:Vierde zondag van Pasen\nhttps://www.missale.net/of/2022-05-08/nl
 UID:https://www.missale.net/of/2022-05-08/nl
 URL:https://www.missale.net/of/2022-05-08/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220514
+SUMMARY:H. Matteüs, apostel
+DESCRIPTION:H. Matteüs, apostel\nhttps://www.missale.net/of/2022-05-14/nl
+UID:https://www.missale.net/of/2022-05-14/nl
+URL:https://www.missale.net/of/2022-05-14/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220515
@@ -958,6 +1574,20 @@ UID:https://www.missale.net/of/2022-05-29/nl
 URL:https://www.missale.net/of/2022-05-29/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220531
+SUMMARY:Visitatie van de H. Maagd Maria aan Elizabeth
+DESCRIPTION:Visitatie van de H. Maagd Maria aan Elizabeth\nhttps://www.missale.net/of/2022-05-31/nl
+UID:https://www.missale.net/of/2022-05-31/nl
+URL:https://www.missale.net/of/2022-05-31/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220605
+SUMMARY:Pinksteren
+DESCRIPTION:Pinksteren\nhttps://www.missale.net/of/2022-06-05/nl
+UID:https://www.missale.net/of/2022-06-05/nl
+URL:https://www.missale.net/of/2022-06-05/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220612
 SUMMARY:Heilige Drievuldigheid
 DESCRIPTION:Heilige Drievuldigheid\nhttps://www.missale.net/of/2022-06-12/nl
@@ -979,11 +1609,25 @@ UID:https://www.missale.net/of/2022-06-19/nl
 URL:https://www.missale.net/of/2022-06-19/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220624
+SUMMARY:Geboorte van de H. Johannes de Doper
+DESCRIPTION:Geboorte van de H. Johannes de Doper\nhttps://www.missale.net/of/2022-06-24/nl
+UID:https://www.missale.net/of/2022-06-24/nl
+URL:https://www.missale.net/of/2022-06-24/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220626
 SUMMARY:Dertiende zondag door het jaar
 DESCRIPTION:Dertiende zondag door het jaar\nhttps://www.missale.net/of/2022-06-26/nl
 UID:https://www.missale.net/of/2022-06-26/nl
 URL:https://www.missale.net/of/2022-06-26/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220629
+SUMMARY:HH. Petrus en Paulus, apostelen
+DESCRIPTION:HH. Petrus en Paulus, apostelen\nhttps://www.missale.net/of/2022-06-29/nl
+UID:https://www.missale.net/of/2022-06-29/nl
+URL:https://www.missale.net/of/2022-06-29/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220703
@@ -1014,6 +1658,13 @@ UID:https://www.missale.net/of/2022-07-24/nl
 URL:https://www.missale.net/of/2022-07-24/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220725
+SUMMARY:H. Jacobus, apostel
+DESCRIPTION:H. Jacobus, apostel\nhttps://www.missale.net/of/2022-07-25/nl
+UID:https://www.missale.net/of/2022-07-25/nl
+URL:https://www.missale.net/of/2022-07-25/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220731
 SUMMARY:Achttiende zondag door het jaar
 DESCRIPTION:Achttiende zondag door het jaar\nhttps://www.missale.net/of/2022-07-31/nl
@@ -1035,6 +1686,13 @@ UID:https://www.missale.net/of/2022-08-07/nl
 URL:https://www.missale.net/of/2022-08-07/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220810
+SUMMARY:H. Laurentius, diaken en martelaar
+DESCRIPTION:H. Laurentius, diaken en martelaar\nhttps://www.missale.net/of/2022-08-10/nl
+UID:https://www.missale.net/of/2022-08-10/nl
+URL:https://www.missale.net/of/2022-08-10/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220814
 SUMMARY:Twintigste zondag door het jaar
 DESCRIPTION:Twintigste zondag door het jaar\nhttps://www.missale.net/of/2022-08-14/nl
@@ -1042,11 +1700,25 @@ UID:https://www.missale.net/of/2022-08-14/nl
 URL:https://www.missale.net/of/2022-08-14/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220815
+SUMMARY:Tenhemelopneming van de H. Maagd Maria
+DESCRIPTION:Tenhemelopneming van de H. Maagd Maria\nhttps://www.missale.net/of/2022-08-15/nl
+UID:https://www.missale.net/of/2022-08-15/nl
+URL:https://www.missale.net/of/2022-08-15/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220821
 SUMMARY:Eenentwintigste zondag door het jaar
 DESCRIPTION:Eenentwintigste zondag door het jaar\nhttps://www.missale.net/of/2022-08-21/nl
 UID:https://www.missale.net/of/2022-08-21/nl
 URL:https://www.missale.net/of/2022-08-21/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220824
+SUMMARY:H. Bartholomeus, apostel
+DESCRIPTION:H. Bartholomeus, apostel\nhttps://www.missale.net/of/2022-08-24/nl
+UID:https://www.missale.net/of/2022-08-24/nl
+URL:https://www.missale.net/of/2022-08-24/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220828
@@ -1063,11 +1735,25 @@ UID:https://www.missale.net/of/2022-09-04/nl
 URL:https://www.missale.net/of/2022-09-04/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220908
+SUMMARY:Geboorte van de Maagd Maria
+DESCRIPTION:Geboorte van de Maagd Maria\nhttps://www.missale.net/of/2022-09-08/nl
+UID:https://www.missale.net/of/2022-09-08/nl
+URL:https://www.missale.net/of/2022-09-08/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220911
 SUMMARY:Vierentwintigste zondag door het jaar
 DESCRIPTION:Vierentwintigste zondag door het jaar\nhttps://www.missale.net/of/2022-09-11/nl
 UID:https://www.missale.net/of/2022-09-11/nl
 URL:https://www.missale.net/of/2022-09-11/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220914
+SUMMARY:Kruisverheffing
+DESCRIPTION:Kruisverheffing\nhttps://www.missale.net/of/2022-09-14/nl
+UID:https://www.missale.net/of/2022-09-14/nl
+URL:https://www.missale.net/of/2022-09-14/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220918
@@ -1077,11 +1763,25 @@ UID:https://www.missale.net/of/2022-09-18/nl
 URL:https://www.missale.net/of/2022-09-18/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220921
+SUMMARY:H. Matteüs, apostel en evangelist
+DESCRIPTION:H. Matteüs, apostel en evangelist\nhttps://www.missale.net/of/2022-09-21/nl
+UID:https://www.missale.net/of/2022-09-21/nl
+URL:https://www.missale.net/of/2022-09-21/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220925
 SUMMARY:Zesentwintigste zondag door het jaar
 DESCRIPTION:Zesentwintigste zondag door het jaar\nhttps://www.missale.net/of/2022-09-25/nl
 UID:https://www.missale.net/of/2022-09-25/nl
 URL:https://www.missale.net/of/2022-09-25/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220929
+SUMMARY:Michaël, Gabriël en Rafaël, aartsengelen
+DESCRIPTION:Michaël, Gabriël en Rafaël, aartsengelen\nhttps://www.missale.net/of/2022-09-29/nl
+UID:https://www.missale.net/of/2022-09-29/nl
+URL:https://www.missale.net/of/2022-09-29/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221002
@@ -1105,11 +1805,25 @@ UID:https://www.missale.net/of/2022-10-16/nl
 URL:https://www.missale.net/of/2022-10-16/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221018
+SUMMARY:H. Lucas, evangelist
+DESCRIPTION:H. Lucas, evangelist\nhttps://www.missale.net/of/2022-10-18/nl
+UID:https://www.missale.net/of/2022-10-18/nl
+URL:https://www.missale.net/of/2022-10-18/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221023
 SUMMARY:Dertigste zondag door het jaar
 DESCRIPTION:Dertigste zondag door het jaar\nhttps://www.missale.net/of/2022-10-23/nl
 UID:https://www.missale.net/of/2022-10-23/nl
 URL:https://www.missale.net/of/2022-10-23/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221028
+SUMMARY:HH. Simon en Judas, apostelen
+DESCRIPTION:HH. Simon en Judas, apostelen\nhttps://www.missale.net/of/2022-10-28/nl
+UID:https://www.missale.net/of/2022-10-28/nl
+URL:https://www.missale.net/of/2022-10-28/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221030
@@ -1119,11 +1833,32 @@ UID:https://www.missale.net/of/2022-10-30/nl
 URL:https://www.missale.net/of/2022-10-30/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221101
+SUMMARY:Allerheiligen
+DESCRIPTION:Allerheiligen\nhttps://www.missale.net/of/2022-11-01/nl
+UID:https://www.missale.net/of/2022-11-01/nl
+URL:https://www.missale.net/of/2022-11-01/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221102
+SUMMARY:Allerzielen
+DESCRIPTION:Allerzielen\nhttps://www.missale.net/of/2022-11-02/nl
+UID:https://www.missale.net/of/2022-11-02/nl
+URL:https://www.missale.net/of/2022-11-02/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221106
 SUMMARY:Tweeëndertigste zondag door het jaar
 DESCRIPTION:Tweeëndertigste zondag door het jaar\nhttps://www.missale.net/of/2022-11-06/nl
 UID:https://www.missale.net/of/2022-11-06/nl
 URL:https://www.missale.net/of/2022-11-06/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221109
+SUMMARY:Wijding van de basiliek van Sint Jan van Lateranen in Rome
+DESCRIPTION:Wijding van de basiliek van Sint Jan van Lateranen in Rome\nhttps://www.missale.net/of/2022-11-09/nl
+UID:https://www.missale.net/of/2022-11-09/nl
+URL:https://www.missale.net/of/2022-11-09/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221113
@@ -1147,11 +1882,25 @@ UID:https://www.missale.net/of/2022-11-27/nl
 URL:https://www.missale.net/of/2022-11-27/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221130
+SUMMARY:H. Andreas, Apostel
+DESCRIPTION:H. Andreas, Apostel\nhttps://www.missale.net/of/2022-11-30/nl
+UID:https://www.missale.net/of/2022-11-30/nl
+URL:https://www.missale.net/of/2022-11-30/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221204
 SUMMARY:Tweede zondag van de Advent
 DESCRIPTION:Tweede zondag van de Advent\nhttps://www.missale.net/of/2022-12-04/nl
 UID:https://www.missale.net/of/2022-12-04/nl
 URL:https://www.missale.net/of/2022-12-04/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221208
+SUMMARY:Onbevlekte Ontvangenis van de Heilige Maagd Maria
+DESCRIPTION:Onbevlekte Ontvangenis van de Heilige Maagd Maria\nhttps://www.missale.net/of/2022-12-08/nl
+UID:https://www.missale.net/of/2022-12-08/nl
+URL:https://www.missale.net/of/2022-12-08/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221211
@@ -1168,11 +1917,60 @@ UID:https://www.missale.net/of/2022-12-18/nl
 URL:https://www.missale.net/of/2022-12-18/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221224
+SUMMARY:Vigilie van Kerstmis
+DESCRIPTION:Vigilie van Kerstmis\nhttps://www.missale.net/of/2022-12-24/nl
+UID:https://www.missale.net/of/2022-12-24/nl
+URL:https://www.missale.net/of/2022-12-24/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221225
+SUMMARY:Kerstmis
+DESCRIPTION:Kerstmis\nhttps://www.missale.net/of/2022-12-25/nl
+UID:https://www.missale.net/of/2022-12-25/nl
+URL:https://www.missale.net/of/2022-12-25/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221226
+SUMMARY:H. Stephanus, eerste martelaar
+DESCRIPTION:H. Stephanus, eerste martelaar\nhttps://www.missale.net/of/2022-12-26/nl
+UID:https://www.missale.net/of/2022-12-26/nl
+URL:https://www.missale.net/of/2022-12-26/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221227
+SUMMARY:H. Johannes, apostel en evangelist
+DESCRIPTION:H. Johannes, apostel en evangelist\nhttps://www.missale.net/of/2022-12-27/nl
+UID:https://www.missale.net/of/2022-12-27/nl
+URL:https://www.missale.net/of/2022-12-27/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221228
+SUMMARY:HH. Onnozele Kinderen, martelaren
+DESCRIPTION:HH. Onnozele Kinderen, martelaren\nhttps://www.missale.net/of/2022-12-28/nl
+UID:https://www.missale.net/of/2022-12-28/nl
+URL:https://www.missale.net/of/2022-12-28/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221230
 SUMMARY:Heilige Familie
 DESCRIPTION:Heilige Familie\nhttps://www.missale.net/of/2022-12-30/nl
 UID:https://www.missale.net/of/2022-12-30/nl
 URL:https://www.missale.net/of/2022-12-30/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230101
+SUMMARY:Maria, Moeder van God
+DESCRIPTION:Maria, Moeder van God\nhttps://www.missale.net/of/2023-01-01/nl
+UID:https://www.missale.net/of/2023-01-01/nl
+URL:https://www.missale.net/of/2023-01-01/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230108
+SUMMARY:Openbaring van de Heer
+DESCRIPTION:Openbaring van de Heer\nhttps://www.missale.net/of/2023-01-08/nl
+UID:https://www.missale.net/of/2023-01-08/nl
+URL:https://www.missale.net/of/2023-01-08/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230109
@@ -1196,11 +1994,25 @@ UID:https://www.missale.net/of/2023-01-22/nl
 URL:https://www.missale.net/of/2023-01-22/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230125
+SUMMARY:Bekering van Paulus, apostel
+DESCRIPTION:Bekering van Paulus, apostel\nhttps://www.missale.net/of/2023-01-25/nl
+UID:https://www.missale.net/of/2023-01-25/nl
+URL:https://www.missale.net/of/2023-01-25/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230129
 SUMMARY:Vierde zondag door het jaar
 DESCRIPTION:Vierde zondag door het jaar\nhttps://www.missale.net/of/2023-01-29/nl
 UID:https://www.missale.net/of/2023-01-29/nl
 URL:https://www.missale.net/of/2023-01-29/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230202
+SUMMARY:Opdracht van de Heer in de tempel
+DESCRIPTION:Opdracht van de Heer in de tempel\nhttps://www.missale.net/of/2023-02-02/nl
+UID:https://www.missale.net/of/2023-02-02/nl
+URL:https://www.missale.net/of/2023-02-02/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230205
@@ -1222,6 +2034,13 @@ SUMMARY:Zevende zondag door het jaar
 DESCRIPTION:Zevende zondag door het jaar\nhttps://www.missale.net/of/2023-02-19/nl
 UID:https://www.missale.net/of/2023-02-19/nl
 URL:https://www.missale.net/of/2023-02-19/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230222
+SUMMARY:Aswoensdag
+DESCRIPTION:Aswoensdag\nhttps://www.missale.net/of/2023-02-22/nl
+UID:https://www.missale.net/of/2023-02-22/nl
+URL:https://www.missale.net/of/2023-02-22/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230226
@@ -1252,6 +2071,13 @@ UID:https://www.missale.net/of/2023-03-19/nl
 URL:https://www.missale.net/of/2023-03-19/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230325
+SUMMARY:Aankondiging van de Heer
+DESCRIPTION:Aankondiging van de Heer\nhttps://www.missale.net/of/2023-03-25/nl
+UID:https://www.missale.net/of/2023-03-25/nl
+URL:https://www.missale.net/of/2023-03-25/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230326
 SUMMARY:Vijfde zondag van de Veertigdagentijd
 DESCRIPTION:Vijfde zondag van de Veertigdagentijd\nhttps://www.missale.net/of/2023-03-26/nl
@@ -1264,6 +2090,20 @@ SUMMARY:Palmzondag
 DESCRIPTION:Palmzondag\nhttps://www.missale.net/of/2023-04-02/nl
 UID:https://www.missale.net/of/2023-04-02/nl
 URL:https://www.missale.net/of/2023-04-02/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230406
+SUMMARY:Witte Donderdag
+DESCRIPTION:Witte Donderdag\nhttps://www.missale.net/of/2023-04-06/nl
+UID:https://www.missale.net/of/2023-04-06/nl
+URL:https://www.missale.net/of/2023-04-06/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230407
+SUMMARY:Goede Vrijdag
+DESCRIPTION:Goede Vrijdag\nhttps://www.missale.net/of/2023-04-07/nl
+UID:https://www.missale.net/of/2023-04-07/nl
+URL:https://www.missale.net/of/2023-04-07/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230408
@@ -1294,11 +2134,25 @@ UID:https://www.missale.net/of/2023-04-23/nl
 URL:https://www.missale.net/of/2023-04-23/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230425
+SUMMARY:H. Marcus, evangelist
+DESCRIPTION:H. Marcus, evangelist\nhttps://www.missale.net/of/2023-04-25/nl
+UID:https://www.missale.net/of/2023-04-25/nl
+URL:https://www.missale.net/of/2023-04-25/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230430
 SUMMARY:Vierde zondag van Pasen
 DESCRIPTION:Vierde zondag van Pasen\nhttps://www.missale.net/of/2023-04-30/nl
 UID:https://www.missale.net/of/2023-04-30/nl
 URL:https://www.missale.net/of/2023-04-30/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230503
+SUMMARY:HH. Filippus en Jakobus, apostelen
+DESCRIPTION:HH. Filippus en Jakobus, apostelen\nhttps://www.missale.net/of/2023-05-03/nl
+UID:https://www.missale.net/of/2023-05-03/nl
+URL:https://www.missale.net/of/2023-05-03/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230507
@@ -1327,6 +2181,20 @@ SUMMARY:Zevende zondag van Pasen
 DESCRIPTION:Zevende zondag van Pasen\nhttps://www.missale.net/of/2023-05-21/nl
 UID:https://www.missale.net/of/2023-05-21/nl
 URL:https://www.missale.net/of/2023-05-21/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230528
+SUMMARY:Pinksteren
+DESCRIPTION:Pinksteren\nhttps://www.missale.net/of/2023-05-28/nl
+UID:https://www.missale.net/of/2023-05-28/nl
+URL:https://www.missale.net/of/2023-05-28/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230531
+SUMMARY:Visitatie van de H. Maagd Maria aan Elizabeth
+DESCRIPTION:Visitatie van de H. Maagd Maria aan Elizabeth\nhttps://www.missale.net/of/2023-05-31/nl
+UID:https://www.missale.net/of/2023-05-31/nl
+URL:https://www.missale.net/of/2023-05-31/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230604
@@ -1364,6 +2232,13 @@ UID:https://www.missale.net/of/2023-06-18/nl
 URL:https://www.missale.net/of/2023-06-18/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230624
+SUMMARY:Geboorte van de H. Johannes de Doper
+DESCRIPTION:Geboorte van de H. Johannes de Doper\nhttps://www.missale.net/of/2023-06-24/nl
+UID:https://www.missale.net/of/2023-06-24/nl
+URL:https://www.missale.net/of/2023-06-24/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230625
 SUMMARY:Twaalfde zondag door het jaar
 DESCRIPTION:Twaalfde zondag door het jaar\nhttps://www.missale.net/of/2023-06-25/nl
@@ -1371,11 +2246,25 @@ UID:https://www.missale.net/of/2023-06-25/nl
 URL:https://www.missale.net/of/2023-06-25/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230629
+SUMMARY:HH. Petrus en Paulus, apostelen
+DESCRIPTION:HH. Petrus en Paulus, apostelen\nhttps://www.missale.net/of/2023-06-29/nl
+UID:https://www.missale.net/of/2023-06-29/nl
+URL:https://www.missale.net/of/2023-06-29/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230702
 SUMMARY:Dertiende zondag door het jaar
 DESCRIPTION:Dertiende zondag door het jaar\nhttps://www.missale.net/of/2023-07-02/nl
 UID:https://www.missale.net/of/2023-07-02/nl
 URL:https://www.missale.net/of/2023-07-02/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230703
+SUMMARY:H. Thomas, apostel
+DESCRIPTION:H. Thomas, apostel\nhttps://www.missale.net/of/2023-07-03/nl
+UID:https://www.missale.net/of/2023-07-03/nl
+URL:https://www.missale.net/of/2023-07-03/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230709
@@ -1399,6 +2288,13 @@ UID:https://www.missale.net/of/2023-07-23/nl
 URL:https://www.missale.net/of/2023-07-23/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230725
+SUMMARY:H. Jacobus, apostel
+DESCRIPTION:H. Jacobus, apostel\nhttps://www.missale.net/of/2023-07-25/nl
+UID:https://www.missale.net/of/2023-07-25/nl
+URL:https://www.missale.net/of/2023-07-25/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230730
 SUMMARY:Zeventiende zondag door het jaar
 DESCRIPTION:Zeventiende zondag door het jaar\nhttps://www.missale.net/of/2023-07-30/nl
@@ -1413,6 +2309,13 @@ UID:https://www.missale.net/of/2023-08-06/nl
 URL:https://www.missale.net/of/2023-08-06/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230810
+SUMMARY:H. Laurentius, diaken en martelaar
+DESCRIPTION:H. Laurentius, diaken en martelaar\nhttps://www.missale.net/of/2023-08-10/nl
+UID:https://www.missale.net/of/2023-08-10/nl
+URL:https://www.missale.net/of/2023-08-10/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230813
 SUMMARY:Negentiende zondag door het jaar
 DESCRIPTION:Negentiende zondag door het jaar\nhttps://www.missale.net/of/2023-08-13/nl
@@ -1420,11 +2323,25 @@ UID:https://www.missale.net/of/2023-08-13/nl
 URL:https://www.missale.net/of/2023-08-13/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230815
+SUMMARY:Tenhemelopneming van de H. Maagd Maria
+DESCRIPTION:Tenhemelopneming van de H. Maagd Maria\nhttps://www.missale.net/of/2023-08-15/nl
+UID:https://www.missale.net/of/2023-08-15/nl
+URL:https://www.missale.net/of/2023-08-15/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230820
 SUMMARY:Twintigste zondag door het jaar
 DESCRIPTION:Twintigste zondag door het jaar\nhttps://www.missale.net/of/2023-08-20/nl
 UID:https://www.missale.net/of/2023-08-20/nl
 URL:https://www.missale.net/of/2023-08-20/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230824
+SUMMARY:H. Bartholomeus, apostel
+DESCRIPTION:H. Bartholomeus, apostel\nhttps://www.missale.net/of/2023-08-24/nl
+UID:https://www.missale.net/of/2023-08-24/nl
+URL:https://www.missale.net/of/2023-08-24/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230827
@@ -1441,11 +2358,25 @@ UID:https://www.missale.net/of/2023-09-03/nl
 URL:https://www.missale.net/of/2023-09-03/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230908
+SUMMARY:Geboorte van de Maagd Maria
+DESCRIPTION:Geboorte van de Maagd Maria\nhttps://www.missale.net/of/2023-09-08/nl
+UID:https://www.missale.net/of/2023-09-08/nl
+URL:https://www.missale.net/of/2023-09-08/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230910
 SUMMARY:Drieëntwintigste zondag door het jaar
 DESCRIPTION:Drieëntwintigste zondag door het jaar\nhttps://www.missale.net/of/2023-09-10/nl
 UID:https://www.missale.net/of/2023-09-10/nl
 URL:https://www.missale.net/of/2023-09-10/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230914
+SUMMARY:Kruisverheffing
+DESCRIPTION:Kruisverheffing\nhttps://www.missale.net/of/2023-09-14/nl
+UID:https://www.missale.net/of/2023-09-14/nl
+URL:https://www.missale.net/of/2023-09-14/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230917
@@ -1455,11 +2386,25 @@ UID:https://www.missale.net/of/2023-09-17/nl
 URL:https://www.missale.net/of/2023-09-17/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230921
+SUMMARY:H. Matteüs, apostel en evangelist
+DESCRIPTION:H. Matteüs, apostel en evangelist\nhttps://www.missale.net/of/2023-09-21/nl
+UID:https://www.missale.net/of/2023-09-21/nl
+URL:https://www.missale.net/of/2023-09-21/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230924
 SUMMARY:Vijfentwintigste zondag door het jaar
 DESCRIPTION:Vijfentwintigste zondag door het jaar\nhttps://www.missale.net/of/2023-09-24/nl
 UID:https://www.missale.net/of/2023-09-24/nl
 URL:https://www.missale.net/of/2023-09-24/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230929
+SUMMARY:Michaël, Gabriël en Rafaël, aartsengelen
+DESCRIPTION:Michaël, Gabriël en Rafaël, aartsengelen\nhttps://www.missale.net/of/2023-09-29/nl
+UID:https://www.missale.net/of/2023-09-29/nl
+URL:https://www.missale.net/of/2023-09-29/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231001
@@ -1483,11 +2428,25 @@ UID:https://www.missale.net/of/2023-10-15/nl
 URL:https://www.missale.net/of/2023-10-15/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231018
+SUMMARY:H. Lucas, evangelist
+DESCRIPTION:H. Lucas, evangelist\nhttps://www.missale.net/of/2023-10-18/nl
+UID:https://www.missale.net/of/2023-10-18/nl
+URL:https://www.missale.net/of/2023-10-18/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231022
 SUMMARY:Negenentwintigste zondag door het jaar
 DESCRIPTION:Negenentwintigste zondag door het jaar\nhttps://www.missale.net/of/2023-10-22/nl
 UID:https://www.missale.net/of/2023-10-22/nl
 URL:https://www.missale.net/of/2023-10-22/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231028
+SUMMARY:HH. Simon en Judas, apostelen
+DESCRIPTION:HH. Simon en Judas, apostelen\nhttps://www.missale.net/of/2023-10-28/nl
+UID:https://www.missale.net/of/2023-10-28/nl
+URL:https://www.missale.net/of/2023-10-28/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231029
@@ -1497,11 +2456,32 @@ UID:https://www.missale.net/of/2023-10-29/nl
 URL:https://www.missale.net/of/2023-10-29/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231101
+SUMMARY:Allerheiligen
+DESCRIPTION:Allerheiligen\nhttps://www.missale.net/of/2023-11-01/nl
+UID:https://www.missale.net/of/2023-11-01/nl
+URL:https://www.missale.net/of/2023-11-01/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231102
+SUMMARY:Allerzielen
+DESCRIPTION:Allerzielen\nhttps://www.missale.net/of/2023-11-02/nl
+UID:https://www.missale.net/of/2023-11-02/nl
+URL:https://www.missale.net/of/2023-11-02/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231105
 SUMMARY:Eenendertigste zondag door het jaar
 DESCRIPTION:Eenendertigste zondag door het jaar\nhttps://www.missale.net/of/2023-11-05/nl
 UID:https://www.missale.net/of/2023-11-05/nl
 URL:https://www.missale.net/of/2023-11-05/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231109
+SUMMARY:Wijding van de basiliek van Sint Jan van Lateranen in Rome
+DESCRIPTION:Wijding van de basiliek van Sint Jan van Lateranen in Rome\nhttps://www.missale.net/of/2023-11-09/nl
+UID:https://www.missale.net/of/2023-11-09/nl
+URL:https://www.missale.net/of/2023-11-09/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231112
@@ -1525,11 +2505,25 @@ UID:https://www.missale.net/of/2023-11-26/nl
 URL:https://www.missale.net/of/2023-11-26/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231130
+SUMMARY:H. Andreas, Apostel
+DESCRIPTION:H. Andreas, Apostel\nhttps://www.missale.net/of/2023-11-30/nl
+UID:https://www.missale.net/of/2023-11-30/nl
+URL:https://www.missale.net/of/2023-11-30/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231203
 SUMMARY:Eerste zondag van de Advent
 DESCRIPTION:Eerste zondag van de Advent\nhttps://www.missale.net/of/2023-12-03/nl
 UID:https://www.missale.net/of/2023-12-03/nl
 URL:https://www.missale.net/of/2023-12-03/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231208
+SUMMARY:Onbevlekte Ontvangenis van de Heilige Maagd Maria
+DESCRIPTION:Onbevlekte Ontvangenis van de Heilige Maagd Maria\nhttps://www.missale.net/of/2023-12-08/nl
+UID:https://www.missale.net/of/2023-12-08/nl
+URL:https://www.missale.net/of/2023-12-08/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231210
@@ -1553,11 +2547,53 @@ UID:https://www.missale.net/of/2023-12-24/nl
 URL:https://www.missale.net/of/2023-12-24/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231225
+SUMMARY:Kerstmis
+DESCRIPTION:Kerstmis\nhttps://www.missale.net/of/2023-12-25/nl
+UID:https://www.missale.net/of/2023-12-25/nl
+URL:https://www.missale.net/of/2023-12-25/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231226
+SUMMARY:H. Stephanus, eerste martelaar
+DESCRIPTION:H. Stephanus, eerste martelaar\nhttps://www.missale.net/of/2023-12-26/nl
+UID:https://www.missale.net/of/2023-12-26/nl
+URL:https://www.missale.net/of/2023-12-26/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231227
+SUMMARY:H. Johannes, apostel en evangelist
+DESCRIPTION:H. Johannes, apostel en evangelist\nhttps://www.missale.net/of/2023-12-27/nl
+UID:https://www.missale.net/of/2023-12-27/nl
+URL:https://www.missale.net/of/2023-12-27/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231228
+SUMMARY:HH. Onnozele Kinderen, martelaren
+DESCRIPTION:HH. Onnozele Kinderen, martelaren\nhttps://www.missale.net/of/2023-12-28/nl
+UID:https://www.missale.net/of/2023-12-28/nl
+URL:https://www.missale.net/of/2023-12-28/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231231
 SUMMARY:Heilige Familie
 DESCRIPTION:Heilige Familie\nhttps://www.missale.net/of/2023-12-31/nl
 UID:https://www.missale.net/of/2023-12-31/nl
 URL:https://www.missale.net/of/2023-12-31/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240101
+SUMMARY:Maria, Moeder van God
+DESCRIPTION:Maria, Moeder van God\nhttps://www.missale.net/of/2024-01-01/nl
+UID:https://www.missale.net/of/2024-01-01/nl
+URL:https://www.missale.net/of/2024-01-01/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240107
+SUMMARY:Openbaring van de Heer
+DESCRIPTION:Openbaring van de Heer\nhttps://www.missale.net/of/2024-01-07/nl
+UID:https://www.missale.net/of/2024-01-07/nl
+URL:https://www.missale.net/of/2024-01-07/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240108
@@ -1581,11 +2617,25 @@ UID:https://www.missale.net/of/2024-01-21/nl
 URL:https://www.missale.net/of/2024-01-21/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240125
+SUMMARY:Bekering van Paulus, apostel
+DESCRIPTION:Bekering van Paulus, apostel\nhttps://www.missale.net/of/2024-01-25/nl
+UID:https://www.missale.net/of/2024-01-25/nl
+URL:https://www.missale.net/of/2024-01-25/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240128
 SUMMARY:Vierde zondag door het jaar
 DESCRIPTION:Vierde zondag door het jaar\nhttps://www.missale.net/of/2024-01-28/nl
 UID:https://www.missale.net/of/2024-01-28/nl
 URL:https://www.missale.net/of/2024-01-28/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240202
+SUMMARY:Opdracht van de Heer in de tempel
+DESCRIPTION:Opdracht van de Heer in de tempel\nhttps://www.missale.net/of/2024-02-02/nl
+UID:https://www.missale.net/of/2024-02-02/nl
+URL:https://www.missale.net/of/2024-02-02/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240204
@@ -1602,11 +2652,25 @@ UID:https://www.missale.net/of/2024-02-11/nl
 URL:https://www.missale.net/of/2024-02-11/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240214
+SUMMARY:Aswoensdag
+DESCRIPTION:Aswoensdag\nhttps://www.missale.net/of/2024-02-14/nl
+UID:https://www.missale.net/of/2024-02-14/nl
+URL:https://www.missale.net/of/2024-02-14/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240218
 SUMMARY:Eerste zondag van de Veertigdagentijd
 DESCRIPTION:Eerste zondag van de Veertigdagentijd\nhttps://www.missale.net/of/2024-02-18/nl
 UID:https://www.missale.net/of/2024-02-18/nl
 URL:https://www.missale.net/of/2024-02-18/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240222
+SUMMARY:Sint Petrus' Stoel
+DESCRIPTION:Sint Petrus' Stoel\nhttps://www.missale.net/of/2024-02-22/nl
+UID:https://www.missale.net/of/2024-02-22/nl
+URL:https://www.missale.net/of/2024-02-22/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240225
@@ -1637,11 +2701,32 @@ UID:https://www.missale.net/of/2024-03-17/nl
 URL:https://www.missale.net/of/2024-03-17/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240319
+SUMMARY:H. Jozef, bruidegom van de H. Maagd Maria
+DESCRIPTION:H. Jozef, bruidegom van de H. Maagd Maria\nhttps://www.missale.net/of/2024-03-19/nl
+UID:https://www.missale.net/of/2024-03-19/nl
+URL:https://www.missale.net/of/2024-03-19/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240324
 SUMMARY:Palmzondag
 DESCRIPTION:Palmzondag\nhttps://www.missale.net/of/2024-03-24/nl
 UID:https://www.missale.net/of/2024-03-24/nl
 URL:https://www.missale.net/of/2024-03-24/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240328
+SUMMARY:Witte Donderdag
+DESCRIPTION:Witte Donderdag\nhttps://www.missale.net/of/2024-03-28/nl
+UID:https://www.missale.net/of/2024-03-28/nl
+URL:https://www.missale.net/of/2024-03-28/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240329
+SUMMARY:Goede Vrijdag
+DESCRIPTION:Goede Vrijdag\nhttps://www.missale.net/of/2024-03-29/nl
+UID:https://www.missale.net/of/2024-03-29/nl
+URL:https://www.missale.net/of/2024-03-29/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240330
@@ -1665,6 +2750,13 @@ UID:https://www.missale.net/of/2024-04-07/nl
 URL:https://www.missale.net/of/2024-04-07/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240408
+SUMMARY:Aankondiging van de Heer
+DESCRIPTION:Aankondiging van de Heer\nhttps://www.missale.net/of/2024-04-08/nl
+UID:https://www.missale.net/of/2024-04-08/nl
+URL:https://www.missale.net/of/2024-04-08/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240414
 SUMMARY:Derde zondag van Pasen
 DESCRIPTION:Derde zondag van Pasen\nhttps://www.missale.net/of/2024-04-14/nl
@@ -1679,11 +2771,25 @@ UID:https://www.missale.net/of/2024-04-21/nl
 URL:https://www.missale.net/of/2024-04-21/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240425
+SUMMARY:H. Marcus, evangelist
+DESCRIPTION:H. Marcus, evangelist\nhttps://www.missale.net/of/2024-04-25/nl
+UID:https://www.missale.net/of/2024-04-25/nl
+URL:https://www.missale.net/of/2024-04-25/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240428
 SUMMARY:Vijfde zondag van Pasen
 DESCRIPTION:Vijfde zondag van Pasen\nhttps://www.missale.net/of/2024-04-28/nl
 UID:https://www.missale.net/of/2024-04-28/nl
 URL:https://www.missale.net/of/2024-04-28/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240503
+SUMMARY:HH. Filippus en Jakobus, apostelen
+DESCRIPTION:HH. Filippus en Jakobus, apostelen\nhttps://www.missale.net/of/2024-05-03/nl
+UID:https://www.missale.net/of/2024-05-03/nl
+URL:https://www.missale.net/of/2024-05-03/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240505
@@ -1707,6 +2813,20 @@ UID:https://www.missale.net/of/2024-05-12/nl
 URL:https://www.missale.net/of/2024-05-12/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240514
+SUMMARY:H. Matteüs, apostel
+DESCRIPTION:H. Matteüs, apostel\nhttps://www.missale.net/of/2024-05-14/nl
+UID:https://www.missale.net/of/2024-05-14/nl
+URL:https://www.missale.net/of/2024-05-14/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240519
+SUMMARY:Pinksteren
+DESCRIPTION:Pinksteren\nhttps://www.missale.net/of/2024-05-19/nl
+UID:https://www.missale.net/of/2024-05-19/nl
+URL:https://www.missale.net/of/2024-05-19/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240526
 SUMMARY:Heilige Drievuldigheid
 DESCRIPTION:Heilige Drievuldigheid\nhttps://www.missale.net/of/2024-05-26/nl
@@ -1719,6 +2839,13 @@ SUMMARY:Sacramentsdag
 DESCRIPTION:Sacramentsdag\nhttps://www.missale.net/of/2024-05-30/nl
 UID:https://www.missale.net/of/2024-05-30/nl
 URL:https://www.missale.net/of/2024-05-30/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240531
+SUMMARY:Visitatie van de H. Maagd Maria aan Elizabeth
+DESCRIPTION:Visitatie van de H. Maagd Maria aan Elizabeth\nhttps://www.missale.net/of/2024-05-31/nl
+UID:https://www.missale.net/of/2024-05-31/nl
+URL:https://www.missale.net/of/2024-05-31/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240602
@@ -1756,11 +2883,32 @@ UID:https://www.missale.net/of/2024-06-23/nl
 URL:https://www.missale.net/of/2024-06-23/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240624
+SUMMARY:Geboorte van de H. Johannes de Doper
+DESCRIPTION:Geboorte van de H. Johannes de Doper\nhttps://www.missale.net/of/2024-06-24/nl
+UID:https://www.missale.net/of/2024-06-24/nl
+URL:https://www.missale.net/of/2024-06-24/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240629
+SUMMARY:HH. Petrus en Paulus, apostelen
+DESCRIPTION:HH. Petrus en Paulus, apostelen\nhttps://www.missale.net/of/2024-06-29/nl
+UID:https://www.missale.net/of/2024-06-29/nl
+URL:https://www.missale.net/of/2024-06-29/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240630
 SUMMARY:Dertiende zondag door het jaar
 DESCRIPTION:Dertiende zondag door het jaar\nhttps://www.missale.net/of/2024-06-30/nl
 UID:https://www.missale.net/of/2024-06-30/nl
 URL:https://www.missale.net/of/2024-06-30/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240703
+SUMMARY:H. Thomas, apostel
+DESCRIPTION:H. Thomas, apostel\nhttps://www.missale.net/of/2024-07-03/nl
+UID:https://www.missale.net/of/2024-07-03/nl
+URL:https://www.missale.net/of/2024-07-03/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240707
@@ -1784,6 +2932,13 @@ UID:https://www.missale.net/of/2024-07-21/nl
 URL:https://www.missale.net/of/2024-07-21/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240725
+SUMMARY:H. Jacobus, apostel
+DESCRIPTION:H. Jacobus, apostel\nhttps://www.missale.net/of/2024-07-25/nl
+UID:https://www.missale.net/of/2024-07-25/nl
+URL:https://www.missale.net/of/2024-07-25/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240728
 SUMMARY:Zeventiende zondag door het jaar
 DESCRIPTION:Zeventiende zondag door het jaar\nhttps://www.missale.net/of/2024-07-28/nl
@@ -1805,6 +2960,13 @@ UID:https://www.missale.net/of/2024-08-06/nl
 URL:https://www.missale.net/of/2024-08-06/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240810
+SUMMARY:H. Laurentius, diaken en martelaar
+DESCRIPTION:H. Laurentius, diaken en martelaar\nhttps://www.missale.net/of/2024-08-10/nl
+UID:https://www.missale.net/of/2024-08-10/nl
+URL:https://www.missale.net/of/2024-08-10/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240811
 SUMMARY:Negentiende zondag door het jaar
 DESCRIPTION:Negentiende zondag door het jaar\nhttps://www.missale.net/of/2024-08-11/nl
@@ -1812,11 +2974,25 @@ UID:https://www.missale.net/of/2024-08-11/nl
 URL:https://www.missale.net/of/2024-08-11/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240815
+SUMMARY:Tenhemelopneming van de H. Maagd Maria
+DESCRIPTION:Tenhemelopneming van de H. Maagd Maria\nhttps://www.missale.net/of/2024-08-15/nl
+UID:https://www.missale.net/of/2024-08-15/nl
+URL:https://www.missale.net/of/2024-08-15/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240818
 SUMMARY:Twintigste zondag door het jaar
 DESCRIPTION:Twintigste zondag door het jaar\nhttps://www.missale.net/of/2024-08-18/nl
 UID:https://www.missale.net/of/2024-08-18/nl
 URL:https://www.missale.net/of/2024-08-18/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240824
+SUMMARY:H. Bartholomeus, apostel
+DESCRIPTION:H. Bartholomeus, apostel\nhttps://www.missale.net/of/2024-08-24/nl
+UID:https://www.missale.net/of/2024-08-24/nl
+URL:https://www.missale.net/of/2024-08-24/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240825
@@ -1840,11 +3016,25 @@ UID:https://www.missale.net/of/2024-09-08/nl
 URL:https://www.missale.net/of/2024-09-08/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240914
+SUMMARY:Kruisverheffing
+DESCRIPTION:Kruisverheffing\nhttps://www.missale.net/of/2024-09-14/nl
+UID:https://www.missale.net/of/2024-09-14/nl
+URL:https://www.missale.net/of/2024-09-14/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240915
 SUMMARY:Vierentwintigste zondag door het jaar
 DESCRIPTION:Vierentwintigste zondag door het jaar\nhttps://www.missale.net/of/2024-09-15/nl
 UID:https://www.missale.net/of/2024-09-15/nl
 URL:https://www.missale.net/of/2024-09-15/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240921
+SUMMARY:H. Matteüs, apostel en evangelist
+DESCRIPTION:H. Matteüs, apostel en evangelist\nhttps://www.missale.net/of/2024-09-21/nl
+UID:https://www.missale.net/of/2024-09-21/nl
+URL:https://www.missale.net/of/2024-09-21/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240922
@@ -1875,6 +3065,13 @@ UID:https://www.missale.net/of/2024-10-13/nl
 URL:https://www.missale.net/of/2024-10-13/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241018
+SUMMARY:H. Lucas, evangelist
+DESCRIPTION:H. Lucas, evangelist\nhttps://www.missale.net/of/2024-10-18/nl
+UID:https://www.missale.net/of/2024-10-18/nl
+URL:https://www.missale.net/of/2024-10-18/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241020
 SUMMARY:Negenentwintigste zondag door het jaar
 DESCRIPTION:Negenentwintigste zondag door het jaar\nhttps://www.missale.net/of/2024-10-20/nl
@@ -1889,11 +3086,39 @@ UID:https://www.missale.net/of/2024-10-27/nl
 URL:https://www.missale.net/of/2024-10-27/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241028
+SUMMARY:HH. Simon en Judas, apostelen
+DESCRIPTION:HH. Simon en Judas, apostelen\nhttps://www.missale.net/of/2024-10-28/nl
+UID:https://www.missale.net/of/2024-10-28/nl
+URL:https://www.missale.net/of/2024-10-28/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241101
+SUMMARY:Allerheiligen
+DESCRIPTION:Allerheiligen\nhttps://www.missale.net/of/2024-11-01/nl
+UID:https://www.missale.net/of/2024-11-01/nl
+URL:https://www.missale.net/of/2024-11-01/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241102
+SUMMARY:Allerzielen
+DESCRIPTION:Allerzielen\nhttps://www.missale.net/of/2024-11-02/nl
+UID:https://www.missale.net/of/2024-11-02/nl
+URL:https://www.missale.net/of/2024-11-02/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241103
 SUMMARY:Eenendertigste zondag door het jaar
 DESCRIPTION:Eenendertigste zondag door het jaar\nhttps://www.missale.net/of/2024-11-03/nl
 UID:https://www.missale.net/of/2024-11-03/nl
 URL:https://www.missale.net/of/2024-11-03/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241109
+SUMMARY:Wijding van de basiliek van Sint Jan van Lateranen in Rome
+DESCRIPTION:Wijding van de basiliek van Sint Jan van Lateranen in Rome\nhttps://www.missale.net/of/2024-11-09/nl
+UID:https://www.missale.net/of/2024-11-09/nl
+URL:https://www.missale.net/of/2024-11-09/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241110
@@ -1917,6 +3142,13 @@ UID:https://www.missale.net/of/2024-11-24/nl
 URL:https://www.missale.net/of/2024-11-24/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241130
+SUMMARY:H. Andreas, Apostel
+DESCRIPTION:H. Andreas, Apostel\nhttps://www.missale.net/of/2024-11-30/nl
+UID:https://www.missale.net/of/2024-11-30/nl
+URL:https://www.missale.net/of/2024-11-30/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241201
 SUMMARY:Eerste zondag van de Advent
 DESCRIPTION:Eerste zondag van de Advent\nhttps://www.missale.net/of/2024-12-01/nl
@@ -1929,6 +3161,13 @@ SUMMARY:Tweede zondag van de Advent
 DESCRIPTION:Tweede zondag van de Advent\nhttps://www.missale.net/of/2024-12-08/nl
 UID:https://www.missale.net/of/2024-12-08/nl
 URL:https://www.missale.net/of/2024-12-08/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+SUMMARY:Onbevlekte Ontvangenis van de Heilige Maagd Maria
+DESCRIPTION:Onbevlekte Ontvangenis van de Heilige Maagd Maria\nhttps://www.missale.net/of/2024-12-09/nl
+UID:https://www.missale.net/of/2024-12-09/nl
+URL:https://www.missale.net/of/2024-12-09/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241215
@@ -1945,11 +3184,60 @@ UID:https://www.missale.net/of/2024-12-22/nl
 URL:https://www.missale.net/of/2024-12-22/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241224
+SUMMARY:Vigilie van Kerstmis
+DESCRIPTION:Vigilie van Kerstmis\nhttps://www.missale.net/of/2024-12-24/nl
+UID:https://www.missale.net/of/2024-12-24/nl
+URL:https://www.missale.net/of/2024-12-24/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241225
+SUMMARY:Kerstmis
+DESCRIPTION:Kerstmis\nhttps://www.missale.net/of/2024-12-25/nl
+UID:https://www.missale.net/of/2024-12-25/nl
+URL:https://www.missale.net/of/2024-12-25/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241226
+SUMMARY:H. Stephanus, eerste martelaar
+DESCRIPTION:H. Stephanus, eerste martelaar\nhttps://www.missale.net/of/2024-12-26/nl
+UID:https://www.missale.net/of/2024-12-26/nl
+URL:https://www.missale.net/of/2024-12-26/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241227
+SUMMARY:H. Johannes, apostel en evangelist
+DESCRIPTION:H. Johannes, apostel en evangelist\nhttps://www.missale.net/of/2024-12-27/nl
+UID:https://www.missale.net/of/2024-12-27/nl
+URL:https://www.missale.net/of/2024-12-27/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241228
+SUMMARY:HH. Onnozele Kinderen, martelaren
+DESCRIPTION:HH. Onnozele Kinderen, martelaren\nhttps://www.missale.net/of/2024-12-28/nl
+UID:https://www.missale.net/of/2024-12-28/nl
+URL:https://www.missale.net/of/2024-12-28/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241229
 SUMMARY:Heilige Familie
 DESCRIPTION:Heilige Familie\nhttps://www.missale.net/of/2024-12-29/nl
 UID:https://www.missale.net/of/2024-12-29/nl
 URL:https://www.missale.net/of/2024-12-29/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250101
+SUMMARY:Maria, Moeder van God
+DESCRIPTION:Maria, Moeder van God\nhttps://www.missale.net/of/2025-01-01/nl
+UID:https://www.missale.net/of/2025-01-01/nl
+URL:https://www.missale.net/of/2025-01-01/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250105
+SUMMARY:Openbaring van de Heer
+DESCRIPTION:Openbaring van de Heer\nhttps://www.missale.net/of/2025-01-05/nl
+UID:https://www.missale.net/of/2025-01-05/nl
+URL:https://www.missale.net/of/2025-01-05/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250112
@@ -1964,6 +3252,13 @@ SUMMARY:Tweede zondag door het jaar
 DESCRIPTION:Tweede zondag door het jaar\nhttps://www.missale.net/of/2025-01-19/nl
 UID:https://www.missale.net/of/2025-01-19/nl
 URL:https://www.missale.net/of/2025-01-19/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250125
+SUMMARY:Bekering van Paulus, apostel
+DESCRIPTION:Bekering van Paulus, apostel\nhttps://www.missale.net/of/2025-01-25/nl
+UID:https://www.missale.net/of/2025-01-25/nl
+URL:https://www.missale.net/of/2025-01-25/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250126
@@ -1994,6 +3289,13 @@ UID:https://www.missale.net/of/2025-02-16/nl
 URL:https://www.missale.net/of/2025-02-16/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250222
+SUMMARY:Sint Petrus' Stoel
+DESCRIPTION:Sint Petrus' Stoel\nhttps://www.missale.net/of/2025-02-22/nl
+UID:https://www.missale.net/of/2025-02-22/nl
+URL:https://www.missale.net/of/2025-02-22/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250223
 SUMMARY:Zevende zondag door het jaar
 DESCRIPTION:Zevende zondag door het jaar\nhttps://www.missale.net/of/2025-02-23/nl
@@ -2006,6 +3308,13 @@ SUMMARY:Achtste zondag door het jaar
 DESCRIPTION:Achtste zondag door het jaar\nhttps://www.missale.net/of/2025-03-02/nl
 UID:https://www.missale.net/of/2025-03-02/nl
 URL:https://www.missale.net/of/2025-03-02/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250305
+SUMMARY:Aswoensdag
+DESCRIPTION:Aswoensdag\nhttps://www.missale.net/of/2025-03-05/nl
+UID:https://www.missale.net/of/2025-03-05/nl
+URL:https://www.missale.net/of/2025-03-05/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250309
@@ -2022,11 +3331,25 @@ UID:https://www.missale.net/of/2025-03-16/nl
 URL:https://www.missale.net/of/2025-03-16/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250319
+SUMMARY:H. Jozef, bruidegom van de H. Maagd Maria
+DESCRIPTION:H. Jozef, bruidegom van de H. Maagd Maria\nhttps://www.missale.net/of/2025-03-19/nl
+UID:https://www.missale.net/of/2025-03-19/nl
+URL:https://www.missale.net/of/2025-03-19/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250323
 SUMMARY:Derde zondag van de Veertigdagentijd
 DESCRIPTION:Derde zondag van de Veertigdagentijd\nhttps://www.missale.net/of/2025-03-23/nl
 UID:https://www.missale.net/of/2025-03-23/nl
 URL:https://www.missale.net/of/2025-03-23/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250325
+SUMMARY:Aankondiging van de Heer
+DESCRIPTION:Aankondiging van de Heer\nhttps://www.missale.net/of/2025-03-25/nl
+UID:https://www.missale.net/of/2025-03-25/nl
+URL:https://www.missale.net/of/2025-03-25/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250330
@@ -2050,6 +3373,20 @@ UID:https://www.missale.net/of/2025-04-13/nl
 URL:https://www.missale.net/of/2025-04-13/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250417
+SUMMARY:Witte Donderdag
+DESCRIPTION:Witte Donderdag\nhttps://www.missale.net/of/2025-04-17/nl
+UID:https://www.missale.net/of/2025-04-17/nl
+URL:https://www.missale.net/of/2025-04-17/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250418
+SUMMARY:Goede Vrijdag
+DESCRIPTION:Goede Vrijdag\nhttps://www.missale.net/of/2025-04-18/nl
+UID:https://www.missale.net/of/2025-04-18/nl
+URL:https://www.missale.net/of/2025-04-18/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250419
 SUMMARY:Paaswake
 DESCRIPTION:Paaswake\nhttps://www.missale.net/of/2025-04-19/nl
@@ -2071,6 +3408,13 @@ UID:https://www.missale.net/of/2025-04-27/nl
 URL:https://www.missale.net/of/2025-04-27/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250503
+SUMMARY:HH. Filippus en Jakobus, apostelen
+DESCRIPTION:HH. Filippus en Jakobus, apostelen\nhttps://www.missale.net/of/2025-05-03/nl
+UID:https://www.missale.net/of/2025-05-03/nl
+URL:https://www.missale.net/of/2025-05-03/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250504
 SUMMARY:Derde zondag van Pasen
 DESCRIPTION:Derde zondag van Pasen\nhttps://www.missale.net/of/2025-05-04/nl
@@ -2083,6 +3427,13 @@ SUMMARY:Vierde zondag van Pasen
 DESCRIPTION:Vierde zondag van Pasen\nhttps://www.missale.net/of/2025-05-11/nl
 UID:https://www.missale.net/of/2025-05-11/nl
 URL:https://www.missale.net/of/2025-05-11/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250514
+SUMMARY:H. Matteüs, apostel
+DESCRIPTION:H. Matteüs, apostel\nhttps://www.missale.net/of/2025-05-14/nl
+UID:https://www.missale.net/of/2025-05-14/nl
+URL:https://www.missale.net/of/2025-05-14/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250518
@@ -2106,11 +3457,25 @@ UID:https://www.missale.net/of/2025-05-29/nl
 URL:https://www.missale.net/of/2025-05-29/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250531
+SUMMARY:Visitatie van de H. Maagd Maria aan Elizabeth
+DESCRIPTION:Visitatie van de H. Maagd Maria aan Elizabeth\nhttps://www.missale.net/of/2025-05-31/nl
+UID:https://www.missale.net/of/2025-05-31/nl
+URL:https://www.missale.net/of/2025-05-31/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250601
 SUMMARY:Zevende zondag van Pasen
 DESCRIPTION:Zevende zondag van Pasen\nhttps://www.missale.net/of/2025-06-01/nl
 UID:https://www.missale.net/of/2025-06-01/nl
 URL:https://www.missale.net/of/2025-06-01/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250608
+SUMMARY:Pinksteren
+DESCRIPTION:Pinksteren\nhttps://www.missale.net/of/2025-06-08/nl
+UID:https://www.missale.net/of/2025-06-08/nl
+URL:https://www.missale.net/of/2025-06-08/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250615
@@ -2134,11 +3499,32 @@ UID:https://www.missale.net/of/2025-06-22/nl
 URL:https://www.missale.net/of/2025-06-22/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250624
+SUMMARY:Geboorte van de H. Johannes de Doper
+DESCRIPTION:Geboorte van de H. Johannes de Doper\nhttps://www.missale.net/of/2025-06-24/nl
+UID:https://www.missale.net/of/2025-06-24/nl
+URL:https://www.missale.net/of/2025-06-24/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250627
 SUMMARY:Heilig Hart van Jezus
 DESCRIPTION:Heilig Hart van Jezus\nhttps://www.missale.net/of/2025-06-27/nl
 UID:https://www.missale.net/of/2025-06-27/nl
 URL:https://www.missale.net/of/2025-06-27/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250629
+SUMMARY:HH. Petrus en Paulus, apostelen
+DESCRIPTION:HH. Petrus en Paulus, apostelen\nhttps://www.missale.net/of/2025-06-29/nl
+UID:https://www.missale.net/of/2025-06-29/nl
+URL:https://www.missale.net/of/2025-06-29/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250703
+SUMMARY:H. Thomas, apostel
+DESCRIPTION:H. Thomas, apostel\nhttps://www.missale.net/of/2025-07-03/nl
+UID:https://www.missale.net/of/2025-07-03/nl
+URL:https://www.missale.net/of/2025-07-03/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250706
@@ -2160,6 +3546,13 @@ SUMMARY:Zestiende zondag door het jaar
 DESCRIPTION:Zestiende zondag door het jaar\nhttps://www.missale.net/of/2025-07-20/nl
 UID:https://www.missale.net/of/2025-07-20/nl
 URL:https://www.missale.net/of/2025-07-20/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250725
+SUMMARY:H. Jacobus, apostel
+DESCRIPTION:H. Jacobus, apostel\nhttps://www.missale.net/of/2025-07-25/nl
+UID:https://www.missale.net/of/2025-07-25/nl
+URL:https://www.missale.net/of/2025-07-25/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250727
@@ -2190,6 +3583,13 @@ UID:https://www.missale.net/of/2025-08-10/nl
 URL:https://www.missale.net/of/2025-08-10/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250815
+SUMMARY:Tenhemelopneming van de H. Maagd Maria
+DESCRIPTION:Tenhemelopneming van de H. Maagd Maria\nhttps://www.missale.net/of/2025-08-15/nl
+UID:https://www.missale.net/of/2025-08-15/nl
+URL:https://www.missale.net/of/2025-08-15/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250817
 SUMMARY:Twintigste zondag door het jaar
 DESCRIPTION:Twintigste zondag door het jaar\nhttps://www.missale.net/of/2025-08-17/nl
@@ -2218,6 +3618,13 @@ UID:https://www.missale.net/of/2025-09-07/nl
 URL:https://www.missale.net/of/2025-09-07/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250908
+SUMMARY:Geboorte van de Maagd Maria
+DESCRIPTION:Geboorte van de Maagd Maria\nhttps://www.missale.net/of/2025-09-08/nl
+UID:https://www.missale.net/of/2025-09-08/nl
+URL:https://www.missale.net/of/2025-09-08/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250914
 SUMMARY:Vierentwintigste zondag door het jaar
 DESCRIPTION:Vierentwintigste zondag door het jaar\nhttps://www.missale.net/of/2025-09-14/nl
@@ -2239,6 +3646,13 @@ UID:https://www.missale.net/of/2025-09-28/nl
 URL:https://www.missale.net/of/2025-09-28/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250929
+SUMMARY:Michaël, Gabriël en Rafaël, aartsengelen
+DESCRIPTION:Michaël, Gabriël en Rafaël, aartsengelen\nhttps://www.missale.net/of/2025-09-29/nl
+UID:https://www.missale.net/of/2025-09-29/nl
+URL:https://www.missale.net/of/2025-09-29/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251005
 SUMMARY:Zevenentwintigste zondag door het jaar
 DESCRIPTION:Zevenentwintigste zondag door het jaar\nhttps://www.missale.net/of/2025-10-05/nl
@@ -2253,6 +3667,13 @@ UID:https://www.missale.net/of/2025-10-12/nl
 URL:https://www.missale.net/of/2025-10-12/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251018
+SUMMARY:H. Lucas, evangelist
+DESCRIPTION:H. Lucas, evangelist\nhttps://www.missale.net/of/2025-10-18/nl
+UID:https://www.missale.net/of/2025-10-18/nl
+URL:https://www.missale.net/of/2025-10-18/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251019
 SUMMARY:Negenentwintigste zondag door het jaar
 DESCRIPTION:Negenentwintigste zondag door het jaar\nhttps://www.missale.net/of/2025-10-19/nl
@@ -2265,6 +3686,27 @@ SUMMARY:Dertigste zondag door het jaar
 DESCRIPTION:Dertigste zondag door het jaar\nhttps://www.missale.net/of/2025-10-26/nl
 UID:https://www.missale.net/of/2025-10-26/nl
 URL:https://www.missale.net/of/2025-10-26/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251028
+SUMMARY:HH. Simon en Judas, apostelen
+DESCRIPTION:HH. Simon en Judas, apostelen\nhttps://www.missale.net/of/2025-10-28/nl
+UID:https://www.missale.net/of/2025-10-28/nl
+URL:https://www.missale.net/of/2025-10-28/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251101
+SUMMARY:Allerheiligen
+DESCRIPTION:Allerheiligen\nhttps://www.missale.net/of/2025-11-01/nl
+UID:https://www.missale.net/of/2025-11-01/nl
+URL:https://www.missale.net/of/2025-11-01/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251102
+SUMMARY:Allerzielen
+DESCRIPTION:Allerzielen\nhttps://www.missale.net/of/2025-11-02/nl
+UID:https://www.missale.net/of/2025-11-02/nl
+URL:https://www.missale.net/of/2025-11-02/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251109
@@ -2302,6 +3744,13 @@ UID:https://www.missale.net/of/2025-12-07/nl
 URL:https://www.missale.net/of/2025-12-07/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251208
+SUMMARY:Onbevlekte Ontvangenis van de Heilige Maagd Maria
+DESCRIPTION:Onbevlekte Ontvangenis van de Heilige Maagd Maria\nhttps://www.missale.net/of/2025-12-08/nl
+UID:https://www.missale.net/of/2025-12-08/nl
+URL:https://www.missale.net/of/2025-12-08/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251214
 SUMMARY:Derde zondag van de Advent
 DESCRIPTION:Derde zondag van de Advent\nhttps://www.missale.net/of/2025-12-14/nl
@@ -2316,11 +3765,53 @@ UID:https://www.missale.net/of/2025-12-21/nl
 URL:https://www.missale.net/of/2025-12-21/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251224
+SUMMARY:Vigilie van Kerstmis
+DESCRIPTION:Vigilie van Kerstmis\nhttps://www.missale.net/of/2025-12-24/nl
+UID:https://www.missale.net/of/2025-12-24/nl
+URL:https://www.missale.net/of/2025-12-24/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251225
+SUMMARY:Kerstmis
+DESCRIPTION:Kerstmis\nhttps://www.missale.net/of/2025-12-25/nl
+UID:https://www.missale.net/of/2025-12-25/nl
+URL:https://www.missale.net/of/2025-12-25/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251226
+SUMMARY:H. Stephanus, eerste martelaar
+DESCRIPTION:H. Stephanus, eerste martelaar\nhttps://www.missale.net/of/2025-12-26/nl
+UID:https://www.missale.net/of/2025-12-26/nl
+URL:https://www.missale.net/of/2025-12-26/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251227
+SUMMARY:H. Johannes, apostel en evangelist
+DESCRIPTION:H. Johannes, apostel en evangelist\nhttps://www.missale.net/of/2025-12-27/nl
+UID:https://www.missale.net/of/2025-12-27/nl
+URL:https://www.missale.net/of/2025-12-27/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251228
 SUMMARY:Heilige Familie
 DESCRIPTION:Heilige Familie\nhttps://www.missale.net/of/2025-12-28/nl
 UID:https://www.missale.net/of/2025-12-28/nl
 URL:https://www.missale.net/of/2025-12-28/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260101
+SUMMARY:Maria, Moeder van God
+DESCRIPTION:Maria, Moeder van God\nhttps://www.missale.net/of/2026-01-01/nl
+UID:https://www.missale.net/of/2026-01-01/nl
+URL:https://www.missale.net/of/2026-01-01/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260104
+SUMMARY:Openbaring van de Heer
+DESCRIPTION:Openbaring van de Heer\nhttps://www.missale.net/of/2026-01-04/nl
+UID:https://www.missale.net/of/2026-01-04/nl
+URL:https://www.missale.net/of/2026-01-04/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260111
@@ -2351,6 +3842,13 @@ UID:https://www.missale.net/of/2026-02-01/nl
 URL:https://www.missale.net/of/2026-02-01/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260202
+SUMMARY:Opdracht van de Heer in de tempel
+DESCRIPTION:Opdracht van de Heer in de tempel\nhttps://www.missale.net/of/2026-02-02/nl
+UID:https://www.missale.net/of/2026-02-02/nl
+URL:https://www.missale.net/of/2026-02-02/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260208
 SUMMARY:Vijfde zondag door het jaar
 DESCRIPTION:Vijfde zondag door het jaar\nhttps://www.missale.net/of/2026-02-08/nl
@@ -2363,6 +3861,13 @@ SUMMARY:Zesde zondag door het jaar
 DESCRIPTION:Zesde zondag door het jaar\nhttps://www.missale.net/of/2026-02-15/nl
 UID:https://www.missale.net/of/2026-02-15/nl
 URL:https://www.missale.net/of/2026-02-15/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260218
+SUMMARY:Aswoensdag
+DESCRIPTION:Aswoensdag\nhttps://www.missale.net/of/2026-02-18/nl
+UID:https://www.missale.net/of/2026-02-18/nl
+URL:https://www.missale.net/of/2026-02-18/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260222
@@ -2393,6 +3898,13 @@ UID:https://www.missale.net/of/2026-03-15/nl
 URL:https://www.missale.net/of/2026-03-15/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260319
+SUMMARY:H. Jozef, bruidegom van de H. Maagd Maria
+DESCRIPTION:H. Jozef, bruidegom van de H. Maagd Maria\nhttps://www.missale.net/of/2026-03-19/nl
+UID:https://www.missale.net/of/2026-03-19/nl
+URL:https://www.missale.net/of/2026-03-19/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260322
 SUMMARY:Vijfde zondag van de Veertigdagentijd
 DESCRIPTION:Vijfde zondag van de Veertigdagentijd\nhttps://www.missale.net/of/2026-03-22/nl
@@ -2400,11 +3912,32 @@ UID:https://www.missale.net/of/2026-03-22/nl
 URL:https://www.missale.net/of/2026-03-22/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260325
+SUMMARY:Aankondiging van de Heer
+DESCRIPTION:Aankondiging van de Heer\nhttps://www.missale.net/of/2026-03-25/nl
+UID:https://www.missale.net/of/2026-03-25/nl
+URL:https://www.missale.net/of/2026-03-25/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260329
 SUMMARY:Palmzondag
 DESCRIPTION:Palmzondag\nhttps://www.missale.net/of/2026-03-29/nl
 UID:https://www.missale.net/of/2026-03-29/nl
 URL:https://www.missale.net/of/2026-03-29/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260402
+SUMMARY:Witte Donderdag
+DESCRIPTION:Witte Donderdag\nhttps://www.missale.net/of/2026-04-02/nl
+UID:https://www.missale.net/of/2026-04-02/nl
+URL:https://www.missale.net/of/2026-04-02/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+SUMMARY:Goede Vrijdag
+DESCRIPTION:Goede Vrijdag\nhttps://www.missale.net/of/2026-04-03/nl
+UID:https://www.missale.net/of/2026-04-03/nl
+URL:https://www.missale.net/of/2026-04-03/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260404
@@ -2433,6 +3966,13 @@ SUMMARY:Derde zondag van Pasen
 DESCRIPTION:Derde zondag van Pasen\nhttps://www.missale.net/of/2026-04-19/nl
 UID:https://www.missale.net/of/2026-04-19/nl
 URL:https://www.missale.net/of/2026-04-19/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+SUMMARY:H. Marcus, evangelist
+DESCRIPTION:H. Marcus, evangelist\nhttps://www.missale.net/of/2026-04-25/nl
+UID:https://www.missale.net/of/2026-04-25/nl
+URL:https://www.missale.net/of/2026-04-25/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260426
@@ -2468,6 +4008,13 @@ SUMMARY:Zevende zondag van Pasen
 DESCRIPTION:Zevende zondag van Pasen\nhttps://www.missale.net/of/2026-05-17/nl
 UID:https://www.missale.net/of/2026-05-17/nl
 URL:https://www.missale.net/of/2026-05-17/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260524
+SUMMARY:Pinksteren
+DESCRIPTION:Pinksteren\nhttps://www.missale.net/of/2026-05-24/nl
+UID:https://www.missale.net/of/2026-05-24/nl
+URL:https://www.missale.net/of/2026-05-24/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260531
@@ -2512,11 +4059,32 @@ UID:https://www.missale.net/of/2026-06-21/nl
 URL:https://www.missale.net/of/2026-06-21/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260624
+SUMMARY:Geboorte van de H. Johannes de Doper
+DESCRIPTION:Geboorte van de H. Johannes de Doper\nhttps://www.missale.net/of/2026-06-24/nl
+UID:https://www.missale.net/of/2026-06-24/nl
+URL:https://www.missale.net/of/2026-06-24/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260628
 SUMMARY:Dertiende zondag door het jaar
 DESCRIPTION:Dertiende zondag door het jaar\nhttps://www.missale.net/of/2026-06-28/nl
 UID:https://www.missale.net/of/2026-06-28/nl
 URL:https://www.missale.net/of/2026-06-28/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260629
+SUMMARY:HH. Petrus en Paulus, apostelen
+DESCRIPTION:HH. Petrus en Paulus, apostelen\nhttps://www.missale.net/of/2026-06-29/nl
+UID:https://www.missale.net/of/2026-06-29/nl
+URL:https://www.missale.net/of/2026-06-29/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260703
+SUMMARY:H. Thomas, apostel
+DESCRIPTION:H. Thomas, apostel\nhttps://www.missale.net/of/2026-07-03/nl
+UID:https://www.missale.net/of/2026-07-03/nl
+URL:https://www.missale.net/of/2026-07-03/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260705
@@ -2538,6 +4106,13 @@ SUMMARY:Zestiende zondag door het jaar
 DESCRIPTION:Zestiende zondag door het jaar\nhttps://www.missale.net/of/2026-07-19/nl
 UID:https://www.missale.net/of/2026-07-19/nl
 URL:https://www.missale.net/of/2026-07-19/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260725
+SUMMARY:H. Jacobus, apostel
+DESCRIPTION:H. Jacobus, apostel\nhttps://www.missale.net/of/2026-07-25/nl
+UID:https://www.missale.net/of/2026-07-25/nl
+URL:https://www.missale.net/of/2026-07-25/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260726
@@ -2568,6 +4143,20 @@ UID:https://www.missale.net/of/2026-08-09/nl
 URL:https://www.missale.net/of/2026-08-09/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260810
+SUMMARY:H. Laurentius, diaken en martelaar
+DESCRIPTION:H. Laurentius, diaken en martelaar\nhttps://www.missale.net/of/2026-08-10/nl
+UID:https://www.missale.net/of/2026-08-10/nl
+URL:https://www.missale.net/of/2026-08-10/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260815
+SUMMARY:Tenhemelopneming van de H. Maagd Maria
+DESCRIPTION:Tenhemelopneming van de H. Maagd Maria\nhttps://www.missale.net/of/2026-08-15/nl
+UID:https://www.missale.net/of/2026-08-15/nl
+URL:https://www.missale.net/of/2026-08-15/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260816
 SUMMARY:Twintigste zondag door het jaar
 DESCRIPTION:Twintigste zondag door het jaar\nhttps://www.missale.net/of/2026-08-16/nl
@@ -2580,6 +4169,13 @@ SUMMARY:Eenentwintigste zondag door het jaar
 DESCRIPTION:Eenentwintigste zondag door het jaar\nhttps://www.missale.net/of/2026-08-23/nl
 UID:https://www.missale.net/of/2026-08-23/nl
 URL:https://www.missale.net/of/2026-08-23/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260824
+SUMMARY:H. Bartholomeus, apostel
+DESCRIPTION:H. Bartholomeus, apostel\nhttps://www.missale.net/of/2026-08-24/nl
+UID:https://www.missale.net/of/2026-08-24/nl
+URL:https://www.missale.net/of/2026-08-24/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260830
@@ -2596,11 +4192,25 @@ UID:https://www.missale.net/of/2026-09-06/nl
 URL:https://www.missale.net/of/2026-09-06/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260908
+SUMMARY:Geboorte van de Maagd Maria
+DESCRIPTION:Geboorte van de Maagd Maria\nhttps://www.missale.net/of/2026-09-08/nl
+UID:https://www.missale.net/of/2026-09-08/nl
+URL:https://www.missale.net/of/2026-09-08/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260913
 SUMMARY:Vierentwintigste zondag door het jaar
 DESCRIPTION:Vierentwintigste zondag door het jaar\nhttps://www.missale.net/of/2026-09-13/nl
 UID:https://www.missale.net/of/2026-09-13/nl
 URL:https://www.missale.net/of/2026-09-13/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260914
+SUMMARY:Kruisverheffing
+DESCRIPTION:Kruisverheffing\nhttps://www.missale.net/of/2026-09-14/nl
+UID:https://www.missale.net/of/2026-09-14/nl
+URL:https://www.missale.net/of/2026-09-14/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260920
@@ -2610,11 +4220,25 @@ UID:https://www.missale.net/of/2026-09-20/nl
 URL:https://www.missale.net/of/2026-09-20/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260921
+SUMMARY:H. Matteüs, apostel en evangelist
+DESCRIPTION:H. Matteüs, apostel en evangelist\nhttps://www.missale.net/of/2026-09-21/nl
+UID:https://www.missale.net/of/2026-09-21/nl
+URL:https://www.missale.net/of/2026-09-21/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260927
 SUMMARY:Zesentwintigste zondag door het jaar
 DESCRIPTION:Zesentwintigste zondag door het jaar\nhttps://www.missale.net/of/2026-09-27/nl
 UID:https://www.missale.net/of/2026-09-27/nl
 URL:https://www.missale.net/of/2026-09-27/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260929
+SUMMARY:Michaël, Gabriël en Rafaël, aartsengelen
+DESCRIPTION:Michaël, Gabriël en Rafaël, aartsengelen\nhttps://www.missale.net/of/2026-09-29/nl
+UID:https://www.missale.net/of/2026-09-29/nl
+URL:https://www.missale.net/of/2026-09-29/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261004
@@ -2645,11 +4269,39 @@ UID:https://www.missale.net/of/2026-10-25/nl
 URL:https://www.missale.net/of/2026-10-25/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261028
+SUMMARY:HH. Simon en Judas, apostelen
+DESCRIPTION:HH. Simon en Judas, apostelen\nhttps://www.missale.net/of/2026-10-28/nl
+UID:https://www.missale.net/of/2026-10-28/nl
+URL:https://www.missale.net/of/2026-10-28/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+SUMMARY:Allerheiligen
+DESCRIPTION:Allerheiligen\nhttps://www.missale.net/of/2026-11-01/nl
+UID:https://www.missale.net/of/2026-11-01/nl
+URL:https://www.missale.net/of/2026-11-01/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261102
+SUMMARY:Allerzielen
+DESCRIPTION:Allerzielen\nhttps://www.missale.net/of/2026-11-02/nl
+UID:https://www.missale.net/of/2026-11-02/nl
+URL:https://www.missale.net/of/2026-11-02/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261108
 SUMMARY:Tweeëndertigste zondag door het jaar
 DESCRIPTION:Tweeëndertigste zondag door het jaar\nhttps://www.missale.net/of/2026-11-08/nl
 UID:https://www.missale.net/of/2026-11-08/nl
 URL:https://www.missale.net/of/2026-11-08/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261109
+SUMMARY:Wijding van de basiliek van Sint Jan van Lateranen in Rome
+DESCRIPTION:Wijding van de basiliek van Sint Jan van Lateranen in Rome\nhttps://www.missale.net/of/2026-11-09/nl
+UID:https://www.missale.net/of/2026-11-09/nl
+URL:https://www.missale.net/of/2026-11-09/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261115
@@ -2673,11 +4325,25 @@ UID:https://www.missale.net/of/2026-11-29/nl
 URL:https://www.missale.net/of/2026-11-29/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261130
+SUMMARY:H. Andreas, Apostel
+DESCRIPTION:H. Andreas, Apostel\nhttps://www.missale.net/of/2026-11-30/nl
+UID:https://www.missale.net/of/2026-11-30/nl
+URL:https://www.missale.net/of/2026-11-30/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261206
 SUMMARY:Tweede zondag van de Advent
 DESCRIPTION:Tweede zondag van de Advent\nhttps://www.missale.net/of/2026-12-06/nl
 UID:https://www.missale.net/of/2026-12-06/nl
 URL:https://www.missale.net/of/2026-12-06/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261208
+SUMMARY:Onbevlekte Ontvangenis van de Heilige Maagd Maria
+DESCRIPTION:Onbevlekte Ontvangenis van de Heilige Maagd Maria\nhttps://www.missale.net/of/2026-12-08/nl
+UID:https://www.missale.net/of/2026-12-08/nl
+URL:https://www.missale.net/of/2026-12-08/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261213
@@ -2694,11 +4360,53 @@ UID:https://www.missale.net/of/2026-12-20/nl
 URL:https://www.missale.net/of/2026-12-20/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261224
+SUMMARY:Vigilie van Kerstmis
+DESCRIPTION:Vigilie van Kerstmis\nhttps://www.missale.net/of/2026-12-24/nl
+UID:https://www.missale.net/of/2026-12-24/nl
+URL:https://www.missale.net/of/2026-12-24/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261225
+SUMMARY:Kerstmis
+DESCRIPTION:Kerstmis\nhttps://www.missale.net/of/2026-12-25/nl
+UID:https://www.missale.net/of/2026-12-25/nl
+URL:https://www.missale.net/of/2026-12-25/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261226
+SUMMARY:H. Stephanus, eerste martelaar
+DESCRIPTION:H. Stephanus, eerste martelaar\nhttps://www.missale.net/of/2026-12-26/nl
+UID:https://www.missale.net/of/2026-12-26/nl
+URL:https://www.missale.net/of/2026-12-26/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261227
 SUMMARY:Heilige Familie
 DESCRIPTION:Heilige Familie\nhttps://www.missale.net/of/2026-12-27/nl
 UID:https://www.missale.net/of/2026-12-27/nl
 URL:https://www.missale.net/of/2026-12-27/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261228
+SUMMARY:HH. Onnozele Kinderen, martelaren
+DESCRIPTION:HH. Onnozele Kinderen, martelaren\nhttps://www.missale.net/of/2026-12-28/nl
+UID:https://www.missale.net/of/2026-12-28/nl
+URL:https://www.missale.net/of/2026-12-28/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270101
+SUMMARY:Maria, Moeder van God
+DESCRIPTION:Maria, Moeder van God\nhttps://www.missale.net/of/2027-01-01/nl
+UID:https://www.missale.net/of/2027-01-01/nl
+URL:https://www.missale.net/of/2027-01-01/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270103
+SUMMARY:Openbaring van de Heer
+DESCRIPTION:Openbaring van de Heer\nhttps://www.missale.net/of/2027-01-03/nl
+UID:https://www.missale.net/of/2027-01-03/nl
+URL:https://www.missale.net/of/2027-01-03/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270110
@@ -2722,6 +4430,13 @@ UID:https://www.missale.net/of/2027-01-24/nl
 URL:https://www.missale.net/of/2027-01-24/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270125
+SUMMARY:Bekering van Paulus, apostel
+DESCRIPTION:Bekering van Paulus, apostel\nhttps://www.missale.net/of/2027-01-25/nl
+UID:https://www.missale.net/of/2027-01-25/nl
+URL:https://www.missale.net/of/2027-01-25/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270131
 SUMMARY:Vierde zondag door het jaar
 DESCRIPTION:Vierde zondag door het jaar\nhttps://www.missale.net/of/2027-01-31/nl
@@ -2729,11 +4444,25 @@ UID:https://www.missale.net/of/2027-01-31/nl
 URL:https://www.missale.net/of/2027-01-31/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270202
+SUMMARY:Opdracht van de Heer in de tempel
+DESCRIPTION:Opdracht van de Heer in de tempel\nhttps://www.missale.net/of/2027-02-02/nl
+UID:https://www.missale.net/of/2027-02-02/nl
+URL:https://www.missale.net/of/2027-02-02/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270207
 SUMMARY:Vijfde zondag door het jaar
 DESCRIPTION:Vijfde zondag door het jaar\nhttps://www.missale.net/of/2027-02-07/nl
 UID:https://www.missale.net/of/2027-02-07/nl
 URL:https://www.missale.net/of/2027-02-07/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270210
+SUMMARY:Aswoensdag
+DESCRIPTION:Aswoensdag\nhttps://www.missale.net/of/2027-02-10/nl
+UID:https://www.missale.net/of/2027-02-10/nl
+URL:https://www.missale.net/of/2027-02-10/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270214
@@ -2748,6 +4477,13 @@ SUMMARY:Tweede zondag van de Veertigdagentijd
 DESCRIPTION:Tweede zondag van de Veertigdagentijd\nhttps://www.missale.net/of/2027-02-21/nl
 UID:https://www.missale.net/of/2027-02-21/nl
 URL:https://www.missale.net/of/2027-02-21/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270222
+SUMMARY:Sint Petrus' Stoel
+DESCRIPTION:Sint Petrus' Stoel\nhttps://www.missale.net/of/2027-02-22/nl
+UID:https://www.missale.net/of/2027-02-22/nl
+URL:https://www.missale.net/of/2027-02-22/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270228
@@ -2771,11 +4507,32 @@ UID:https://www.missale.net/of/2027-03-14/nl
 URL:https://www.missale.net/of/2027-03-14/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270319
+SUMMARY:H. Jozef, bruidegom van de H. Maagd Maria
+DESCRIPTION:H. Jozef, bruidegom van de H. Maagd Maria\nhttps://www.missale.net/of/2027-03-19/nl
+UID:https://www.missale.net/of/2027-03-19/nl
+URL:https://www.missale.net/of/2027-03-19/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270321
 SUMMARY:Palmzondag
 DESCRIPTION:Palmzondag\nhttps://www.missale.net/of/2027-03-21/nl
 UID:https://www.missale.net/of/2027-03-21/nl
 URL:https://www.missale.net/of/2027-03-21/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270325
+SUMMARY:Witte Donderdag
+DESCRIPTION:Witte Donderdag\nhttps://www.missale.net/of/2027-03-25/nl
+UID:https://www.missale.net/of/2027-03-25/nl
+URL:https://www.missale.net/of/2027-03-25/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270326
+SUMMARY:Goede Vrijdag
+DESCRIPTION:Goede Vrijdag\nhttps://www.missale.net/of/2027-03-26/nl
+UID:https://www.missale.net/of/2027-03-26/nl
+URL:https://www.missale.net/of/2027-03-26/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270327
@@ -2797,6 +4554,13 @@ SUMMARY:Tweede zondag van Pasen
 DESCRIPTION:Tweede zondag van Pasen\nhttps://www.missale.net/of/2027-04-04/nl
 UID:https://www.missale.net/of/2027-04-04/nl
 URL:https://www.missale.net/of/2027-04-04/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270405
+SUMMARY:Aankondiging van de Heer
+DESCRIPTION:Aankondiging van de Heer\nhttps://www.missale.net/of/2027-04-05/nl
+UID:https://www.missale.net/of/2027-04-05/nl
+URL:https://www.missale.net/of/2027-04-05/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270411
@@ -2827,6 +4591,13 @@ UID:https://www.missale.net/of/2027-05-02/nl
 URL:https://www.missale.net/of/2027-05-02/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270503
+SUMMARY:HH. Filippus en Jakobus, apostelen
+DESCRIPTION:HH. Filippus en Jakobus, apostelen\nhttps://www.missale.net/of/2027-05-03/nl
+UID:https://www.missale.net/of/2027-05-03/nl
+URL:https://www.missale.net/of/2027-05-03/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270506
 SUMMARY:Hemelvaart van de Heer
 DESCRIPTION:Hemelvaart van de Heer\nhttps://www.missale.net/of/2027-05-06/nl
@@ -2839,6 +4610,20 @@ SUMMARY:Zevende zondag van Pasen
 DESCRIPTION:Zevende zondag van Pasen\nhttps://www.missale.net/of/2027-05-09/nl
 UID:https://www.missale.net/of/2027-05-09/nl
 URL:https://www.missale.net/of/2027-05-09/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270514
+SUMMARY:H. Matteüs, apostel
+DESCRIPTION:H. Matteüs, apostel\nhttps://www.missale.net/of/2027-05-14/nl
+UID:https://www.missale.net/of/2027-05-14/nl
+URL:https://www.missale.net/of/2027-05-14/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270516
+SUMMARY:Pinksteren
+DESCRIPTION:Pinksteren\nhttps://www.missale.net/of/2027-05-16/nl
+UID:https://www.missale.net/of/2027-05-16/nl
+URL:https://www.missale.net/of/2027-05-16/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270523
@@ -2860,6 +4645,13 @@ SUMMARY:Negende zondag door het jaar
 DESCRIPTION:Negende zondag door het jaar\nhttps://www.missale.net/of/2027-05-30/nl
 UID:https://www.missale.net/of/2027-05-30/nl
 URL:https://www.missale.net/of/2027-05-30/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270531
+SUMMARY:Visitatie van de H. Maagd Maria aan Elizabeth
+DESCRIPTION:Visitatie van de H. Maagd Maria aan Elizabeth\nhttps://www.missale.net/of/2027-05-31/nl
+UID:https://www.missale.net/of/2027-05-31/nl
+URL:https://www.missale.net/of/2027-05-31/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270604
@@ -2890,11 +4682,32 @@ UID:https://www.missale.net/of/2027-06-20/nl
 URL:https://www.missale.net/of/2027-06-20/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270624
+SUMMARY:Geboorte van de H. Johannes de Doper
+DESCRIPTION:Geboorte van de H. Johannes de Doper\nhttps://www.missale.net/of/2027-06-24/nl
+UID:https://www.missale.net/of/2027-06-24/nl
+URL:https://www.missale.net/of/2027-06-24/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270627
 SUMMARY:Dertiende zondag door het jaar
 DESCRIPTION:Dertiende zondag door het jaar\nhttps://www.missale.net/of/2027-06-27/nl
 UID:https://www.missale.net/of/2027-06-27/nl
 URL:https://www.missale.net/of/2027-06-27/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270629
+SUMMARY:HH. Petrus en Paulus, apostelen
+DESCRIPTION:HH. Petrus en Paulus, apostelen\nhttps://www.missale.net/of/2027-06-29/nl
+UID:https://www.missale.net/of/2027-06-29/nl
+URL:https://www.missale.net/of/2027-06-29/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270703
+SUMMARY:H. Thomas, apostel
+DESCRIPTION:H. Thomas, apostel\nhttps://www.missale.net/of/2027-07-03/nl
+UID:https://www.missale.net/of/2027-07-03/nl
+URL:https://www.missale.net/of/2027-07-03/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270704
@@ -2946,11 +4759,32 @@ UID:https://www.missale.net/of/2027-08-08/nl
 URL:https://www.missale.net/of/2027-08-08/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270810
+SUMMARY:H. Laurentius, diaken en martelaar
+DESCRIPTION:H. Laurentius, diaken en martelaar\nhttps://www.missale.net/of/2027-08-10/nl
+UID:https://www.missale.net/of/2027-08-10/nl
+URL:https://www.missale.net/of/2027-08-10/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270815
+SUMMARY:Tenhemelopneming van de H. Maagd Maria
+DESCRIPTION:Tenhemelopneming van de H. Maagd Maria\nhttps://www.missale.net/of/2027-08-15/nl
+UID:https://www.missale.net/of/2027-08-15/nl
+URL:https://www.missale.net/of/2027-08-15/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270822
 SUMMARY:Eenentwintigste zondag door het jaar
 DESCRIPTION:Eenentwintigste zondag door het jaar\nhttps://www.missale.net/of/2027-08-22/nl
 UID:https://www.missale.net/of/2027-08-22/nl
 URL:https://www.missale.net/of/2027-08-22/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270824
+SUMMARY:H. Bartholomeus, apostel
+DESCRIPTION:H. Bartholomeus, apostel\nhttps://www.missale.net/of/2027-08-24/nl
+UID:https://www.missale.net/of/2027-08-24/nl
+URL:https://www.missale.net/of/2027-08-24/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270829
@@ -2967,11 +4801,25 @@ UID:https://www.missale.net/of/2027-09-05/nl
 URL:https://www.missale.net/of/2027-09-05/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270908
+SUMMARY:Geboorte van de Maagd Maria
+DESCRIPTION:Geboorte van de Maagd Maria\nhttps://www.missale.net/of/2027-09-08/nl
+UID:https://www.missale.net/of/2027-09-08/nl
+URL:https://www.missale.net/of/2027-09-08/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270912
 SUMMARY:Vierentwintigste zondag door het jaar
 DESCRIPTION:Vierentwintigste zondag door het jaar\nhttps://www.missale.net/of/2027-09-12/nl
 UID:https://www.missale.net/of/2027-09-12/nl
 URL:https://www.missale.net/of/2027-09-12/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270914
+SUMMARY:Kruisverheffing
+DESCRIPTION:Kruisverheffing\nhttps://www.missale.net/of/2027-09-14/nl
+UID:https://www.missale.net/of/2027-09-14/nl
+URL:https://www.missale.net/of/2027-09-14/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270919
@@ -2981,11 +4829,25 @@ UID:https://www.missale.net/of/2027-09-19/nl
 URL:https://www.missale.net/of/2027-09-19/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270921
+SUMMARY:H. Matteüs, apostel en evangelist
+DESCRIPTION:H. Matteüs, apostel en evangelist\nhttps://www.missale.net/of/2027-09-21/nl
+UID:https://www.missale.net/of/2027-09-21/nl
+URL:https://www.missale.net/of/2027-09-21/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270926
 SUMMARY:Zesentwintigste zondag door het jaar
 DESCRIPTION:Zesentwintigste zondag door het jaar\nhttps://www.missale.net/of/2027-09-26/nl
 UID:https://www.missale.net/of/2027-09-26/nl
 URL:https://www.missale.net/of/2027-09-26/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270929
+SUMMARY:Michaël, Gabriël en Rafaël, aartsengelen
+DESCRIPTION:Michaël, Gabriël en Rafaël, aartsengelen\nhttps://www.missale.net/of/2027-09-29/nl
+UID:https://www.missale.net/of/2027-09-29/nl
+URL:https://www.missale.net/of/2027-09-29/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271003
@@ -3009,11 +4871,25 @@ UID:https://www.missale.net/of/2027-10-17/nl
 URL:https://www.missale.net/of/2027-10-17/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271018
+SUMMARY:H. Lucas, evangelist
+DESCRIPTION:H. Lucas, evangelist\nhttps://www.missale.net/of/2027-10-18/nl
+UID:https://www.missale.net/of/2027-10-18/nl
+URL:https://www.missale.net/of/2027-10-18/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271024
 SUMMARY:Dertigste zondag door het jaar
 DESCRIPTION:Dertigste zondag door het jaar\nhttps://www.missale.net/of/2027-10-24/nl
 UID:https://www.missale.net/of/2027-10-24/nl
 URL:https://www.missale.net/of/2027-10-24/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271028
+SUMMARY:HH. Simon en Judas, apostelen
+DESCRIPTION:HH. Simon en Judas, apostelen\nhttps://www.missale.net/of/2027-10-28/nl
+UID:https://www.missale.net/of/2027-10-28/nl
+URL:https://www.missale.net/of/2027-10-28/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271031
@@ -3023,11 +4899,32 @@ UID:https://www.missale.net/of/2027-10-31/nl
 URL:https://www.missale.net/of/2027-10-31/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271101
+SUMMARY:Allerheiligen
+DESCRIPTION:Allerheiligen\nhttps://www.missale.net/of/2027-11-01/nl
+UID:https://www.missale.net/of/2027-11-01/nl
+URL:https://www.missale.net/of/2027-11-01/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271102
+SUMMARY:Allerzielen
+DESCRIPTION:Allerzielen\nhttps://www.missale.net/of/2027-11-02/nl
+UID:https://www.missale.net/of/2027-11-02/nl
+URL:https://www.missale.net/of/2027-11-02/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271107
 SUMMARY:Tweeëndertigste zondag door het jaar
 DESCRIPTION:Tweeëndertigste zondag door het jaar\nhttps://www.missale.net/of/2027-11-07/nl
 UID:https://www.missale.net/of/2027-11-07/nl
 URL:https://www.missale.net/of/2027-11-07/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271109
+SUMMARY:Wijding van de basiliek van Sint Jan van Lateranen in Rome
+DESCRIPTION:Wijding van de basiliek van Sint Jan van Lateranen in Rome\nhttps://www.missale.net/of/2027-11-09/nl
+UID:https://www.missale.net/of/2027-11-09/nl
+URL:https://www.missale.net/of/2027-11-09/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271114
@@ -3051,11 +4948,25 @@ UID:https://www.missale.net/of/2027-11-28/nl
 URL:https://www.missale.net/of/2027-11-28/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271130
+SUMMARY:H. Andreas, Apostel
+DESCRIPTION:H. Andreas, Apostel\nhttps://www.missale.net/of/2027-11-30/nl
+UID:https://www.missale.net/of/2027-11-30/nl
+URL:https://www.missale.net/of/2027-11-30/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271205
 SUMMARY:Tweede zondag van de Advent
 DESCRIPTION:Tweede zondag van de Advent\nhttps://www.missale.net/of/2027-12-05/nl
 UID:https://www.missale.net/of/2027-12-05/nl
 URL:https://www.missale.net/of/2027-12-05/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271208
+SUMMARY:Onbevlekte Ontvangenis van de Heilige Maagd Maria
+DESCRIPTION:Onbevlekte Ontvangenis van de Heilige Maagd Maria\nhttps://www.missale.net/of/2027-12-08/nl
+UID:https://www.missale.net/of/2027-12-08/nl
+URL:https://www.missale.net/of/2027-12-08/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271212
@@ -3072,11 +4983,60 @@ UID:https://www.missale.net/of/2027-12-19/nl
 URL:https://www.missale.net/of/2027-12-19/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271224
+SUMMARY:Vigilie van Kerstmis
+DESCRIPTION:Vigilie van Kerstmis\nhttps://www.missale.net/of/2027-12-24/nl
+UID:https://www.missale.net/of/2027-12-24/nl
+URL:https://www.missale.net/of/2027-12-24/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271225
+SUMMARY:Kerstmis
+DESCRIPTION:Kerstmis\nhttps://www.missale.net/of/2027-12-25/nl
+UID:https://www.missale.net/of/2027-12-25/nl
+URL:https://www.missale.net/of/2027-12-25/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271226
 SUMMARY:Heilige Familie
 DESCRIPTION:Heilige Familie\nhttps://www.missale.net/of/2027-12-26/nl
 UID:https://www.missale.net/of/2027-12-26/nl
 URL:https://www.missale.net/of/2027-12-26/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271227
+SUMMARY:H. Johannes, apostel en evangelist
+DESCRIPTION:H. Johannes, apostel en evangelist\nhttps://www.missale.net/of/2027-12-27/nl
+UID:https://www.missale.net/of/2027-12-27/nl
+URL:https://www.missale.net/of/2027-12-27/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271228
+SUMMARY:HH. Onnozele Kinderen, martelaren
+DESCRIPTION:HH. Onnozele Kinderen, martelaren\nhttps://www.missale.net/of/2027-12-28/nl
+UID:https://www.missale.net/of/2027-12-28/nl
+URL:https://www.missale.net/of/2027-12-28/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280101
+SUMMARY:Maria, Moeder van God
+DESCRIPTION:Maria, Moeder van God\nhttps://www.missale.net/of/2028-01-01/nl
+UID:https://www.missale.net/of/2028-01-01/nl
+URL:https://www.missale.net/of/2028-01-01/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280102
+SUMMARY:Tweede zondag van Kerstmis
+DESCRIPTION:Tweede zondag van Kerstmis\nhttps://www.missale.net/of/2028-01-02/nl
+UID:https://www.missale.net/of/2028-01-02/nl
+URL:https://www.missale.net/of/2028-01-02/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280109
+SUMMARY:Openbaring van de Heer
+DESCRIPTION:Openbaring van de Heer\nhttps://www.missale.net/of/2028-01-09/nl
+UID:https://www.missale.net/of/2028-01-09/nl
+URL:https://www.missale.net/of/2028-01-09/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280110
@@ -3100,11 +5060,25 @@ UID:https://www.missale.net/of/2028-01-23/nl
 URL:https://www.missale.net/of/2028-01-23/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280125
+SUMMARY:Bekering van Paulus, apostel
+DESCRIPTION:Bekering van Paulus, apostel\nhttps://www.missale.net/of/2028-01-25/nl
+UID:https://www.missale.net/of/2028-01-25/nl
+URL:https://www.missale.net/of/2028-01-25/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280130
 SUMMARY:Vierde zondag door het jaar
 DESCRIPTION:Vierde zondag door het jaar\nhttps://www.missale.net/of/2028-01-30/nl
 UID:https://www.missale.net/of/2028-01-30/nl
 URL:https://www.missale.net/of/2028-01-30/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280202
+SUMMARY:Opdracht van de Heer in de tempel
+DESCRIPTION:Opdracht van de Heer in de tempel\nhttps://www.missale.net/of/2028-02-02/nl
+UID:https://www.missale.net/of/2028-02-02/nl
+URL:https://www.missale.net/of/2028-02-02/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280206
@@ -3128,11 +5102,25 @@ UID:https://www.missale.net/of/2028-02-20/nl
 URL:https://www.missale.net/of/2028-02-20/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280222
+SUMMARY:Sint Petrus' Stoel
+DESCRIPTION:Sint Petrus' Stoel\nhttps://www.missale.net/of/2028-02-22/nl
+UID:https://www.missale.net/of/2028-02-22/nl
+URL:https://www.missale.net/of/2028-02-22/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280227
 SUMMARY:Achtste zondag door het jaar
 DESCRIPTION:Achtste zondag door het jaar\nhttps://www.missale.net/of/2028-02-27/nl
 UID:https://www.missale.net/of/2028-02-27/nl
 URL:https://www.missale.net/of/2028-02-27/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280301
+SUMMARY:Aswoensdag
+DESCRIPTION:Aswoensdag\nhttps://www.missale.net/of/2028-03-01/nl
+UID:https://www.missale.net/of/2028-03-01/nl
+URL:https://www.missale.net/of/2028-03-01/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280305
@@ -3156,6 +5144,13 @@ UID:https://www.missale.net/of/2028-03-19/nl
 URL:https://www.missale.net/of/2028-03-19/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280325
+SUMMARY:Aankondiging van de Heer
+DESCRIPTION:Aankondiging van de Heer\nhttps://www.missale.net/of/2028-03-25/nl
+UID:https://www.missale.net/of/2028-03-25/nl
+URL:https://www.missale.net/of/2028-03-25/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280326
 SUMMARY:Vierde Zondag van de Veertigdagentijd
 DESCRIPTION:Vierde Zondag van de Veertigdagentijd\nhttps://www.missale.net/of/2028-03-26/nl
@@ -3175,6 +5170,20 @@ SUMMARY:Palmzondag
 DESCRIPTION:Palmzondag\nhttps://www.missale.net/of/2028-04-09/nl
 UID:https://www.missale.net/of/2028-04-09/nl
 URL:https://www.missale.net/of/2028-04-09/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280413
+SUMMARY:Witte Donderdag
+DESCRIPTION:Witte Donderdag\nhttps://www.missale.net/of/2028-04-13/nl
+UID:https://www.missale.net/of/2028-04-13/nl
+URL:https://www.missale.net/of/2028-04-13/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280414
+SUMMARY:Goede Vrijdag
+DESCRIPTION:Goede Vrijdag\nhttps://www.missale.net/of/2028-04-14/nl
+UID:https://www.missale.net/of/2028-04-14/nl
+URL:https://www.missale.net/of/2028-04-14/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280415
@@ -3198,11 +5207,25 @@ UID:https://www.missale.net/of/2028-04-23/nl
 URL:https://www.missale.net/of/2028-04-23/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280425
+SUMMARY:H. Marcus, evangelist
+DESCRIPTION:H. Marcus, evangelist\nhttps://www.missale.net/of/2028-04-25/nl
+UID:https://www.missale.net/of/2028-04-25/nl
+URL:https://www.missale.net/of/2028-04-25/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280430
 SUMMARY:Derde zondag van Pasen
 DESCRIPTION:Derde zondag van Pasen\nhttps://www.missale.net/of/2028-04-30/nl
 UID:https://www.missale.net/of/2028-04-30/nl
 URL:https://www.missale.net/of/2028-04-30/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280503
+SUMMARY:HH. Filippus en Jakobus, apostelen
+DESCRIPTION:HH. Filippus en Jakobus, apostelen\nhttps://www.missale.net/of/2028-05-03/nl
+UID:https://www.missale.net/of/2028-05-03/nl
+URL:https://www.missale.net/of/2028-05-03/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280507
@@ -3240,6 +5263,20 @@ UID:https://www.missale.net/of/2028-05-28/nl
 URL:https://www.missale.net/of/2028-05-28/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280531
+SUMMARY:Visitatie van de H. Maagd Maria aan Elizabeth
+DESCRIPTION:Visitatie van de H. Maagd Maria aan Elizabeth\nhttps://www.missale.net/of/2028-05-31/nl
+UID:https://www.missale.net/of/2028-05-31/nl
+URL:https://www.missale.net/of/2028-05-31/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280604
+SUMMARY:Pinksteren
+DESCRIPTION:Pinksteren\nhttps://www.missale.net/of/2028-06-04/nl
+UID:https://www.missale.net/of/2028-06-04/nl
+URL:https://www.missale.net/of/2028-06-04/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280611
 SUMMARY:Heilige Drievuldigheid
 DESCRIPTION:Heilige Drievuldigheid\nhttps://www.missale.net/of/2028-06-11/nl
@@ -3268,6 +5305,13 @@ UID:https://www.missale.net/of/2028-06-23/nl
 URL:https://www.missale.net/of/2028-06-23/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280624
+SUMMARY:Geboorte van de H. Johannes de Doper
+DESCRIPTION:Geboorte van de H. Johannes de Doper\nhttps://www.missale.net/of/2028-06-24/nl
+UID:https://www.missale.net/of/2028-06-24/nl
+URL:https://www.missale.net/of/2028-06-24/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280625
 SUMMARY:Twaalfde zondag door het jaar
 DESCRIPTION:Twaalfde zondag door het jaar\nhttps://www.missale.net/of/2028-06-25/nl
@@ -3275,11 +5319,25 @@ UID:https://www.missale.net/of/2028-06-25/nl
 URL:https://www.missale.net/of/2028-06-25/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280629
+SUMMARY:HH. Petrus en Paulus, apostelen
+DESCRIPTION:HH. Petrus en Paulus, apostelen\nhttps://www.missale.net/of/2028-06-29/nl
+UID:https://www.missale.net/of/2028-06-29/nl
+URL:https://www.missale.net/of/2028-06-29/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280702
 SUMMARY:Dertiende zondag door het jaar
 DESCRIPTION:Dertiende zondag door het jaar\nhttps://www.missale.net/of/2028-07-02/nl
 UID:https://www.missale.net/of/2028-07-02/nl
 URL:https://www.missale.net/of/2028-07-02/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280703
+SUMMARY:H. Thomas, apostel
+DESCRIPTION:H. Thomas, apostel\nhttps://www.missale.net/of/2028-07-03/nl
+UID:https://www.missale.net/of/2028-07-03/nl
+URL:https://www.missale.net/of/2028-07-03/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280709
@@ -3303,6 +5361,13 @@ UID:https://www.missale.net/of/2028-07-23/nl
 URL:https://www.missale.net/of/2028-07-23/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280725
+SUMMARY:H. Jacobus, apostel
+DESCRIPTION:H. Jacobus, apostel\nhttps://www.missale.net/of/2028-07-25/nl
+UID:https://www.missale.net/of/2028-07-25/nl
+URL:https://www.missale.net/of/2028-07-25/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280730
 SUMMARY:Zeventiende zondag door het jaar
 DESCRIPTION:Zeventiende zondag door het jaar\nhttps://www.missale.net/of/2028-07-30/nl
@@ -3317,6 +5382,13 @@ UID:https://www.missale.net/of/2028-08-06/nl
 URL:https://www.missale.net/of/2028-08-06/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280810
+SUMMARY:H. Laurentius, diaken en martelaar
+DESCRIPTION:H. Laurentius, diaken en martelaar\nhttps://www.missale.net/of/2028-08-10/nl
+UID:https://www.missale.net/of/2028-08-10/nl
+URL:https://www.missale.net/of/2028-08-10/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280813
 SUMMARY:Negentiende zondag door het jaar
 DESCRIPTION:Negentiende zondag door het jaar\nhttps://www.missale.net/of/2028-08-13/nl
@@ -3324,11 +5396,25 @@ UID:https://www.missale.net/of/2028-08-13/nl
 URL:https://www.missale.net/of/2028-08-13/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280815
+SUMMARY:Tenhemelopneming van de H. Maagd Maria
+DESCRIPTION:Tenhemelopneming van de H. Maagd Maria\nhttps://www.missale.net/of/2028-08-15/nl
+UID:https://www.missale.net/of/2028-08-15/nl
+URL:https://www.missale.net/of/2028-08-15/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280820
 SUMMARY:Twintigste zondag door het jaar
 DESCRIPTION:Twintigste zondag door het jaar\nhttps://www.missale.net/of/2028-08-20/nl
 UID:https://www.missale.net/of/2028-08-20/nl
 URL:https://www.missale.net/of/2028-08-20/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280824
+SUMMARY:H. Bartholomeus, apostel
+DESCRIPTION:H. Bartholomeus, apostel\nhttps://www.missale.net/of/2028-08-24/nl
+UID:https://www.missale.net/of/2028-08-24/nl
+URL:https://www.missale.net/of/2028-08-24/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280827
@@ -3345,11 +5431,25 @@ UID:https://www.missale.net/of/2028-09-03/nl
 URL:https://www.missale.net/of/2028-09-03/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280908
+SUMMARY:Geboorte van de Maagd Maria
+DESCRIPTION:Geboorte van de Maagd Maria\nhttps://www.missale.net/of/2028-09-08/nl
+UID:https://www.missale.net/of/2028-09-08/nl
+URL:https://www.missale.net/of/2028-09-08/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280910
 SUMMARY:Drieëntwintigste zondag door het jaar
 DESCRIPTION:Drieëntwintigste zondag door het jaar\nhttps://www.missale.net/of/2028-09-10/nl
 UID:https://www.missale.net/of/2028-09-10/nl
 URL:https://www.missale.net/of/2028-09-10/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280914
+SUMMARY:Kruisverheffing
+DESCRIPTION:Kruisverheffing\nhttps://www.missale.net/of/2028-09-14/nl
+UID:https://www.missale.net/of/2028-09-14/nl
+URL:https://www.missale.net/of/2028-09-14/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280917
@@ -3359,11 +5459,25 @@ UID:https://www.missale.net/of/2028-09-17/nl
 URL:https://www.missale.net/of/2028-09-17/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280921
+SUMMARY:H. Matteüs, apostel en evangelist
+DESCRIPTION:H. Matteüs, apostel en evangelist\nhttps://www.missale.net/of/2028-09-21/nl
+UID:https://www.missale.net/of/2028-09-21/nl
+URL:https://www.missale.net/of/2028-09-21/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280924
 SUMMARY:Vijfentwintigste zondag door het jaar
 DESCRIPTION:Vijfentwintigste zondag door het jaar\nhttps://www.missale.net/of/2028-09-24/nl
 UID:https://www.missale.net/of/2028-09-24/nl
 URL:https://www.missale.net/of/2028-09-24/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280929
+SUMMARY:Michaël, Gabriël en Rafaël, aartsengelen
+DESCRIPTION:Michaël, Gabriël en Rafaël, aartsengelen\nhttps://www.missale.net/of/2028-09-29/nl
+UID:https://www.missale.net/of/2028-09-29/nl
+URL:https://www.missale.net/of/2028-09-29/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281001
@@ -3387,11 +5501,25 @@ UID:https://www.missale.net/of/2028-10-15/nl
 URL:https://www.missale.net/of/2028-10-15/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281018
+SUMMARY:H. Lucas, evangelist
+DESCRIPTION:H. Lucas, evangelist\nhttps://www.missale.net/of/2028-10-18/nl
+UID:https://www.missale.net/of/2028-10-18/nl
+URL:https://www.missale.net/of/2028-10-18/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281022
 SUMMARY:Negenentwintigste zondag door het jaar
 DESCRIPTION:Negenentwintigste zondag door het jaar\nhttps://www.missale.net/of/2028-10-22/nl
 UID:https://www.missale.net/of/2028-10-22/nl
 URL:https://www.missale.net/of/2028-10-22/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281028
+SUMMARY:HH. Simon en Judas, apostelen
+DESCRIPTION:HH. Simon en Judas, apostelen\nhttps://www.missale.net/of/2028-10-28/nl
+UID:https://www.missale.net/of/2028-10-28/nl
+URL:https://www.missale.net/of/2028-10-28/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281029
@@ -3401,11 +5529,32 @@ UID:https://www.missale.net/of/2028-10-29/nl
 URL:https://www.missale.net/of/2028-10-29/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281101
+SUMMARY:Allerheiligen
+DESCRIPTION:Allerheiligen\nhttps://www.missale.net/of/2028-11-01/nl
+UID:https://www.missale.net/of/2028-11-01/nl
+URL:https://www.missale.net/of/2028-11-01/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281102
+SUMMARY:Allerzielen
+DESCRIPTION:Allerzielen\nhttps://www.missale.net/of/2028-11-02/nl
+UID:https://www.missale.net/of/2028-11-02/nl
+URL:https://www.missale.net/of/2028-11-02/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281105
 SUMMARY:Eenendertigste zondag door het jaar
 DESCRIPTION:Eenendertigste zondag door het jaar\nhttps://www.missale.net/of/2028-11-05/nl
 UID:https://www.missale.net/of/2028-11-05/nl
 URL:https://www.missale.net/of/2028-11-05/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281109
+SUMMARY:Wijding van de basiliek van Sint Jan van Lateranen in Rome
+DESCRIPTION:Wijding van de basiliek van Sint Jan van Lateranen in Rome\nhttps://www.missale.net/of/2028-11-09/nl
+UID:https://www.missale.net/of/2028-11-09/nl
+URL:https://www.missale.net/of/2028-11-09/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281112
@@ -3429,11 +5578,25 @@ UID:https://www.missale.net/of/2028-11-26/nl
 URL:https://www.missale.net/of/2028-11-26/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281130
+SUMMARY:H. Andreas, Apostel
+DESCRIPTION:H. Andreas, Apostel\nhttps://www.missale.net/of/2028-11-30/nl
+UID:https://www.missale.net/of/2028-11-30/nl
+URL:https://www.missale.net/of/2028-11-30/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281203
 SUMMARY:Eerste zondag van de Advent
 DESCRIPTION:Eerste zondag van de Advent\nhttps://www.missale.net/of/2028-12-03/nl
 UID:https://www.missale.net/of/2028-12-03/nl
 URL:https://www.missale.net/of/2028-12-03/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281208
+SUMMARY:Onbevlekte Ontvangenis van de Heilige Maagd Maria
+DESCRIPTION:Onbevlekte Ontvangenis van de Heilige Maagd Maria\nhttps://www.missale.net/of/2028-12-08/nl
+UID:https://www.missale.net/of/2028-12-08/nl
+URL:https://www.missale.net/of/2028-12-08/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281210
@@ -3457,11 +5620,53 @@ UID:https://www.missale.net/of/2028-12-24/nl
 URL:https://www.missale.net/of/2028-12-24/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281225
+SUMMARY:Kerstmis
+DESCRIPTION:Kerstmis\nhttps://www.missale.net/of/2028-12-25/nl
+UID:https://www.missale.net/of/2028-12-25/nl
+URL:https://www.missale.net/of/2028-12-25/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281226
+SUMMARY:H. Stephanus, eerste martelaar
+DESCRIPTION:H. Stephanus, eerste martelaar\nhttps://www.missale.net/of/2028-12-26/nl
+UID:https://www.missale.net/of/2028-12-26/nl
+URL:https://www.missale.net/of/2028-12-26/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281227
+SUMMARY:H. Johannes, apostel en evangelist
+DESCRIPTION:H. Johannes, apostel en evangelist\nhttps://www.missale.net/of/2028-12-27/nl
+UID:https://www.missale.net/of/2028-12-27/nl
+URL:https://www.missale.net/of/2028-12-27/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281228
+SUMMARY:HH. Onnozele Kinderen, martelaren
+DESCRIPTION:HH. Onnozele Kinderen, martelaren\nhttps://www.missale.net/of/2028-12-28/nl
+UID:https://www.missale.net/of/2028-12-28/nl
+URL:https://www.missale.net/of/2028-12-28/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281231
 SUMMARY:Heilige Familie
 DESCRIPTION:Heilige Familie\nhttps://www.missale.net/of/2028-12-31/nl
 UID:https://www.missale.net/of/2028-12-31/nl
 URL:https://www.missale.net/of/2028-12-31/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290101
+SUMMARY:Maria, Moeder van God
+DESCRIPTION:Maria, Moeder van God\nhttps://www.missale.net/of/2029-01-01/nl
+UID:https://www.missale.net/of/2029-01-01/nl
+URL:https://www.missale.net/of/2029-01-01/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290107
+SUMMARY:Openbaring van de Heer
+DESCRIPTION:Openbaring van de Heer\nhttps://www.missale.net/of/2029-01-07/nl
+UID:https://www.missale.net/of/2029-01-07/nl
+URL:https://www.missale.net/of/2029-01-07/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290108
@@ -3485,11 +5690,25 @@ UID:https://www.missale.net/of/2029-01-21/nl
 URL:https://www.missale.net/of/2029-01-21/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290125
+SUMMARY:Bekering van Paulus, apostel
+DESCRIPTION:Bekering van Paulus, apostel\nhttps://www.missale.net/of/2029-01-25/nl
+UID:https://www.missale.net/of/2029-01-25/nl
+URL:https://www.missale.net/of/2029-01-25/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290128
 SUMMARY:Vierde zondag door het jaar
 DESCRIPTION:Vierde zondag door het jaar\nhttps://www.missale.net/of/2029-01-28/nl
 UID:https://www.missale.net/of/2029-01-28/nl
 URL:https://www.missale.net/of/2029-01-28/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290202
+SUMMARY:Opdracht van de Heer in de tempel
+DESCRIPTION:Opdracht van de Heer in de tempel\nhttps://www.missale.net/of/2029-02-02/nl
+UID:https://www.missale.net/of/2029-02-02/nl
+URL:https://www.missale.net/of/2029-02-02/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290204
@@ -3506,11 +5725,25 @@ UID:https://www.missale.net/of/2029-02-11/nl
 URL:https://www.missale.net/of/2029-02-11/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290214
+SUMMARY:Aswoensdag
+DESCRIPTION:Aswoensdag\nhttps://www.missale.net/of/2029-02-14/nl
+UID:https://www.missale.net/of/2029-02-14/nl
+URL:https://www.missale.net/of/2029-02-14/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290218
 SUMMARY:Eerste zondag van de Veertigdagentijd
 DESCRIPTION:Eerste zondag van de Veertigdagentijd\nhttps://www.missale.net/of/2029-02-18/nl
 UID:https://www.missale.net/of/2029-02-18/nl
 URL:https://www.missale.net/of/2029-02-18/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290222
+SUMMARY:Sint Petrus' Stoel
+DESCRIPTION:Sint Petrus' Stoel\nhttps://www.missale.net/of/2029-02-22/nl
+UID:https://www.missale.net/of/2029-02-22/nl
+URL:https://www.missale.net/of/2029-02-22/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290225
@@ -3541,11 +5774,39 @@ UID:https://www.missale.net/of/2029-03-18/nl
 URL:https://www.missale.net/of/2029-03-18/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290319
+SUMMARY:H. Jozef, bruidegom van de H. Maagd Maria
+DESCRIPTION:H. Jozef, bruidegom van de H. Maagd Maria\nhttps://www.missale.net/of/2029-03-19/nl
+UID:https://www.missale.net/of/2029-03-19/nl
+URL:https://www.missale.net/of/2029-03-19/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290324
+SUMMARY:Aankondiging van de Heer
+DESCRIPTION:Aankondiging van de Heer\nhttps://www.missale.net/of/2029-03-24/nl
+UID:https://www.missale.net/of/2029-03-24/nl
+URL:https://www.missale.net/of/2029-03-24/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290325
 SUMMARY:Palmzondag
 DESCRIPTION:Palmzondag\nhttps://www.missale.net/of/2029-03-25/nl
 UID:https://www.missale.net/of/2029-03-25/nl
 URL:https://www.missale.net/of/2029-03-25/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290329
+SUMMARY:Witte Donderdag
+DESCRIPTION:Witte Donderdag\nhttps://www.missale.net/of/2029-03-29/nl
+UID:https://www.missale.net/of/2029-03-29/nl
+URL:https://www.missale.net/of/2029-03-29/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290330
+SUMMARY:Goede Vrijdag
+DESCRIPTION:Goede Vrijdag\nhttps://www.missale.net/of/2029-03-30/nl
+UID:https://www.missale.net/of/2029-03-30/nl
+URL:https://www.missale.net/of/2029-03-30/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290331
@@ -3583,11 +5844,25 @@ UID:https://www.missale.net/of/2029-04-22/nl
 URL:https://www.missale.net/of/2029-04-22/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290425
+SUMMARY:H. Marcus, evangelist
+DESCRIPTION:H. Marcus, evangelist\nhttps://www.missale.net/of/2029-04-25/nl
+UID:https://www.missale.net/of/2029-04-25/nl
+URL:https://www.missale.net/of/2029-04-25/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290429
 SUMMARY:Vijfde zondag van Pasen
 DESCRIPTION:Vijfde zondag van Pasen\nhttps://www.missale.net/of/2029-04-29/nl
 UID:https://www.missale.net/of/2029-04-29/nl
 URL:https://www.missale.net/of/2029-04-29/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290503
+SUMMARY:HH. Filippus en Jakobus, apostelen
+DESCRIPTION:HH. Filippus en Jakobus, apostelen\nhttps://www.missale.net/of/2029-05-03/nl
+UID:https://www.missale.net/of/2029-05-03/nl
+URL:https://www.missale.net/of/2029-05-03/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290506
@@ -3609,6 +5884,20 @@ SUMMARY:Zevende zondag van Pasen
 DESCRIPTION:Zevende zondag van Pasen\nhttps://www.missale.net/of/2029-05-13/nl
 UID:https://www.missale.net/of/2029-05-13/nl
 URL:https://www.missale.net/of/2029-05-13/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290514
+SUMMARY:H. Matteüs, apostel
+DESCRIPTION:H. Matteüs, apostel\nhttps://www.missale.net/of/2029-05-14/nl
+UID:https://www.missale.net/of/2029-05-14/nl
+URL:https://www.missale.net/of/2029-05-14/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290520
+SUMMARY:Pinksteren
+DESCRIPTION:Pinksteren\nhttps://www.missale.net/of/2029-05-20/nl
+UID:https://www.missale.net/of/2029-05-20/nl
+URL:https://www.missale.net/of/2029-05-20/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290527
@@ -3653,11 +5942,32 @@ UID:https://www.missale.net/of/2029-06-17/nl
 URL:https://www.missale.net/of/2029-06-17/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290624
+SUMMARY:Geboorte van de H. Johannes de Doper
+DESCRIPTION:Geboorte van de H. Johannes de Doper\nhttps://www.missale.net/of/2029-06-24/nl
+UID:https://www.missale.net/of/2029-06-24/nl
+URL:https://www.missale.net/of/2029-06-24/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290629
+SUMMARY:HH. Petrus en Paulus, apostelen
+DESCRIPTION:HH. Petrus en Paulus, apostelen\nhttps://www.missale.net/of/2029-06-29/nl
+UID:https://www.missale.net/of/2029-06-29/nl
+URL:https://www.missale.net/of/2029-06-29/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290701
 SUMMARY:Dertiende zondag door het jaar
 DESCRIPTION:Dertiende zondag door het jaar\nhttps://www.missale.net/of/2029-07-01/nl
 UID:https://www.missale.net/of/2029-07-01/nl
 URL:https://www.missale.net/of/2029-07-01/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290703
+SUMMARY:H. Thomas, apostel
+DESCRIPTION:H. Thomas, apostel\nhttps://www.missale.net/of/2029-07-03/nl
+UID:https://www.missale.net/of/2029-07-03/nl
+URL:https://www.missale.net/of/2029-07-03/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290708
@@ -3681,6 +5991,13 @@ UID:https://www.missale.net/of/2029-07-22/nl
 URL:https://www.missale.net/of/2029-07-22/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290725
+SUMMARY:H. Jacobus, apostel
+DESCRIPTION:H. Jacobus, apostel\nhttps://www.missale.net/of/2029-07-25/nl
+UID:https://www.missale.net/of/2029-07-25/nl
+URL:https://www.missale.net/of/2029-07-25/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290729
 SUMMARY:Zeventiende zondag door het jaar
 DESCRIPTION:Zeventiende zondag door het jaar\nhttps://www.missale.net/of/2029-07-29/nl
@@ -3702,6 +6019,13 @@ UID:https://www.missale.net/of/2029-08-06/nl
 URL:https://www.missale.net/of/2029-08-06/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290810
+SUMMARY:H. Laurentius, diaken en martelaar
+DESCRIPTION:H. Laurentius, diaken en martelaar\nhttps://www.missale.net/of/2029-08-10/nl
+UID:https://www.missale.net/of/2029-08-10/nl
+URL:https://www.missale.net/of/2029-08-10/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290812
 SUMMARY:Negentiende zondag door het jaar
 DESCRIPTION:Negentiende zondag door het jaar\nhttps://www.missale.net/of/2029-08-12/nl
@@ -3709,11 +6033,25 @@ UID:https://www.missale.net/of/2029-08-12/nl
 URL:https://www.missale.net/of/2029-08-12/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290815
+SUMMARY:Tenhemelopneming van de H. Maagd Maria
+DESCRIPTION:Tenhemelopneming van de H. Maagd Maria\nhttps://www.missale.net/of/2029-08-15/nl
+UID:https://www.missale.net/of/2029-08-15/nl
+URL:https://www.missale.net/of/2029-08-15/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290819
 SUMMARY:Twintigste zondag door het jaar
 DESCRIPTION:Twintigste zondag door het jaar\nhttps://www.missale.net/of/2029-08-19/nl
 UID:https://www.missale.net/of/2029-08-19/nl
 URL:https://www.missale.net/of/2029-08-19/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290824
+SUMMARY:H. Bartholomeus, apostel
+DESCRIPTION:H. Bartholomeus, apostel\nhttps://www.missale.net/of/2029-08-24/nl
+UID:https://www.missale.net/of/2029-08-24/nl
+URL:https://www.missale.net/of/2029-08-24/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290826
@@ -3730,11 +6068,25 @@ UID:https://www.missale.net/of/2029-09-02/nl
 URL:https://www.missale.net/of/2029-09-02/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290908
+SUMMARY:Geboorte van de Maagd Maria
+DESCRIPTION:Geboorte van de Maagd Maria\nhttps://www.missale.net/of/2029-09-08/nl
+UID:https://www.missale.net/of/2029-09-08/nl
+URL:https://www.missale.net/of/2029-09-08/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290909
 SUMMARY:Drieëntwintigste zondag door het jaar
 DESCRIPTION:Drieëntwintigste zondag door het jaar\nhttps://www.missale.net/of/2029-09-09/nl
 UID:https://www.missale.net/of/2029-09-09/nl
 URL:https://www.missale.net/of/2029-09-09/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290914
+SUMMARY:Kruisverheffing
+DESCRIPTION:Kruisverheffing\nhttps://www.missale.net/of/2029-09-14/nl
+UID:https://www.missale.net/of/2029-09-14/nl
+URL:https://www.missale.net/of/2029-09-14/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290916
@@ -3744,11 +6096,25 @@ UID:https://www.missale.net/of/2029-09-16/nl
 URL:https://www.missale.net/of/2029-09-16/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290921
+SUMMARY:H. Matteüs, apostel en evangelist
+DESCRIPTION:H. Matteüs, apostel en evangelist\nhttps://www.missale.net/of/2029-09-21/nl
+UID:https://www.missale.net/of/2029-09-21/nl
+URL:https://www.missale.net/of/2029-09-21/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290923
 SUMMARY:Vijfentwintigste zondag door het jaar
 DESCRIPTION:Vijfentwintigste zondag door het jaar\nhttps://www.missale.net/of/2029-09-23/nl
 UID:https://www.missale.net/of/2029-09-23/nl
 URL:https://www.missale.net/of/2029-09-23/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290929
+SUMMARY:Michaël, Gabriël en Rafaël, aartsengelen
+DESCRIPTION:Michaël, Gabriël en Rafaël, aartsengelen\nhttps://www.missale.net/of/2029-09-29/nl
+UID:https://www.missale.net/of/2029-09-29/nl
+URL:https://www.missale.net/of/2029-09-29/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290930
@@ -3772,6 +6138,13 @@ UID:https://www.missale.net/of/2029-10-14/nl
 URL:https://www.missale.net/of/2029-10-14/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291018
+SUMMARY:H. Lucas, evangelist
+DESCRIPTION:H. Lucas, evangelist\nhttps://www.missale.net/of/2029-10-18/nl
+UID:https://www.missale.net/of/2029-10-18/nl
+URL:https://www.missale.net/of/2029-10-18/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291021
 SUMMARY:Negenentwintigste zondag door het jaar
 DESCRIPTION:Negenentwintigste zondag door het jaar\nhttps://www.missale.net/of/2029-10-21/nl
@@ -3786,11 +6159,32 @@ UID:https://www.missale.net/of/2029-10-28/nl
 URL:https://www.missale.net/of/2029-10-28/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291101
+SUMMARY:Allerheiligen
+DESCRIPTION:Allerheiligen\nhttps://www.missale.net/of/2029-11-01/nl
+UID:https://www.missale.net/of/2029-11-01/nl
+URL:https://www.missale.net/of/2029-11-01/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291102
+SUMMARY:Allerzielen
+DESCRIPTION:Allerzielen\nhttps://www.missale.net/of/2029-11-02/nl
+UID:https://www.missale.net/of/2029-11-02/nl
+URL:https://www.missale.net/of/2029-11-02/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291104
 SUMMARY:Eenendertigste zondag door het jaar
 DESCRIPTION:Eenendertigste zondag door het jaar\nhttps://www.missale.net/of/2029-11-04/nl
 UID:https://www.missale.net/of/2029-11-04/nl
 URL:https://www.missale.net/of/2029-11-04/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291109
+SUMMARY:Wijding van de basiliek van Sint Jan van Lateranen in Rome
+DESCRIPTION:Wijding van de basiliek van Sint Jan van Lateranen in Rome\nhttps://www.missale.net/of/2029-11-09/nl
+UID:https://www.missale.net/of/2029-11-09/nl
+URL:https://www.missale.net/of/2029-11-09/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291111
@@ -3814,11 +6208,25 @@ UID:https://www.missale.net/of/2029-11-25/nl
 URL:https://www.missale.net/of/2029-11-25/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291130
+SUMMARY:H. Andreas, Apostel
+DESCRIPTION:H. Andreas, Apostel\nhttps://www.missale.net/of/2029-11-30/nl
+UID:https://www.missale.net/of/2029-11-30/nl
+URL:https://www.missale.net/of/2029-11-30/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291202
 SUMMARY:Eerste zondag van de Advent
 DESCRIPTION:Eerste zondag van de Advent\nhttps://www.missale.net/of/2029-12-02/nl
 UID:https://www.missale.net/of/2029-12-02/nl
 URL:https://www.missale.net/of/2029-12-02/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291208
+SUMMARY:Onbevlekte Ontvangenis van de Heilige Maagd Maria
+DESCRIPTION:Onbevlekte Ontvangenis van de Heilige Maagd Maria\nhttps://www.missale.net/of/2029-12-08/nl
+UID:https://www.missale.net/of/2029-12-08/nl
+URL:https://www.missale.net/of/2029-12-08/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291209
@@ -3842,11 +6250,60 @@ UID:https://www.missale.net/of/2029-12-23/nl
 URL:https://www.missale.net/of/2029-12-23/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291224
+SUMMARY:Vigilie van Kerstmis
+DESCRIPTION:Vigilie van Kerstmis\nhttps://www.missale.net/of/2029-12-24/nl
+UID:https://www.missale.net/of/2029-12-24/nl
+URL:https://www.missale.net/of/2029-12-24/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291225
+SUMMARY:Kerstmis
+DESCRIPTION:Kerstmis\nhttps://www.missale.net/of/2029-12-25/nl
+UID:https://www.missale.net/of/2029-12-25/nl
+URL:https://www.missale.net/of/2029-12-25/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291226
+SUMMARY:H. Stephanus, eerste martelaar
+DESCRIPTION:H. Stephanus, eerste martelaar\nhttps://www.missale.net/of/2029-12-26/nl
+UID:https://www.missale.net/of/2029-12-26/nl
+URL:https://www.missale.net/of/2029-12-26/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291227
+SUMMARY:H. Johannes, apostel en evangelist
+DESCRIPTION:H. Johannes, apostel en evangelist\nhttps://www.missale.net/of/2029-12-27/nl
+UID:https://www.missale.net/of/2029-12-27/nl
+URL:https://www.missale.net/of/2029-12-27/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291228
+SUMMARY:HH. Onnozele Kinderen, martelaren
+DESCRIPTION:HH. Onnozele Kinderen, martelaren\nhttps://www.missale.net/of/2029-12-28/nl
+UID:https://www.missale.net/of/2029-12-28/nl
+URL:https://www.missale.net/of/2029-12-28/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291230
 SUMMARY:Heilige Familie
 DESCRIPTION:Heilige Familie\nhttps://www.missale.net/of/2029-12-30/nl
 UID:https://www.missale.net/of/2029-12-30/nl
 URL:https://www.missale.net/of/2029-12-30/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300101
+SUMMARY:Maria, Moeder van God
+DESCRIPTION:Maria, Moeder van God\nhttps://www.missale.net/of/2030-01-01/nl
+UID:https://www.missale.net/of/2030-01-01/nl
+URL:https://www.missale.net/of/2030-01-01/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300106
+SUMMARY:Openbaring van de Heer
+DESCRIPTION:Openbaring van de Heer\nhttps://www.missale.net/of/2030-01-06/nl
+UID:https://www.missale.net/of/2030-01-06/nl
+URL:https://www.missale.net/of/2030-01-06/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300113
@@ -3863,11 +6320,25 @@ UID:https://www.missale.net/of/2030-01-20/nl
 URL:https://www.missale.net/of/2030-01-20/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300125
+SUMMARY:Bekering van Paulus, apostel
+DESCRIPTION:Bekering van Paulus, apostel\nhttps://www.missale.net/of/2030-01-25/nl
+UID:https://www.missale.net/of/2030-01-25/nl
+URL:https://www.missale.net/of/2030-01-25/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300127
 SUMMARY:Derde zondag door het jaar
 DESCRIPTION:Derde zondag door het jaar\nhttps://www.missale.net/of/2030-01-27/nl
 UID:https://www.missale.net/of/2030-01-27/nl
 URL:https://www.missale.net/of/2030-01-27/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300202
+SUMMARY:Opdracht van de Heer in de tempel
+DESCRIPTION:Opdracht van de Heer in de tempel\nhttps://www.missale.net/of/2030-02-02/nl
+UID:https://www.missale.net/of/2030-02-02/nl
+URL:https://www.missale.net/of/2030-02-02/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300203
@@ -3891,6 +6362,13 @@ UID:https://www.missale.net/of/2030-02-17/nl
 URL:https://www.missale.net/of/2030-02-17/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300222
+SUMMARY:Sint Petrus' Stoel
+DESCRIPTION:Sint Petrus' Stoel\nhttps://www.missale.net/of/2030-02-22/nl
+UID:https://www.missale.net/of/2030-02-22/nl
+URL:https://www.missale.net/of/2030-02-22/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300224
 SUMMARY:Zevende zondag door het jaar
 DESCRIPTION:Zevende zondag door het jaar\nhttps://www.missale.net/of/2030-02-24/nl
@@ -3903,6 +6381,13 @@ SUMMARY:Achtste zondag door het jaar
 DESCRIPTION:Achtste zondag door het jaar\nhttps://www.missale.net/of/2030-03-03/nl
 UID:https://www.missale.net/of/2030-03-03/nl
 URL:https://www.missale.net/of/2030-03-03/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300306
+SUMMARY:Aswoensdag
+DESCRIPTION:Aswoensdag\nhttps://www.missale.net/of/2030-03-06/nl
+UID:https://www.missale.net/of/2030-03-06/nl
+URL:https://www.missale.net/of/2030-03-06/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300310
@@ -3919,11 +6404,25 @@ UID:https://www.missale.net/of/2030-03-17/nl
 URL:https://www.missale.net/of/2030-03-17/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300319
+SUMMARY:H. Jozef, bruidegom van de H. Maagd Maria
+DESCRIPTION:H. Jozef, bruidegom van de H. Maagd Maria\nhttps://www.missale.net/of/2030-03-19/nl
+UID:https://www.missale.net/of/2030-03-19/nl
+URL:https://www.missale.net/of/2030-03-19/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300324
 SUMMARY:Derde zondag van de Veertigdagentijd
 DESCRIPTION:Derde zondag van de Veertigdagentijd\nhttps://www.missale.net/of/2030-03-24/nl
 UID:https://www.missale.net/of/2030-03-24/nl
 URL:https://www.missale.net/of/2030-03-24/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300325
+SUMMARY:Aankondiging van de Heer
+DESCRIPTION:Aankondiging van de Heer\nhttps://www.missale.net/of/2030-03-25/nl
+UID:https://www.missale.net/of/2030-03-25/nl
+URL:https://www.missale.net/of/2030-03-25/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300331
@@ -3947,6 +6446,20 @@ UID:https://www.missale.net/of/2030-04-14/nl
 URL:https://www.missale.net/of/2030-04-14/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300418
+SUMMARY:Witte Donderdag
+DESCRIPTION:Witte Donderdag\nhttps://www.missale.net/of/2030-04-18/nl
+UID:https://www.missale.net/of/2030-04-18/nl
+URL:https://www.missale.net/of/2030-04-18/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300419
+SUMMARY:Goede Vrijdag
+DESCRIPTION:Goede Vrijdag\nhttps://www.missale.net/of/2030-04-19/nl
+UID:https://www.missale.net/of/2030-04-19/nl
+URL:https://www.missale.net/of/2030-04-19/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300420
 SUMMARY:Paaswake
 DESCRIPTION:Paaswake\nhttps://www.missale.net/of/2030-04-20/nl
@@ -3968,6 +6481,13 @@ UID:https://www.missale.net/of/2030-04-28/nl
 URL:https://www.missale.net/of/2030-04-28/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300503
+SUMMARY:HH. Filippus en Jakobus, apostelen
+DESCRIPTION:HH. Filippus en Jakobus, apostelen\nhttps://www.missale.net/of/2030-05-03/nl
+UID:https://www.missale.net/of/2030-05-03/nl
+URL:https://www.missale.net/of/2030-05-03/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300505
 SUMMARY:Derde zondag van Pasen
 DESCRIPTION:Derde zondag van Pasen\nhttps://www.missale.net/of/2030-05-05/nl
@@ -3980,6 +6500,13 @@ SUMMARY:Vierde zondag van Pasen
 DESCRIPTION:Vierde zondag van Pasen\nhttps://www.missale.net/of/2030-05-12/nl
 UID:https://www.missale.net/of/2030-05-12/nl
 URL:https://www.missale.net/of/2030-05-12/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300514
+SUMMARY:H. Matteüs, apostel
+DESCRIPTION:H. Matteüs, apostel\nhttps://www.missale.net/of/2030-05-14/nl
+UID:https://www.missale.net/of/2030-05-14/nl
+URL:https://www.missale.net/of/2030-05-14/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300519
@@ -4003,11 +6530,25 @@ UID:https://www.missale.net/of/2030-05-30/nl
 URL:https://www.missale.net/of/2030-05-30/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300531
+SUMMARY:Visitatie van de H. Maagd Maria aan Elizabeth
+DESCRIPTION:Visitatie van de H. Maagd Maria aan Elizabeth\nhttps://www.missale.net/of/2030-05-31/nl
+UID:https://www.missale.net/of/2030-05-31/nl
+URL:https://www.missale.net/of/2030-05-31/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300602
 SUMMARY:Zevende zondag van Pasen
 DESCRIPTION:Zevende zondag van Pasen\nhttps://www.missale.net/of/2030-06-02/nl
 UID:https://www.missale.net/of/2030-06-02/nl
 URL:https://www.missale.net/of/2030-06-02/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300609
+SUMMARY:Pinksteren
+DESCRIPTION:Pinksteren\nhttps://www.missale.net/of/2030-06-09/nl
+UID:https://www.missale.net/of/2030-06-09/nl
+URL:https://www.missale.net/of/2030-06-09/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300616
@@ -4031,6 +6572,13 @@ UID:https://www.missale.net/of/2030-06-23/nl
 URL:https://www.missale.net/of/2030-06-23/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300624
+SUMMARY:Geboorte van de H. Johannes de Doper
+DESCRIPTION:Geboorte van de H. Johannes de Doper\nhttps://www.missale.net/of/2030-06-24/nl
+UID:https://www.missale.net/of/2030-06-24/nl
+URL:https://www.missale.net/of/2030-06-24/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300628
 SUMMARY:Heilig Hart van Jezus
 DESCRIPTION:Heilig Hart van Jezus\nhttps://www.missale.net/of/2030-06-28/nl
@@ -4038,11 +6586,25 @@ UID:https://www.missale.net/of/2030-06-28/nl
 URL:https://www.missale.net/of/2030-06-28/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300629
+SUMMARY:HH. Petrus en Paulus, apostelen
+DESCRIPTION:HH. Petrus en Paulus, apostelen\nhttps://www.missale.net/of/2030-06-29/nl
+UID:https://www.missale.net/of/2030-06-29/nl
+URL:https://www.missale.net/of/2030-06-29/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300630
 SUMMARY:Dertiende zondag door het jaar
 DESCRIPTION:Dertiende zondag door het jaar\nhttps://www.missale.net/of/2030-06-30/nl
 UID:https://www.missale.net/of/2030-06-30/nl
 URL:https://www.missale.net/of/2030-06-30/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300703
+SUMMARY:H. Thomas, apostel
+DESCRIPTION:H. Thomas, apostel\nhttps://www.missale.net/of/2030-07-03/nl
+UID:https://www.missale.net/of/2030-07-03/nl
+URL:https://www.missale.net/of/2030-07-03/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300707
@@ -4066,6 +6628,13 @@ UID:https://www.missale.net/of/2030-07-21/nl
 URL:https://www.missale.net/of/2030-07-21/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300725
+SUMMARY:H. Jacobus, apostel
+DESCRIPTION:H. Jacobus, apostel\nhttps://www.missale.net/of/2030-07-25/nl
+UID:https://www.missale.net/of/2030-07-25/nl
+URL:https://www.missale.net/of/2030-07-25/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300728
 SUMMARY:Zeventiende zondag door het jaar
 DESCRIPTION:Zeventiende zondag door het jaar\nhttps://www.missale.net/of/2030-07-28/nl
@@ -4087,6 +6656,13 @@ UID:https://www.missale.net/of/2030-08-06/nl
 URL:https://www.missale.net/of/2030-08-06/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300810
+SUMMARY:H. Laurentius, diaken en martelaar
+DESCRIPTION:H. Laurentius, diaken en martelaar\nhttps://www.missale.net/of/2030-08-10/nl
+UID:https://www.missale.net/of/2030-08-10/nl
+URL:https://www.missale.net/of/2030-08-10/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300811
 SUMMARY:Negentiende zondag door het jaar
 DESCRIPTION:Negentiende zondag door het jaar\nhttps://www.missale.net/of/2030-08-11/nl
@@ -4094,11 +6670,25 @@ UID:https://www.missale.net/of/2030-08-11/nl
 URL:https://www.missale.net/of/2030-08-11/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300815
+SUMMARY:Tenhemelopneming van de H. Maagd Maria
+DESCRIPTION:Tenhemelopneming van de H. Maagd Maria\nhttps://www.missale.net/of/2030-08-15/nl
+UID:https://www.missale.net/of/2030-08-15/nl
+URL:https://www.missale.net/of/2030-08-15/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300818
 SUMMARY:Twintigste zondag door het jaar
 DESCRIPTION:Twintigste zondag door het jaar\nhttps://www.missale.net/of/2030-08-18/nl
 UID:https://www.missale.net/of/2030-08-18/nl
 URL:https://www.missale.net/of/2030-08-18/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300824
+SUMMARY:H. Bartholomeus, apostel
+DESCRIPTION:H. Bartholomeus, apostel\nhttps://www.missale.net/of/2030-08-24/nl
+UID:https://www.missale.net/of/2030-08-24/nl
+URL:https://www.missale.net/of/2030-08-24/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300825
@@ -4122,11 +6712,25 @@ UID:https://www.missale.net/of/2030-09-08/nl
 URL:https://www.missale.net/of/2030-09-08/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300914
+SUMMARY:Kruisverheffing
+DESCRIPTION:Kruisverheffing\nhttps://www.missale.net/of/2030-09-14/nl
+UID:https://www.missale.net/of/2030-09-14/nl
+URL:https://www.missale.net/of/2030-09-14/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300915
 SUMMARY:Vierentwintigste zondag door het jaar
 DESCRIPTION:Vierentwintigste zondag door het jaar\nhttps://www.missale.net/of/2030-09-15/nl
 UID:https://www.missale.net/of/2030-09-15/nl
 URL:https://www.missale.net/of/2030-09-15/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300921
+SUMMARY:H. Matteüs, apostel en evangelist
+DESCRIPTION:H. Matteüs, apostel en evangelist\nhttps://www.missale.net/of/2030-09-21/nl
+UID:https://www.missale.net/of/2030-09-21/nl
+URL:https://www.missale.net/of/2030-09-21/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300922
@@ -4157,6 +6761,13 @@ UID:https://www.missale.net/of/2030-10-13/nl
 URL:https://www.missale.net/of/2030-10-13/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301018
+SUMMARY:H. Lucas, evangelist
+DESCRIPTION:H. Lucas, evangelist\nhttps://www.missale.net/of/2030-10-18/nl
+UID:https://www.missale.net/of/2030-10-18/nl
+URL:https://www.missale.net/of/2030-10-18/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20301020
 SUMMARY:Negenentwintigste zondag door het jaar
 DESCRIPTION:Negenentwintigste zondag door het jaar\nhttps://www.missale.net/of/2030-10-20/nl
@@ -4171,11 +6782,39 @@ UID:https://www.missale.net/of/2030-10-27/nl
 URL:https://www.missale.net/of/2030-10-27/nl
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301028
+SUMMARY:HH. Simon en Judas, apostelen
+DESCRIPTION:HH. Simon en Judas, apostelen\nhttps://www.missale.net/of/2030-10-28/nl
+UID:https://www.missale.net/of/2030-10-28/nl
+URL:https://www.missale.net/of/2030-10-28/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301101
+SUMMARY:Allerheiligen
+DESCRIPTION:Allerheiligen\nhttps://www.missale.net/of/2030-11-01/nl
+UID:https://www.missale.net/of/2030-11-01/nl
+URL:https://www.missale.net/of/2030-11-01/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301102
+SUMMARY:Allerzielen
+DESCRIPTION:Allerzielen\nhttps://www.missale.net/of/2030-11-02/nl
+UID:https://www.missale.net/of/2030-11-02/nl
+URL:https://www.missale.net/of/2030-11-02/nl
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20301103
 SUMMARY:Eenendertigste zondag door het jaar
 DESCRIPTION:Eenendertigste zondag door het jaar\nhttps://www.missale.net/of/2030-11-03/nl
 UID:https://www.missale.net/of/2030-11-03/nl
 URL:https://www.missale.net/of/2030-11-03/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301109
+SUMMARY:Wijding van de basiliek van Sint Jan van Lateranen in Rome
+DESCRIPTION:Wijding van de basiliek van Sint Jan van Lateranen in Rome\nhttps://www.missale.net/of/2030-11-09/nl
+UID:https://www.missale.net/of/2030-11-09/nl
+URL:https://www.missale.net/of/2030-11-09/nl
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20301110
@@ -4197,5 +6836,12 @@ SUMMARY:Christus Koning
 DESCRIPTION:Christus Koning\nhttps://www.missale.net/of/2030-11-24/nl
 UID:https://www.missale.net/of/2030-11-24/nl
 URL:https://www.missale.net/of/2030-11-24/nl
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301130
+SUMMARY:H. Andreas, Apostel
+DESCRIPTION:H. Andreas, Apostel\nhttps://www.missale.net/of/2030-11-30/nl
+UID:https://www.missale.net/of/2030-11-30/nl
+URL:https://www.missale.net/of/2030-11-30/nl
 END:VEVENT
 END:VCALENDAR

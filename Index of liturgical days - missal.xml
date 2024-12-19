@@ -6316,7 +6316,7 @@
   </of.Z1225_2.ABC>
   <of.Z1225_3.ABC>
     <form>of</form>
-    <coordinates>Z1225+3</coordinates>
+    <coordinates>Z1225</coordinates><!--patched-->
     <cycle>ABC</cycle>
     <name>Kerstmis: Dagmis</name>
     <category>solemnity</category>

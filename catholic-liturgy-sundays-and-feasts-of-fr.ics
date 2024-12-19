@@ -20,6 +20,13 @@ UID:https://www.missale.net/of/2019-12-08/fr
 URL:https://www.missale.net/of/2019-12-08/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191209
+SUMMARY:Immaculée Conception de la Vierge Marie
+DESCRIPTION:Immaculée Conception de la Vierge Marie\nhttps://www.missale.net/of/2019-12-09/fr
+UID:https://www.missale.net/of/2019-12-09/fr
+URL:https://www.missale.net/of/2019-12-09/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20191215
 SUMMARY:Troisième dimanche de l'Avent
 DESCRIPTION:Troisième dimanche de l'Avent\nhttps://www.missale.net/of/2019-12-15/fr
@@ -34,11 +41,60 @@ UID:https://www.missale.net/of/2019-12-22/fr
 URL:https://www.missale.net/of/2019-12-22/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191224
+SUMMARY:Vigil pour Noël
+DESCRIPTION:Vigil pour Noël\nhttps://www.missale.net/of/2019-12-24/fr
+UID:https://www.missale.net/of/2019-12-24/fr
+URL:https://www.missale.net/of/2019-12-24/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191225
+SUMMARY:Noël
+DESCRIPTION:Noël\nhttps://www.missale.net/of/2019-12-25/fr
+UID:https://www.missale.net/of/2019-12-25/fr
+URL:https://www.missale.net/of/2019-12-25/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191226
+SUMMARY:Saint-Etienne, premier martyr
+DESCRIPTION:Saint-Etienne, premier martyr\nhttps://www.missale.net/of/2019-12-26/fr
+UID:https://www.missale.net/of/2019-12-26/fr
+URL:https://www.missale.net/of/2019-12-26/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191227
+SUMMARY:Saint-Jean, apôtre et évangéliste
+DESCRIPTION:Saint-Jean, apôtre et évangéliste\nhttps://www.missale.net/of/2019-12-27/fr
+UID:https://www.missale.net/of/2019-12-27/fr
+URL:https://www.missale.net/of/2019-12-27/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191228
+SUMMARY:Les Saints Innocents, martyrs
+DESCRIPTION:Les Saints Innocents, martyrs\nhttps://www.missale.net/of/2019-12-28/fr
+UID:https://www.missale.net/of/2019-12-28/fr
+URL:https://www.missale.net/of/2019-12-28/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20191229
 SUMMARY:La Sainte Famille
 DESCRIPTION:La Sainte Famille\nhttps://www.missale.net/of/2019-12-29/fr
 UID:https://www.missale.net/of/2019-12-29/fr
 URL:https://www.missale.net/of/2019-12-29/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200101
+SUMMARY:Marie, Mère de Dieu
+DESCRIPTION:Marie, Mère de Dieu\nhttps://www.missale.net/of/2020-01-01/fr
+UID:https://www.missale.net/of/2020-01-01/fr
+URL:https://www.missale.net/of/2020-01-01/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200105
+SUMMARY:Épiphanie du Seigneur
+DESCRIPTION:Épiphanie du Seigneur\nhttps://www.missale.net/of/2020-01-05/fr
+UID:https://www.missale.net/of/2020-01-05/fr
+URL:https://www.missale.net/of/2020-01-05/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200112
@@ -53,6 +109,13 @@ SUMMARY:Deuxième dimanche du temps ordinaire
 DESCRIPTION:Deuxième dimanche du temps ordinaire\nhttps://www.missale.net/of/2020-01-19/fr
 UID:https://www.missale.net/of/2020-01-19/fr
 URL:https://www.missale.net/of/2020-01-19/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200125
+SUMMARY:Conversion de Saint Paul, apôtre
+DESCRIPTION:Conversion de Saint Paul, apôtre\nhttps://www.missale.net/of/2020-01-25/fr
+UID:https://www.missale.net/of/2020-01-25/fr
+URL:https://www.missale.net/of/2020-01-25/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200126
@@ -83,11 +146,25 @@ UID:https://www.missale.net/of/2020-02-16/fr
 URL:https://www.missale.net/of/2020-02-16/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200222
+SUMMARY:Chaire de Saint Pierre, apôtre
+DESCRIPTION:Chaire de Saint Pierre, apôtre\nhttps://www.missale.net/of/2020-02-22/fr
+UID:https://www.missale.net/of/2020-02-22/fr
+URL:https://www.missale.net/of/2020-02-22/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200223
 SUMMARY:Septième dimanche du temps ordinaire
 DESCRIPTION:Septième dimanche du temps ordinaire\nhttps://www.missale.net/of/2020-02-23/fr
 UID:https://www.missale.net/of/2020-02-23/fr
 URL:https://www.missale.net/of/2020-02-23/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200226
+SUMMARY:Mercredi des Cendres
+DESCRIPTION:Mercredi des Cendres\nhttps://www.missale.net/of/2020-02-26/fr
+UID:https://www.missale.net/of/2020-02-26/fr
+URL:https://www.missale.net/of/2020-02-26/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200301
@@ -111,11 +188,25 @@ UID:https://www.missale.net/of/2020-03-15/fr
 URL:https://www.missale.net/of/2020-03-15/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200319
+SUMMARY:Saint Joseph, époux de Marie
+DESCRIPTION:Saint Joseph, époux de Marie\nhttps://www.missale.net/of/2020-03-19/fr
+UID:https://www.missale.net/of/2020-03-19/fr
+URL:https://www.missale.net/of/2020-03-19/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200322
 SUMMARY:Quatrième dimanche de Carême
 DESCRIPTION:Quatrième dimanche de Carême\nhttps://www.missale.net/of/2020-03-22/fr
 UID:https://www.missale.net/of/2020-03-22/fr
 URL:https://www.missale.net/of/2020-03-22/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200325
+SUMMARY:Annonciation du Seigneur
+DESCRIPTION:Annonciation du Seigneur\nhttps://www.missale.net/of/2020-03-25/fr
+UID:https://www.missale.net/of/2020-03-25/fr
+URL:https://www.missale.net/of/2020-03-25/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200329
@@ -130,6 +221,20 @@ SUMMARY:Dimanche des Rameaux
 DESCRIPTION:Dimanche des Rameaux\nhttps://www.missale.net/of/2020-04-05/fr
 UID:https://www.missale.net/of/2020-04-05/fr
 URL:https://www.missale.net/of/2020-04-05/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200409
+SUMMARY:Jeudi Saint
+DESCRIPTION:Jeudi Saint\nhttps://www.missale.net/of/2020-04-09/fr
+UID:https://www.missale.net/of/2020-04-09/fr
+URL:https://www.missale.net/of/2020-04-09/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200410
+SUMMARY:Vendredi Saint
+DESCRIPTION:Vendredi Saint\nhttps://www.missale.net/of/2020-04-10/fr
+UID:https://www.missale.net/of/2020-04-10/fr
+URL:https://www.missale.net/of/2020-04-10/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200411
@@ -153,6 +258,13 @@ UID:https://www.missale.net/of/2020-04-19/fr
 URL:https://www.missale.net/of/2020-04-19/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200425
+SUMMARY:Saint-Marc, l'évangéliste
+DESCRIPTION:Saint-Marc, l'évangéliste\nhttps://www.missale.net/of/2020-04-25/fr
+UID:https://www.missale.net/of/2020-04-25/fr
+URL:https://www.missale.net/of/2020-04-25/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200426
 SUMMARY:Troisième dimanche de Pâques
 DESCRIPTION:Troisième dimanche de Pâques\nhttps://www.missale.net/of/2020-04-26/fr
@@ -174,6 +286,13 @@ UID:https://www.missale.net/of/2020-05-10/fr
 URL:https://www.missale.net/of/2020-05-10/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200514
+SUMMARY:Saint Matthias, apôtre
+DESCRIPTION:Saint Matthias, apôtre\nhttps://www.missale.net/of/2020-05-14/fr
+UID:https://www.missale.net/of/2020-05-14/fr
+URL:https://www.missale.net/of/2020-05-14/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200517
 SUMMARY:Sixième dimanche de Pâques
 DESCRIPTION:Sixième dimanche de Pâques\nhttps://www.missale.net/of/2020-05-17/fr
@@ -193,6 +312,13 @@ SUMMARY:Septième dimanche de Pâques
 DESCRIPTION:Septième dimanche de Pâques\nhttps://www.missale.net/of/2020-05-24/fr
 UID:https://www.missale.net/of/2020-05-24/fr
 URL:https://www.missale.net/of/2020-05-24/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200531
+SUMMARY:Pentecôte
+DESCRIPTION:Pentecôte\nhttps://www.missale.net/of/2020-05-31/fr
+UID:https://www.missale.net/of/2020-05-31/fr
+URL:https://www.missale.net/of/2020-05-31/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200607
@@ -230,11 +356,32 @@ UID:https://www.missale.net/of/2020-06-21/fr
 URL:https://www.missale.net/of/2020-06-21/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200624
+SUMMARY:Naissance de saint Jean-Baptiste
+DESCRIPTION:Naissance de saint Jean-Baptiste\nhttps://www.missale.net/of/2020-06-24/fr
+UID:https://www.missale.net/of/2020-06-24/fr
+URL:https://www.missale.net/of/2020-06-24/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200628
 SUMMARY:Treizième dimanche du temps ordinaire
 DESCRIPTION:Treizième dimanche du temps ordinaire\nhttps://www.missale.net/of/2020-06-28/fr
 UID:https://www.missale.net/of/2020-06-28/fr
 URL:https://www.missale.net/of/2020-06-28/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200629
+SUMMARY:Saints Pierre et Paul, apôtres
+DESCRIPTION:Saints Pierre et Paul, apôtres\nhttps://www.missale.net/of/2020-06-29/fr
+UID:https://www.missale.net/of/2020-06-29/fr
+URL:https://www.missale.net/of/2020-06-29/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200703
+SUMMARY:Saint Thomas, apôtre
+DESCRIPTION:Saint Thomas, apôtre\nhttps://www.missale.net/of/2020-07-03/fr
+UID:https://www.missale.net/of/2020-07-03/fr
+URL:https://www.missale.net/of/2020-07-03/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200705
@@ -256,6 +403,13 @@ SUMMARY:Seizième dimanche du Temps Ordinaire
 DESCRIPTION:Seizième dimanche du Temps Ordinaire\nhttps://www.missale.net/of/2020-07-19/fr
 UID:https://www.missale.net/of/2020-07-19/fr
 URL:https://www.missale.net/of/2020-07-19/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200725
+SUMMARY:Saint Jacques, apôtre
+DESCRIPTION:Saint Jacques, apôtre\nhttps://www.missale.net/of/2020-07-25/fr
+UID:https://www.missale.net/of/2020-07-25/fr
+URL:https://www.missale.net/of/2020-07-25/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200726
@@ -286,6 +440,20 @@ UID:https://www.missale.net/of/2020-08-09/fr
 URL:https://www.missale.net/of/2020-08-09/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200810
+SUMMARY:Saint-Laurent, diacre et martyr
+DESCRIPTION:Saint-Laurent, diacre et martyr\nhttps://www.missale.net/of/2020-08-10/fr
+UID:https://www.missale.net/of/2020-08-10/fr
+URL:https://www.missale.net/of/2020-08-10/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200815
+SUMMARY:Assomption de la Vierge Marie au ciel
+DESCRIPTION:Assomption de la Vierge Marie au ciel\nhttps://www.missale.net/of/2020-08-15/fr
+UID:https://www.missale.net/of/2020-08-15/fr
+URL:https://www.missale.net/of/2020-08-15/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200816
 SUMMARY:Vingtième dimanche du temps ordinaire
 DESCRIPTION:Vingtième dimanche du temps ordinaire\nhttps://www.missale.net/of/2020-08-16/fr
@@ -298,6 +466,13 @@ SUMMARY:Vingt-et-unième dimanche du temps ordinaire
 DESCRIPTION:Vingt-et-unième dimanche du temps ordinaire\nhttps://www.missale.net/of/2020-08-23/fr
 UID:https://www.missale.net/of/2020-08-23/fr
 URL:https://www.missale.net/of/2020-08-23/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200824
+SUMMARY:Saint-Barthélemy, apôtre
+DESCRIPTION:Saint-Barthélemy, apôtre\nhttps://www.missale.net/of/2020-08-24/fr
+UID:https://www.missale.net/of/2020-08-24/fr
+URL:https://www.missale.net/of/2020-08-24/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200830
@@ -314,11 +489,25 @@ UID:https://www.missale.net/of/2020-09-06/fr
 URL:https://www.missale.net/of/2020-09-06/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200908
+SUMMARY:Naissance de la Vierge Marie
+DESCRIPTION:Naissance de la Vierge Marie\nhttps://www.missale.net/of/2020-09-08/fr
+UID:https://www.missale.net/of/2020-09-08/fr
+URL:https://www.missale.net/of/2020-09-08/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200913
 SUMMARY:Vingt-quatrième dimanche du temps ordinaire
 DESCRIPTION:Vingt-quatrième dimanche du temps ordinaire\nhttps://www.missale.net/of/2020-09-13/fr
 UID:https://www.missale.net/of/2020-09-13/fr
 URL:https://www.missale.net/of/2020-09-13/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200914
+SUMMARY:Triomphe de la Sainte-Croix
+DESCRIPTION:Triomphe de la Sainte-Croix\nhttps://www.missale.net/of/2020-09-14/fr
+UID:https://www.missale.net/of/2020-09-14/fr
+URL:https://www.missale.net/of/2020-09-14/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200920
@@ -328,11 +517,25 @@ UID:https://www.missale.net/of/2020-09-20/fr
 URL:https://www.missale.net/of/2020-09-20/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200921
+SUMMARY:Saint Matthieu, apôtre et évangéliste - Fête
+DESCRIPTION:Saint Matthieu, apôtre et évangéliste - Fête\nhttps://www.missale.net/of/2020-09-21/fr
+UID:https://www.missale.net/of/2020-09-21/fr
+URL:https://www.missale.net/of/2020-09-21/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20200927
 SUMMARY:Vingt-sixième dimanche du temps ordinaire
 DESCRIPTION:Vingt-sixième dimanche du temps ordinaire\nhttps://www.missale.net/of/2020-09-27/fr
 UID:https://www.missale.net/of/2020-09-27/fr
 URL:https://www.missale.net/of/2020-09-27/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200929
+SUMMARY:Michael, Gabriel et Raphaël, archanges
+DESCRIPTION:Michael, Gabriel et Raphaël, archanges\nhttps://www.missale.net/of/2020-09-29/fr
+UID:https://www.missale.net/of/2020-09-29/fr
+URL:https://www.missale.net/of/2020-09-29/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201004
@@ -363,11 +566,39 @@ UID:https://www.missale.net/of/2020-10-25/fr
 URL:https://www.missale.net/of/2020-10-25/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201028
+SUMMARY:Saints Simon et Jude, apôtres
+DESCRIPTION:Saints Simon et Jude, apôtres\nhttps://www.missale.net/of/2020-10-28/fr
+UID:https://www.missale.net/of/2020-10-28/fr
+URL:https://www.missale.net/of/2020-10-28/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201101
+SUMMARY:Tous les saints
+DESCRIPTION:Tous les saints\nhttps://www.missale.net/of/2020-11-01/fr
+UID:https://www.missale.net/of/2020-11-01/fr
+URL:https://www.missale.net/of/2020-11-01/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201102
+SUMMARY:Commémoration de tous les fidèles défunts (All Souls)
+DESCRIPTION:Commémoration de tous les fidèles défunts (All Souls)\nhttps://www.missale.net/of/2020-11-02/fr
+UID:https://www.missale.net/of/2020-11-02/fr
+URL:https://www.missale.net/of/2020-11-02/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201108
 SUMMARY:Trente-deuxième dimanche du temps ordinaire
 DESCRIPTION:Trente-deuxième dimanche du temps ordinaire\nhttps://www.missale.net/of/2020-11-08/fr
 UID:https://www.missale.net/of/2020-11-08/fr
 URL:https://www.missale.net/of/2020-11-08/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201109
+SUMMARY:Dédicace de la Basilique Saint Jean de Latran à Rome
+DESCRIPTION:Dédicace de la Basilique Saint Jean de Latran à Rome\nhttps://www.missale.net/of/2020-11-09/fr
+UID:https://www.missale.net/of/2020-11-09/fr
+URL:https://www.missale.net/of/2020-11-09/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201115
@@ -391,11 +622,25 @@ UID:https://www.missale.net/of/2020-11-29/fr
 URL:https://www.missale.net/of/2020-11-29/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201130
+SUMMARY:Saint André, apôtre
+DESCRIPTION:Saint André, apôtre\nhttps://www.missale.net/of/2020-11-30/fr
+UID:https://www.missale.net/of/2020-11-30/fr
+URL:https://www.missale.net/of/2020-11-30/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201206
 SUMMARY:Deuxième dimanche de l'Avent
 DESCRIPTION:Deuxième dimanche de l'Avent\nhttps://www.missale.net/of/2020-12-06/fr
 UID:https://www.missale.net/of/2020-12-06/fr
 URL:https://www.missale.net/of/2020-12-06/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201208
+SUMMARY:Immaculée Conception de la Vierge Marie
+DESCRIPTION:Immaculée Conception de la Vierge Marie\nhttps://www.missale.net/of/2020-12-08/fr
+UID:https://www.missale.net/of/2020-12-08/fr
+URL:https://www.missale.net/of/2020-12-08/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201213
@@ -412,11 +657,53 @@ UID:https://www.missale.net/of/2020-12-20/fr
 URL:https://www.missale.net/of/2020-12-20/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201224
+SUMMARY:Vigil pour Noël
+DESCRIPTION:Vigil pour Noël\nhttps://www.missale.net/of/2020-12-24/fr
+UID:https://www.missale.net/of/2020-12-24/fr
+URL:https://www.missale.net/of/2020-12-24/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201225
+SUMMARY:Noël
+DESCRIPTION:Noël\nhttps://www.missale.net/of/2020-12-25/fr
+UID:https://www.missale.net/of/2020-12-25/fr
+URL:https://www.missale.net/of/2020-12-25/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201226
+SUMMARY:Saint-Etienne, premier martyr
+DESCRIPTION:Saint-Etienne, premier martyr\nhttps://www.missale.net/of/2020-12-26/fr
+UID:https://www.missale.net/of/2020-12-26/fr
+URL:https://www.missale.net/of/2020-12-26/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201227
 SUMMARY:La Sainte Famille
 DESCRIPTION:La Sainte Famille\nhttps://www.missale.net/of/2020-12-27/fr
 UID:https://www.missale.net/of/2020-12-27/fr
 URL:https://www.missale.net/of/2020-12-27/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201228
+SUMMARY:Les Saints Innocents, martyrs
+DESCRIPTION:Les Saints Innocents, martyrs\nhttps://www.missale.net/of/2020-12-28/fr
+UID:https://www.missale.net/of/2020-12-28/fr
+URL:https://www.missale.net/of/2020-12-28/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210101
+SUMMARY:Marie, Mère de Dieu
+DESCRIPTION:Marie, Mère de Dieu\nhttps://www.missale.net/of/2021-01-01/fr
+UID:https://www.missale.net/of/2021-01-01/fr
+URL:https://www.missale.net/of/2021-01-01/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210103
+SUMMARY:Épiphanie du Seigneur
+DESCRIPTION:Épiphanie du Seigneur\nhttps://www.missale.net/of/2021-01-03/fr
+UID:https://www.missale.net/of/2021-01-03/fr
+URL:https://www.missale.net/of/2021-01-03/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210110
@@ -440,11 +727,25 @@ UID:https://www.missale.net/of/2021-01-24/fr
 URL:https://www.missale.net/of/2021-01-24/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210125
+SUMMARY:Conversion de Saint Paul, apôtre
+DESCRIPTION:Conversion de Saint Paul, apôtre\nhttps://www.missale.net/of/2021-01-25/fr
+UID:https://www.missale.net/of/2021-01-25/fr
+URL:https://www.missale.net/of/2021-01-25/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210131
 SUMMARY:Quatrième dimanche du temps ordinaire
 DESCRIPTION:Quatrième dimanche du temps ordinaire\nhttps://www.missale.net/of/2021-01-31/fr
 UID:https://www.missale.net/of/2021-01-31/fr
 URL:https://www.missale.net/of/2021-01-31/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210202
+SUMMARY:Présentation du Seigneur
+DESCRIPTION:Présentation du Seigneur\nhttps://www.missale.net/of/2021-02-02/fr
+UID:https://www.missale.net/of/2021-02-02/fr
+URL:https://www.missale.net/of/2021-02-02/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210207
@@ -461,11 +762,25 @@ UID:https://www.missale.net/of/2021-02-14/fr
 URL:https://www.missale.net/of/2021-02-14/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210217
+SUMMARY:Mercredi des Cendres
+DESCRIPTION:Mercredi des Cendres\nhttps://www.missale.net/of/2021-02-17/fr
+UID:https://www.missale.net/of/2021-02-17/fr
+URL:https://www.missale.net/of/2021-02-17/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210221
 SUMMARY:Premier dimanche de Carême
 DESCRIPTION:Premier dimanche de Carême\nhttps://www.missale.net/of/2021-02-21/fr
 UID:https://www.missale.net/of/2021-02-21/fr
 URL:https://www.missale.net/of/2021-02-21/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210222
+SUMMARY:Chaire de Saint Pierre, apôtre
+DESCRIPTION:Chaire de Saint Pierre, apôtre\nhttps://www.missale.net/of/2021-02-22/fr
+UID:https://www.missale.net/of/2021-02-22/fr
+URL:https://www.missale.net/of/2021-02-22/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210228
@@ -489,6 +804,13 @@ UID:https://www.missale.net/of/2021-03-14/fr
 URL:https://www.missale.net/of/2021-03-14/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210319
+SUMMARY:Saint Joseph, époux de Marie
+DESCRIPTION:Saint Joseph, époux de Marie\nhttps://www.missale.net/of/2021-03-19/fr
+UID:https://www.missale.net/of/2021-03-19/fr
+URL:https://www.missale.net/of/2021-03-19/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210321
 SUMMARY:Cinquième dimanche de Carême
 DESCRIPTION:Cinquième dimanche de Carême\nhttps://www.missale.net/of/2021-03-21/fr
@@ -496,11 +818,32 @@ UID:https://www.missale.net/of/2021-03-21/fr
 URL:https://www.missale.net/of/2021-03-21/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210325
+SUMMARY:Annonciation du Seigneur
+DESCRIPTION:Annonciation du Seigneur\nhttps://www.missale.net/of/2021-03-25/fr
+UID:https://www.missale.net/of/2021-03-25/fr
+URL:https://www.missale.net/of/2021-03-25/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210328
 SUMMARY:Dimanche des Rameaux
 DESCRIPTION:Dimanche des Rameaux\nhttps://www.missale.net/of/2021-03-28/fr
 UID:https://www.missale.net/of/2021-03-28/fr
 URL:https://www.missale.net/of/2021-03-28/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210401
+SUMMARY:Jeudi Saint
+DESCRIPTION:Jeudi Saint\nhttps://www.missale.net/of/2021-04-01/fr
+UID:https://www.missale.net/of/2021-04-01/fr
+URL:https://www.missale.net/of/2021-04-01/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210402
+SUMMARY:Vendredi Saint
+DESCRIPTION:Vendredi Saint\nhttps://www.missale.net/of/2021-04-02/fr
+UID:https://www.missale.net/of/2021-04-02/fr
+URL:https://www.missale.net/of/2021-04-02/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210403
@@ -545,6 +888,13 @@ UID:https://www.missale.net/of/2021-05-02/fr
 URL:https://www.missale.net/of/2021-05-02/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210503
+SUMMARY:Saints Philippe et Jacques, apôtres
+DESCRIPTION:Saints Philippe et Jacques, apôtres\nhttps://www.missale.net/of/2021-05-03/fr
+UID:https://www.missale.net/of/2021-05-03/fr
+URL:https://www.missale.net/of/2021-05-03/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210509
 SUMMARY:Sixième dimanche de Pâques
 DESCRIPTION:Sixième dimanche de Pâques\nhttps://www.missale.net/of/2021-05-09/fr
@@ -559,6 +909,13 @@ UID:https://www.missale.net/of/2021-05-13/fr
 URL:https://www.missale.net/of/2021-05-13/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210514
+SUMMARY:Saint Matthias, apôtre
+DESCRIPTION:Saint Matthias, apôtre\nhttps://www.missale.net/of/2021-05-14/fr
+UID:https://www.missale.net/of/2021-05-14/fr
+URL:https://www.missale.net/of/2021-05-14/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210516
 SUMMARY:Septième dimanche de Pâques
 DESCRIPTION:Septième dimanche de Pâques\nhttps://www.missale.net/of/2021-05-16/fr
@@ -566,11 +923,25 @@ UID:https://www.missale.net/of/2021-05-16/fr
 URL:https://www.missale.net/of/2021-05-16/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210523
+SUMMARY:Pentecôte
+DESCRIPTION:Pentecôte\nhttps://www.missale.net/of/2021-05-23/fr
+UID:https://www.missale.net/of/2021-05-23/fr
+URL:https://www.missale.net/of/2021-05-23/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210530
 SUMMARY:La Sainte Trinité
 DESCRIPTION:La Sainte Trinité\nhttps://www.missale.net/of/2021-05-30/fr
 UID:https://www.missale.net/of/2021-05-30/fr
 URL:https://www.missale.net/of/2021-05-30/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210531
+SUMMARY:Visitation de la Vierge Marie à Elisabeth
+DESCRIPTION:Visitation de la Vierge Marie à Elisabeth\nhttps://www.missale.net/of/2021-05-31/fr
+UID:https://www.missale.net/of/2021-05-31/fr
+URL:https://www.missale.net/of/2021-05-31/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210603
@@ -608,11 +979,32 @@ UID:https://www.missale.net/of/2021-06-20/fr
 URL:https://www.missale.net/of/2021-06-20/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210624
+SUMMARY:Naissance de saint Jean-Baptiste
+DESCRIPTION:Naissance de saint Jean-Baptiste\nhttps://www.missale.net/of/2021-06-24/fr
+UID:https://www.missale.net/of/2021-06-24/fr
+URL:https://www.missale.net/of/2021-06-24/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210627
 SUMMARY:Treizième dimanche du temps ordinaire
 DESCRIPTION:Treizième dimanche du temps ordinaire\nhttps://www.missale.net/of/2021-06-27/fr
 UID:https://www.missale.net/of/2021-06-27/fr
 URL:https://www.missale.net/of/2021-06-27/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210629
+SUMMARY:Saints Pierre et Paul, apôtres
+DESCRIPTION:Saints Pierre et Paul, apôtres\nhttps://www.missale.net/of/2021-06-29/fr
+UID:https://www.missale.net/of/2021-06-29/fr
+URL:https://www.missale.net/of/2021-06-29/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210703
+SUMMARY:Saint Thomas, apôtre
+DESCRIPTION:Saint Thomas, apôtre\nhttps://www.missale.net/of/2021-07-03/fr
+UID:https://www.missale.net/of/2021-07-03/fr
+URL:https://www.missale.net/of/2021-07-03/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210704
@@ -664,11 +1056,32 @@ UID:https://www.missale.net/of/2021-08-08/fr
 URL:https://www.missale.net/of/2021-08-08/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210810
+SUMMARY:Saint-Laurent, diacre et martyr
+DESCRIPTION:Saint-Laurent, diacre et martyr\nhttps://www.missale.net/of/2021-08-10/fr
+UID:https://www.missale.net/of/2021-08-10/fr
+URL:https://www.missale.net/of/2021-08-10/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210815
+SUMMARY:Assomption de la Vierge Marie au ciel
+DESCRIPTION:Assomption de la Vierge Marie au ciel\nhttps://www.missale.net/of/2021-08-15/fr
+UID:https://www.missale.net/of/2021-08-15/fr
+URL:https://www.missale.net/of/2021-08-15/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210822
 SUMMARY:Vingt-et-unième dimanche du temps ordinaire
 DESCRIPTION:Vingt-et-unième dimanche du temps ordinaire\nhttps://www.missale.net/of/2021-08-22/fr
 UID:https://www.missale.net/of/2021-08-22/fr
 URL:https://www.missale.net/of/2021-08-22/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210824
+SUMMARY:Saint-Barthélemy, apôtre
+DESCRIPTION:Saint-Barthélemy, apôtre\nhttps://www.missale.net/of/2021-08-24/fr
+UID:https://www.missale.net/of/2021-08-24/fr
+URL:https://www.missale.net/of/2021-08-24/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210829
@@ -685,11 +1098,25 @@ UID:https://www.missale.net/of/2021-09-05/fr
 URL:https://www.missale.net/of/2021-09-05/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210908
+SUMMARY:Naissance de la Vierge Marie
+DESCRIPTION:Naissance de la Vierge Marie\nhttps://www.missale.net/of/2021-09-08/fr
+UID:https://www.missale.net/of/2021-09-08/fr
+URL:https://www.missale.net/of/2021-09-08/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210912
 SUMMARY:Vingt-quatrième dimanche du temps ordinaire
 DESCRIPTION:Vingt-quatrième dimanche du temps ordinaire\nhttps://www.missale.net/of/2021-09-12/fr
 UID:https://www.missale.net/of/2021-09-12/fr
 URL:https://www.missale.net/of/2021-09-12/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210914
+SUMMARY:Triomphe de la Sainte-Croix
+DESCRIPTION:Triomphe de la Sainte-Croix\nhttps://www.missale.net/of/2021-09-14/fr
+UID:https://www.missale.net/of/2021-09-14/fr
+URL:https://www.missale.net/of/2021-09-14/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210919
@@ -699,11 +1126,25 @@ UID:https://www.missale.net/of/2021-09-19/fr
 URL:https://www.missale.net/of/2021-09-19/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210921
+SUMMARY:Saint Matthieu, apôtre et évangéliste - Fête
+DESCRIPTION:Saint Matthieu, apôtre et évangéliste - Fête\nhttps://www.missale.net/of/2021-09-21/fr
+UID:https://www.missale.net/of/2021-09-21/fr
+URL:https://www.missale.net/of/2021-09-21/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20210926
 SUMMARY:Vingt-sixième dimanche du temps ordinaire
 DESCRIPTION:Vingt-sixième dimanche du temps ordinaire\nhttps://www.missale.net/of/2021-09-26/fr
 UID:https://www.missale.net/of/2021-09-26/fr
 URL:https://www.missale.net/of/2021-09-26/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210929
+SUMMARY:Michael, Gabriel et Raphaël, archanges
+DESCRIPTION:Michael, Gabriel et Raphaël, archanges\nhttps://www.missale.net/of/2021-09-29/fr
+UID:https://www.missale.net/of/2021-09-29/fr
+URL:https://www.missale.net/of/2021-09-29/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20211003
@@ -727,11 +1168,25 @@ UID:https://www.missale.net/of/2021-10-17/fr
 URL:https://www.missale.net/of/2021-10-17/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211018
+SUMMARY:Saint Luc, évangéliste
+DESCRIPTION:Saint Luc, évangéliste\nhttps://www.missale.net/of/2021-10-18/fr
+UID:https://www.missale.net/of/2021-10-18/fr
+URL:https://www.missale.net/of/2021-10-18/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20211024
 SUMMARY:Trentième dimanche du temps ordinaire
 DESCRIPTION:Trentième dimanche du temps ordinaire\nhttps://www.missale.net/of/2021-10-24/fr
 UID:https://www.missale.net/of/2021-10-24/fr
 URL:https://www.missale.net/of/2021-10-24/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211028
+SUMMARY:Saints Simon et Jude, apôtres
+DESCRIPTION:Saints Simon et Jude, apôtres\nhttps://www.missale.net/of/2021-10-28/fr
+UID:https://www.missale.net/of/2021-10-28/fr
+URL:https://www.missale.net/of/2021-10-28/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20211031
@@ -741,11 +1196,32 @@ UID:https://www.missale.net/of/2021-10-31/fr
 URL:https://www.missale.net/of/2021-10-31/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211101
+SUMMARY:Tous les saints
+DESCRIPTION:Tous les saints\nhttps://www.missale.net/of/2021-11-01/fr
+UID:https://www.missale.net/of/2021-11-01/fr
+URL:https://www.missale.net/of/2021-11-01/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211102
+SUMMARY:Commémoration de tous les fidèles défunts (All Souls)
+DESCRIPTION:Commémoration de tous les fidèles défunts (All Souls)\nhttps://www.missale.net/of/2021-11-02/fr
+UID:https://www.missale.net/of/2021-11-02/fr
+URL:https://www.missale.net/of/2021-11-02/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20211107
 SUMMARY:Trente-deuxième dimanche du temps ordinaire
 DESCRIPTION:Trente-deuxième dimanche du temps ordinaire\nhttps://www.missale.net/of/2021-11-07/fr
 UID:https://www.missale.net/of/2021-11-07/fr
 URL:https://www.missale.net/of/2021-11-07/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211109
+SUMMARY:Dédicace de la Basilique Saint Jean de Latran à Rome
+DESCRIPTION:Dédicace de la Basilique Saint Jean de Latran à Rome\nhttps://www.missale.net/of/2021-11-09/fr
+UID:https://www.missale.net/of/2021-11-09/fr
+URL:https://www.missale.net/of/2021-11-09/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20211114
@@ -769,11 +1245,25 @@ UID:https://www.missale.net/of/2021-11-28/fr
 URL:https://www.missale.net/of/2021-11-28/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211130
+SUMMARY:Saint André, apôtre
+DESCRIPTION:Saint André, apôtre\nhttps://www.missale.net/of/2021-11-30/fr
+UID:https://www.missale.net/of/2021-11-30/fr
+URL:https://www.missale.net/of/2021-11-30/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20211205
 SUMMARY:Deuxième dimanche de l'Avent
 DESCRIPTION:Deuxième dimanche de l'Avent\nhttps://www.missale.net/of/2021-12-05/fr
 UID:https://www.missale.net/of/2021-12-05/fr
 URL:https://www.missale.net/of/2021-12-05/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211208
+SUMMARY:Immaculée Conception de la Vierge Marie
+DESCRIPTION:Immaculée Conception de la Vierge Marie\nhttps://www.missale.net/of/2021-12-08/fr
+UID:https://www.missale.net/of/2021-12-08/fr
+URL:https://www.missale.net/of/2021-12-08/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20211212
@@ -790,11 +1280,60 @@ UID:https://www.missale.net/of/2021-12-19/fr
 URL:https://www.missale.net/of/2021-12-19/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211224
+SUMMARY:Vigil pour Noël
+DESCRIPTION:Vigil pour Noël\nhttps://www.missale.net/of/2021-12-24/fr
+UID:https://www.missale.net/of/2021-12-24/fr
+URL:https://www.missale.net/of/2021-12-24/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211225
+SUMMARY:Noël
+DESCRIPTION:Noël\nhttps://www.missale.net/of/2021-12-25/fr
+UID:https://www.missale.net/of/2021-12-25/fr
+URL:https://www.missale.net/of/2021-12-25/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20211226
 SUMMARY:La Sainte Famille
 DESCRIPTION:La Sainte Famille\nhttps://www.missale.net/of/2021-12-26/fr
 UID:https://www.missale.net/of/2021-12-26/fr
 URL:https://www.missale.net/of/2021-12-26/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211227
+SUMMARY:Saint-Jean, apôtre et évangéliste
+DESCRIPTION:Saint-Jean, apôtre et évangéliste\nhttps://www.missale.net/of/2021-12-27/fr
+UID:https://www.missale.net/of/2021-12-27/fr
+URL:https://www.missale.net/of/2021-12-27/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211228
+SUMMARY:Les Saints Innocents, martyrs
+DESCRIPTION:Les Saints Innocents, martyrs\nhttps://www.missale.net/of/2021-12-28/fr
+UID:https://www.missale.net/of/2021-12-28/fr
+URL:https://www.missale.net/of/2021-12-28/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220101
+SUMMARY:Marie, Mère de Dieu
+DESCRIPTION:Marie, Mère de Dieu\nhttps://www.missale.net/of/2022-01-01/fr
+UID:https://www.missale.net/of/2022-01-01/fr
+URL:https://www.missale.net/of/2022-01-01/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220102
+SUMMARY:Deuxième dimanche de Noël
+DESCRIPTION:Deuxième dimanche de Noël\nhttps://www.missale.net/of/2022-01-02/fr
+UID:https://www.missale.net/of/2022-01-02/fr
+URL:https://www.missale.net/of/2022-01-02/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220109
+SUMMARY:Épiphanie du Seigneur
+DESCRIPTION:Épiphanie du Seigneur\nhttps://www.missale.net/of/2022-01-09/fr
+UID:https://www.missale.net/of/2022-01-09/fr
+URL:https://www.missale.net/of/2022-01-09/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220110
@@ -818,11 +1357,25 @@ UID:https://www.missale.net/of/2022-01-23/fr
 URL:https://www.missale.net/of/2022-01-23/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220125
+SUMMARY:Conversion de Saint Paul, apôtre
+DESCRIPTION:Conversion de Saint Paul, apôtre\nhttps://www.missale.net/of/2022-01-25/fr
+UID:https://www.missale.net/of/2022-01-25/fr
+URL:https://www.missale.net/of/2022-01-25/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220130
 SUMMARY:Quatrième dimanche du temps ordinaire
 DESCRIPTION:Quatrième dimanche du temps ordinaire\nhttps://www.missale.net/of/2022-01-30/fr
 UID:https://www.missale.net/of/2022-01-30/fr
 URL:https://www.missale.net/of/2022-01-30/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220202
+SUMMARY:Présentation du Seigneur
+DESCRIPTION:Présentation du Seigneur\nhttps://www.missale.net/of/2022-02-02/fr
+UID:https://www.missale.net/of/2022-02-02/fr
+URL:https://www.missale.net/of/2022-02-02/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220206
@@ -846,11 +1399,25 @@ UID:https://www.missale.net/of/2022-02-20/fr
 URL:https://www.missale.net/of/2022-02-20/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220222
+SUMMARY:Chaire de Saint Pierre, apôtre
+DESCRIPTION:Chaire de Saint Pierre, apôtre\nhttps://www.missale.net/of/2022-02-22/fr
+UID:https://www.missale.net/of/2022-02-22/fr
+URL:https://www.missale.net/of/2022-02-22/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220227
 SUMMARY:Huitième dimanche du temps ordinaire
 DESCRIPTION:Huitième dimanche du temps ordinaire\nhttps://www.missale.net/of/2022-02-27/fr
 UID:https://www.missale.net/of/2022-02-27/fr
 URL:https://www.missale.net/of/2022-02-27/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220302
+SUMMARY:Mercredi des Cendres
+DESCRIPTION:Mercredi des Cendres\nhttps://www.missale.net/of/2022-03-02/fr
+UID:https://www.missale.net/of/2022-03-02/fr
+URL:https://www.missale.net/of/2022-03-02/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220306
@@ -867,11 +1434,25 @@ UID:https://www.missale.net/of/2022-03-13/fr
 URL:https://www.missale.net/of/2022-03-13/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220319
+SUMMARY:Saint Joseph, époux de Marie
+DESCRIPTION:Saint Joseph, époux de Marie\nhttps://www.missale.net/of/2022-03-19/fr
+UID:https://www.missale.net/of/2022-03-19/fr
+URL:https://www.missale.net/of/2022-03-19/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220320
 SUMMARY:Troisième dimanche de Carême
 DESCRIPTION:Troisième dimanche de Carême\nhttps://www.missale.net/of/2022-03-20/fr
 UID:https://www.missale.net/of/2022-03-20/fr
 URL:https://www.missale.net/of/2022-03-20/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220325
+SUMMARY:Annonciation du Seigneur
+DESCRIPTION:Annonciation du Seigneur\nhttps://www.missale.net/of/2022-03-25/fr
+UID:https://www.missale.net/of/2022-03-25/fr
+URL:https://www.missale.net/of/2022-03-25/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220327
@@ -895,6 +1476,20 @@ UID:https://www.missale.net/of/2022-04-10/fr
 URL:https://www.missale.net/of/2022-04-10/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220414
+SUMMARY:Jeudi Saint
+DESCRIPTION:Jeudi Saint\nhttps://www.missale.net/of/2022-04-14/fr
+UID:https://www.missale.net/of/2022-04-14/fr
+URL:https://www.missale.net/of/2022-04-14/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220415
+SUMMARY:Vendredi Saint
+DESCRIPTION:Vendredi Saint\nhttps://www.missale.net/of/2022-04-15/fr
+UID:https://www.missale.net/of/2022-04-15/fr
+URL:https://www.missale.net/of/2022-04-15/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220416
 SUMMARY:Veillée pascale
 DESCRIPTION:Veillée pascale\nhttps://www.missale.net/of/2022-04-16/fr
@@ -916,6 +1511,13 @@ UID:https://www.missale.net/of/2022-04-24/fr
 URL:https://www.missale.net/of/2022-04-24/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220425
+SUMMARY:Saint-Marc, l'évangéliste
+DESCRIPTION:Saint-Marc, l'évangéliste\nhttps://www.missale.net/of/2022-04-25/fr
+UID:https://www.missale.net/of/2022-04-25/fr
+URL:https://www.missale.net/of/2022-04-25/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220501
 SUMMARY:Troisième dimanche de Pâques
 DESCRIPTION:Troisième dimanche de Pâques\nhttps://www.missale.net/of/2022-05-01/fr
@@ -923,11 +1525,25 @@ UID:https://www.missale.net/of/2022-05-01/fr
 URL:https://www.missale.net/of/2022-05-01/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220503
+SUMMARY:Saints Philippe et Jacques, apôtres
+DESCRIPTION:Saints Philippe et Jacques, apôtres\nhttps://www.missale.net/of/2022-05-03/fr
+UID:https://www.missale.net/of/2022-05-03/fr
+URL:https://www.missale.net/of/2022-05-03/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220508
 SUMMARY:Quatrième dimanche de Pâques
 DESCRIPTION:Quatrième dimanche de Pâques\nhttps://www.missale.net/of/2022-05-08/fr
 UID:https://www.missale.net/of/2022-05-08/fr
 URL:https://www.missale.net/of/2022-05-08/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220514
+SUMMARY:Saint Matthias, apôtre
+DESCRIPTION:Saint Matthias, apôtre\nhttps://www.missale.net/of/2022-05-14/fr
+UID:https://www.missale.net/of/2022-05-14/fr
+URL:https://www.missale.net/of/2022-05-14/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220515
@@ -958,6 +1574,20 @@ UID:https://www.missale.net/of/2022-05-29/fr
 URL:https://www.missale.net/of/2022-05-29/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220531
+SUMMARY:Visitation de la Vierge Marie à Elisabeth
+DESCRIPTION:Visitation de la Vierge Marie à Elisabeth\nhttps://www.missale.net/of/2022-05-31/fr
+UID:https://www.missale.net/of/2022-05-31/fr
+URL:https://www.missale.net/of/2022-05-31/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220605
+SUMMARY:Pentecôte
+DESCRIPTION:Pentecôte\nhttps://www.missale.net/of/2022-06-05/fr
+UID:https://www.missale.net/of/2022-06-05/fr
+URL:https://www.missale.net/of/2022-06-05/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220612
 SUMMARY:La Sainte Trinité
 DESCRIPTION:La Sainte Trinité\nhttps://www.missale.net/of/2022-06-12/fr
@@ -979,11 +1609,25 @@ UID:https://www.missale.net/of/2022-06-19/fr
 URL:https://www.missale.net/of/2022-06-19/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220624
+SUMMARY:Naissance de saint Jean-Baptiste
+DESCRIPTION:Naissance de saint Jean-Baptiste\nhttps://www.missale.net/of/2022-06-24/fr
+UID:https://www.missale.net/of/2022-06-24/fr
+URL:https://www.missale.net/of/2022-06-24/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220626
 SUMMARY:Treizième dimanche du temps ordinaire
 DESCRIPTION:Treizième dimanche du temps ordinaire\nhttps://www.missale.net/of/2022-06-26/fr
 UID:https://www.missale.net/of/2022-06-26/fr
 URL:https://www.missale.net/of/2022-06-26/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220629
+SUMMARY:Saints Pierre et Paul, apôtres
+DESCRIPTION:Saints Pierre et Paul, apôtres\nhttps://www.missale.net/of/2022-06-29/fr
+UID:https://www.missale.net/of/2022-06-29/fr
+URL:https://www.missale.net/of/2022-06-29/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220703
@@ -1014,6 +1658,13 @@ UID:https://www.missale.net/of/2022-07-24/fr
 URL:https://www.missale.net/of/2022-07-24/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220725
+SUMMARY:Saint Jacques, apôtre
+DESCRIPTION:Saint Jacques, apôtre\nhttps://www.missale.net/of/2022-07-25/fr
+UID:https://www.missale.net/of/2022-07-25/fr
+URL:https://www.missale.net/of/2022-07-25/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220731
 SUMMARY:Dix-huitième dimanche du temps ordinaire
 DESCRIPTION:Dix-huitième dimanche du temps ordinaire\nhttps://www.missale.net/of/2022-07-31/fr
@@ -1035,6 +1686,13 @@ UID:https://www.missale.net/of/2022-08-07/fr
 URL:https://www.missale.net/of/2022-08-07/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220810
+SUMMARY:Saint-Laurent, diacre et martyr
+DESCRIPTION:Saint-Laurent, diacre et martyr\nhttps://www.missale.net/of/2022-08-10/fr
+UID:https://www.missale.net/of/2022-08-10/fr
+URL:https://www.missale.net/of/2022-08-10/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220814
 SUMMARY:Vingtième dimanche du temps ordinaire
 DESCRIPTION:Vingtième dimanche du temps ordinaire\nhttps://www.missale.net/of/2022-08-14/fr
@@ -1042,11 +1700,25 @@ UID:https://www.missale.net/of/2022-08-14/fr
 URL:https://www.missale.net/of/2022-08-14/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220815
+SUMMARY:Assomption de la Vierge Marie au ciel
+DESCRIPTION:Assomption de la Vierge Marie au ciel\nhttps://www.missale.net/of/2022-08-15/fr
+UID:https://www.missale.net/of/2022-08-15/fr
+URL:https://www.missale.net/of/2022-08-15/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220821
 SUMMARY:Vingt-et-unième dimanche du temps ordinaire
 DESCRIPTION:Vingt-et-unième dimanche du temps ordinaire\nhttps://www.missale.net/of/2022-08-21/fr
 UID:https://www.missale.net/of/2022-08-21/fr
 URL:https://www.missale.net/of/2022-08-21/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220824
+SUMMARY:Saint-Barthélemy, apôtre
+DESCRIPTION:Saint-Barthélemy, apôtre\nhttps://www.missale.net/of/2022-08-24/fr
+UID:https://www.missale.net/of/2022-08-24/fr
+URL:https://www.missale.net/of/2022-08-24/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220828
@@ -1063,11 +1735,25 @@ UID:https://www.missale.net/of/2022-09-04/fr
 URL:https://www.missale.net/of/2022-09-04/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220908
+SUMMARY:Naissance de la Vierge Marie
+DESCRIPTION:Naissance de la Vierge Marie\nhttps://www.missale.net/of/2022-09-08/fr
+UID:https://www.missale.net/of/2022-09-08/fr
+URL:https://www.missale.net/of/2022-09-08/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220911
 SUMMARY:Vingt-quatrième dimanche du temps ordinaire
 DESCRIPTION:Vingt-quatrième dimanche du temps ordinaire\nhttps://www.missale.net/of/2022-09-11/fr
 UID:https://www.missale.net/of/2022-09-11/fr
 URL:https://www.missale.net/of/2022-09-11/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220914
+SUMMARY:Triomphe de la Sainte-Croix
+DESCRIPTION:Triomphe de la Sainte-Croix\nhttps://www.missale.net/of/2022-09-14/fr
+UID:https://www.missale.net/of/2022-09-14/fr
+URL:https://www.missale.net/of/2022-09-14/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220918
@@ -1077,11 +1763,25 @@ UID:https://www.missale.net/of/2022-09-18/fr
 URL:https://www.missale.net/of/2022-09-18/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220921
+SUMMARY:Saint Matthieu, apôtre et évangéliste - Fête
+DESCRIPTION:Saint Matthieu, apôtre et évangéliste - Fête\nhttps://www.missale.net/of/2022-09-21/fr
+UID:https://www.missale.net/of/2022-09-21/fr
+URL:https://www.missale.net/of/2022-09-21/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220925
 SUMMARY:Vingt-sixième dimanche du temps ordinaire
 DESCRIPTION:Vingt-sixième dimanche du temps ordinaire\nhttps://www.missale.net/of/2022-09-25/fr
 UID:https://www.missale.net/of/2022-09-25/fr
 URL:https://www.missale.net/of/2022-09-25/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220929
+SUMMARY:Michael, Gabriel et Raphaël, archanges
+DESCRIPTION:Michael, Gabriel et Raphaël, archanges\nhttps://www.missale.net/of/2022-09-29/fr
+UID:https://www.missale.net/of/2022-09-29/fr
+URL:https://www.missale.net/of/2022-09-29/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221002
@@ -1105,11 +1805,25 @@ UID:https://www.missale.net/of/2022-10-16/fr
 URL:https://www.missale.net/of/2022-10-16/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221018
+SUMMARY:Saint Luc, évangéliste
+DESCRIPTION:Saint Luc, évangéliste\nhttps://www.missale.net/of/2022-10-18/fr
+UID:https://www.missale.net/of/2022-10-18/fr
+URL:https://www.missale.net/of/2022-10-18/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221023
 SUMMARY:Trentième dimanche du temps ordinaire
 DESCRIPTION:Trentième dimanche du temps ordinaire\nhttps://www.missale.net/of/2022-10-23/fr
 UID:https://www.missale.net/of/2022-10-23/fr
 URL:https://www.missale.net/of/2022-10-23/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221028
+SUMMARY:Saints Simon et Jude, apôtres
+DESCRIPTION:Saints Simon et Jude, apôtres\nhttps://www.missale.net/of/2022-10-28/fr
+UID:https://www.missale.net/of/2022-10-28/fr
+URL:https://www.missale.net/of/2022-10-28/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221030
@@ -1119,11 +1833,32 @@ UID:https://www.missale.net/of/2022-10-30/fr
 URL:https://www.missale.net/of/2022-10-30/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221101
+SUMMARY:Tous les saints
+DESCRIPTION:Tous les saints\nhttps://www.missale.net/of/2022-11-01/fr
+UID:https://www.missale.net/of/2022-11-01/fr
+URL:https://www.missale.net/of/2022-11-01/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221102
+SUMMARY:Commémoration de tous les fidèles défunts (All Souls)
+DESCRIPTION:Commémoration de tous les fidèles défunts (All Souls)\nhttps://www.missale.net/of/2022-11-02/fr
+UID:https://www.missale.net/of/2022-11-02/fr
+URL:https://www.missale.net/of/2022-11-02/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221106
 SUMMARY:Trente-deuxième dimanche du temps ordinaire
 DESCRIPTION:Trente-deuxième dimanche du temps ordinaire\nhttps://www.missale.net/of/2022-11-06/fr
 UID:https://www.missale.net/of/2022-11-06/fr
 URL:https://www.missale.net/of/2022-11-06/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221109
+SUMMARY:Dédicace de la Basilique Saint Jean de Latran à Rome
+DESCRIPTION:Dédicace de la Basilique Saint Jean de Latran à Rome\nhttps://www.missale.net/of/2022-11-09/fr
+UID:https://www.missale.net/of/2022-11-09/fr
+URL:https://www.missale.net/of/2022-11-09/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221113
@@ -1147,11 +1882,25 @@ UID:https://www.missale.net/of/2022-11-27/fr
 URL:https://www.missale.net/of/2022-11-27/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221130
+SUMMARY:Saint André, apôtre
+DESCRIPTION:Saint André, apôtre\nhttps://www.missale.net/of/2022-11-30/fr
+UID:https://www.missale.net/of/2022-11-30/fr
+URL:https://www.missale.net/of/2022-11-30/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221204
 SUMMARY:Deuxième dimanche de l'Avent
 DESCRIPTION:Deuxième dimanche de l'Avent\nhttps://www.missale.net/of/2022-12-04/fr
 UID:https://www.missale.net/of/2022-12-04/fr
 URL:https://www.missale.net/of/2022-12-04/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221208
+SUMMARY:Immaculée Conception de la Vierge Marie
+DESCRIPTION:Immaculée Conception de la Vierge Marie\nhttps://www.missale.net/of/2022-12-08/fr
+UID:https://www.missale.net/of/2022-12-08/fr
+URL:https://www.missale.net/of/2022-12-08/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221211
@@ -1168,11 +1917,60 @@ UID:https://www.missale.net/of/2022-12-18/fr
 URL:https://www.missale.net/of/2022-12-18/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221224
+SUMMARY:Vigil pour Noël
+DESCRIPTION:Vigil pour Noël\nhttps://www.missale.net/of/2022-12-24/fr
+UID:https://www.missale.net/of/2022-12-24/fr
+URL:https://www.missale.net/of/2022-12-24/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221225
+SUMMARY:Noël
+DESCRIPTION:Noël\nhttps://www.missale.net/of/2022-12-25/fr
+UID:https://www.missale.net/of/2022-12-25/fr
+URL:https://www.missale.net/of/2022-12-25/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221226
+SUMMARY:Saint-Etienne, premier martyr
+DESCRIPTION:Saint-Etienne, premier martyr\nhttps://www.missale.net/of/2022-12-26/fr
+UID:https://www.missale.net/of/2022-12-26/fr
+URL:https://www.missale.net/of/2022-12-26/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221227
+SUMMARY:Saint-Jean, apôtre et évangéliste
+DESCRIPTION:Saint-Jean, apôtre et évangéliste\nhttps://www.missale.net/of/2022-12-27/fr
+UID:https://www.missale.net/of/2022-12-27/fr
+URL:https://www.missale.net/of/2022-12-27/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221228
+SUMMARY:Les Saints Innocents, martyrs
+DESCRIPTION:Les Saints Innocents, martyrs\nhttps://www.missale.net/of/2022-12-28/fr
+UID:https://www.missale.net/of/2022-12-28/fr
+URL:https://www.missale.net/of/2022-12-28/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221230
 SUMMARY:La Sainte Famille
 DESCRIPTION:La Sainte Famille\nhttps://www.missale.net/of/2022-12-30/fr
 UID:https://www.missale.net/of/2022-12-30/fr
 URL:https://www.missale.net/of/2022-12-30/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230101
+SUMMARY:Marie, Mère de Dieu
+DESCRIPTION:Marie, Mère de Dieu\nhttps://www.missale.net/of/2023-01-01/fr
+UID:https://www.missale.net/of/2023-01-01/fr
+URL:https://www.missale.net/of/2023-01-01/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230108
+SUMMARY:Épiphanie du Seigneur
+DESCRIPTION:Épiphanie du Seigneur\nhttps://www.missale.net/of/2023-01-08/fr
+UID:https://www.missale.net/of/2023-01-08/fr
+URL:https://www.missale.net/of/2023-01-08/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230109
@@ -1196,11 +1994,25 @@ UID:https://www.missale.net/of/2023-01-22/fr
 URL:https://www.missale.net/of/2023-01-22/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230125
+SUMMARY:Conversion de Saint Paul, apôtre
+DESCRIPTION:Conversion de Saint Paul, apôtre\nhttps://www.missale.net/of/2023-01-25/fr
+UID:https://www.missale.net/of/2023-01-25/fr
+URL:https://www.missale.net/of/2023-01-25/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230129
 SUMMARY:Quatrième dimanche du temps ordinaire
 DESCRIPTION:Quatrième dimanche du temps ordinaire\nhttps://www.missale.net/of/2023-01-29/fr
 UID:https://www.missale.net/of/2023-01-29/fr
 URL:https://www.missale.net/of/2023-01-29/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230202
+SUMMARY:Présentation du Seigneur
+DESCRIPTION:Présentation du Seigneur\nhttps://www.missale.net/of/2023-02-02/fr
+UID:https://www.missale.net/of/2023-02-02/fr
+URL:https://www.missale.net/of/2023-02-02/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230205
@@ -1222,6 +2034,13 @@ SUMMARY:Septième dimanche du temps ordinaire
 DESCRIPTION:Septième dimanche du temps ordinaire\nhttps://www.missale.net/of/2023-02-19/fr
 UID:https://www.missale.net/of/2023-02-19/fr
 URL:https://www.missale.net/of/2023-02-19/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230222
+SUMMARY:Mercredi des Cendres
+DESCRIPTION:Mercredi des Cendres\nhttps://www.missale.net/of/2023-02-22/fr
+UID:https://www.missale.net/of/2023-02-22/fr
+URL:https://www.missale.net/of/2023-02-22/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230226
@@ -1252,6 +2071,13 @@ UID:https://www.missale.net/of/2023-03-19/fr
 URL:https://www.missale.net/of/2023-03-19/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230325
+SUMMARY:Annonciation du Seigneur
+DESCRIPTION:Annonciation du Seigneur\nhttps://www.missale.net/of/2023-03-25/fr
+UID:https://www.missale.net/of/2023-03-25/fr
+URL:https://www.missale.net/of/2023-03-25/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230326
 SUMMARY:Cinquième dimanche de Carême
 DESCRIPTION:Cinquième dimanche de Carême\nhttps://www.missale.net/of/2023-03-26/fr
@@ -1264,6 +2090,20 @@ SUMMARY:Dimanche des Rameaux
 DESCRIPTION:Dimanche des Rameaux\nhttps://www.missale.net/of/2023-04-02/fr
 UID:https://www.missale.net/of/2023-04-02/fr
 URL:https://www.missale.net/of/2023-04-02/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230406
+SUMMARY:Jeudi Saint
+DESCRIPTION:Jeudi Saint\nhttps://www.missale.net/of/2023-04-06/fr
+UID:https://www.missale.net/of/2023-04-06/fr
+URL:https://www.missale.net/of/2023-04-06/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230407
+SUMMARY:Vendredi Saint
+DESCRIPTION:Vendredi Saint\nhttps://www.missale.net/of/2023-04-07/fr
+UID:https://www.missale.net/of/2023-04-07/fr
+URL:https://www.missale.net/of/2023-04-07/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230408
@@ -1294,11 +2134,25 @@ UID:https://www.missale.net/of/2023-04-23/fr
 URL:https://www.missale.net/of/2023-04-23/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230425
+SUMMARY:Saint-Marc, l'évangéliste
+DESCRIPTION:Saint-Marc, l'évangéliste\nhttps://www.missale.net/of/2023-04-25/fr
+UID:https://www.missale.net/of/2023-04-25/fr
+URL:https://www.missale.net/of/2023-04-25/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230430
 SUMMARY:Quatrième dimanche de Pâques
 DESCRIPTION:Quatrième dimanche de Pâques\nhttps://www.missale.net/of/2023-04-30/fr
 UID:https://www.missale.net/of/2023-04-30/fr
 URL:https://www.missale.net/of/2023-04-30/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230503
+SUMMARY:Saints Philippe et Jacques, apôtres
+DESCRIPTION:Saints Philippe et Jacques, apôtres\nhttps://www.missale.net/of/2023-05-03/fr
+UID:https://www.missale.net/of/2023-05-03/fr
+URL:https://www.missale.net/of/2023-05-03/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230507
@@ -1327,6 +2181,20 @@ SUMMARY:Septième dimanche de Pâques
 DESCRIPTION:Septième dimanche de Pâques\nhttps://www.missale.net/of/2023-05-21/fr
 UID:https://www.missale.net/of/2023-05-21/fr
 URL:https://www.missale.net/of/2023-05-21/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230528
+SUMMARY:Pentecôte
+DESCRIPTION:Pentecôte\nhttps://www.missale.net/of/2023-05-28/fr
+UID:https://www.missale.net/of/2023-05-28/fr
+URL:https://www.missale.net/of/2023-05-28/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230531
+SUMMARY:Visitation de la Vierge Marie à Elisabeth
+DESCRIPTION:Visitation de la Vierge Marie à Elisabeth\nhttps://www.missale.net/of/2023-05-31/fr
+UID:https://www.missale.net/of/2023-05-31/fr
+URL:https://www.missale.net/of/2023-05-31/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230604
@@ -1364,6 +2232,13 @@ UID:https://www.missale.net/of/2023-06-18/fr
 URL:https://www.missale.net/of/2023-06-18/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230624
+SUMMARY:Naissance de saint Jean-Baptiste
+DESCRIPTION:Naissance de saint Jean-Baptiste\nhttps://www.missale.net/of/2023-06-24/fr
+UID:https://www.missale.net/of/2023-06-24/fr
+URL:https://www.missale.net/of/2023-06-24/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230625
 SUMMARY:Douzième dimanche du temps ordinaire
 DESCRIPTION:Douzième dimanche du temps ordinaire\nhttps://www.missale.net/of/2023-06-25/fr
@@ -1371,11 +2246,25 @@ UID:https://www.missale.net/of/2023-06-25/fr
 URL:https://www.missale.net/of/2023-06-25/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230629
+SUMMARY:Saints Pierre et Paul, apôtres
+DESCRIPTION:Saints Pierre et Paul, apôtres\nhttps://www.missale.net/of/2023-06-29/fr
+UID:https://www.missale.net/of/2023-06-29/fr
+URL:https://www.missale.net/of/2023-06-29/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230702
 SUMMARY:Treizième dimanche du temps ordinaire
 DESCRIPTION:Treizième dimanche du temps ordinaire\nhttps://www.missale.net/of/2023-07-02/fr
 UID:https://www.missale.net/of/2023-07-02/fr
 URL:https://www.missale.net/of/2023-07-02/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230703
+SUMMARY:Saint Thomas, apôtre
+DESCRIPTION:Saint Thomas, apôtre\nhttps://www.missale.net/of/2023-07-03/fr
+UID:https://www.missale.net/of/2023-07-03/fr
+URL:https://www.missale.net/of/2023-07-03/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230709
@@ -1399,6 +2288,13 @@ UID:https://www.missale.net/of/2023-07-23/fr
 URL:https://www.missale.net/of/2023-07-23/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230725
+SUMMARY:Saint Jacques, apôtre
+DESCRIPTION:Saint Jacques, apôtre\nhttps://www.missale.net/of/2023-07-25/fr
+UID:https://www.missale.net/of/2023-07-25/fr
+URL:https://www.missale.net/of/2023-07-25/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230730
 SUMMARY:Dix-septième dimanche du temps ordinaire
 DESCRIPTION:Dix-septième dimanche du temps ordinaire\nhttps://www.missale.net/of/2023-07-30/fr
@@ -1413,6 +2309,13 @@ UID:https://www.missale.net/of/2023-08-06/fr
 URL:https://www.missale.net/of/2023-08-06/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230810
+SUMMARY:Saint-Laurent, diacre et martyr
+DESCRIPTION:Saint-Laurent, diacre et martyr\nhttps://www.missale.net/of/2023-08-10/fr
+UID:https://www.missale.net/of/2023-08-10/fr
+URL:https://www.missale.net/of/2023-08-10/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230813
 SUMMARY:Dix-neuvième dimanche du temps ordinaire
 DESCRIPTION:Dix-neuvième dimanche du temps ordinaire\nhttps://www.missale.net/of/2023-08-13/fr
@@ -1420,11 +2323,25 @@ UID:https://www.missale.net/of/2023-08-13/fr
 URL:https://www.missale.net/of/2023-08-13/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230815
+SUMMARY:Assomption de la Vierge Marie au ciel
+DESCRIPTION:Assomption de la Vierge Marie au ciel\nhttps://www.missale.net/of/2023-08-15/fr
+UID:https://www.missale.net/of/2023-08-15/fr
+URL:https://www.missale.net/of/2023-08-15/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230820
 SUMMARY:Vingtième dimanche du temps ordinaire
 DESCRIPTION:Vingtième dimanche du temps ordinaire\nhttps://www.missale.net/of/2023-08-20/fr
 UID:https://www.missale.net/of/2023-08-20/fr
 URL:https://www.missale.net/of/2023-08-20/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230824
+SUMMARY:Saint-Barthélemy, apôtre
+DESCRIPTION:Saint-Barthélemy, apôtre\nhttps://www.missale.net/of/2023-08-24/fr
+UID:https://www.missale.net/of/2023-08-24/fr
+URL:https://www.missale.net/of/2023-08-24/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230827
@@ -1441,11 +2358,25 @@ UID:https://www.missale.net/of/2023-09-03/fr
 URL:https://www.missale.net/of/2023-09-03/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230908
+SUMMARY:Naissance de la Vierge Marie
+DESCRIPTION:Naissance de la Vierge Marie\nhttps://www.missale.net/of/2023-09-08/fr
+UID:https://www.missale.net/of/2023-09-08/fr
+URL:https://www.missale.net/of/2023-09-08/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230910
 SUMMARY:Vingt-troisième dimanche du temps ordinaire
 DESCRIPTION:Vingt-troisième dimanche du temps ordinaire\nhttps://www.missale.net/of/2023-09-10/fr
 UID:https://www.missale.net/of/2023-09-10/fr
 URL:https://www.missale.net/of/2023-09-10/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230914
+SUMMARY:Triomphe de la Sainte-Croix
+DESCRIPTION:Triomphe de la Sainte-Croix\nhttps://www.missale.net/of/2023-09-14/fr
+UID:https://www.missale.net/of/2023-09-14/fr
+URL:https://www.missale.net/of/2023-09-14/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230917
@@ -1455,11 +2386,25 @@ UID:https://www.missale.net/of/2023-09-17/fr
 URL:https://www.missale.net/of/2023-09-17/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230921
+SUMMARY:Saint Matthieu, apôtre et évangéliste - Fête
+DESCRIPTION:Saint Matthieu, apôtre et évangéliste - Fête\nhttps://www.missale.net/of/2023-09-21/fr
+UID:https://www.missale.net/of/2023-09-21/fr
+URL:https://www.missale.net/of/2023-09-21/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20230924
 SUMMARY:Vingt-cinquième dimanche du temps ordinaire
 DESCRIPTION:Vingt-cinquième dimanche du temps ordinaire\nhttps://www.missale.net/of/2023-09-24/fr
 UID:https://www.missale.net/of/2023-09-24/fr
 URL:https://www.missale.net/of/2023-09-24/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230929
+SUMMARY:Michael, Gabriel et Raphaël, archanges
+DESCRIPTION:Michael, Gabriel et Raphaël, archanges\nhttps://www.missale.net/of/2023-09-29/fr
+UID:https://www.missale.net/of/2023-09-29/fr
+URL:https://www.missale.net/of/2023-09-29/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231001
@@ -1483,11 +2428,25 @@ UID:https://www.missale.net/of/2023-10-15/fr
 URL:https://www.missale.net/of/2023-10-15/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231018
+SUMMARY:Saint Luc, évangéliste
+DESCRIPTION:Saint Luc, évangéliste\nhttps://www.missale.net/of/2023-10-18/fr
+UID:https://www.missale.net/of/2023-10-18/fr
+URL:https://www.missale.net/of/2023-10-18/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231022
 SUMMARY:Vingt-neuvième dimanche du temps ordinaire
 DESCRIPTION:Vingt-neuvième dimanche du temps ordinaire\nhttps://www.missale.net/of/2023-10-22/fr
 UID:https://www.missale.net/of/2023-10-22/fr
 URL:https://www.missale.net/of/2023-10-22/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231028
+SUMMARY:Saints Simon et Jude, apôtres
+DESCRIPTION:Saints Simon et Jude, apôtres\nhttps://www.missale.net/of/2023-10-28/fr
+UID:https://www.missale.net/of/2023-10-28/fr
+URL:https://www.missale.net/of/2023-10-28/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231029
@@ -1497,11 +2456,32 @@ UID:https://www.missale.net/of/2023-10-29/fr
 URL:https://www.missale.net/of/2023-10-29/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231101
+SUMMARY:Tous les saints
+DESCRIPTION:Tous les saints\nhttps://www.missale.net/of/2023-11-01/fr
+UID:https://www.missale.net/of/2023-11-01/fr
+URL:https://www.missale.net/of/2023-11-01/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231102
+SUMMARY:Commémoration de tous les fidèles défunts (All Souls)
+DESCRIPTION:Commémoration de tous les fidèles défunts (All Souls)\nhttps://www.missale.net/of/2023-11-02/fr
+UID:https://www.missale.net/of/2023-11-02/fr
+URL:https://www.missale.net/of/2023-11-02/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231105
 SUMMARY:Trente et unième dimanche du temps ordinaire
 DESCRIPTION:Trente et unième dimanche du temps ordinaire\nhttps://www.missale.net/of/2023-11-05/fr
 UID:https://www.missale.net/of/2023-11-05/fr
 URL:https://www.missale.net/of/2023-11-05/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231109
+SUMMARY:Dédicace de la Basilique Saint Jean de Latran à Rome
+DESCRIPTION:Dédicace de la Basilique Saint Jean de Latran à Rome\nhttps://www.missale.net/of/2023-11-09/fr
+UID:https://www.missale.net/of/2023-11-09/fr
+URL:https://www.missale.net/of/2023-11-09/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231112
@@ -1525,11 +2505,25 @@ UID:https://www.missale.net/of/2023-11-26/fr
 URL:https://www.missale.net/of/2023-11-26/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231130
+SUMMARY:Saint André, apôtre
+DESCRIPTION:Saint André, apôtre\nhttps://www.missale.net/of/2023-11-30/fr
+UID:https://www.missale.net/of/2023-11-30/fr
+URL:https://www.missale.net/of/2023-11-30/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231203
 SUMMARY:Premier dimanche de l'Avent
 DESCRIPTION:Premier dimanche de l'Avent\nhttps://www.missale.net/of/2023-12-03/fr
 UID:https://www.missale.net/of/2023-12-03/fr
 URL:https://www.missale.net/of/2023-12-03/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231208
+SUMMARY:Immaculée Conception de la Vierge Marie
+DESCRIPTION:Immaculée Conception de la Vierge Marie\nhttps://www.missale.net/of/2023-12-08/fr
+UID:https://www.missale.net/of/2023-12-08/fr
+URL:https://www.missale.net/of/2023-12-08/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231210
@@ -1553,11 +2547,53 @@ UID:https://www.missale.net/of/2023-12-24/fr
 URL:https://www.missale.net/of/2023-12-24/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231225
+SUMMARY:Noël
+DESCRIPTION:Noël\nhttps://www.missale.net/of/2023-12-25/fr
+UID:https://www.missale.net/of/2023-12-25/fr
+URL:https://www.missale.net/of/2023-12-25/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231226
+SUMMARY:Saint-Etienne, premier martyr
+DESCRIPTION:Saint-Etienne, premier martyr\nhttps://www.missale.net/of/2023-12-26/fr
+UID:https://www.missale.net/of/2023-12-26/fr
+URL:https://www.missale.net/of/2023-12-26/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231227
+SUMMARY:Saint-Jean, apôtre et évangéliste
+DESCRIPTION:Saint-Jean, apôtre et évangéliste\nhttps://www.missale.net/of/2023-12-27/fr
+UID:https://www.missale.net/of/2023-12-27/fr
+URL:https://www.missale.net/of/2023-12-27/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231228
+SUMMARY:Les Saints Innocents, martyrs
+DESCRIPTION:Les Saints Innocents, martyrs\nhttps://www.missale.net/of/2023-12-28/fr
+UID:https://www.missale.net/of/2023-12-28/fr
+URL:https://www.missale.net/of/2023-12-28/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231231
 SUMMARY:La Sainte Famille
 DESCRIPTION:La Sainte Famille\nhttps://www.missale.net/of/2023-12-31/fr
 UID:https://www.missale.net/of/2023-12-31/fr
 URL:https://www.missale.net/of/2023-12-31/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240101
+SUMMARY:Marie, Mère de Dieu
+DESCRIPTION:Marie, Mère de Dieu\nhttps://www.missale.net/of/2024-01-01/fr
+UID:https://www.missale.net/of/2024-01-01/fr
+URL:https://www.missale.net/of/2024-01-01/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240107
+SUMMARY:Épiphanie du Seigneur
+DESCRIPTION:Épiphanie du Seigneur\nhttps://www.missale.net/of/2024-01-07/fr
+UID:https://www.missale.net/of/2024-01-07/fr
+URL:https://www.missale.net/of/2024-01-07/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240108
@@ -1581,11 +2617,25 @@ UID:https://www.missale.net/of/2024-01-21/fr
 URL:https://www.missale.net/of/2024-01-21/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240125
+SUMMARY:Conversion de Saint Paul, apôtre
+DESCRIPTION:Conversion de Saint Paul, apôtre\nhttps://www.missale.net/of/2024-01-25/fr
+UID:https://www.missale.net/of/2024-01-25/fr
+URL:https://www.missale.net/of/2024-01-25/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240128
 SUMMARY:Quatrième dimanche du temps ordinaire
 DESCRIPTION:Quatrième dimanche du temps ordinaire\nhttps://www.missale.net/of/2024-01-28/fr
 UID:https://www.missale.net/of/2024-01-28/fr
 URL:https://www.missale.net/of/2024-01-28/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240202
+SUMMARY:Présentation du Seigneur
+DESCRIPTION:Présentation du Seigneur\nhttps://www.missale.net/of/2024-02-02/fr
+UID:https://www.missale.net/of/2024-02-02/fr
+URL:https://www.missale.net/of/2024-02-02/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240204
@@ -1602,11 +2652,25 @@ UID:https://www.missale.net/of/2024-02-11/fr
 URL:https://www.missale.net/of/2024-02-11/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240214
+SUMMARY:Mercredi des Cendres
+DESCRIPTION:Mercredi des Cendres\nhttps://www.missale.net/of/2024-02-14/fr
+UID:https://www.missale.net/of/2024-02-14/fr
+URL:https://www.missale.net/of/2024-02-14/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240218
 SUMMARY:Premier dimanche de Carême
 DESCRIPTION:Premier dimanche de Carême\nhttps://www.missale.net/of/2024-02-18/fr
 UID:https://www.missale.net/of/2024-02-18/fr
 URL:https://www.missale.net/of/2024-02-18/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240222
+SUMMARY:Chaire de Saint Pierre, apôtre
+DESCRIPTION:Chaire de Saint Pierre, apôtre\nhttps://www.missale.net/of/2024-02-22/fr
+UID:https://www.missale.net/of/2024-02-22/fr
+URL:https://www.missale.net/of/2024-02-22/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240225
@@ -1637,11 +2701,32 @@ UID:https://www.missale.net/of/2024-03-17/fr
 URL:https://www.missale.net/of/2024-03-17/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240319
+SUMMARY:Saint Joseph, époux de Marie
+DESCRIPTION:Saint Joseph, époux de Marie\nhttps://www.missale.net/of/2024-03-19/fr
+UID:https://www.missale.net/of/2024-03-19/fr
+URL:https://www.missale.net/of/2024-03-19/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240324
 SUMMARY:Dimanche des Rameaux
 DESCRIPTION:Dimanche des Rameaux\nhttps://www.missale.net/of/2024-03-24/fr
 UID:https://www.missale.net/of/2024-03-24/fr
 URL:https://www.missale.net/of/2024-03-24/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240328
+SUMMARY:Jeudi Saint
+DESCRIPTION:Jeudi Saint\nhttps://www.missale.net/of/2024-03-28/fr
+UID:https://www.missale.net/of/2024-03-28/fr
+URL:https://www.missale.net/of/2024-03-28/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240329
+SUMMARY:Vendredi Saint
+DESCRIPTION:Vendredi Saint\nhttps://www.missale.net/of/2024-03-29/fr
+UID:https://www.missale.net/of/2024-03-29/fr
+URL:https://www.missale.net/of/2024-03-29/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240330
@@ -1665,6 +2750,13 @@ UID:https://www.missale.net/of/2024-04-07/fr
 URL:https://www.missale.net/of/2024-04-07/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240408
+SUMMARY:Annonciation du Seigneur
+DESCRIPTION:Annonciation du Seigneur\nhttps://www.missale.net/of/2024-04-08/fr
+UID:https://www.missale.net/of/2024-04-08/fr
+URL:https://www.missale.net/of/2024-04-08/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240414
 SUMMARY:Troisième dimanche de Pâques
 DESCRIPTION:Troisième dimanche de Pâques\nhttps://www.missale.net/of/2024-04-14/fr
@@ -1679,11 +2771,25 @@ UID:https://www.missale.net/of/2024-04-21/fr
 URL:https://www.missale.net/of/2024-04-21/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240425
+SUMMARY:Saint-Marc, l'évangéliste
+DESCRIPTION:Saint-Marc, l'évangéliste\nhttps://www.missale.net/of/2024-04-25/fr
+UID:https://www.missale.net/of/2024-04-25/fr
+URL:https://www.missale.net/of/2024-04-25/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240428
 SUMMARY:Cinquième dimanche de Pâques
 DESCRIPTION:Cinquième dimanche de Pâques\nhttps://www.missale.net/of/2024-04-28/fr
 UID:https://www.missale.net/of/2024-04-28/fr
 URL:https://www.missale.net/of/2024-04-28/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240503
+SUMMARY:Saints Philippe et Jacques, apôtres
+DESCRIPTION:Saints Philippe et Jacques, apôtres\nhttps://www.missale.net/of/2024-05-03/fr
+UID:https://www.missale.net/of/2024-05-03/fr
+URL:https://www.missale.net/of/2024-05-03/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240505
@@ -1707,6 +2813,20 @@ UID:https://www.missale.net/of/2024-05-12/fr
 URL:https://www.missale.net/of/2024-05-12/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240514
+SUMMARY:Saint Matthias, apôtre
+DESCRIPTION:Saint Matthias, apôtre\nhttps://www.missale.net/of/2024-05-14/fr
+UID:https://www.missale.net/of/2024-05-14/fr
+URL:https://www.missale.net/of/2024-05-14/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240519
+SUMMARY:Pentecôte
+DESCRIPTION:Pentecôte\nhttps://www.missale.net/of/2024-05-19/fr
+UID:https://www.missale.net/of/2024-05-19/fr
+URL:https://www.missale.net/of/2024-05-19/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240526
 SUMMARY:La Sainte Trinité
 DESCRIPTION:La Sainte Trinité\nhttps://www.missale.net/of/2024-05-26/fr
@@ -1719,6 +2839,13 @@ SUMMARY:Fête-Dieu
 DESCRIPTION:Fête-Dieu\nhttps://www.missale.net/of/2024-05-30/fr
 UID:https://www.missale.net/of/2024-05-30/fr
 URL:https://www.missale.net/of/2024-05-30/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240531
+SUMMARY:Visitation de la Vierge Marie à Elisabeth
+DESCRIPTION:Visitation de la Vierge Marie à Elisabeth\nhttps://www.missale.net/of/2024-05-31/fr
+UID:https://www.missale.net/of/2024-05-31/fr
+URL:https://www.missale.net/of/2024-05-31/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240602
@@ -1756,11 +2883,32 @@ UID:https://www.missale.net/of/2024-06-23/fr
 URL:https://www.missale.net/of/2024-06-23/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240624
+SUMMARY:Naissance de saint Jean-Baptiste
+DESCRIPTION:Naissance de saint Jean-Baptiste\nhttps://www.missale.net/of/2024-06-24/fr
+UID:https://www.missale.net/of/2024-06-24/fr
+URL:https://www.missale.net/of/2024-06-24/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240629
+SUMMARY:Saints Pierre et Paul, apôtres
+DESCRIPTION:Saints Pierre et Paul, apôtres\nhttps://www.missale.net/of/2024-06-29/fr
+UID:https://www.missale.net/of/2024-06-29/fr
+URL:https://www.missale.net/of/2024-06-29/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240630
 SUMMARY:Treizième dimanche du temps ordinaire
 DESCRIPTION:Treizième dimanche du temps ordinaire\nhttps://www.missale.net/of/2024-06-30/fr
 UID:https://www.missale.net/of/2024-06-30/fr
 URL:https://www.missale.net/of/2024-06-30/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240703
+SUMMARY:Saint Thomas, apôtre
+DESCRIPTION:Saint Thomas, apôtre\nhttps://www.missale.net/of/2024-07-03/fr
+UID:https://www.missale.net/of/2024-07-03/fr
+URL:https://www.missale.net/of/2024-07-03/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240707
@@ -1784,6 +2932,13 @@ UID:https://www.missale.net/of/2024-07-21/fr
 URL:https://www.missale.net/of/2024-07-21/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240725
+SUMMARY:Saint Jacques, apôtre
+DESCRIPTION:Saint Jacques, apôtre\nhttps://www.missale.net/of/2024-07-25/fr
+UID:https://www.missale.net/of/2024-07-25/fr
+URL:https://www.missale.net/of/2024-07-25/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240728
 SUMMARY:Dix-septième dimanche du temps ordinaire
 DESCRIPTION:Dix-septième dimanche du temps ordinaire\nhttps://www.missale.net/of/2024-07-28/fr
@@ -1805,6 +2960,13 @@ UID:https://www.missale.net/of/2024-08-06/fr
 URL:https://www.missale.net/of/2024-08-06/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240810
+SUMMARY:Saint-Laurent, diacre et martyr
+DESCRIPTION:Saint-Laurent, diacre et martyr\nhttps://www.missale.net/of/2024-08-10/fr
+UID:https://www.missale.net/of/2024-08-10/fr
+URL:https://www.missale.net/of/2024-08-10/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240811
 SUMMARY:Dix-neuvième dimanche du temps ordinaire
 DESCRIPTION:Dix-neuvième dimanche du temps ordinaire\nhttps://www.missale.net/of/2024-08-11/fr
@@ -1812,11 +2974,25 @@ UID:https://www.missale.net/of/2024-08-11/fr
 URL:https://www.missale.net/of/2024-08-11/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240815
+SUMMARY:Assomption de la Vierge Marie au ciel
+DESCRIPTION:Assomption de la Vierge Marie au ciel\nhttps://www.missale.net/of/2024-08-15/fr
+UID:https://www.missale.net/of/2024-08-15/fr
+URL:https://www.missale.net/of/2024-08-15/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240818
 SUMMARY:Vingtième dimanche du temps ordinaire
 DESCRIPTION:Vingtième dimanche du temps ordinaire\nhttps://www.missale.net/of/2024-08-18/fr
 UID:https://www.missale.net/of/2024-08-18/fr
 URL:https://www.missale.net/of/2024-08-18/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240824
+SUMMARY:Saint-Barthélemy, apôtre
+DESCRIPTION:Saint-Barthélemy, apôtre\nhttps://www.missale.net/of/2024-08-24/fr
+UID:https://www.missale.net/of/2024-08-24/fr
+URL:https://www.missale.net/of/2024-08-24/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240825
@@ -1840,11 +3016,25 @@ UID:https://www.missale.net/of/2024-09-08/fr
 URL:https://www.missale.net/of/2024-09-08/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240914
+SUMMARY:Triomphe de la Sainte-Croix
+DESCRIPTION:Triomphe de la Sainte-Croix\nhttps://www.missale.net/of/2024-09-14/fr
+UID:https://www.missale.net/of/2024-09-14/fr
+URL:https://www.missale.net/of/2024-09-14/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240915
 SUMMARY:Vingt-quatrième dimanche du temps ordinaire
 DESCRIPTION:Vingt-quatrième dimanche du temps ordinaire\nhttps://www.missale.net/of/2024-09-15/fr
 UID:https://www.missale.net/of/2024-09-15/fr
 URL:https://www.missale.net/of/2024-09-15/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240921
+SUMMARY:Saint Matthieu, apôtre et évangéliste - Fête
+DESCRIPTION:Saint Matthieu, apôtre et évangéliste - Fête\nhttps://www.missale.net/of/2024-09-21/fr
+UID:https://www.missale.net/of/2024-09-21/fr
+URL:https://www.missale.net/of/2024-09-21/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240922
@@ -1875,6 +3065,13 @@ UID:https://www.missale.net/of/2024-10-13/fr
 URL:https://www.missale.net/of/2024-10-13/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241018
+SUMMARY:Saint Luc, évangéliste
+DESCRIPTION:Saint Luc, évangéliste\nhttps://www.missale.net/of/2024-10-18/fr
+UID:https://www.missale.net/of/2024-10-18/fr
+URL:https://www.missale.net/of/2024-10-18/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241020
 SUMMARY:Vingt-neuvième dimanche du temps ordinaire
 DESCRIPTION:Vingt-neuvième dimanche du temps ordinaire\nhttps://www.missale.net/of/2024-10-20/fr
@@ -1889,11 +3086,39 @@ UID:https://www.missale.net/of/2024-10-27/fr
 URL:https://www.missale.net/of/2024-10-27/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241028
+SUMMARY:Saints Simon et Jude, apôtres
+DESCRIPTION:Saints Simon et Jude, apôtres\nhttps://www.missale.net/of/2024-10-28/fr
+UID:https://www.missale.net/of/2024-10-28/fr
+URL:https://www.missale.net/of/2024-10-28/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241101
+SUMMARY:Tous les saints
+DESCRIPTION:Tous les saints\nhttps://www.missale.net/of/2024-11-01/fr
+UID:https://www.missale.net/of/2024-11-01/fr
+URL:https://www.missale.net/of/2024-11-01/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241102
+SUMMARY:Commémoration de tous les fidèles défunts (All Souls)
+DESCRIPTION:Commémoration de tous les fidèles défunts (All Souls)\nhttps://www.missale.net/of/2024-11-02/fr
+UID:https://www.missale.net/of/2024-11-02/fr
+URL:https://www.missale.net/of/2024-11-02/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241103
 SUMMARY:Trente et unième dimanche du temps ordinaire
 DESCRIPTION:Trente et unième dimanche du temps ordinaire\nhttps://www.missale.net/of/2024-11-03/fr
 UID:https://www.missale.net/of/2024-11-03/fr
 URL:https://www.missale.net/of/2024-11-03/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241109
+SUMMARY:Dédicace de la Basilique Saint Jean de Latran à Rome
+DESCRIPTION:Dédicace de la Basilique Saint Jean de Latran à Rome\nhttps://www.missale.net/of/2024-11-09/fr
+UID:https://www.missale.net/of/2024-11-09/fr
+URL:https://www.missale.net/of/2024-11-09/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241110
@@ -1917,6 +3142,13 @@ UID:https://www.missale.net/of/2024-11-24/fr
 URL:https://www.missale.net/of/2024-11-24/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241130
+SUMMARY:Saint André, apôtre
+DESCRIPTION:Saint André, apôtre\nhttps://www.missale.net/of/2024-11-30/fr
+UID:https://www.missale.net/of/2024-11-30/fr
+URL:https://www.missale.net/of/2024-11-30/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241201
 SUMMARY:Premier dimanche de l'Avent
 DESCRIPTION:Premier dimanche de l'Avent\nhttps://www.missale.net/of/2024-12-01/fr
@@ -1929,6 +3161,13 @@ SUMMARY:Deuxième dimanche de l'Avent
 DESCRIPTION:Deuxième dimanche de l'Avent\nhttps://www.missale.net/of/2024-12-08/fr
 UID:https://www.missale.net/of/2024-12-08/fr
 URL:https://www.missale.net/of/2024-12-08/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+SUMMARY:Immaculée Conception de la Vierge Marie
+DESCRIPTION:Immaculée Conception de la Vierge Marie\nhttps://www.missale.net/of/2024-12-09/fr
+UID:https://www.missale.net/of/2024-12-09/fr
+URL:https://www.missale.net/of/2024-12-09/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241215
@@ -1945,11 +3184,60 @@ UID:https://www.missale.net/of/2024-12-22/fr
 URL:https://www.missale.net/of/2024-12-22/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241224
+SUMMARY:Vigil pour Noël
+DESCRIPTION:Vigil pour Noël\nhttps://www.missale.net/of/2024-12-24/fr
+UID:https://www.missale.net/of/2024-12-24/fr
+URL:https://www.missale.net/of/2024-12-24/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241225
+SUMMARY:Noël
+DESCRIPTION:Noël\nhttps://www.missale.net/of/2024-12-25/fr
+UID:https://www.missale.net/of/2024-12-25/fr
+URL:https://www.missale.net/of/2024-12-25/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241226
+SUMMARY:Saint-Etienne, premier martyr
+DESCRIPTION:Saint-Etienne, premier martyr\nhttps://www.missale.net/of/2024-12-26/fr
+UID:https://www.missale.net/of/2024-12-26/fr
+URL:https://www.missale.net/of/2024-12-26/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241227
+SUMMARY:Saint-Jean, apôtre et évangéliste
+DESCRIPTION:Saint-Jean, apôtre et évangéliste\nhttps://www.missale.net/of/2024-12-27/fr
+UID:https://www.missale.net/of/2024-12-27/fr
+URL:https://www.missale.net/of/2024-12-27/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241228
+SUMMARY:Les Saints Innocents, martyrs
+DESCRIPTION:Les Saints Innocents, martyrs\nhttps://www.missale.net/of/2024-12-28/fr
+UID:https://www.missale.net/of/2024-12-28/fr
+URL:https://www.missale.net/of/2024-12-28/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241229
 SUMMARY:La Sainte Famille
 DESCRIPTION:La Sainte Famille\nhttps://www.missale.net/of/2024-12-29/fr
 UID:https://www.missale.net/of/2024-12-29/fr
 URL:https://www.missale.net/of/2024-12-29/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250101
+SUMMARY:Marie, Mère de Dieu
+DESCRIPTION:Marie, Mère de Dieu\nhttps://www.missale.net/of/2025-01-01/fr
+UID:https://www.missale.net/of/2025-01-01/fr
+URL:https://www.missale.net/of/2025-01-01/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250105
+SUMMARY:Épiphanie du Seigneur
+DESCRIPTION:Épiphanie du Seigneur\nhttps://www.missale.net/of/2025-01-05/fr
+UID:https://www.missale.net/of/2025-01-05/fr
+URL:https://www.missale.net/of/2025-01-05/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250112
@@ -1964,6 +3252,13 @@ SUMMARY:Deuxième dimanche du temps ordinaire
 DESCRIPTION:Deuxième dimanche du temps ordinaire\nhttps://www.missale.net/of/2025-01-19/fr
 UID:https://www.missale.net/of/2025-01-19/fr
 URL:https://www.missale.net/of/2025-01-19/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250125
+SUMMARY:Conversion de Saint Paul, apôtre
+DESCRIPTION:Conversion de Saint Paul, apôtre\nhttps://www.missale.net/of/2025-01-25/fr
+UID:https://www.missale.net/of/2025-01-25/fr
+URL:https://www.missale.net/of/2025-01-25/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250126
@@ -1994,6 +3289,13 @@ UID:https://www.missale.net/of/2025-02-16/fr
 URL:https://www.missale.net/of/2025-02-16/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250222
+SUMMARY:Chaire de Saint Pierre, apôtre
+DESCRIPTION:Chaire de Saint Pierre, apôtre\nhttps://www.missale.net/of/2025-02-22/fr
+UID:https://www.missale.net/of/2025-02-22/fr
+URL:https://www.missale.net/of/2025-02-22/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250223
 SUMMARY:Septième dimanche du temps ordinaire
 DESCRIPTION:Septième dimanche du temps ordinaire\nhttps://www.missale.net/of/2025-02-23/fr
@@ -2006,6 +3308,13 @@ SUMMARY:Huitième dimanche du temps ordinaire
 DESCRIPTION:Huitième dimanche du temps ordinaire\nhttps://www.missale.net/of/2025-03-02/fr
 UID:https://www.missale.net/of/2025-03-02/fr
 URL:https://www.missale.net/of/2025-03-02/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250305
+SUMMARY:Mercredi des Cendres
+DESCRIPTION:Mercredi des Cendres\nhttps://www.missale.net/of/2025-03-05/fr
+UID:https://www.missale.net/of/2025-03-05/fr
+URL:https://www.missale.net/of/2025-03-05/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250309
@@ -2022,11 +3331,25 @@ UID:https://www.missale.net/of/2025-03-16/fr
 URL:https://www.missale.net/of/2025-03-16/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250319
+SUMMARY:Saint Joseph, époux de Marie
+DESCRIPTION:Saint Joseph, époux de Marie\nhttps://www.missale.net/of/2025-03-19/fr
+UID:https://www.missale.net/of/2025-03-19/fr
+URL:https://www.missale.net/of/2025-03-19/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250323
 SUMMARY:Troisième dimanche de Carême
 DESCRIPTION:Troisième dimanche de Carême\nhttps://www.missale.net/of/2025-03-23/fr
 UID:https://www.missale.net/of/2025-03-23/fr
 URL:https://www.missale.net/of/2025-03-23/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250325
+SUMMARY:Annonciation du Seigneur
+DESCRIPTION:Annonciation du Seigneur\nhttps://www.missale.net/of/2025-03-25/fr
+UID:https://www.missale.net/of/2025-03-25/fr
+URL:https://www.missale.net/of/2025-03-25/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250330
@@ -2050,6 +3373,20 @@ UID:https://www.missale.net/of/2025-04-13/fr
 URL:https://www.missale.net/of/2025-04-13/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250417
+SUMMARY:Jeudi Saint
+DESCRIPTION:Jeudi Saint\nhttps://www.missale.net/of/2025-04-17/fr
+UID:https://www.missale.net/of/2025-04-17/fr
+URL:https://www.missale.net/of/2025-04-17/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250418
+SUMMARY:Vendredi Saint
+DESCRIPTION:Vendredi Saint\nhttps://www.missale.net/of/2025-04-18/fr
+UID:https://www.missale.net/of/2025-04-18/fr
+URL:https://www.missale.net/of/2025-04-18/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250419
 SUMMARY:Veillée pascale
 DESCRIPTION:Veillée pascale\nhttps://www.missale.net/of/2025-04-19/fr
@@ -2071,6 +3408,13 @@ UID:https://www.missale.net/of/2025-04-27/fr
 URL:https://www.missale.net/of/2025-04-27/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250503
+SUMMARY:Saints Philippe et Jacques, apôtres
+DESCRIPTION:Saints Philippe et Jacques, apôtres\nhttps://www.missale.net/of/2025-05-03/fr
+UID:https://www.missale.net/of/2025-05-03/fr
+URL:https://www.missale.net/of/2025-05-03/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250504
 SUMMARY:Troisième dimanche de Pâques
 DESCRIPTION:Troisième dimanche de Pâques\nhttps://www.missale.net/of/2025-05-04/fr
@@ -2083,6 +3427,13 @@ SUMMARY:Quatrième dimanche de Pâques
 DESCRIPTION:Quatrième dimanche de Pâques\nhttps://www.missale.net/of/2025-05-11/fr
 UID:https://www.missale.net/of/2025-05-11/fr
 URL:https://www.missale.net/of/2025-05-11/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250514
+SUMMARY:Saint Matthias, apôtre
+DESCRIPTION:Saint Matthias, apôtre\nhttps://www.missale.net/of/2025-05-14/fr
+UID:https://www.missale.net/of/2025-05-14/fr
+URL:https://www.missale.net/of/2025-05-14/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250518
@@ -2106,11 +3457,25 @@ UID:https://www.missale.net/of/2025-05-29/fr
 URL:https://www.missale.net/of/2025-05-29/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250531
+SUMMARY:Visitation de la Vierge Marie à Elisabeth
+DESCRIPTION:Visitation de la Vierge Marie à Elisabeth\nhttps://www.missale.net/of/2025-05-31/fr
+UID:https://www.missale.net/of/2025-05-31/fr
+URL:https://www.missale.net/of/2025-05-31/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250601
 SUMMARY:Septième dimanche de Pâques
 DESCRIPTION:Septième dimanche de Pâques\nhttps://www.missale.net/of/2025-06-01/fr
 UID:https://www.missale.net/of/2025-06-01/fr
 URL:https://www.missale.net/of/2025-06-01/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250608
+SUMMARY:Pentecôte
+DESCRIPTION:Pentecôte\nhttps://www.missale.net/of/2025-06-08/fr
+UID:https://www.missale.net/of/2025-06-08/fr
+URL:https://www.missale.net/of/2025-06-08/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250615
@@ -2134,11 +3499,32 @@ UID:https://www.missale.net/of/2025-06-22/fr
 URL:https://www.missale.net/of/2025-06-22/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250624
+SUMMARY:Naissance de saint Jean-Baptiste
+DESCRIPTION:Naissance de saint Jean-Baptiste\nhttps://www.missale.net/of/2025-06-24/fr
+UID:https://www.missale.net/of/2025-06-24/fr
+URL:https://www.missale.net/of/2025-06-24/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250627
 SUMMARY:Sacré-Cœur de Jésus
 DESCRIPTION:Sacré-Cœur de Jésus\nhttps://www.missale.net/of/2025-06-27/fr
 UID:https://www.missale.net/of/2025-06-27/fr
 URL:https://www.missale.net/of/2025-06-27/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250629
+SUMMARY:Saints Pierre et Paul, apôtres
+DESCRIPTION:Saints Pierre et Paul, apôtres\nhttps://www.missale.net/of/2025-06-29/fr
+UID:https://www.missale.net/of/2025-06-29/fr
+URL:https://www.missale.net/of/2025-06-29/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250703
+SUMMARY:Saint Thomas, apôtre
+DESCRIPTION:Saint Thomas, apôtre\nhttps://www.missale.net/of/2025-07-03/fr
+UID:https://www.missale.net/of/2025-07-03/fr
+URL:https://www.missale.net/of/2025-07-03/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250706
@@ -2160,6 +3546,13 @@ SUMMARY:Seizième dimanche du Temps Ordinaire
 DESCRIPTION:Seizième dimanche du Temps Ordinaire\nhttps://www.missale.net/of/2025-07-20/fr
 UID:https://www.missale.net/of/2025-07-20/fr
 URL:https://www.missale.net/of/2025-07-20/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250725
+SUMMARY:Saint Jacques, apôtre
+DESCRIPTION:Saint Jacques, apôtre\nhttps://www.missale.net/of/2025-07-25/fr
+UID:https://www.missale.net/of/2025-07-25/fr
+URL:https://www.missale.net/of/2025-07-25/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250727
@@ -2190,6 +3583,13 @@ UID:https://www.missale.net/of/2025-08-10/fr
 URL:https://www.missale.net/of/2025-08-10/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250815
+SUMMARY:Assomption de la Vierge Marie au ciel
+DESCRIPTION:Assomption de la Vierge Marie au ciel\nhttps://www.missale.net/of/2025-08-15/fr
+UID:https://www.missale.net/of/2025-08-15/fr
+URL:https://www.missale.net/of/2025-08-15/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250817
 SUMMARY:Vingtième dimanche du temps ordinaire
 DESCRIPTION:Vingtième dimanche du temps ordinaire\nhttps://www.missale.net/of/2025-08-17/fr
@@ -2218,6 +3618,13 @@ UID:https://www.missale.net/of/2025-09-07/fr
 URL:https://www.missale.net/of/2025-09-07/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250908
+SUMMARY:Naissance de la Vierge Marie
+DESCRIPTION:Naissance de la Vierge Marie\nhttps://www.missale.net/of/2025-09-08/fr
+UID:https://www.missale.net/of/2025-09-08/fr
+URL:https://www.missale.net/of/2025-09-08/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250914
 SUMMARY:Vingt-quatrième dimanche du temps ordinaire
 DESCRIPTION:Vingt-quatrième dimanche du temps ordinaire\nhttps://www.missale.net/of/2025-09-14/fr
@@ -2239,6 +3646,13 @@ UID:https://www.missale.net/of/2025-09-28/fr
 URL:https://www.missale.net/of/2025-09-28/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250929
+SUMMARY:Michael, Gabriel et Raphaël, archanges
+DESCRIPTION:Michael, Gabriel et Raphaël, archanges\nhttps://www.missale.net/of/2025-09-29/fr
+UID:https://www.missale.net/of/2025-09-29/fr
+URL:https://www.missale.net/of/2025-09-29/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251005
 SUMMARY:Vingt-septième dimanche du temps ordinaire
 DESCRIPTION:Vingt-septième dimanche du temps ordinaire\nhttps://www.missale.net/of/2025-10-05/fr
@@ -2253,6 +3667,13 @@ UID:https://www.missale.net/of/2025-10-12/fr
 URL:https://www.missale.net/of/2025-10-12/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251018
+SUMMARY:Saint Luc, évangéliste
+DESCRIPTION:Saint Luc, évangéliste\nhttps://www.missale.net/of/2025-10-18/fr
+UID:https://www.missale.net/of/2025-10-18/fr
+URL:https://www.missale.net/of/2025-10-18/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251019
 SUMMARY:Vingt-neuvième dimanche du temps ordinaire
 DESCRIPTION:Vingt-neuvième dimanche du temps ordinaire\nhttps://www.missale.net/of/2025-10-19/fr
@@ -2265,6 +3686,27 @@ SUMMARY:Trentième dimanche du temps ordinaire
 DESCRIPTION:Trentième dimanche du temps ordinaire\nhttps://www.missale.net/of/2025-10-26/fr
 UID:https://www.missale.net/of/2025-10-26/fr
 URL:https://www.missale.net/of/2025-10-26/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251028
+SUMMARY:Saints Simon et Jude, apôtres
+DESCRIPTION:Saints Simon et Jude, apôtres\nhttps://www.missale.net/of/2025-10-28/fr
+UID:https://www.missale.net/of/2025-10-28/fr
+URL:https://www.missale.net/of/2025-10-28/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251101
+SUMMARY:Tous les saints
+DESCRIPTION:Tous les saints\nhttps://www.missale.net/of/2025-11-01/fr
+UID:https://www.missale.net/of/2025-11-01/fr
+URL:https://www.missale.net/of/2025-11-01/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251102
+SUMMARY:Commémoration de tous les fidèles défunts (All Souls)
+DESCRIPTION:Commémoration de tous les fidèles défunts (All Souls)\nhttps://www.missale.net/of/2025-11-02/fr
+UID:https://www.missale.net/of/2025-11-02/fr
+URL:https://www.missale.net/of/2025-11-02/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251109
@@ -2302,6 +3744,13 @@ UID:https://www.missale.net/of/2025-12-07/fr
 URL:https://www.missale.net/of/2025-12-07/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251208
+SUMMARY:Immaculée Conception de la Vierge Marie
+DESCRIPTION:Immaculée Conception de la Vierge Marie\nhttps://www.missale.net/of/2025-12-08/fr
+UID:https://www.missale.net/of/2025-12-08/fr
+URL:https://www.missale.net/of/2025-12-08/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251214
 SUMMARY:Troisième dimanche de l'Avent
 DESCRIPTION:Troisième dimanche de l'Avent\nhttps://www.missale.net/of/2025-12-14/fr
@@ -2316,11 +3765,53 @@ UID:https://www.missale.net/of/2025-12-21/fr
 URL:https://www.missale.net/of/2025-12-21/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251224
+SUMMARY:Vigil pour Noël
+DESCRIPTION:Vigil pour Noël\nhttps://www.missale.net/of/2025-12-24/fr
+UID:https://www.missale.net/of/2025-12-24/fr
+URL:https://www.missale.net/of/2025-12-24/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251225
+SUMMARY:Noël
+DESCRIPTION:Noël\nhttps://www.missale.net/of/2025-12-25/fr
+UID:https://www.missale.net/of/2025-12-25/fr
+URL:https://www.missale.net/of/2025-12-25/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251226
+SUMMARY:Saint-Etienne, premier martyr
+DESCRIPTION:Saint-Etienne, premier martyr\nhttps://www.missale.net/of/2025-12-26/fr
+UID:https://www.missale.net/of/2025-12-26/fr
+URL:https://www.missale.net/of/2025-12-26/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251227
+SUMMARY:Saint-Jean, apôtre et évangéliste
+DESCRIPTION:Saint-Jean, apôtre et évangéliste\nhttps://www.missale.net/of/2025-12-27/fr
+UID:https://www.missale.net/of/2025-12-27/fr
+URL:https://www.missale.net/of/2025-12-27/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251228
 SUMMARY:La Sainte Famille
 DESCRIPTION:La Sainte Famille\nhttps://www.missale.net/of/2025-12-28/fr
 UID:https://www.missale.net/of/2025-12-28/fr
 URL:https://www.missale.net/of/2025-12-28/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260101
+SUMMARY:Marie, Mère de Dieu
+DESCRIPTION:Marie, Mère de Dieu\nhttps://www.missale.net/of/2026-01-01/fr
+UID:https://www.missale.net/of/2026-01-01/fr
+URL:https://www.missale.net/of/2026-01-01/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260104
+SUMMARY:Épiphanie du Seigneur
+DESCRIPTION:Épiphanie du Seigneur\nhttps://www.missale.net/of/2026-01-04/fr
+UID:https://www.missale.net/of/2026-01-04/fr
+URL:https://www.missale.net/of/2026-01-04/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260111
@@ -2351,6 +3842,13 @@ UID:https://www.missale.net/of/2026-02-01/fr
 URL:https://www.missale.net/of/2026-02-01/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260202
+SUMMARY:Présentation du Seigneur
+DESCRIPTION:Présentation du Seigneur\nhttps://www.missale.net/of/2026-02-02/fr
+UID:https://www.missale.net/of/2026-02-02/fr
+URL:https://www.missale.net/of/2026-02-02/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260208
 SUMMARY:Cinquième dimanche du temps ordinaire
 DESCRIPTION:Cinquième dimanche du temps ordinaire\nhttps://www.missale.net/of/2026-02-08/fr
@@ -2363,6 +3861,13 @@ SUMMARY:Sixième dimanche du temps ordinaire
 DESCRIPTION:Sixième dimanche du temps ordinaire\nhttps://www.missale.net/of/2026-02-15/fr
 UID:https://www.missale.net/of/2026-02-15/fr
 URL:https://www.missale.net/of/2026-02-15/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260218
+SUMMARY:Mercredi des Cendres
+DESCRIPTION:Mercredi des Cendres\nhttps://www.missale.net/of/2026-02-18/fr
+UID:https://www.missale.net/of/2026-02-18/fr
+URL:https://www.missale.net/of/2026-02-18/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260222
@@ -2393,6 +3898,13 @@ UID:https://www.missale.net/of/2026-03-15/fr
 URL:https://www.missale.net/of/2026-03-15/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260319
+SUMMARY:Saint Joseph, époux de Marie
+DESCRIPTION:Saint Joseph, époux de Marie\nhttps://www.missale.net/of/2026-03-19/fr
+UID:https://www.missale.net/of/2026-03-19/fr
+URL:https://www.missale.net/of/2026-03-19/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260322
 SUMMARY:Cinquième dimanche de Carême
 DESCRIPTION:Cinquième dimanche de Carême\nhttps://www.missale.net/of/2026-03-22/fr
@@ -2400,11 +3912,32 @@ UID:https://www.missale.net/of/2026-03-22/fr
 URL:https://www.missale.net/of/2026-03-22/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260325
+SUMMARY:Annonciation du Seigneur
+DESCRIPTION:Annonciation du Seigneur\nhttps://www.missale.net/of/2026-03-25/fr
+UID:https://www.missale.net/of/2026-03-25/fr
+URL:https://www.missale.net/of/2026-03-25/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260329
 SUMMARY:Dimanche des Rameaux
 DESCRIPTION:Dimanche des Rameaux\nhttps://www.missale.net/of/2026-03-29/fr
 UID:https://www.missale.net/of/2026-03-29/fr
 URL:https://www.missale.net/of/2026-03-29/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260402
+SUMMARY:Jeudi Saint
+DESCRIPTION:Jeudi Saint\nhttps://www.missale.net/of/2026-04-02/fr
+UID:https://www.missale.net/of/2026-04-02/fr
+URL:https://www.missale.net/of/2026-04-02/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+SUMMARY:Vendredi Saint
+DESCRIPTION:Vendredi Saint\nhttps://www.missale.net/of/2026-04-03/fr
+UID:https://www.missale.net/of/2026-04-03/fr
+URL:https://www.missale.net/of/2026-04-03/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260404
@@ -2433,6 +3966,13 @@ SUMMARY:Troisième dimanche de Pâques
 DESCRIPTION:Troisième dimanche de Pâques\nhttps://www.missale.net/of/2026-04-19/fr
 UID:https://www.missale.net/of/2026-04-19/fr
 URL:https://www.missale.net/of/2026-04-19/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+SUMMARY:Saint-Marc, l'évangéliste
+DESCRIPTION:Saint-Marc, l'évangéliste\nhttps://www.missale.net/of/2026-04-25/fr
+UID:https://www.missale.net/of/2026-04-25/fr
+URL:https://www.missale.net/of/2026-04-25/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260426
@@ -2468,6 +4008,13 @@ SUMMARY:Septième dimanche de Pâques
 DESCRIPTION:Septième dimanche de Pâques\nhttps://www.missale.net/of/2026-05-17/fr
 UID:https://www.missale.net/of/2026-05-17/fr
 URL:https://www.missale.net/of/2026-05-17/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260524
+SUMMARY:Pentecôte
+DESCRIPTION:Pentecôte\nhttps://www.missale.net/of/2026-05-24/fr
+UID:https://www.missale.net/of/2026-05-24/fr
+URL:https://www.missale.net/of/2026-05-24/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260531
@@ -2512,11 +4059,32 @@ UID:https://www.missale.net/of/2026-06-21/fr
 URL:https://www.missale.net/of/2026-06-21/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260624
+SUMMARY:Naissance de saint Jean-Baptiste
+DESCRIPTION:Naissance de saint Jean-Baptiste\nhttps://www.missale.net/of/2026-06-24/fr
+UID:https://www.missale.net/of/2026-06-24/fr
+URL:https://www.missale.net/of/2026-06-24/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260628
 SUMMARY:Treizième dimanche du temps ordinaire
 DESCRIPTION:Treizième dimanche du temps ordinaire\nhttps://www.missale.net/of/2026-06-28/fr
 UID:https://www.missale.net/of/2026-06-28/fr
 URL:https://www.missale.net/of/2026-06-28/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260629
+SUMMARY:Saints Pierre et Paul, apôtres
+DESCRIPTION:Saints Pierre et Paul, apôtres\nhttps://www.missale.net/of/2026-06-29/fr
+UID:https://www.missale.net/of/2026-06-29/fr
+URL:https://www.missale.net/of/2026-06-29/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260703
+SUMMARY:Saint Thomas, apôtre
+DESCRIPTION:Saint Thomas, apôtre\nhttps://www.missale.net/of/2026-07-03/fr
+UID:https://www.missale.net/of/2026-07-03/fr
+URL:https://www.missale.net/of/2026-07-03/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260705
@@ -2538,6 +4106,13 @@ SUMMARY:Seizième dimanche du Temps Ordinaire
 DESCRIPTION:Seizième dimanche du Temps Ordinaire\nhttps://www.missale.net/of/2026-07-19/fr
 UID:https://www.missale.net/of/2026-07-19/fr
 URL:https://www.missale.net/of/2026-07-19/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260725
+SUMMARY:Saint Jacques, apôtre
+DESCRIPTION:Saint Jacques, apôtre\nhttps://www.missale.net/of/2026-07-25/fr
+UID:https://www.missale.net/of/2026-07-25/fr
+URL:https://www.missale.net/of/2026-07-25/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260726
@@ -2568,6 +4143,20 @@ UID:https://www.missale.net/of/2026-08-09/fr
 URL:https://www.missale.net/of/2026-08-09/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260810
+SUMMARY:Saint-Laurent, diacre et martyr
+DESCRIPTION:Saint-Laurent, diacre et martyr\nhttps://www.missale.net/of/2026-08-10/fr
+UID:https://www.missale.net/of/2026-08-10/fr
+URL:https://www.missale.net/of/2026-08-10/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260815
+SUMMARY:Assomption de la Vierge Marie au ciel
+DESCRIPTION:Assomption de la Vierge Marie au ciel\nhttps://www.missale.net/of/2026-08-15/fr
+UID:https://www.missale.net/of/2026-08-15/fr
+URL:https://www.missale.net/of/2026-08-15/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260816
 SUMMARY:Vingtième dimanche du temps ordinaire
 DESCRIPTION:Vingtième dimanche du temps ordinaire\nhttps://www.missale.net/of/2026-08-16/fr
@@ -2580,6 +4169,13 @@ SUMMARY:Vingt-et-unième dimanche du temps ordinaire
 DESCRIPTION:Vingt-et-unième dimanche du temps ordinaire\nhttps://www.missale.net/of/2026-08-23/fr
 UID:https://www.missale.net/of/2026-08-23/fr
 URL:https://www.missale.net/of/2026-08-23/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260824
+SUMMARY:Saint-Barthélemy, apôtre
+DESCRIPTION:Saint-Barthélemy, apôtre\nhttps://www.missale.net/of/2026-08-24/fr
+UID:https://www.missale.net/of/2026-08-24/fr
+URL:https://www.missale.net/of/2026-08-24/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260830
@@ -2596,11 +4192,25 @@ UID:https://www.missale.net/of/2026-09-06/fr
 URL:https://www.missale.net/of/2026-09-06/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260908
+SUMMARY:Naissance de la Vierge Marie
+DESCRIPTION:Naissance de la Vierge Marie\nhttps://www.missale.net/of/2026-09-08/fr
+UID:https://www.missale.net/of/2026-09-08/fr
+URL:https://www.missale.net/of/2026-09-08/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260913
 SUMMARY:Vingt-quatrième dimanche du temps ordinaire
 DESCRIPTION:Vingt-quatrième dimanche du temps ordinaire\nhttps://www.missale.net/of/2026-09-13/fr
 UID:https://www.missale.net/of/2026-09-13/fr
 URL:https://www.missale.net/of/2026-09-13/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260914
+SUMMARY:Triomphe de la Sainte-Croix
+DESCRIPTION:Triomphe de la Sainte-Croix\nhttps://www.missale.net/of/2026-09-14/fr
+UID:https://www.missale.net/of/2026-09-14/fr
+URL:https://www.missale.net/of/2026-09-14/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260920
@@ -2610,11 +4220,25 @@ UID:https://www.missale.net/of/2026-09-20/fr
 URL:https://www.missale.net/of/2026-09-20/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260921
+SUMMARY:Saint Matthieu, apôtre et évangéliste - Fête
+DESCRIPTION:Saint Matthieu, apôtre et évangéliste - Fête\nhttps://www.missale.net/of/2026-09-21/fr
+UID:https://www.missale.net/of/2026-09-21/fr
+URL:https://www.missale.net/of/2026-09-21/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260927
 SUMMARY:Vingt-sixième dimanche du temps ordinaire
 DESCRIPTION:Vingt-sixième dimanche du temps ordinaire\nhttps://www.missale.net/of/2026-09-27/fr
 UID:https://www.missale.net/of/2026-09-27/fr
 URL:https://www.missale.net/of/2026-09-27/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260929
+SUMMARY:Michael, Gabriel et Raphaël, archanges
+DESCRIPTION:Michael, Gabriel et Raphaël, archanges\nhttps://www.missale.net/of/2026-09-29/fr
+UID:https://www.missale.net/of/2026-09-29/fr
+URL:https://www.missale.net/of/2026-09-29/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261004
@@ -2645,11 +4269,39 @@ UID:https://www.missale.net/of/2026-10-25/fr
 URL:https://www.missale.net/of/2026-10-25/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261028
+SUMMARY:Saints Simon et Jude, apôtres
+DESCRIPTION:Saints Simon et Jude, apôtres\nhttps://www.missale.net/of/2026-10-28/fr
+UID:https://www.missale.net/of/2026-10-28/fr
+URL:https://www.missale.net/of/2026-10-28/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+SUMMARY:Tous les saints
+DESCRIPTION:Tous les saints\nhttps://www.missale.net/of/2026-11-01/fr
+UID:https://www.missale.net/of/2026-11-01/fr
+URL:https://www.missale.net/of/2026-11-01/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261102
+SUMMARY:Commémoration de tous les fidèles défunts (All Souls)
+DESCRIPTION:Commémoration de tous les fidèles défunts (All Souls)\nhttps://www.missale.net/of/2026-11-02/fr
+UID:https://www.missale.net/of/2026-11-02/fr
+URL:https://www.missale.net/of/2026-11-02/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261108
 SUMMARY:Trente-deuxième dimanche du temps ordinaire
 DESCRIPTION:Trente-deuxième dimanche du temps ordinaire\nhttps://www.missale.net/of/2026-11-08/fr
 UID:https://www.missale.net/of/2026-11-08/fr
 URL:https://www.missale.net/of/2026-11-08/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261109
+SUMMARY:Dédicace de la Basilique Saint Jean de Latran à Rome
+DESCRIPTION:Dédicace de la Basilique Saint Jean de Latran à Rome\nhttps://www.missale.net/of/2026-11-09/fr
+UID:https://www.missale.net/of/2026-11-09/fr
+URL:https://www.missale.net/of/2026-11-09/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261115
@@ -2673,11 +4325,25 @@ UID:https://www.missale.net/of/2026-11-29/fr
 URL:https://www.missale.net/of/2026-11-29/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261130
+SUMMARY:Saint André, apôtre
+DESCRIPTION:Saint André, apôtre\nhttps://www.missale.net/of/2026-11-30/fr
+UID:https://www.missale.net/of/2026-11-30/fr
+URL:https://www.missale.net/of/2026-11-30/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261206
 SUMMARY:Deuxième dimanche de l'Avent
 DESCRIPTION:Deuxième dimanche de l'Avent\nhttps://www.missale.net/of/2026-12-06/fr
 UID:https://www.missale.net/of/2026-12-06/fr
 URL:https://www.missale.net/of/2026-12-06/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261208
+SUMMARY:Immaculée Conception de la Vierge Marie
+DESCRIPTION:Immaculée Conception de la Vierge Marie\nhttps://www.missale.net/of/2026-12-08/fr
+UID:https://www.missale.net/of/2026-12-08/fr
+URL:https://www.missale.net/of/2026-12-08/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261213
@@ -2694,11 +4360,53 @@ UID:https://www.missale.net/of/2026-12-20/fr
 URL:https://www.missale.net/of/2026-12-20/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261224
+SUMMARY:Vigil pour Noël
+DESCRIPTION:Vigil pour Noël\nhttps://www.missale.net/of/2026-12-24/fr
+UID:https://www.missale.net/of/2026-12-24/fr
+URL:https://www.missale.net/of/2026-12-24/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261225
+SUMMARY:Noël
+DESCRIPTION:Noël\nhttps://www.missale.net/of/2026-12-25/fr
+UID:https://www.missale.net/of/2026-12-25/fr
+URL:https://www.missale.net/of/2026-12-25/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261226
+SUMMARY:Saint-Etienne, premier martyr
+DESCRIPTION:Saint-Etienne, premier martyr\nhttps://www.missale.net/of/2026-12-26/fr
+UID:https://www.missale.net/of/2026-12-26/fr
+URL:https://www.missale.net/of/2026-12-26/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261227
 SUMMARY:La Sainte Famille
 DESCRIPTION:La Sainte Famille\nhttps://www.missale.net/of/2026-12-27/fr
 UID:https://www.missale.net/of/2026-12-27/fr
 URL:https://www.missale.net/of/2026-12-27/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261228
+SUMMARY:Les Saints Innocents, martyrs
+DESCRIPTION:Les Saints Innocents, martyrs\nhttps://www.missale.net/of/2026-12-28/fr
+UID:https://www.missale.net/of/2026-12-28/fr
+URL:https://www.missale.net/of/2026-12-28/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270101
+SUMMARY:Marie, Mère de Dieu
+DESCRIPTION:Marie, Mère de Dieu\nhttps://www.missale.net/of/2027-01-01/fr
+UID:https://www.missale.net/of/2027-01-01/fr
+URL:https://www.missale.net/of/2027-01-01/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270103
+SUMMARY:Épiphanie du Seigneur
+DESCRIPTION:Épiphanie du Seigneur\nhttps://www.missale.net/of/2027-01-03/fr
+UID:https://www.missale.net/of/2027-01-03/fr
+URL:https://www.missale.net/of/2027-01-03/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270110
@@ -2722,6 +4430,13 @@ UID:https://www.missale.net/of/2027-01-24/fr
 URL:https://www.missale.net/of/2027-01-24/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270125
+SUMMARY:Conversion de Saint Paul, apôtre
+DESCRIPTION:Conversion de Saint Paul, apôtre\nhttps://www.missale.net/of/2027-01-25/fr
+UID:https://www.missale.net/of/2027-01-25/fr
+URL:https://www.missale.net/of/2027-01-25/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270131
 SUMMARY:Quatrième dimanche du temps ordinaire
 DESCRIPTION:Quatrième dimanche du temps ordinaire\nhttps://www.missale.net/of/2027-01-31/fr
@@ -2729,11 +4444,25 @@ UID:https://www.missale.net/of/2027-01-31/fr
 URL:https://www.missale.net/of/2027-01-31/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270202
+SUMMARY:Présentation du Seigneur
+DESCRIPTION:Présentation du Seigneur\nhttps://www.missale.net/of/2027-02-02/fr
+UID:https://www.missale.net/of/2027-02-02/fr
+URL:https://www.missale.net/of/2027-02-02/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270207
 SUMMARY:Cinquième dimanche du temps ordinaire
 DESCRIPTION:Cinquième dimanche du temps ordinaire\nhttps://www.missale.net/of/2027-02-07/fr
 UID:https://www.missale.net/of/2027-02-07/fr
 URL:https://www.missale.net/of/2027-02-07/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270210
+SUMMARY:Mercredi des Cendres
+DESCRIPTION:Mercredi des Cendres\nhttps://www.missale.net/of/2027-02-10/fr
+UID:https://www.missale.net/of/2027-02-10/fr
+URL:https://www.missale.net/of/2027-02-10/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270214
@@ -2748,6 +4477,13 @@ SUMMARY:Deuxième dimanche de Carême
 DESCRIPTION:Deuxième dimanche de Carême\nhttps://www.missale.net/of/2027-02-21/fr
 UID:https://www.missale.net/of/2027-02-21/fr
 URL:https://www.missale.net/of/2027-02-21/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270222
+SUMMARY:Chaire de Saint Pierre, apôtre
+DESCRIPTION:Chaire de Saint Pierre, apôtre\nhttps://www.missale.net/of/2027-02-22/fr
+UID:https://www.missale.net/of/2027-02-22/fr
+URL:https://www.missale.net/of/2027-02-22/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270228
@@ -2771,11 +4507,32 @@ UID:https://www.missale.net/of/2027-03-14/fr
 URL:https://www.missale.net/of/2027-03-14/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270319
+SUMMARY:Saint Joseph, époux de Marie
+DESCRIPTION:Saint Joseph, époux de Marie\nhttps://www.missale.net/of/2027-03-19/fr
+UID:https://www.missale.net/of/2027-03-19/fr
+URL:https://www.missale.net/of/2027-03-19/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270321
 SUMMARY:Dimanche des Rameaux
 DESCRIPTION:Dimanche des Rameaux\nhttps://www.missale.net/of/2027-03-21/fr
 UID:https://www.missale.net/of/2027-03-21/fr
 URL:https://www.missale.net/of/2027-03-21/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270325
+SUMMARY:Jeudi Saint
+DESCRIPTION:Jeudi Saint\nhttps://www.missale.net/of/2027-03-25/fr
+UID:https://www.missale.net/of/2027-03-25/fr
+URL:https://www.missale.net/of/2027-03-25/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270326
+SUMMARY:Vendredi Saint
+DESCRIPTION:Vendredi Saint\nhttps://www.missale.net/of/2027-03-26/fr
+UID:https://www.missale.net/of/2027-03-26/fr
+URL:https://www.missale.net/of/2027-03-26/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270327
@@ -2797,6 +4554,13 @@ SUMMARY:Deuxième dimanche de Pâques
 DESCRIPTION:Deuxième dimanche de Pâques\nhttps://www.missale.net/of/2027-04-04/fr
 UID:https://www.missale.net/of/2027-04-04/fr
 URL:https://www.missale.net/of/2027-04-04/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270405
+SUMMARY:Annonciation du Seigneur
+DESCRIPTION:Annonciation du Seigneur\nhttps://www.missale.net/of/2027-04-05/fr
+UID:https://www.missale.net/of/2027-04-05/fr
+URL:https://www.missale.net/of/2027-04-05/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270411
@@ -2827,6 +4591,13 @@ UID:https://www.missale.net/of/2027-05-02/fr
 URL:https://www.missale.net/of/2027-05-02/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270503
+SUMMARY:Saints Philippe et Jacques, apôtres
+DESCRIPTION:Saints Philippe et Jacques, apôtres\nhttps://www.missale.net/of/2027-05-03/fr
+UID:https://www.missale.net/of/2027-05-03/fr
+URL:https://www.missale.net/of/2027-05-03/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270506
 SUMMARY:Ascension du Seigneur
 DESCRIPTION:Ascension du Seigneur\nhttps://www.missale.net/of/2027-05-06/fr
@@ -2839,6 +4610,20 @@ SUMMARY:Septième dimanche de Pâques
 DESCRIPTION:Septième dimanche de Pâques\nhttps://www.missale.net/of/2027-05-09/fr
 UID:https://www.missale.net/of/2027-05-09/fr
 URL:https://www.missale.net/of/2027-05-09/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270514
+SUMMARY:Saint Matthias, apôtre
+DESCRIPTION:Saint Matthias, apôtre\nhttps://www.missale.net/of/2027-05-14/fr
+UID:https://www.missale.net/of/2027-05-14/fr
+URL:https://www.missale.net/of/2027-05-14/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270516
+SUMMARY:Pentecôte
+DESCRIPTION:Pentecôte\nhttps://www.missale.net/of/2027-05-16/fr
+UID:https://www.missale.net/of/2027-05-16/fr
+URL:https://www.missale.net/of/2027-05-16/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270523
@@ -2860,6 +4645,13 @@ SUMMARY:Neuvième dimanche du temps ordinaire
 DESCRIPTION:Neuvième dimanche du temps ordinaire\nhttps://www.missale.net/of/2027-05-30/fr
 UID:https://www.missale.net/of/2027-05-30/fr
 URL:https://www.missale.net/of/2027-05-30/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270531
+SUMMARY:Visitation de la Vierge Marie à Elisabeth
+DESCRIPTION:Visitation de la Vierge Marie à Elisabeth\nhttps://www.missale.net/of/2027-05-31/fr
+UID:https://www.missale.net/of/2027-05-31/fr
+URL:https://www.missale.net/of/2027-05-31/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270604
@@ -2890,11 +4682,32 @@ UID:https://www.missale.net/of/2027-06-20/fr
 URL:https://www.missale.net/of/2027-06-20/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270624
+SUMMARY:Naissance de saint Jean-Baptiste
+DESCRIPTION:Naissance de saint Jean-Baptiste\nhttps://www.missale.net/of/2027-06-24/fr
+UID:https://www.missale.net/of/2027-06-24/fr
+URL:https://www.missale.net/of/2027-06-24/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270627
 SUMMARY:Treizième dimanche du temps ordinaire
 DESCRIPTION:Treizième dimanche du temps ordinaire\nhttps://www.missale.net/of/2027-06-27/fr
 UID:https://www.missale.net/of/2027-06-27/fr
 URL:https://www.missale.net/of/2027-06-27/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270629
+SUMMARY:Saints Pierre et Paul, apôtres
+DESCRIPTION:Saints Pierre et Paul, apôtres\nhttps://www.missale.net/of/2027-06-29/fr
+UID:https://www.missale.net/of/2027-06-29/fr
+URL:https://www.missale.net/of/2027-06-29/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270703
+SUMMARY:Saint Thomas, apôtre
+DESCRIPTION:Saint Thomas, apôtre\nhttps://www.missale.net/of/2027-07-03/fr
+UID:https://www.missale.net/of/2027-07-03/fr
+URL:https://www.missale.net/of/2027-07-03/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270704
@@ -2946,11 +4759,32 @@ UID:https://www.missale.net/of/2027-08-08/fr
 URL:https://www.missale.net/of/2027-08-08/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270810
+SUMMARY:Saint-Laurent, diacre et martyr
+DESCRIPTION:Saint-Laurent, diacre et martyr\nhttps://www.missale.net/of/2027-08-10/fr
+UID:https://www.missale.net/of/2027-08-10/fr
+URL:https://www.missale.net/of/2027-08-10/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270815
+SUMMARY:Assomption de la Vierge Marie au ciel
+DESCRIPTION:Assomption de la Vierge Marie au ciel\nhttps://www.missale.net/of/2027-08-15/fr
+UID:https://www.missale.net/of/2027-08-15/fr
+URL:https://www.missale.net/of/2027-08-15/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270822
 SUMMARY:Vingt-et-unième dimanche du temps ordinaire
 DESCRIPTION:Vingt-et-unième dimanche du temps ordinaire\nhttps://www.missale.net/of/2027-08-22/fr
 UID:https://www.missale.net/of/2027-08-22/fr
 URL:https://www.missale.net/of/2027-08-22/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270824
+SUMMARY:Saint-Barthélemy, apôtre
+DESCRIPTION:Saint-Barthélemy, apôtre\nhttps://www.missale.net/of/2027-08-24/fr
+UID:https://www.missale.net/of/2027-08-24/fr
+URL:https://www.missale.net/of/2027-08-24/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270829
@@ -2967,11 +4801,25 @@ UID:https://www.missale.net/of/2027-09-05/fr
 URL:https://www.missale.net/of/2027-09-05/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270908
+SUMMARY:Naissance de la Vierge Marie
+DESCRIPTION:Naissance de la Vierge Marie\nhttps://www.missale.net/of/2027-09-08/fr
+UID:https://www.missale.net/of/2027-09-08/fr
+URL:https://www.missale.net/of/2027-09-08/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270912
 SUMMARY:Vingt-quatrième dimanche du temps ordinaire
 DESCRIPTION:Vingt-quatrième dimanche du temps ordinaire\nhttps://www.missale.net/of/2027-09-12/fr
 UID:https://www.missale.net/of/2027-09-12/fr
 URL:https://www.missale.net/of/2027-09-12/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270914
+SUMMARY:Triomphe de la Sainte-Croix
+DESCRIPTION:Triomphe de la Sainte-Croix\nhttps://www.missale.net/of/2027-09-14/fr
+UID:https://www.missale.net/of/2027-09-14/fr
+URL:https://www.missale.net/of/2027-09-14/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270919
@@ -2981,11 +4829,25 @@ UID:https://www.missale.net/of/2027-09-19/fr
 URL:https://www.missale.net/of/2027-09-19/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270921
+SUMMARY:Saint Matthieu, apôtre et évangéliste - Fête
+DESCRIPTION:Saint Matthieu, apôtre et évangéliste - Fête\nhttps://www.missale.net/of/2027-09-21/fr
+UID:https://www.missale.net/of/2027-09-21/fr
+URL:https://www.missale.net/of/2027-09-21/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270926
 SUMMARY:Vingt-sixième dimanche du temps ordinaire
 DESCRIPTION:Vingt-sixième dimanche du temps ordinaire\nhttps://www.missale.net/of/2027-09-26/fr
 UID:https://www.missale.net/of/2027-09-26/fr
 URL:https://www.missale.net/of/2027-09-26/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270929
+SUMMARY:Michael, Gabriel et Raphaël, archanges
+DESCRIPTION:Michael, Gabriel et Raphaël, archanges\nhttps://www.missale.net/of/2027-09-29/fr
+UID:https://www.missale.net/of/2027-09-29/fr
+URL:https://www.missale.net/of/2027-09-29/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271003
@@ -3009,11 +4871,25 @@ UID:https://www.missale.net/of/2027-10-17/fr
 URL:https://www.missale.net/of/2027-10-17/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271018
+SUMMARY:Saint Luc, évangéliste
+DESCRIPTION:Saint Luc, évangéliste\nhttps://www.missale.net/of/2027-10-18/fr
+UID:https://www.missale.net/of/2027-10-18/fr
+URL:https://www.missale.net/of/2027-10-18/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271024
 SUMMARY:Trentième dimanche du temps ordinaire
 DESCRIPTION:Trentième dimanche du temps ordinaire\nhttps://www.missale.net/of/2027-10-24/fr
 UID:https://www.missale.net/of/2027-10-24/fr
 URL:https://www.missale.net/of/2027-10-24/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271028
+SUMMARY:Saints Simon et Jude, apôtres
+DESCRIPTION:Saints Simon et Jude, apôtres\nhttps://www.missale.net/of/2027-10-28/fr
+UID:https://www.missale.net/of/2027-10-28/fr
+URL:https://www.missale.net/of/2027-10-28/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271031
@@ -3023,11 +4899,32 @@ UID:https://www.missale.net/of/2027-10-31/fr
 URL:https://www.missale.net/of/2027-10-31/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271101
+SUMMARY:Tous les saints
+DESCRIPTION:Tous les saints\nhttps://www.missale.net/of/2027-11-01/fr
+UID:https://www.missale.net/of/2027-11-01/fr
+URL:https://www.missale.net/of/2027-11-01/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271102
+SUMMARY:Commémoration de tous les fidèles défunts (All Souls)
+DESCRIPTION:Commémoration de tous les fidèles défunts (All Souls)\nhttps://www.missale.net/of/2027-11-02/fr
+UID:https://www.missale.net/of/2027-11-02/fr
+URL:https://www.missale.net/of/2027-11-02/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271107
 SUMMARY:Trente-deuxième dimanche du temps ordinaire
 DESCRIPTION:Trente-deuxième dimanche du temps ordinaire\nhttps://www.missale.net/of/2027-11-07/fr
 UID:https://www.missale.net/of/2027-11-07/fr
 URL:https://www.missale.net/of/2027-11-07/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271109
+SUMMARY:Dédicace de la Basilique Saint Jean de Latran à Rome
+DESCRIPTION:Dédicace de la Basilique Saint Jean de Latran à Rome\nhttps://www.missale.net/of/2027-11-09/fr
+UID:https://www.missale.net/of/2027-11-09/fr
+URL:https://www.missale.net/of/2027-11-09/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271114
@@ -3051,11 +4948,25 @@ UID:https://www.missale.net/of/2027-11-28/fr
 URL:https://www.missale.net/of/2027-11-28/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271130
+SUMMARY:Saint André, apôtre
+DESCRIPTION:Saint André, apôtre\nhttps://www.missale.net/of/2027-11-30/fr
+UID:https://www.missale.net/of/2027-11-30/fr
+URL:https://www.missale.net/of/2027-11-30/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271205
 SUMMARY:Deuxième dimanche de l'Avent
 DESCRIPTION:Deuxième dimanche de l'Avent\nhttps://www.missale.net/of/2027-12-05/fr
 UID:https://www.missale.net/of/2027-12-05/fr
 URL:https://www.missale.net/of/2027-12-05/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271208
+SUMMARY:Immaculée Conception de la Vierge Marie
+DESCRIPTION:Immaculée Conception de la Vierge Marie\nhttps://www.missale.net/of/2027-12-08/fr
+UID:https://www.missale.net/of/2027-12-08/fr
+URL:https://www.missale.net/of/2027-12-08/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271212
@@ -3072,11 +4983,60 @@ UID:https://www.missale.net/of/2027-12-19/fr
 URL:https://www.missale.net/of/2027-12-19/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271224
+SUMMARY:Vigil pour Noël
+DESCRIPTION:Vigil pour Noël\nhttps://www.missale.net/of/2027-12-24/fr
+UID:https://www.missale.net/of/2027-12-24/fr
+URL:https://www.missale.net/of/2027-12-24/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271225
+SUMMARY:Noël
+DESCRIPTION:Noël\nhttps://www.missale.net/of/2027-12-25/fr
+UID:https://www.missale.net/of/2027-12-25/fr
+URL:https://www.missale.net/of/2027-12-25/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20271226
 SUMMARY:La Sainte Famille
 DESCRIPTION:La Sainte Famille\nhttps://www.missale.net/of/2027-12-26/fr
 UID:https://www.missale.net/of/2027-12-26/fr
 URL:https://www.missale.net/of/2027-12-26/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271227
+SUMMARY:Saint-Jean, apôtre et évangéliste
+DESCRIPTION:Saint-Jean, apôtre et évangéliste\nhttps://www.missale.net/of/2027-12-27/fr
+UID:https://www.missale.net/of/2027-12-27/fr
+URL:https://www.missale.net/of/2027-12-27/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271228
+SUMMARY:Les Saints Innocents, martyrs
+DESCRIPTION:Les Saints Innocents, martyrs\nhttps://www.missale.net/of/2027-12-28/fr
+UID:https://www.missale.net/of/2027-12-28/fr
+URL:https://www.missale.net/of/2027-12-28/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280101
+SUMMARY:Marie, Mère de Dieu
+DESCRIPTION:Marie, Mère de Dieu\nhttps://www.missale.net/of/2028-01-01/fr
+UID:https://www.missale.net/of/2028-01-01/fr
+URL:https://www.missale.net/of/2028-01-01/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280102
+SUMMARY:Deuxième dimanche de Noël
+DESCRIPTION:Deuxième dimanche de Noël\nhttps://www.missale.net/of/2028-01-02/fr
+UID:https://www.missale.net/of/2028-01-02/fr
+URL:https://www.missale.net/of/2028-01-02/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280109
+SUMMARY:Épiphanie du Seigneur
+DESCRIPTION:Épiphanie du Seigneur\nhttps://www.missale.net/of/2028-01-09/fr
+UID:https://www.missale.net/of/2028-01-09/fr
+URL:https://www.missale.net/of/2028-01-09/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280110
@@ -3100,11 +5060,25 @@ UID:https://www.missale.net/of/2028-01-23/fr
 URL:https://www.missale.net/of/2028-01-23/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280125
+SUMMARY:Conversion de Saint Paul, apôtre
+DESCRIPTION:Conversion de Saint Paul, apôtre\nhttps://www.missale.net/of/2028-01-25/fr
+UID:https://www.missale.net/of/2028-01-25/fr
+URL:https://www.missale.net/of/2028-01-25/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280130
 SUMMARY:Quatrième dimanche du temps ordinaire
 DESCRIPTION:Quatrième dimanche du temps ordinaire\nhttps://www.missale.net/of/2028-01-30/fr
 UID:https://www.missale.net/of/2028-01-30/fr
 URL:https://www.missale.net/of/2028-01-30/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280202
+SUMMARY:Présentation du Seigneur
+DESCRIPTION:Présentation du Seigneur\nhttps://www.missale.net/of/2028-02-02/fr
+UID:https://www.missale.net/of/2028-02-02/fr
+URL:https://www.missale.net/of/2028-02-02/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280206
@@ -3128,11 +5102,25 @@ UID:https://www.missale.net/of/2028-02-20/fr
 URL:https://www.missale.net/of/2028-02-20/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280222
+SUMMARY:Chaire de Saint Pierre, apôtre
+DESCRIPTION:Chaire de Saint Pierre, apôtre\nhttps://www.missale.net/of/2028-02-22/fr
+UID:https://www.missale.net/of/2028-02-22/fr
+URL:https://www.missale.net/of/2028-02-22/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280227
 SUMMARY:Huitième dimanche du temps ordinaire
 DESCRIPTION:Huitième dimanche du temps ordinaire\nhttps://www.missale.net/of/2028-02-27/fr
 UID:https://www.missale.net/of/2028-02-27/fr
 URL:https://www.missale.net/of/2028-02-27/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280301
+SUMMARY:Mercredi des Cendres
+DESCRIPTION:Mercredi des Cendres\nhttps://www.missale.net/of/2028-03-01/fr
+UID:https://www.missale.net/of/2028-03-01/fr
+URL:https://www.missale.net/of/2028-03-01/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280305
@@ -3156,6 +5144,13 @@ UID:https://www.missale.net/of/2028-03-19/fr
 URL:https://www.missale.net/of/2028-03-19/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280325
+SUMMARY:Annonciation du Seigneur
+DESCRIPTION:Annonciation du Seigneur\nhttps://www.missale.net/of/2028-03-25/fr
+UID:https://www.missale.net/of/2028-03-25/fr
+URL:https://www.missale.net/of/2028-03-25/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280326
 SUMMARY:Quatrième dimanche de Carême
 DESCRIPTION:Quatrième dimanche de Carême\nhttps://www.missale.net/of/2028-03-26/fr
@@ -3175,6 +5170,20 @@ SUMMARY:Dimanche des Rameaux
 DESCRIPTION:Dimanche des Rameaux\nhttps://www.missale.net/of/2028-04-09/fr
 UID:https://www.missale.net/of/2028-04-09/fr
 URL:https://www.missale.net/of/2028-04-09/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280413
+SUMMARY:Jeudi Saint
+DESCRIPTION:Jeudi Saint\nhttps://www.missale.net/of/2028-04-13/fr
+UID:https://www.missale.net/of/2028-04-13/fr
+URL:https://www.missale.net/of/2028-04-13/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280414
+SUMMARY:Vendredi Saint
+DESCRIPTION:Vendredi Saint\nhttps://www.missale.net/of/2028-04-14/fr
+UID:https://www.missale.net/of/2028-04-14/fr
+URL:https://www.missale.net/of/2028-04-14/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280415
@@ -3198,11 +5207,25 @@ UID:https://www.missale.net/of/2028-04-23/fr
 URL:https://www.missale.net/of/2028-04-23/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280425
+SUMMARY:Saint-Marc, l'évangéliste
+DESCRIPTION:Saint-Marc, l'évangéliste\nhttps://www.missale.net/of/2028-04-25/fr
+UID:https://www.missale.net/of/2028-04-25/fr
+URL:https://www.missale.net/of/2028-04-25/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280430
 SUMMARY:Troisième dimanche de Pâques
 DESCRIPTION:Troisième dimanche de Pâques\nhttps://www.missale.net/of/2028-04-30/fr
 UID:https://www.missale.net/of/2028-04-30/fr
 URL:https://www.missale.net/of/2028-04-30/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280503
+SUMMARY:Saints Philippe et Jacques, apôtres
+DESCRIPTION:Saints Philippe et Jacques, apôtres\nhttps://www.missale.net/of/2028-05-03/fr
+UID:https://www.missale.net/of/2028-05-03/fr
+URL:https://www.missale.net/of/2028-05-03/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280507
@@ -3240,6 +5263,20 @@ UID:https://www.missale.net/of/2028-05-28/fr
 URL:https://www.missale.net/of/2028-05-28/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280531
+SUMMARY:Visitation de la Vierge Marie à Elisabeth
+DESCRIPTION:Visitation de la Vierge Marie à Elisabeth\nhttps://www.missale.net/of/2028-05-31/fr
+UID:https://www.missale.net/of/2028-05-31/fr
+URL:https://www.missale.net/of/2028-05-31/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280604
+SUMMARY:Pentecôte
+DESCRIPTION:Pentecôte\nhttps://www.missale.net/of/2028-06-04/fr
+UID:https://www.missale.net/of/2028-06-04/fr
+URL:https://www.missale.net/of/2028-06-04/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280611
 SUMMARY:La Sainte Trinité
 DESCRIPTION:La Sainte Trinité\nhttps://www.missale.net/of/2028-06-11/fr
@@ -3268,6 +5305,13 @@ UID:https://www.missale.net/of/2028-06-23/fr
 URL:https://www.missale.net/of/2028-06-23/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280624
+SUMMARY:Naissance de saint Jean-Baptiste
+DESCRIPTION:Naissance de saint Jean-Baptiste\nhttps://www.missale.net/of/2028-06-24/fr
+UID:https://www.missale.net/of/2028-06-24/fr
+URL:https://www.missale.net/of/2028-06-24/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280625
 SUMMARY:Douzième dimanche du temps ordinaire
 DESCRIPTION:Douzième dimanche du temps ordinaire\nhttps://www.missale.net/of/2028-06-25/fr
@@ -3275,11 +5319,25 @@ UID:https://www.missale.net/of/2028-06-25/fr
 URL:https://www.missale.net/of/2028-06-25/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280629
+SUMMARY:Saints Pierre et Paul, apôtres
+DESCRIPTION:Saints Pierre et Paul, apôtres\nhttps://www.missale.net/of/2028-06-29/fr
+UID:https://www.missale.net/of/2028-06-29/fr
+URL:https://www.missale.net/of/2028-06-29/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280702
 SUMMARY:Treizième dimanche du temps ordinaire
 DESCRIPTION:Treizième dimanche du temps ordinaire\nhttps://www.missale.net/of/2028-07-02/fr
 UID:https://www.missale.net/of/2028-07-02/fr
 URL:https://www.missale.net/of/2028-07-02/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280703
+SUMMARY:Saint Thomas, apôtre
+DESCRIPTION:Saint Thomas, apôtre\nhttps://www.missale.net/of/2028-07-03/fr
+UID:https://www.missale.net/of/2028-07-03/fr
+URL:https://www.missale.net/of/2028-07-03/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280709
@@ -3303,6 +5361,13 @@ UID:https://www.missale.net/of/2028-07-23/fr
 URL:https://www.missale.net/of/2028-07-23/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280725
+SUMMARY:Saint Jacques, apôtre
+DESCRIPTION:Saint Jacques, apôtre\nhttps://www.missale.net/of/2028-07-25/fr
+UID:https://www.missale.net/of/2028-07-25/fr
+URL:https://www.missale.net/of/2028-07-25/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280730
 SUMMARY:Dix-septième dimanche du temps ordinaire
 DESCRIPTION:Dix-septième dimanche du temps ordinaire\nhttps://www.missale.net/of/2028-07-30/fr
@@ -3317,6 +5382,13 @@ UID:https://www.missale.net/of/2028-08-06/fr
 URL:https://www.missale.net/of/2028-08-06/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280810
+SUMMARY:Saint-Laurent, diacre et martyr
+DESCRIPTION:Saint-Laurent, diacre et martyr\nhttps://www.missale.net/of/2028-08-10/fr
+UID:https://www.missale.net/of/2028-08-10/fr
+URL:https://www.missale.net/of/2028-08-10/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280813
 SUMMARY:Dix-neuvième dimanche du temps ordinaire
 DESCRIPTION:Dix-neuvième dimanche du temps ordinaire\nhttps://www.missale.net/of/2028-08-13/fr
@@ -3324,11 +5396,25 @@ UID:https://www.missale.net/of/2028-08-13/fr
 URL:https://www.missale.net/of/2028-08-13/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280815
+SUMMARY:Assomption de la Vierge Marie au ciel
+DESCRIPTION:Assomption de la Vierge Marie au ciel\nhttps://www.missale.net/of/2028-08-15/fr
+UID:https://www.missale.net/of/2028-08-15/fr
+URL:https://www.missale.net/of/2028-08-15/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280820
 SUMMARY:Vingtième dimanche du temps ordinaire
 DESCRIPTION:Vingtième dimanche du temps ordinaire\nhttps://www.missale.net/of/2028-08-20/fr
 UID:https://www.missale.net/of/2028-08-20/fr
 URL:https://www.missale.net/of/2028-08-20/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280824
+SUMMARY:Saint-Barthélemy, apôtre
+DESCRIPTION:Saint-Barthélemy, apôtre\nhttps://www.missale.net/of/2028-08-24/fr
+UID:https://www.missale.net/of/2028-08-24/fr
+URL:https://www.missale.net/of/2028-08-24/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280827
@@ -3345,11 +5431,25 @@ UID:https://www.missale.net/of/2028-09-03/fr
 URL:https://www.missale.net/of/2028-09-03/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280908
+SUMMARY:Naissance de la Vierge Marie
+DESCRIPTION:Naissance de la Vierge Marie\nhttps://www.missale.net/of/2028-09-08/fr
+UID:https://www.missale.net/of/2028-09-08/fr
+URL:https://www.missale.net/of/2028-09-08/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280910
 SUMMARY:Vingt-troisième dimanche du temps ordinaire
 DESCRIPTION:Vingt-troisième dimanche du temps ordinaire\nhttps://www.missale.net/of/2028-09-10/fr
 UID:https://www.missale.net/of/2028-09-10/fr
 URL:https://www.missale.net/of/2028-09-10/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280914
+SUMMARY:Triomphe de la Sainte-Croix
+DESCRIPTION:Triomphe de la Sainte-Croix\nhttps://www.missale.net/of/2028-09-14/fr
+UID:https://www.missale.net/of/2028-09-14/fr
+URL:https://www.missale.net/of/2028-09-14/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280917
@@ -3359,11 +5459,25 @@ UID:https://www.missale.net/of/2028-09-17/fr
 URL:https://www.missale.net/of/2028-09-17/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280921
+SUMMARY:Saint Matthieu, apôtre et évangéliste - Fête
+DESCRIPTION:Saint Matthieu, apôtre et évangéliste - Fête\nhttps://www.missale.net/of/2028-09-21/fr
+UID:https://www.missale.net/of/2028-09-21/fr
+URL:https://www.missale.net/of/2028-09-21/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20280924
 SUMMARY:Vingt-cinquième dimanche du temps ordinaire
 DESCRIPTION:Vingt-cinquième dimanche du temps ordinaire\nhttps://www.missale.net/of/2028-09-24/fr
 UID:https://www.missale.net/of/2028-09-24/fr
 URL:https://www.missale.net/of/2028-09-24/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20280929
+SUMMARY:Michael, Gabriel et Raphaël, archanges
+DESCRIPTION:Michael, Gabriel et Raphaël, archanges\nhttps://www.missale.net/of/2028-09-29/fr
+UID:https://www.missale.net/of/2028-09-29/fr
+URL:https://www.missale.net/of/2028-09-29/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281001
@@ -3387,11 +5501,25 @@ UID:https://www.missale.net/of/2028-10-15/fr
 URL:https://www.missale.net/of/2028-10-15/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281018
+SUMMARY:Saint Luc, évangéliste
+DESCRIPTION:Saint Luc, évangéliste\nhttps://www.missale.net/of/2028-10-18/fr
+UID:https://www.missale.net/of/2028-10-18/fr
+URL:https://www.missale.net/of/2028-10-18/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281022
 SUMMARY:Vingt-neuvième dimanche du temps ordinaire
 DESCRIPTION:Vingt-neuvième dimanche du temps ordinaire\nhttps://www.missale.net/of/2028-10-22/fr
 UID:https://www.missale.net/of/2028-10-22/fr
 URL:https://www.missale.net/of/2028-10-22/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281028
+SUMMARY:Saints Simon et Jude, apôtres
+DESCRIPTION:Saints Simon et Jude, apôtres\nhttps://www.missale.net/of/2028-10-28/fr
+UID:https://www.missale.net/of/2028-10-28/fr
+URL:https://www.missale.net/of/2028-10-28/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281029
@@ -3401,11 +5529,32 @@ UID:https://www.missale.net/of/2028-10-29/fr
 URL:https://www.missale.net/of/2028-10-29/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281101
+SUMMARY:Tous les saints
+DESCRIPTION:Tous les saints\nhttps://www.missale.net/of/2028-11-01/fr
+UID:https://www.missale.net/of/2028-11-01/fr
+URL:https://www.missale.net/of/2028-11-01/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281102
+SUMMARY:Commémoration de tous les fidèles défunts (All Souls)
+DESCRIPTION:Commémoration de tous les fidèles défunts (All Souls)\nhttps://www.missale.net/of/2028-11-02/fr
+UID:https://www.missale.net/of/2028-11-02/fr
+URL:https://www.missale.net/of/2028-11-02/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281105
 SUMMARY:Trente et unième dimanche du temps ordinaire
 DESCRIPTION:Trente et unième dimanche du temps ordinaire\nhttps://www.missale.net/of/2028-11-05/fr
 UID:https://www.missale.net/of/2028-11-05/fr
 URL:https://www.missale.net/of/2028-11-05/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281109
+SUMMARY:Dédicace de la Basilique Saint Jean de Latran à Rome
+DESCRIPTION:Dédicace de la Basilique Saint Jean de Latran à Rome\nhttps://www.missale.net/of/2028-11-09/fr
+UID:https://www.missale.net/of/2028-11-09/fr
+URL:https://www.missale.net/of/2028-11-09/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281112
@@ -3429,11 +5578,25 @@ UID:https://www.missale.net/of/2028-11-26/fr
 URL:https://www.missale.net/of/2028-11-26/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281130
+SUMMARY:Saint André, apôtre
+DESCRIPTION:Saint André, apôtre\nhttps://www.missale.net/of/2028-11-30/fr
+UID:https://www.missale.net/of/2028-11-30/fr
+URL:https://www.missale.net/of/2028-11-30/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281203
 SUMMARY:Premier dimanche de l'Avent
 DESCRIPTION:Premier dimanche de l'Avent\nhttps://www.missale.net/of/2028-12-03/fr
 UID:https://www.missale.net/of/2028-12-03/fr
 URL:https://www.missale.net/of/2028-12-03/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281208
+SUMMARY:Immaculée Conception de la Vierge Marie
+DESCRIPTION:Immaculée Conception de la Vierge Marie\nhttps://www.missale.net/of/2028-12-08/fr
+UID:https://www.missale.net/of/2028-12-08/fr
+URL:https://www.missale.net/of/2028-12-08/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281210
@@ -3457,11 +5620,53 @@ UID:https://www.missale.net/of/2028-12-24/fr
 URL:https://www.missale.net/of/2028-12-24/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281225
+SUMMARY:Noël
+DESCRIPTION:Noël\nhttps://www.missale.net/of/2028-12-25/fr
+UID:https://www.missale.net/of/2028-12-25/fr
+URL:https://www.missale.net/of/2028-12-25/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281226
+SUMMARY:Saint-Etienne, premier martyr
+DESCRIPTION:Saint-Etienne, premier martyr\nhttps://www.missale.net/of/2028-12-26/fr
+UID:https://www.missale.net/of/2028-12-26/fr
+URL:https://www.missale.net/of/2028-12-26/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281227
+SUMMARY:Saint-Jean, apôtre et évangéliste
+DESCRIPTION:Saint-Jean, apôtre et évangéliste\nhttps://www.missale.net/of/2028-12-27/fr
+UID:https://www.missale.net/of/2028-12-27/fr
+URL:https://www.missale.net/of/2028-12-27/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20281228
+SUMMARY:Les Saints Innocents, martyrs
+DESCRIPTION:Les Saints Innocents, martyrs\nhttps://www.missale.net/of/2028-12-28/fr
+UID:https://www.missale.net/of/2028-12-28/fr
+URL:https://www.missale.net/of/2028-12-28/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20281231
 SUMMARY:La Sainte Famille
 DESCRIPTION:La Sainte Famille\nhttps://www.missale.net/of/2028-12-31/fr
 UID:https://www.missale.net/of/2028-12-31/fr
 URL:https://www.missale.net/of/2028-12-31/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290101
+SUMMARY:Marie, Mère de Dieu
+DESCRIPTION:Marie, Mère de Dieu\nhttps://www.missale.net/of/2029-01-01/fr
+UID:https://www.missale.net/of/2029-01-01/fr
+URL:https://www.missale.net/of/2029-01-01/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290107
+SUMMARY:Épiphanie du Seigneur
+DESCRIPTION:Épiphanie du Seigneur\nhttps://www.missale.net/of/2029-01-07/fr
+UID:https://www.missale.net/of/2029-01-07/fr
+URL:https://www.missale.net/of/2029-01-07/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290108
@@ -3485,11 +5690,25 @@ UID:https://www.missale.net/of/2029-01-21/fr
 URL:https://www.missale.net/of/2029-01-21/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290125
+SUMMARY:Conversion de Saint Paul, apôtre
+DESCRIPTION:Conversion de Saint Paul, apôtre\nhttps://www.missale.net/of/2029-01-25/fr
+UID:https://www.missale.net/of/2029-01-25/fr
+URL:https://www.missale.net/of/2029-01-25/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290128
 SUMMARY:Quatrième dimanche du temps ordinaire
 DESCRIPTION:Quatrième dimanche du temps ordinaire\nhttps://www.missale.net/of/2029-01-28/fr
 UID:https://www.missale.net/of/2029-01-28/fr
 URL:https://www.missale.net/of/2029-01-28/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290202
+SUMMARY:Présentation du Seigneur
+DESCRIPTION:Présentation du Seigneur\nhttps://www.missale.net/of/2029-02-02/fr
+UID:https://www.missale.net/of/2029-02-02/fr
+URL:https://www.missale.net/of/2029-02-02/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290204
@@ -3506,11 +5725,25 @@ UID:https://www.missale.net/of/2029-02-11/fr
 URL:https://www.missale.net/of/2029-02-11/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290214
+SUMMARY:Mercredi des Cendres
+DESCRIPTION:Mercredi des Cendres\nhttps://www.missale.net/of/2029-02-14/fr
+UID:https://www.missale.net/of/2029-02-14/fr
+URL:https://www.missale.net/of/2029-02-14/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290218
 SUMMARY:Premier dimanche de Carême
 DESCRIPTION:Premier dimanche de Carême\nhttps://www.missale.net/of/2029-02-18/fr
 UID:https://www.missale.net/of/2029-02-18/fr
 URL:https://www.missale.net/of/2029-02-18/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290222
+SUMMARY:Chaire de Saint Pierre, apôtre
+DESCRIPTION:Chaire de Saint Pierre, apôtre\nhttps://www.missale.net/of/2029-02-22/fr
+UID:https://www.missale.net/of/2029-02-22/fr
+URL:https://www.missale.net/of/2029-02-22/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290225
@@ -3541,11 +5774,39 @@ UID:https://www.missale.net/of/2029-03-18/fr
 URL:https://www.missale.net/of/2029-03-18/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290319
+SUMMARY:Saint Joseph, époux de Marie
+DESCRIPTION:Saint Joseph, époux de Marie\nhttps://www.missale.net/of/2029-03-19/fr
+UID:https://www.missale.net/of/2029-03-19/fr
+URL:https://www.missale.net/of/2029-03-19/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290324
+SUMMARY:Annonciation du Seigneur
+DESCRIPTION:Annonciation du Seigneur\nhttps://www.missale.net/of/2029-03-24/fr
+UID:https://www.missale.net/of/2029-03-24/fr
+URL:https://www.missale.net/of/2029-03-24/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290325
 SUMMARY:Dimanche des Rameaux
 DESCRIPTION:Dimanche des Rameaux\nhttps://www.missale.net/of/2029-03-25/fr
 UID:https://www.missale.net/of/2029-03-25/fr
 URL:https://www.missale.net/of/2029-03-25/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290329
+SUMMARY:Jeudi Saint
+DESCRIPTION:Jeudi Saint\nhttps://www.missale.net/of/2029-03-29/fr
+UID:https://www.missale.net/of/2029-03-29/fr
+URL:https://www.missale.net/of/2029-03-29/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290330
+SUMMARY:Vendredi Saint
+DESCRIPTION:Vendredi Saint\nhttps://www.missale.net/of/2029-03-30/fr
+UID:https://www.missale.net/of/2029-03-30/fr
+URL:https://www.missale.net/of/2029-03-30/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290331
@@ -3583,11 +5844,25 @@ UID:https://www.missale.net/of/2029-04-22/fr
 URL:https://www.missale.net/of/2029-04-22/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290425
+SUMMARY:Saint-Marc, l'évangéliste
+DESCRIPTION:Saint-Marc, l'évangéliste\nhttps://www.missale.net/of/2029-04-25/fr
+UID:https://www.missale.net/of/2029-04-25/fr
+URL:https://www.missale.net/of/2029-04-25/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290429
 SUMMARY:Cinquième dimanche de Pâques
 DESCRIPTION:Cinquième dimanche de Pâques\nhttps://www.missale.net/of/2029-04-29/fr
 UID:https://www.missale.net/of/2029-04-29/fr
 URL:https://www.missale.net/of/2029-04-29/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290503
+SUMMARY:Saints Philippe et Jacques, apôtres
+DESCRIPTION:Saints Philippe et Jacques, apôtres\nhttps://www.missale.net/of/2029-05-03/fr
+UID:https://www.missale.net/of/2029-05-03/fr
+URL:https://www.missale.net/of/2029-05-03/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290506
@@ -3609,6 +5884,20 @@ SUMMARY:Septième dimanche de Pâques
 DESCRIPTION:Septième dimanche de Pâques\nhttps://www.missale.net/of/2029-05-13/fr
 UID:https://www.missale.net/of/2029-05-13/fr
 URL:https://www.missale.net/of/2029-05-13/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290514
+SUMMARY:Saint Matthias, apôtre
+DESCRIPTION:Saint Matthias, apôtre\nhttps://www.missale.net/of/2029-05-14/fr
+UID:https://www.missale.net/of/2029-05-14/fr
+URL:https://www.missale.net/of/2029-05-14/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290520
+SUMMARY:Pentecôte
+DESCRIPTION:Pentecôte\nhttps://www.missale.net/of/2029-05-20/fr
+UID:https://www.missale.net/of/2029-05-20/fr
+URL:https://www.missale.net/of/2029-05-20/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290527
@@ -3653,11 +5942,32 @@ UID:https://www.missale.net/of/2029-06-17/fr
 URL:https://www.missale.net/of/2029-06-17/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290624
+SUMMARY:Naissance de saint Jean-Baptiste
+DESCRIPTION:Naissance de saint Jean-Baptiste\nhttps://www.missale.net/of/2029-06-24/fr
+UID:https://www.missale.net/of/2029-06-24/fr
+URL:https://www.missale.net/of/2029-06-24/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290629
+SUMMARY:Saints Pierre et Paul, apôtres
+DESCRIPTION:Saints Pierre et Paul, apôtres\nhttps://www.missale.net/of/2029-06-29/fr
+UID:https://www.missale.net/of/2029-06-29/fr
+URL:https://www.missale.net/of/2029-06-29/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290701
 SUMMARY:Treizième dimanche du temps ordinaire
 DESCRIPTION:Treizième dimanche du temps ordinaire\nhttps://www.missale.net/of/2029-07-01/fr
 UID:https://www.missale.net/of/2029-07-01/fr
 URL:https://www.missale.net/of/2029-07-01/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290703
+SUMMARY:Saint Thomas, apôtre
+DESCRIPTION:Saint Thomas, apôtre\nhttps://www.missale.net/of/2029-07-03/fr
+UID:https://www.missale.net/of/2029-07-03/fr
+URL:https://www.missale.net/of/2029-07-03/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290708
@@ -3681,6 +5991,13 @@ UID:https://www.missale.net/of/2029-07-22/fr
 URL:https://www.missale.net/of/2029-07-22/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290725
+SUMMARY:Saint Jacques, apôtre
+DESCRIPTION:Saint Jacques, apôtre\nhttps://www.missale.net/of/2029-07-25/fr
+UID:https://www.missale.net/of/2029-07-25/fr
+URL:https://www.missale.net/of/2029-07-25/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290729
 SUMMARY:Dix-septième dimanche du temps ordinaire
 DESCRIPTION:Dix-septième dimanche du temps ordinaire\nhttps://www.missale.net/of/2029-07-29/fr
@@ -3702,6 +6019,13 @@ UID:https://www.missale.net/of/2029-08-06/fr
 URL:https://www.missale.net/of/2029-08-06/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290810
+SUMMARY:Saint-Laurent, diacre et martyr
+DESCRIPTION:Saint-Laurent, diacre et martyr\nhttps://www.missale.net/of/2029-08-10/fr
+UID:https://www.missale.net/of/2029-08-10/fr
+URL:https://www.missale.net/of/2029-08-10/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290812
 SUMMARY:Dix-neuvième dimanche du temps ordinaire
 DESCRIPTION:Dix-neuvième dimanche du temps ordinaire\nhttps://www.missale.net/of/2029-08-12/fr
@@ -3709,11 +6033,25 @@ UID:https://www.missale.net/of/2029-08-12/fr
 URL:https://www.missale.net/of/2029-08-12/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290815
+SUMMARY:Assomption de la Vierge Marie au ciel
+DESCRIPTION:Assomption de la Vierge Marie au ciel\nhttps://www.missale.net/of/2029-08-15/fr
+UID:https://www.missale.net/of/2029-08-15/fr
+URL:https://www.missale.net/of/2029-08-15/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290819
 SUMMARY:Vingtième dimanche du temps ordinaire
 DESCRIPTION:Vingtième dimanche du temps ordinaire\nhttps://www.missale.net/of/2029-08-19/fr
 UID:https://www.missale.net/of/2029-08-19/fr
 URL:https://www.missale.net/of/2029-08-19/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290824
+SUMMARY:Saint-Barthélemy, apôtre
+DESCRIPTION:Saint-Barthélemy, apôtre\nhttps://www.missale.net/of/2029-08-24/fr
+UID:https://www.missale.net/of/2029-08-24/fr
+URL:https://www.missale.net/of/2029-08-24/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290826
@@ -3730,11 +6068,25 @@ UID:https://www.missale.net/of/2029-09-02/fr
 URL:https://www.missale.net/of/2029-09-02/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290908
+SUMMARY:Naissance de la Vierge Marie
+DESCRIPTION:Naissance de la Vierge Marie\nhttps://www.missale.net/of/2029-09-08/fr
+UID:https://www.missale.net/of/2029-09-08/fr
+URL:https://www.missale.net/of/2029-09-08/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290909
 SUMMARY:Vingt-troisième dimanche du temps ordinaire
 DESCRIPTION:Vingt-troisième dimanche du temps ordinaire\nhttps://www.missale.net/of/2029-09-09/fr
 UID:https://www.missale.net/of/2029-09-09/fr
 URL:https://www.missale.net/of/2029-09-09/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290914
+SUMMARY:Triomphe de la Sainte-Croix
+DESCRIPTION:Triomphe de la Sainte-Croix\nhttps://www.missale.net/of/2029-09-14/fr
+UID:https://www.missale.net/of/2029-09-14/fr
+URL:https://www.missale.net/of/2029-09-14/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290916
@@ -3744,11 +6096,25 @@ UID:https://www.missale.net/of/2029-09-16/fr
 URL:https://www.missale.net/of/2029-09-16/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290921
+SUMMARY:Saint Matthieu, apôtre et évangéliste - Fête
+DESCRIPTION:Saint Matthieu, apôtre et évangéliste - Fête\nhttps://www.missale.net/of/2029-09-21/fr
+UID:https://www.missale.net/of/2029-09-21/fr
+URL:https://www.missale.net/of/2029-09-21/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290923
 SUMMARY:Vingt-cinquième dimanche du temps ordinaire
 DESCRIPTION:Vingt-cinquième dimanche du temps ordinaire\nhttps://www.missale.net/of/2029-09-23/fr
 UID:https://www.missale.net/of/2029-09-23/fr
 URL:https://www.missale.net/of/2029-09-23/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20290929
+SUMMARY:Michael, Gabriel et Raphaël, archanges
+DESCRIPTION:Michael, Gabriel et Raphaël, archanges\nhttps://www.missale.net/of/2029-09-29/fr
+UID:https://www.missale.net/of/2029-09-29/fr
+URL:https://www.missale.net/of/2029-09-29/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20290930
@@ -3772,6 +6138,13 @@ UID:https://www.missale.net/of/2029-10-14/fr
 URL:https://www.missale.net/of/2029-10-14/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291018
+SUMMARY:Saint Luc, évangéliste
+DESCRIPTION:Saint Luc, évangéliste\nhttps://www.missale.net/of/2029-10-18/fr
+UID:https://www.missale.net/of/2029-10-18/fr
+URL:https://www.missale.net/of/2029-10-18/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291021
 SUMMARY:Vingt-neuvième dimanche du temps ordinaire
 DESCRIPTION:Vingt-neuvième dimanche du temps ordinaire\nhttps://www.missale.net/of/2029-10-21/fr
@@ -3786,11 +6159,32 @@ UID:https://www.missale.net/of/2029-10-28/fr
 URL:https://www.missale.net/of/2029-10-28/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291101
+SUMMARY:Tous les saints
+DESCRIPTION:Tous les saints\nhttps://www.missale.net/of/2029-11-01/fr
+UID:https://www.missale.net/of/2029-11-01/fr
+URL:https://www.missale.net/of/2029-11-01/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291102
+SUMMARY:Commémoration de tous les fidèles défunts (All Souls)
+DESCRIPTION:Commémoration de tous les fidèles défunts (All Souls)\nhttps://www.missale.net/of/2029-11-02/fr
+UID:https://www.missale.net/of/2029-11-02/fr
+URL:https://www.missale.net/of/2029-11-02/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291104
 SUMMARY:Trente et unième dimanche du temps ordinaire
 DESCRIPTION:Trente et unième dimanche du temps ordinaire\nhttps://www.missale.net/of/2029-11-04/fr
 UID:https://www.missale.net/of/2029-11-04/fr
 URL:https://www.missale.net/of/2029-11-04/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291109
+SUMMARY:Dédicace de la Basilique Saint Jean de Latran à Rome
+DESCRIPTION:Dédicace de la Basilique Saint Jean de Latran à Rome\nhttps://www.missale.net/of/2029-11-09/fr
+UID:https://www.missale.net/of/2029-11-09/fr
+URL:https://www.missale.net/of/2029-11-09/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291111
@@ -3814,11 +6208,25 @@ UID:https://www.missale.net/of/2029-11-25/fr
 URL:https://www.missale.net/of/2029-11-25/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291130
+SUMMARY:Saint André, apôtre
+DESCRIPTION:Saint André, apôtre\nhttps://www.missale.net/of/2029-11-30/fr
+UID:https://www.missale.net/of/2029-11-30/fr
+URL:https://www.missale.net/of/2029-11-30/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291202
 SUMMARY:Premier dimanche de l'Avent
 DESCRIPTION:Premier dimanche de l'Avent\nhttps://www.missale.net/of/2029-12-02/fr
 UID:https://www.missale.net/of/2029-12-02/fr
 URL:https://www.missale.net/of/2029-12-02/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291208
+SUMMARY:Immaculée Conception de la Vierge Marie
+DESCRIPTION:Immaculée Conception de la Vierge Marie\nhttps://www.missale.net/of/2029-12-08/fr
+UID:https://www.missale.net/of/2029-12-08/fr
+URL:https://www.missale.net/of/2029-12-08/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291209
@@ -3842,11 +6250,60 @@ UID:https://www.missale.net/of/2029-12-23/fr
 URL:https://www.missale.net/of/2029-12-23/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291224
+SUMMARY:Vigil pour Noël
+DESCRIPTION:Vigil pour Noël\nhttps://www.missale.net/of/2029-12-24/fr
+UID:https://www.missale.net/of/2029-12-24/fr
+URL:https://www.missale.net/of/2029-12-24/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291225
+SUMMARY:Noël
+DESCRIPTION:Noël\nhttps://www.missale.net/of/2029-12-25/fr
+UID:https://www.missale.net/of/2029-12-25/fr
+URL:https://www.missale.net/of/2029-12-25/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291226
+SUMMARY:Saint-Etienne, premier martyr
+DESCRIPTION:Saint-Etienne, premier martyr\nhttps://www.missale.net/of/2029-12-26/fr
+UID:https://www.missale.net/of/2029-12-26/fr
+URL:https://www.missale.net/of/2029-12-26/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291227
+SUMMARY:Saint-Jean, apôtre et évangéliste
+DESCRIPTION:Saint-Jean, apôtre et évangéliste\nhttps://www.missale.net/of/2029-12-27/fr
+UID:https://www.missale.net/of/2029-12-27/fr
+URL:https://www.missale.net/of/2029-12-27/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20291228
+SUMMARY:Les Saints Innocents, martyrs
+DESCRIPTION:Les Saints Innocents, martyrs\nhttps://www.missale.net/of/2029-12-28/fr
+UID:https://www.missale.net/of/2029-12-28/fr
+URL:https://www.missale.net/of/2029-12-28/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20291230
 SUMMARY:La Sainte Famille
 DESCRIPTION:La Sainte Famille\nhttps://www.missale.net/of/2029-12-30/fr
 UID:https://www.missale.net/of/2029-12-30/fr
 URL:https://www.missale.net/of/2029-12-30/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300101
+SUMMARY:Marie, Mère de Dieu
+DESCRIPTION:Marie, Mère de Dieu\nhttps://www.missale.net/of/2030-01-01/fr
+UID:https://www.missale.net/of/2030-01-01/fr
+URL:https://www.missale.net/of/2030-01-01/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300106
+SUMMARY:Épiphanie du Seigneur
+DESCRIPTION:Épiphanie du Seigneur\nhttps://www.missale.net/of/2030-01-06/fr
+UID:https://www.missale.net/of/2030-01-06/fr
+URL:https://www.missale.net/of/2030-01-06/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300113
@@ -3863,11 +6320,25 @@ UID:https://www.missale.net/of/2030-01-20/fr
 URL:https://www.missale.net/of/2030-01-20/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300125
+SUMMARY:Conversion de Saint Paul, apôtre
+DESCRIPTION:Conversion de Saint Paul, apôtre\nhttps://www.missale.net/of/2030-01-25/fr
+UID:https://www.missale.net/of/2030-01-25/fr
+URL:https://www.missale.net/of/2030-01-25/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300127
 SUMMARY:Troisième dimanche du temps ordinaire
 DESCRIPTION:Troisième dimanche du temps ordinaire\nhttps://www.missale.net/of/2030-01-27/fr
 UID:https://www.missale.net/of/2030-01-27/fr
 URL:https://www.missale.net/of/2030-01-27/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300202
+SUMMARY:Présentation du Seigneur
+DESCRIPTION:Présentation du Seigneur\nhttps://www.missale.net/of/2030-02-02/fr
+UID:https://www.missale.net/of/2030-02-02/fr
+URL:https://www.missale.net/of/2030-02-02/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300203
@@ -3891,6 +6362,13 @@ UID:https://www.missale.net/of/2030-02-17/fr
 URL:https://www.missale.net/of/2030-02-17/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300222
+SUMMARY:Chaire de Saint Pierre, apôtre
+DESCRIPTION:Chaire de Saint Pierre, apôtre\nhttps://www.missale.net/of/2030-02-22/fr
+UID:https://www.missale.net/of/2030-02-22/fr
+URL:https://www.missale.net/of/2030-02-22/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300224
 SUMMARY:Septième dimanche du temps ordinaire
 DESCRIPTION:Septième dimanche du temps ordinaire\nhttps://www.missale.net/of/2030-02-24/fr
@@ -3903,6 +6381,13 @@ SUMMARY:Huitième dimanche du temps ordinaire
 DESCRIPTION:Huitième dimanche du temps ordinaire\nhttps://www.missale.net/of/2030-03-03/fr
 UID:https://www.missale.net/of/2030-03-03/fr
 URL:https://www.missale.net/of/2030-03-03/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300306
+SUMMARY:Mercredi des Cendres
+DESCRIPTION:Mercredi des Cendres\nhttps://www.missale.net/of/2030-03-06/fr
+UID:https://www.missale.net/of/2030-03-06/fr
+URL:https://www.missale.net/of/2030-03-06/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300310
@@ -3919,11 +6404,25 @@ UID:https://www.missale.net/of/2030-03-17/fr
 URL:https://www.missale.net/of/2030-03-17/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300319
+SUMMARY:Saint Joseph, époux de Marie
+DESCRIPTION:Saint Joseph, époux de Marie\nhttps://www.missale.net/of/2030-03-19/fr
+UID:https://www.missale.net/of/2030-03-19/fr
+URL:https://www.missale.net/of/2030-03-19/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300324
 SUMMARY:Troisième dimanche de Carême
 DESCRIPTION:Troisième dimanche de Carême\nhttps://www.missale.net/of/2030-03-24/fr
 UID:https://www.missale.net/of/2030-03-24/fr
 URL:https://www.missale.net/of/2030-03-24/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300325
+SUMMARY:Annonciation du Seigneur
+DESCRIPTION:Annonciation du Seigneur\nhttps://www.missale.net/of/2030-03-25/fr
+UID:https://www.missale.net/of/2030-03-25/fr
+URL:https://www.missale.net/of/2030-03-25/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300331
@@ -3947,6 +6446,20 @@ UID:https://www.missale.net/of/2030-04-14/fr
 URL:https://www.missale.net/of/2030-04-14/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300418
+SUMMARY:Jeudi Saint
+DESCRIPTION:Jeudi Saint\nhttps://www.missale.net/of/2030-04-18/fr
+UID:https://www.missale.net/of/2030-04-18/fr
+URL:https://www.missale.net/of/2030-04-18/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300419
+SUMMARY:Vendredi Saint
+DESCRIPTION:Vendredi Saint\nhttps://www.missale.net/of/2030-04-19/fr
+UID:https://www.missale.net/of/2030-04-19/fr
+URL:https://www.missale.net/of/2030-04-19/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300420
 SUMMARY:Veillée pascale
 DESCRIPTION:Veillée pascale\nhttps://www.missale.net/of/2030-04-20/fr
@@ -3968,6 +6481,13 @@ UID:https://www.missale.net/of/2030-04-28/fr
 URL:https://www.missale.net/of/2030-04-28/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300503
+SUMMARY:Saints Philippe et Jacques, apôtres
+DESCRIPTION:Saints Philippe et Jacques, apôtres\nhttps://www.missale.net/of/2030-05-03/fr
+UID:https://www.missale.net/of/2030-05-03/fr
+URL:https://www.missale.net/of/2030-05-03/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300505
 SUMMARY:Troisième dimanche de Pâques
 DESCRIPTION:Troisième dimanche de Pâques\nhttps://www.missale.net/of/2030-05-05/fr
@@ -3980,6 +6500,13 @@ SUMMARY:Quatrième dimanche de Pâques
 DESCRIPTION:Quatrième dimanche de Pâques\nhttps://www.missale.net/of/2030-05-12/fr
 UID:https://www.missale.net/of/2030-05-12/fr
 URL:https://www.missale.net/of/2030-05-12/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300514
+SUMMARY:Saint Matthias, apôtre
+DESCRIPTION:Saint Matthias, apôtre\nhttps://www.missale.net/of/2030-05-14/fr
+UID:https://www.missale.net/of/2030-05-14/fr
+URL:https://www.missale.net/of/2030-05-14/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300519
@@ -4003,11 +6530,25 @@ UID:https://www.missale.net/of/2030-05-30/fr
 URL:https://www.missale.net/of/2030-05-30/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300531
+SUMMARY:Visitation de la Vierge Marie à Elisabeth
+DESCRIPTION:Visitation de la Vierge Marie à Elisabeth\nhttps://www.missale.net/of/2030-05-31/fr
+UID:https://www.missale.net/of/2030-05-31/fr
+URL:https://www.missale.net/of/2030-05-31/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300602
 SUMMARY:Septième dimanche de Pâques
 DESCRIPTION:Septième dimanche de Pâques\nhttps://www.missale.net/of/2030-06-02/fr
 UID:https://www.missale.net/of/2030-06-02/fr
 URL:https://www.missale.net/of/2030-06-02/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300609
+SUMMARY:Pentecôte
+DESCRIPTION:Pentecôte\nhttps://www.missale.net/of/2030-06-09/fr
+UID:https://www.missale.net/of/2030-06-09/fr
+URL:https://www.missale.net/of/2030-06-09/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300616
@@ -4031,6 +6572,13 @@ UID:https://www.missale.net/of/2030-06-23/fr
 URL:https://www.missale.net/of/2030-06-23/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300624
+SUMMARY:Naissance de saint Jean-Baptiste
+DESCRIPTION:Naissance de saint Jean-Baptiste\nhttps://www.missale.net/of/2030-06-24/fr
+UID:https://www.missale.net/of/2030-06-24/fr
+URL:https://www.missale.net/of/2030-06-24/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300628
 SUMMARY:Sacré-Cœur de Jésus
 DESCRIPTION:Sacré-Cœur de Jésus\nhttps://www.missale.net/of/2030-06-28/fr
@@ -4038,11 +6586,25 @@ UID:https://www.missale.net/of/2030-06-28/fr
 URL:https://www.missale.net/of/2030-06-28/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300629
+SUMMARY:Saints Pierre et Paul, apôtres
+DESCRIPTION:Saints Pierre et Paul, apôtres\nhttps://www.missale.net/of/2030-06-29/fr
+UID:https://www.missale.net/of/2030-06-29/fr
+URL:https://www.missale.net/of/2030-06-29/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300630
 SUMMARY:Treizième dimanche du temps ordinaire
 DESCRIPTION:Treizième dimanche du temps ordinaire\nhttps://www.missale.net/of/2030-06-30/fr
 UID:https://www.missale.net/of/2030-06-30/fr
 URL:https://www.missale.net/of/2030-06-30/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300703
+SUMMARY:Saint Thomas, apôtre
+DESCRIPTION:Saint Thomas, apôtre\nhttps://www.missale.net/of/2030-07-03/fr
+UID:https://www.missale.net/of/2030-07-03/fr
+URL:https://www.missale.net/of/2030-07-03/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300707
@@ -4066,6 +6628,13 @@ UID:https://www.missale.net/of/2030-07-21/fr
 URL:https://www.missale.net/of/2030-07-21/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300725
+SUMMARY:Saint Jacques, apôtre
+DESCRIPTION:Saint Jacques, apôtre\nhttps://www.missale.net/of/2030-07-25/fr
+UID:https://www.missale.net/of/2030-07-25/fr
+URL:https://www.missale.net/of/2030-07-25/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300728
 SUMMARY:Dix-septième dimanche du temps ordinaire
 DESCRIPTION:Dix-septième dimanche du temps ordinaire\nhttps://www.missale.net/of/2030-07-28/fr
@@ -4087,6 +6656,13 @@ UID:https://www.missale.net/of/2030-08-06/fr
 URL:https://www.missale.net/of/2030-08-06/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300810
+SUMMARY:Saint-Laurent, diacre et martyr
+DESCRIPTION:Saint-Laurent, diacre et martyr\nhttps://www.missale.net/of/2030-08-10/fr
+UID:https://www.missale.net/of/2030-08-10/fr
+URL:https://www.missale.net/of/2030-08-10/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300811
 SUMMARY:Dix-neuvième dimanche du temps ordinaire
 DESCRIPTION:Dix-neuvième dimanche du temps ordinaire\nhttps://www.missale.net/of/2030-08-11/fr
@@ -4094,11 +6670,25 @@ UID:https://www.missale.net/of/2030-08-11/fr
 URL:https://www.missale.net/of/2030-08-11/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300815
+SUMMARY:Assomption de la Vierge Marie au ciel
+DESCRIPTION:Assomption de la Vierge Marie au ciel\nhttps://www.missale.net/of/2030-08-15/fr
+UID:https://www.missale.net/of/2030-08-15/fr
+URL:https://www.missale.net/of/2030-08-15/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300818
 SUMMARY:Vingtième dimanche du temps ordinaire
 DESCRIPTION:Vingtième dimanche du temps ordinaire\nhttps://www.missale.net/of/2030-08-18/fr
 UID:https://www.missale.net/of/2030-08-18/fr
 URL:https://www.missale.net/of/2030-08-18/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300824
+SUMMARY:Saint-Barthélemy, apôtre
+DESCRIPTION:Saint-Barthélemy, apôtre\nhttps://www.missale.net/of/2030-08-24/fr
+UID:https://www.missale.net/of/2030-08-24/fr
+URL:https://www.missale.net/of/2030-08-24/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300825
@@ -4122,11 +6712,25 @@ UID:https://www.missale.net/of/2030-09-08/fr
 URL:https://www.missale.net/of/2030-09-08/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300914
+SUMMARY:Triomphe de la Sainte-Croix
+DESCRIPTION:Triomphe de la Sainte-Croix\nhttps://www.missale.net/of/2030-09-14/fr
+UID:https://www.missale.net/of/2030-09-14/fr
+URL:https://www.missale.net/of/2030-09-14/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300915
 SUMMARY:Vingt-quatrième dimanche du temps ordinaire
 DESCRIPTION:Vingt-quatrième dimanche du temps ordinaire\nhttps://www.missale.net/of/2030-09-15/fr
 UID:https://www.missale.net/of/2030-09-15/fr
 URL:https://www.missale.net/of/2030-09-15/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20300921
+SUMMARY:Saint Matthieu, apôtre et évangéliste - Fête
+DESCRIPTION:Saint Matthieu, apôtre et évangéliste - Fête\nhttps://www.missale.net/of/2030-09-21/fr
+UID:https://www.missale.net/of/2030-09-21/fr
+URL:https://www.missale.net/of/2030-09-21/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20300922
@@ -4157,6 +6761,13 @@ UID:https://www.missale.net/of/2030-10-13/fr
 URL:https://www.missale.net/of/2030-10-13/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301018
+SUMMARY:Saint Luc, évangéliste
+DESCRIPTION:Saint Luc, évangéliste\nhttps://www.missale.net/of/2030-10-18/fr
+UID:https://www.missale.net/of/2030-10-18/fr
+URL:https://www.missale.net/of/2030-10-18/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20301020
 SUMMARY:Vingt-neuvième dimanche du temps ordinaire
 DESCRIPTION:Vingt-neuvième dimanche du temps ordinaire\nhttps://www.missale.net/of/2030-10-20/fr
@@ -4171,11 +6782,39 @@ UID:https://www.missale.net/of/2030-10-27/fr
 URL:https://www.missale.net/of/2030-10-27/fr
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301028
+SUMMARY:Saints Simon et Jude, apôtres
+DESCRIPTION:Saints Simon et Jude, apôtres\nhttps://www.missale.net/of/2030-10-28/fr
+UID:https://www.missale.net/of/2030-10-28/fr
+URL:https://www.missale.net/of/2030-10-28/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301101
+SUMMARY:Tous les saints
+DESCRIPTION:Tous les saints\nhttps://www.missale.net/of/2030-11-01/fr
+UID:https://www.missale.net/of/2030-11-01/fr
+URL:https://www.missale.net/of/2030-11-01/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301102
+SUMMARY:Commémoration de tous les fidèles défunts (All Souls)
+DESCRIPTION:Commémoration de tous les fidèles défunts (All Souls)\nhttps://www.missale.net/of/2030-11-02/fr
+UID:https://www.missale.net/of/2030-11-02/fr
+URL:https://www.missale.net/of/2030-11-02/fr
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20301103
 SUMMARY:Trente et unième dimanche du temps ordinaire
 DESCRIPTION:Trente et unième dimanche du temps ordinaire\nhttps://www.missale.net/of/2030-11-03/fr
 UID:https://www.missale.net/of/2030-11-03/fr
 URL:https://www.missale.net/of/2030-11-03/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301109
+SUMMARY:Dédicace de la Basilique Saint Jean de Latran à Rome
+DESCRIPTION:Dédicace de la Basilique Saint Jean de Latran à Rome\nhttps://www.missale.net/of/2030-11-09/fr
+UID:https://www.missale.net/of/2030-11-09/fr
+URL:https://www.missale.net/of/2030-11-09/fr
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20301110
@@ -4197,5 +6836,12 @@ SUMMARY:Christ-Roi
 DESCRIPTION:Christ-Roi\nhttps://www.missale.net/of/2030-11-24/fr
 UID:https://www.missale.net/of/2030-11-24/fr
 URL:https://www.missale.net/of/2030-11-24/fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20301130
+SUMMARY:Saint André, apôtre
+DESCRIPTION:Saint André, apôtre\nhttps://www.missale.net/of/2030-11-30/fr
+UID:https://www.missale.net/of/2030-11-30/fr
+URL:https://www.missale.net/of/2030-11-30/fr
 END:VEVENT
 END:VCALENDAR

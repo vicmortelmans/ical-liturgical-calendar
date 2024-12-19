@@ -44,7 +44,7 @@
 
     <xsl:template match="day">
         <xsl:if test="coordinates != ''">
-            <xsl:variable name="day" select="$days/*[form=current()/form][coordinates=current()/coordinates][current()/cycle='None' or cycle=current()/cycle]"/>
+            <xsl:variable name="day" select="$days/*[form=current()/form][coordinates=current()/coordinates][current()/cycle='None' or contains(cycle,current()/cycle)]"/>
             <xsl:message>$day: <xsl:copy-of select="$day"/></xsl:message>
             <xsl:variable name="ref" select="concat(current()/form,'.',current()/coordinates)"/>
             <xsl:message>$ref: <xsl:copy-of select="$ref"/></xsl:message>
@@ -70,14 +70,16 @@
                 <xsl:value-of select="$title"/>
                 <xsl:text>&#xd;&#xa;</xsl:text>
                 <xsl:text>DESCRIPTION:</xsl:text>
-                <xsl:value-of select="$title"/><xsl:text>\n</xsl:text><xsl:value-of select="$url"/>
+                <xsl:value-of select="$title"/><xsl:if test="$url"><xsl:text>\n</xsl:text></xsl:if><xsl:value-of select="$url"/>
                 <xsl:text>&#xd;&#xa;</xsl:text>
                 <xsl:text>UID:</xsl:text>
                 <xsl:value-of select="$uid"/>
                 <xsl:text>&#xd;&#xa;</xsl:text>
-                <xsl:text>URL:</xsl:text>
-                <xsl:value-of select="$url"/>
-                <xsl:text>&#xd;&#xa;</xsl:text>
+                <xsl:if test="$url">
+                    <xsl:text>URL:</xsl:text>
+                    <xsl:value-of select="$url"/>
+                    <xsl:text>&#xd;&#xa;</xsl:text>
+                </xsl:if>
                 <xsl:text>END:VEVENT</xsl:text>
                 <xsl:text>&#xd;&#xa;</xsl:text>
             </xsl:if>
